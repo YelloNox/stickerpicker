@@ -1,7 +1,8 @@
 {
   "packs": [
     "emotes.json",
-    "EbonyLygon.json"
+    "EbonyLygon.json",
+    "cute_strawberrycat.json"
   ],
   "homeserver_url": "https://matrix.yello.page"
 }
