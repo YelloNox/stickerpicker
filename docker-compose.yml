@@ -1,10 +1,12 @@
 services:
-  apache:
-    build:
-      context: .
-      dockerfile: Dockerfile
+  web:
+    image: httpd:latest
+#    build:
+#      context: .
+#      dockerfile: Dockerfile
     container_name: stickerpicker-image-host
     ports:
     - '8888:80'
     volumes:
-    - ./web:/index
+    - ./web:/usr/local/apache2/htdocs/
+    - ./httpd-conf/httpd.conf:/usr/local/apache2/conf/httpd.conf

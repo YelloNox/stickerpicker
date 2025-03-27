@@ -2,7 +2,8 @@
   "packs": [
     "emotes.json",
     "EbonyLygon.json",
-    "cute_strawberrycat.json"
+    "cute_strawberrycat.json",
+    "Hedgehogs_Stickers.json"
   ],
   "homeserver_url": "https://matrix.yello.page"
 }
