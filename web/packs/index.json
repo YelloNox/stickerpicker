@@ -1,6 +1,12 @@
 {
   "packs": [
-    "LeoSignslol.json"
+    "LeoSignslol.json",
+    "emotes.json",
+    "EbonyLygon.json",
+    "cute_strawberrycat.json",
+    "Hedgehogs_Stickers.json",
+    "mykiro.json",
+    "SurplusOStickers.json"
   ],
   "homeserver_url": "https://matrix.yello.page"
 }
