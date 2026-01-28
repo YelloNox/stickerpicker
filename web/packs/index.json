@@ -3,7 +3,8 @@
     "emotes.json",
     "EbonyLygon.json",
     "cute_strawberrycat.json",
-    "Hedgehogs_Stickers.json"
+    "Hedgehogs_Stickers.json",
+    "mykiro.json"
   ],
   "homeserver_url": "https://matrix.yello.page"
 }
