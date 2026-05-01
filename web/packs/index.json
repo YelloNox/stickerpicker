@@ -1,9 +1,5 @@
 {
   "packs": [
-    "LeoSignslol.json",
-    "emotes.json",
-    "EbonyLygon.json",
-    "cute_strawberrycat.json",
     "Hedgehogs_Stickers.json",
     "mykiro.json",
     "SurplusOStickers.json",
@@ -12,11 +8,15 @@
     "OttersGottaOtt2.json",
     "verystupidsillycats.json",
     "kefir_vk.json",
-    "iaminyourwalls.json",
     "Blahaj.json",
     "capibarrra.json",
     "furry002_by_fStikBot.json",
-    "FurriFemboi.json"
+    "FurriFemboi.json",
+    "EbonyLygon.json",
+    "emotes.json",
+    "LeoSignslol.json",
+    "cute_strawberrycat.json",
+    "iaminyourwalls.json"
   ],
   "homeserver_url": "https://matrix.yello.page"
 }
