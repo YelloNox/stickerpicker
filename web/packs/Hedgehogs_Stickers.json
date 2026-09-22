@@ -16251,6 +16251,176 @@
           "🧁",
           "🍰"
         ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "10ac43e6d375019ff378b0f20094b544356782a1c2bca4046a6901b14b4cb503",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "food",
+            "score": 0.99998
+          },
+          {
+            "tag": "fruit",
+            "score": 0.99988
+          },
+          {
+            "tag": "dessert",
+            "score": 0.99982
+          },
+          {
+            "tag": "real",
+            "score": 0.99963
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.99927
+          },
+          {
+            "tag": "strawberry",
+            "score": 0.99887
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.99782
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.9976
+          },
+          {
+            "tag": "food creature",
+            "score": 0.99683
+          },
+          {
+            "tag": "feral",
+            "score": 0.99662
+          },
+          {
+            "tag": "table",
+            "score": 0.99593
+          },
+          {
+            "tag": "furniture",
+            "score": 0.9939
+          },
+          {
+            "tag": "cake",
+            "score": 0.98999
+          },
+          {
+            "tag": "realistic",
+            "score": 0.98718
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.98594
+          },
+          {
+            "tag": "humor",
+            "score": 0.9836
+          },
+          {
+            "tag": "meme",
+            "score": 0.98088
+          },
+          {
+            "tag": "rodent",
+            "score": 0.97935
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.97558
+          },
+          {
+            "tag": "dairy products",
+            "score": 0.97364
+          },
+          {
+            "tag": "mammal",
+            "score": 0.97283
+          },
+          {
+            "tag": "murine",
+            "score": 0.97113
+          },
+          {
+            "tag": "tan fur",
+            "score": 0.96979
+          },
+          {
+            "tag": "micro",
+            "score": 0.96838
+          },
+          {
+            "tag": "quadruped",
+            "score": 0.96538
+          },
+          {
+            "tag": "solo",
+            "score": 0.96432
+          },
+          {
+            "tag": "low res",
+            "score": 0.96378
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.96095
+          },
+          {
+            "tag": "white fur",
+            "score": 0.95976
+          },
+          {
+            "tag": "mixed media",
+            "score": 0.94967
+          },
+          {
+            "tag": "detailed food",
+            "score": 0.94499
+          },
+          {
+            "tag": "plant",
+            "score": 0.93629
+          },
+          {
+            "tag": "murid",
+            "score": 0.93629
+          },
+          {
+            "tag": "1:1",
+            "score": 0.93245
+          },
+          {
+            "tag": "tan body",
+            "score": 0.93245
+          },
+          {
+            "tag": "animal",
+            "score": 0.93046
+          },
+          {
+            "tag": "pink skin",
+            "score": 0.92841
+          },
+          {
+            "tag": "black nose",
+            "score": 0.92736
+          },
+          {
+            "tag": "no humans",
+            "score": 0.92523
+          },
+          {
+            "tag": "white body",
+            "score": 0.92304
+          }
+        ]
       }
     },
     {
@@ -16286,6 +16456,176 @@
           "😪",
           "😮‍💨"
         ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "44b3e9441508ea96e4ccbfdbb742bdc6d93e02c924e20daf0ae5e37f02cbb23b",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "real",
+            "score": 0.9985
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.99813
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.99605
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.99553
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.99288
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.98636
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.9855
+          },
+          {
+            "tag": "mammal",
+            "score": 0.98256
+          },
+          {
+            "tag": "feral",
+            "score": 0.98256
+          },
+          {
+            "tag": "realistic",
+            "score": 0.98201
+          },
+          {
+            "tag": "close-up",
+            "score": 0.97702
+          },
+          {
+            "tag": "rodent",
+            "score": 0.97199
+          },
+          {
+            "tag": "animal",
+            "score": 0.96838
+          },
+          {
+            "tag": "white fur",
+            "score": 0.96211
+          },
+          {
+            "tag": "human",
+            "score": 0.95791
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.95465
+          },
+          {
+            "tag": "solo focus",
+            "score": 0.95328
+          },
+          {
+            "tag": "first person view",
+            "score": 0.9458
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.93812
+          },
+          {
+            "tag": "grandfathered content",
+            "score": 0.93812
+          },
+          {
+            "tag": "white body",
+            "score": 0.92192
+          },
+          {
+            "tag": "1:1",
+            "score": 0.9149
+          },
+          {
+            "tag": "portrait",
+            "score": 0.89625
+          },
+          {
+            "tag": "meme",
+            "score": 0.89029
+          },
+          {
+            "tag": "micro",
+            "score": 0.8872
+          },
+          {
+            "tag": "humor",
+            "score": 0.87915
+          },
+          {
+            "tag": "holding character",
+            "score": 0.86339
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.84594
+          },
+          {
+            "tag": "disembodied hand",
+            "score": 0.84286
+          },
+          {
+            "tag": "duo",
+            "score": 0.82894
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.79944
+          },
+          {
+            "tag": "black nose",
+            "score": 0.78793
+          },
+          {
+            "tag": "human pov",
+            "score": 0.77458
+          },
+          {
+            "tag": "daww",
+            "score": 0.77458
+          },
+          {
+            "tag": "photorealism",
+            "score": 0.77458
+          },
+          {
+            "tag": "quills (anatomy)",
+            "score": 0.75923
+          },
+          {
+            "tag": "fur",
+            "score": 0.73867
+          },
+          {
+            "tag": "young",
+            "score": 0.73259
+          },
+          {
+            "tag": "photo background",
+            "score": 0.72952
+          },
+          {
+            "tag": "tears",
+            "score": 0.72565
+          }
+        ]
       }
     },
     {
@@ -16314,6 +16654,176 @@
         "id": "5391010329662595975",
         "emoticons": [
           "😷"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "1fdee998183dd9aecd3c4c3b996b5e7a95fe9f52396f41d2d505bb4fe4f276a7",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "real",
+            "score": 0.99894
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.99825
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.99753
+          },
+          {
+            "tag": "mask",
+            "score": 0.99745
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.99409
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.99288
+          },
+          {
+            "tag": "mammal",
+            "score": 0.98795
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.98594
+          },
+          {
+            "tag": "solo",
+            "score": 0.98409
+          },
+          {
+            "tag": "feral",
+            "score": 0.9836
+          },
+          {
+            "tag": "bedding",
+            "score": 0.98309
+          },
+          {
+            "tag": "white fur",
+            "score": 0.98028
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.97904
+          },
+          {
+            "tag": "humor",
+            "score": 0.97702
+          },
+          {
+            "tag": "photo background",
+            "score": 0.97443
+          },
+          {
+            "tag": "rodent",
+            "score": 0.97364
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.97324
+          },
+          {
+            "tag": "meme",
+            "score": 0.97113
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.9679
+          },
+          {
+            "tag": "photo",
+            "score": 0.96267
+          },
+          {
+            "tag": "surgical mask",
+            "score": 0.95791
+          },
+          {
+            "tag": "blanket",
+            "score": 0.95257
+          },
+          {
+            "tag": "face mask",
+            "score": 0.94815
+          },
+          {
+            "tag": "white body",
+            "score": 0.94335
+          },
+          {
+            "tag": "portrait",
+            "score": 0.93245
+          },
+          {
+            "tag": "bed sheet",
+            "score": 0.9263
+          },
+          {
+            "tag": "murine",
+            "score": 0.92523
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.91611
+          },
+          {
+            "tag": "medical instrument",
+            "score": 0.91368
+          },
+          {
+            "tag": "front view",
+            "score": 0.89625
+          },
+          {
+            "tag": "bed",
+            "score": 0.89331
+          },
+          {
+            "tag": "mouth mask",
+            "score": 0.89029
+          },
+          {
+            "tag": "realistic",
+            "score": 0.89029
+          },
+          {
+            "tag": "traditional media (artwork)",
+            "score": 0.87915
+          },
+          {
+            "tag": "inside",
+            "score": 0.87579
+          },
+          {
+            "tag": "murid",
+            "score": 0.87408
+          },
+          {
+            "tag": "rat",
+            "score": 0.82446
+          },
+          {
+            "tag": "1:1",
+            "score": 0.79819
+          },
+          {
+            "tag": "plant",
+            "score": 0.79311
+          },
+          {
+            "tag": "fur",
+            "score": 0.78793
+          }
         ]
       }
     },
@@ -16347,6 +16857,176 @@
           "🩲",
           "🩳",
           "🦔"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "8e8a4504eb613c4e8868dfe6fab01f2cb9ac40195d0988b27bd81a0fcf7ca1e8",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "sand",
+            "score": 0.99946
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.99912
+          },
+          {
+            "tag": "real",
+            "score": 0.99912
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.99593
+          },
+          {
+            "tag": "beach",
+            "score": 0.99567
+          },
+          {
+            "tag": "rodent",
+            "score": 0.99427
+          },
+          {
+            "tag": "seaside",
+            "score": 0.99087
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.98999
+          },
+          {
+            "tag": "feral",
+            "score": 0.98757
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.98718
+          },
+          {
+            "tag": "outside",
+            "score": 0.98504
+          },
+          {
+            "tag": "realistic",
+            "score": 0.98117
+          },
+          {
+            "tag": "humor",
+            "score": 0.97871
+          },
+          {
+            "tag": "mammal",
+            "score": 0.97156
+          },
+          {
+            "tag": "grandfathered content",
+            "score": 0.97069
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.97024
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.96838
+          },
+          {
+            "tag": "photo background",
+            "score": 0.96641
+          },
+          {
+            "tag": "what",
+            "score": 0.96641
+          },
+          {
+            "tag": "sea",
+            "score": 0.96432
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.95915
+          },
+          {
+            "tag": "detailed background",
+            "score": 0.95465
+          },
+          {
+            "tag": "traditional media (artwork)",
+            "score": 0.95257
+          },
+          {
+            "tag": "photorealism",
+            "score": 0.94892
+          },
+          {
+            "tag": "mixed media",
+            "score": 0.94815
+          },
+          {
+            "tag": "water",
+            "score": 0.9466
+          },
+          {
+            "tag": "white body",
+            "score": 0.94079
+          },
+          {
+            "tag": "pink skin",
+            "score": 0.93343
+          },
+          {
+            "tag": "american opossum",
+            "score": 0.93343
+          },
+          {
+            "tag": "white fur",
+            "score": 0.92841
+          },
+          {
+            "tag": "animal",
+            "score": 0.92841
+          },
+          {
+            "tag": "horizon",
+            "score": 0.92736
+          },
+          {
+            "tag": "murine",
+            "score": 0.9263
+          },
+          {
+            "tag": "murid",
+            "score": 0.92523
+          },
+          {
+            "tag": "solo",
+            "score": 0.92079
+          },
+          {
+            "tag": "rat",
+            "score": 0.91964
+          },
+          {
+            "tag": "meme",
+            "score": 0.91611
+          },
+          {
+            "tag": "no humans",
+            "score": 0.91244
+          },
+          {
+            "tag": "quadruped",
+            "score": 0.90329
+          },
+          {
+            "tag": "semi-anthro",
+            "score": 0.90053
+          }
         ]
       }
     },
@@ -16383,6 +17063,176 @@
           "🏃",
           "🏃‍♂"
         ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "d1ae28f38c8b0ce108b65cda7013912620cfa074d847b8ec61ae365c98eb95ff",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "real",
+            "score": 0.9997
+          },
+          {
+            "tag": "sand",
+            "score": 0.99943
+          },
+          {
+            "tag": "beach",
+            "score": 0.99933
+          },
+          {
+            "tag": "water",
+            "score": 0.99788
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.9976
+          },
+          {
+            "tag": "seaside",
+            "score": 0.99692
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.99478
+          },
+          {
+            "tag": "sea",
+            "score": 0.99351
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.9931
+          },
+          {
+            "tag": "feral",
+            "score": 0.99265
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.99059
+          },
+          {
+            "tag": "horizon",
+            "score": 0.98901
+          },
+          {
+            "tag": "realistic",
+            "score": 0.98678
+          },
+          {
+            "tag": "outside",
+            "score": 0.98458
+          },
+          {
+            "tag": "detailed background",
+            "score": 0.98409
+          },
+          {
+            "tag": "rodent",
+            "score": 0.98088
+          },
+          {
+            "tag": "photo background",
+            "score": 0.97904
+          },
+          {
+            "tag": "low res",
+            "score": 0.97871
+          },
+          {
+            "tag": "humor",
+            "score": 0.97631
+          },
+          {
+            "tag": "day",
+            "score": 0.97595
+          },
+          {
+            "tag": "mammal",
+            "score": 0.96691
+          },
+          {
+            "tag": "ocean",
+            "score": 0.96378
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.95976
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.95728
+          },
+          {
+            "tag": "sky",
+            "score": 0.95663
+          },
+          {
+            "tag": "quadruped",
+            "score": 0.95663
+          },
+          {
+            "tag": "grandfathered content",
+            "score": 0.95397
+          },
+          {
+            "tag": "animal",
+            "score": 0.9458
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.93902
+          },
+          {
+            "tag": "white fur",
+            "score": 0.93046
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.93046
+          },
+          {
+            "tag": "solo",
+            "score": 0.92192
+          },
+          {
+            "tag": "outdoors",
+            "score": 0.92192
+          },
+          {
+            "tag": "no humans",
+            "score": 0.92192
+          },
+          {
+            "tag": "mixed media",
+            "score": 0.92079
+          },
+          {
+            "tag": "dot eyes",
+            "score": 0.90192
+          },
+          {
+            "tag": "meme",
+            "score": 0.88876
+          },
+          {
+            "tag": "pink skin",
+            "score": 0.88563
+          },
+          {
+            "tag": "photorealism",
+            "score": 0.87579
+          },
+          {
+            "tag": "murine",
+            "score": 0.87493
+          }
+        ]
       }
     },
     {
@@ -16411,6 +17261,176 @@
         "id": "5391307829162289374",
         "emoticons": [
           "😋"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "a40a9fa945b622e7f42c21609feb94e8e48b386430c4ff8889faea7adfa706a8",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "mirror",
+            "score": 0.99993
+          },
+          {
+            "tag": "reflection",
+            "score": 0.99961
+          },
+          {
+            "tag": "licking",
+            "score": 0.99729
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.99683
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.99629
+          },
+          {
+            "tag": "real",
+            "score": 0.99462
+          },
+          {
+            "tag": "looking at mirror",
+            "score": 0.99265
+          },
+          {
+            "tag": "mammal",
+            "score": 0.99115
+          },
+          {
+            "tag": "tongue out",
+            "score": 0.98718
+          },
+          {
+            "tag": "rodent",
+            "score": 0.9752
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.97199
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.96691
+          },
+          {
+            "tag": "mirror reflection",
+            "score": 0.96538
+          },
+          {
+            "tag": "close-up",
+            "score": 0.95532
+          },
+          {
+            "tag": "inside",
+            "score": 0.95328
+          },
+          {
+            "tag": "1:1",
+            "score": 0.93629
+          },
+          {
+            "tag": "low res",
+            "score": 0.93535
+          },
+          {
+            "tag": "tongue",
+            "score": 0.93245
+          },
+          {
+            "tag": "photo",
+            "score": 0.93146
+          },
+          {
+            "tag": "humor",
+            "score": 0.92841
+          },
+          {
+            "tag": "looking at object",
+            "score": 0.92414
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.89029
+          },
+          {
+            "tag": "grandfathered content",
+            "score": 0.88876
+          },
+          {
+            "tag": "feral",
+            "score": 0.88243
+          },
+          {
+            "tag": "murine",
+            "score": 0.88243
+          },
+          {
+            "tag": "personal grooming",
+            "score": 0.87831
+          },
+          {
+            "tag": "solo",
+            "score": 0.87408
+          },
+          {
+            "tag": "self lick",
+            "score": 0.86431
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.86339
+          },
+          {
+            "tag": "realistic",
+            "score": 0.86247
+          },
+          {
+            "tag": "widescreen",
+            "score": 0.85391
+          },
+          {
+            "tag": "mixed media",
+            "score": 0.84897
+          },
+          {
+            "tag": "photo background",
+            "score": 0.84594
+          },
+          {
+            "tag": "white fur",
+            "score": 0.80928
+          },
+          {
+            "tag": "murid",
+            "score": 0.79053
+          },
+          {
+            "tag": "female pov",
+            "score": 0.78531
+          },
+          {
+            "tag": "white body",
+            "score": 0.77046
+          },
+          {
+            "tag": "2018",
+            "score": 0.76769
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.76207
+          },
+          {
+            "tag": "micro",
+            "score": 0.74762
+          }
         ]
       }
     },
@@ -16442,6 +17462,176 @@
           "😁",
           "😬"
         ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "5eebbff6a4ceaf8393f640145224d419772ec4eed975dc48256a061fd76ba919",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "hedgehog",
+            "score": 0.99788
+          },
+          {
+            "tag": "realistic",
+            "score": 0.99753
+          },
+          {
+            "tag": "real",
+            "score": 0.9972
+          },
+          {
+            "tag": "feral",
+            "score": 0.99509
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.99509
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.99494
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.99218
+          },
+          {
+            "tag": "rodent",
+            "score": 0.99194
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.99194
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.98594
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.9855
+          },
+          {
+            "tag": "white fur",
+            "score": 0.98504
+          },
+          {
+            "tag": "humor",
+            "score": 0.98458
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.97631
+          },
+          {
+            "tag": "animal",
+            "score": 0.97443
+          },
+          {
+            "tag": "digital painting (artwork)",
+            "score": 0.97069
+          },
+          {
+            "tag": "pink skin",
+            "score": 0.97069
+          },
+          {
+            "tag": "quills (anatomy)",
+            "score": 0.96153
+          },
+          {
+            "tag": "daww",
+            "score": 0.95728
+          },
+          {
+            "tag": "food",
+            "score": 0.95598
+          },
+          {
+            "tag": "no humans",
+            "score": 0.95328
+          },
+          {
+            "tag": "white body",
+            "score": 0.95186
+          },
+          {
+            "tag": "low res",
+            "score": 0.94967
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.94967
+          },
+          {
+            "tag": "dot eyes",
+            "score": 0.94815
+          },
+          {
+            "tag": "meme",
+            "score": 0.94165
+          },
+          {
+            "tag": "what",
+            "score": 0.93629
+          },
+          {
+            "tag": "hamster",
+            "score": 0.93343
+          },
+          {
+            "tag": "mammal",
+            "score": 0.93245
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.9263
+          },
+          {
+            "tag": "micro",
+            "score": 0.92414
+          },
+          {
+            "tag": "murine",
+            "score": 0.90991
+          },
+          {
+            "tag": "grandfathered content",
+            "score": 0.90465
+          },
+          {
+            "tag": "first person view",
+            "score": 0.89625
+          },
+          {
+            "tag": "porcupine",
+            "score": 0.89181
+          },
+          {
+            "tag": "pun",
+            "score": 0.89029
+          },
+          {
+            "tag": "portrait",
+            "score": 0.88876
+          },
+          {
+            "tag": "depth of field",
+            "score": 0.8872
+          },
+          {
+            "tag": "young",
+            "score": 0.87831
+          },
+          {
+            "tag": "photo (medium)",
+            "score": 0.87147
+          }
+        ]
       }
     },
     {
@@ -16471,6 +17661,176 @@
         "emoticons": [
           "😬",
           "😕"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "a35385804a97e250801a48544d18d26affb8e77a622cb892088c1b66172a77ea",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "real",
+            "score": 0.99897
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.9989
+          },
+          {
+            "tag": "rodent",
+            "score": 0.99876
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.99854
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.99371
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.99331
+          },
+          {
+            "tag": "feral",
+            "score": 0.9931
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.99115
+          },
+          {
+            "tag": "low res",
+            "score": 0.98678
+          },
+          {
+            "tag": "murine",
+            "score": 0.98409
+          },
+          {
+            "tag": "solo",
+            "score": 0.9836
+          },
+          {
+            "tag": "realistic",
+            "score": 0.98309
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.98309
+          },
+          {
+            "tag": "murid",
+            "score": 0.97904
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.97482
+          },
+          {
+            "tag": "white fur",
+            "score": 0.97069
+          },
+          {
+            "tag": "inside",
+            "score": 0.96979
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.96378
+          },
+          {
+            "tag": "bed",
+            "score": 0.96267
+          },
+          {
+            "tag": "photorealism",
+            "score": 0.96036
+          },
+          {
+            "tag": "white body",
+            "score": 0.95976
+          },
+          {
+            "tag": "mammal",
+            "score": 0.95854
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.95791
+          },
+          {
+            "tag": "door",
+            "score": 0.94892
+          },
+          {
+            "tag": "bed sheet",
+            "score": 0.94815
+          },
+          {
+            "tag": "humor",
+            "score": 0.94251
+          },
+          {
+            "tag": "pink skin",
+            "score": 0.93721
+          },
+          {
+            "tag": "front view",
+            "score": 0.91611
+          },
+          {
+            "tag": "rat",
+            "score": 0.91611
+          },
+          {
+            "tag": "photo background",
+            "score": 0.91244
+          },
+          {
+            "tag": "digital painting (artwork)",
+            "score": 0.91118
+          },
+          {
+            "tag": "bedroom",
+            "score": 0.89479
+          },
+          {
+            "tag": "furniture",
+            "score": 0.88563
+          },
+          {
+            "tag": "young",
+            "score": 0.87997
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.86431
+          },
+          {
+            "tag": "what",
+            "score": 0.85681
+          },
+          {
+            "tag": "1:1",
+            "score": 0.85585
+          },
+          {
+            "tag": "daww",
+            "score": 0.85585
+          },
+          {
+            "tag": "on bed",
+            "score": 0.84492
+          },
+          {
+            "tag": "detailed background",
+            "score": 0.8439
+          }
         ]
       }
     },
@@ -16504,6 +17864,176 @@
           "🙃",
           "🙂"
         ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "6166f9113df8e86ddce3cd4c8f1ab796e685ff8ae012c1deb53d96333d78f809",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "low res",
+            "score": 0.99917
+          },
+          {
+            "tag": "real",
+            "score": 0.99605
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.99194
+          },
+          {
+            "tag": "white fur",
+            "score": 0.98867
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.98795
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.98678
+          },
+          {
+            "tag": "feral",
+            "score": 0.98636
+          },
+          {
+            "tag": "headshot portrait",
+            "score": 0.98636
+          },
+          {
+            "tag": "black nose",
+            "score": 0.98594
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.9836
+          },
+          {
+            "tag": "solo",
+            "score": 0.98309
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.97871
+          },
+          {
+            "tag": "mammal",
+            "score": 0.97805
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.97631
+          },
+          {
+            "tag": "white body",
+            "score": 0.97482
+          },
+          {
+            "tag": "realistic",
+            "score": 0.97156
+          },
+          {
+            "tag": "grandfathered content",
+            "score": 0.96979
+          },
+          {
+            "tag": "bust portrait",
+            "score": 0.96691
+          },
+          {
+            "tag": "close-up",
+            "score": 0.9659
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.96432
+          },
+          {
+            "tag": "meme",
+            "score": 0.95791
+          },
+          {
+            "tag": "traditional media (artwork)",
+            "score": 0.95598
+          },
+          {
+            "tag": "icon",
+            "score": 0.95465
+          },
+          {
+            "tag": "portrait",
+            "score": 0.95186
+          },
+          {
+            "tag": "front view",
+            "score": 0.92841
+          },
+          {
+            "tag": "hyena",
+            "score": 0.92523
+          },
+          {
+            "tag": "1:1",
+            "score": 0.92192
+          },
+          {
+            "tag": "dot eyes",
+            "score": 0.9173
+          },
+          {
+            "tag": "bite",
+            "score": 0.90862
+          },
+          {
+            "tag": "mixed media",
+            "score": 0.90329
+          },
+          {
+            "tag": "rodent",
+            "score": 0.90192
+          },
+          {
+            "tag": "animal",
+            "score": 0.89912
+          },
+          {
+            "tag": "mouth closed",
+            "score": 0.8977
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.89029
+          },
+          {
+            "tag": "humor",
+            "score": 0.86704
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.86431
+          },
+          {
+            "tag": "digital painting (artwork)",
+            "score": 0.85681
+          },
+          {
+            "tag": "photo",
+            "score": 0.85488
+          },
+          {
+            "tag": "snout",
+            "score": 0.85391
+          },
+          {
+            "tag": "no humans",
+            "score": 0.84897
+          }
+        ]
       }
     },
     {
@@ -16534,6 +18064,176 @@
           "🤓",
           "🥸",
           "🧐"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "3ee083716f70e794557a2d959038ed1d5ddf2732b9e38317f7d311cc09e6d9c9",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "whiskers",
+            "score": 0.99945
+          },
+          {
+            "tag": "eyewear",
+            "score": 0.9992
+          },
+          {
+            "tag": "glasses",
+            "score": 0.99894
+          },
+          {
+            "tag": "realistic",
+            "score": 0.99683
+          },
+          {
+            "tag": "no humans",
+            "score": 0.99409
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.99194
+          },
+          {
+            "tag": "blanket",
+            "score": 0.99029
+          },
+          {
+            "tag": "rodent",
+            "score": 0.98901
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.98718
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.98504
+          },
+          {
+            "tag": "real",
+            "score": 0.98409
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.98409
+          },
+          {
+            "tag": "bedding",
+            "score": 0.98309
+          },
+          {
+            "tag": "bed sheet",
+            "score": 0.98256
+          },
+          {
+            "tag": "close-up",
+            "score": 0.96932
+          },
+          {
+            "tag": "animal",
+            "score": 0.9679
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.95976
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.95532
+          },
+          {
+            "tag": "1:1",
+            "score": 0.95114
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.94499
+          },
+          {
+            "tag": "pink skin",
+            "score": 0.94499
+          },
+          {
+            "tag": "pink fur",
+            "score": 0.93629
+          },
+          {
+            "tag": "meme",
+            "score": 0.92192
+          },
+          {
+            "tag": "round eyewear",
+            "score": 0.90465
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.88876
+          },
+          {
+            "tag": "solo",
+            "score": 0.87997
+          },
+          {
+            "tag": "white fur",
+            "score": 0.87748
+          },
+          {
+            "tag": "pink body",
+            "score": 0.87748
+          },
+          {
+            "tag": "wearing glasses",
+            "score": 0.87408
+          },
+          {
+            "tag": "domestic ferret",
+            "score": 0.87321
+          },
+          {
+            "tag": "humor",
+            "score": 0.87235
+          },
+          {
+            "tag": "low res",
+            "score": 0.86971
+          },
+          {
+            "tag": "digital painting (artwork)",
+            "score": 0.86704
+          },
+          {
+            "tag": "feral",
+            "score": 0.8606
+          },
+          {
+            "tag": "photorealism",
+            "score": 0.85777
+          },
+          {
+            "tag": "true musteline",
+            "score": 0.84997
+          },
+          {
+            "tag": "dot eyes",
+            "score": 0.84797
+          },
+          {
+            "tag": "rat",
+            "score": 0.83762
+          },
+          {
+            "tag": "murid",
+            "score": 0.83548
+          },
+          {
+            "tag": "portrait",
+            "score": 0.83004
+          }
         ]
       }
     },
@@ -16566,6 +18266,176 @@
           "😑",
           "🫤"
         ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "0f1ce44891f7c9e2598a705066591cc0c9fe89be08f5c49aebe6bdec173c22d9",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "hedgehog",
+            "score": 0.9985
+          },
+          {
+            "tag": "real",
+            "score": 0.99618
+          },
+          {
+            "tag": "low res",
+            "score": 0.99242
+          },
+          {
+            "tag": "feral",
+            "score": 0.99087
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.99029
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.98795
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.98636
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.98594
+          },
+          {
+            "tag": "mammal",
+            "score": 0.97702
+          },
+          {
+            "tag": "realistic",
+            "score": 0.97631
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.96979
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.96838
+          },
+          {
+            "tag": "white fur",
+            "score": 0.96641
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.96641
+          },
+          {
+            "tag": "traditional media (artwork)",
+            "score": 0.96211
+          },
+          {
+            "tag": "humor",
+            "score": 0.95728
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.95328
+          },
+          {
+            "tag": "close-up",
+            "score": 0.95041
+          },
+          {
+            "tag": "black nose",
+            "score": 0.94967
+          },
+          {
+            "tag": "rodent",
+            "score": 0.94335
+          },
+          {
+            "tag": "white body",
+            "score": 0.93721
+          },
+          {
+            "tag": "1:1",
+            "score": 0.93535
+          },
+          {
+            "tag": "young",
+            "score": 0.9344
+          },
+          {
+            "tag": "grandfathered content",
+            "score": 0.92079
+          },
+          {
+            "tag": "micro",
+            "score": 0.91244
+          },
+          {
+            "tag": "animal",
+            "score": 0.90991
+          },
+          {
+            "tag": "tan fur",
+            "score": 0.89912
+          },
+          {
+            "tag": "solo",
+            "score": 0.89625
+          },
+          {
+            "tag": "brown body",
+            "score": 0.89479
+          },
+          {
+            "tag": "frown",
+            "score": 0.89029
+          },
+          {
+            "tag": "semi-anthro",
+            "score": 0.87408
+          },
+          {
+            "tag": "front view",
+            "score": 0.86522
+          },
+          {
+            "tag": "daww",
+            "score": 0.86431
+          },
+          {
+            "tag": "meme",
+            "score": 0.86339
+          },
+          {
+            "tag": "mixed media",
+            "score": 0.86247
+          },
+          {
+            "tag": "bust portrait",
+            "score": 0.85966
+          },
+          {
+            "tag": "photorealism",
+            "score": 0.85391
+          },
+          {
+            "tag": "portrait",
+            "score": 0.83224
+          },
+          {
+            "tag": "biped",
+            "score": 0.82783
+          },
+          {
+            "tag": "porcupine",
+            "score": 0.82783
+          }
+        ]
       }
     },
     {
@@ -16594,6 +18464,176 @@
         "id": "5393267399401154349",
         "emoticons": [
           "🙃"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "61b0299d2caee887cf2d721b62f8abf8a5ebc79e9a2b6fa93d66086990cf33bc",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "real",
+            "score": 0.99927
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.99912
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.99879
+          },
+          {
+            "tag": "rodent",
+            "score": 0.99825
+          },
+          {
+            "tag": "feral",
+            "score": 0.99782
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.99683
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.99553
+          },
+          {
+            "tag": "mammal",
+            "score": 0.9939
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.99029
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.98901
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.98309
+          },
+          {
+            "tag": "murine",
+            "score": 0.98309
+          },
+          {
+            "tag": "murid",
+            "score": 0.98145
+          },
+          {
+            "tag": "pink skin",
+            "score": 0.97558
+          },
+          {
+            "tag": "micro",
+            "score": 0.9752
+          },
+          {
+            "tag": "low res",
+            "score": 0.97113
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.96932
+          },
+          {
+            "tag": "holding character",
+            "score": 0.95854
+          },
+          {
+            "tag": "rat",
+            "score": 0.95791
+          },
+          {
+            "tag": "white body",
+            "score": 0.94967
+          },
+          {
+            "tag": "realistic",
+            "score": 0.94815
+          },
+          {
+            "tag": "semi-anthro",
+            "score": 0.94499
+          },
+          {
+            "tag": "first person view",
+            "score": 0.93721
+          },
+          {
+            "tag": "on back",
+            "score": 0.9344
+          },
+          {
+            "tag": "legs up",
+            "score": 0.9344
+          },
+          {
+            "tag": "white fur",
+            "score": 0.92736
+          },
+          {
+            "tag": "humor",
+            "score": 0.92736
+          },
+          {
+            "tag": "domestic ferret",
+            "score": 0.92736
+          },
+          {
+            "tag": "disembodied hand",
+            "score": 0.92192
+          },
+          {
+            "tag": "photo background",
+            "score": 0.9173
+          },
+          {
+            "tag": "human",
+            "score": 0.9149
+          },
+          {
+            "tag": "grandfathered content",
+            "score": 0.90599
+          },
+          {
+            "tag": "lying",
+            "score": 0.90053
+          },
+          {
+            "tag": "1:1",
+            "score": 0.89479
+          },
+          {
+            "tag": "paws",
+            "score": 0.88563
+          },
+          {
+            "tag": "digital painting (artwork)",
+            "score": 0.88404
+          },
+          {
+            "tag": "mixed media",
+            "score": 0.8808
+          },
+          {
+            "tag": "2024",
+            "score": 0.87997
+          },
+          {
+            "tag": "mouse",
+            "score": 0.87663
+          },
+          {
+            "tag": "dot eyes",
+            "score": 0.87147
+          }
         ]
       }
     },
@@ -16624,6 +18664,176 @@
         "emoticons": [
           "😴",
           "😮‍💨"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "ae043eb960bece2110616b65ac32a9944e98cd1ae853605465fbfb5222dcee67",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "whiskers",
+            "score": 0.99985
+          },
+          {
+            "tag": "low res",
+            "score": 0.99931
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.99879
+          },
+          {
+            "tag": "mammal",
+            "score": 0.99641
+          },
+          {
+            "tag": "grandfathered content",
+            "score": 0.99087
+          },
+          {
+            "tag": "rodent",
+            "score": 0.98999
+          },
+          {
+            "tag": "feral",
+            "score": 0.98718
+          },
+          {
+            "tag": "realistic",
+            "score": 0.98201
+          },
+          {
+            "tag": "eyes closed",
+            "score": 0.97904
+          },
+          {
+            "tag": "real",
+            "score": 0.97904
+          },
+          {
+            "tag": "close-up",
+            "score": 0.97871
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.9752
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.9679
+          },
+          {
+            "tag": "mustelid",
+            "score": 0.9659
+          },
+          {
+            "tag": "first person view",
+            "score": 0.95854
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.95114
+          },
+          {
+            "tag": "headshot portrait",
+            "score": 0.94165
+          },
+          {
+            "tag": "ambiguous form",
+            "score": 0.93812
+          },
+          {
+            "tag": "black nose",
+            "score": 0.93343
+          },
+          {
+            "tag": "sleeping",
+            "score": 0.93146
+          },
+          {
+            "tag": "daww",
+            "score": 0.93146
+          },
+          {
+            "tag": "photorealism",
+            "score": 0.93146
+          },
+          {
+            "tag": "fox",
+            "score": 0.91611
+          },
+          {
+            "tag": "procyonid",
+            "score": 0.90731
+          },
+          {
+            "tag": "lowres",
+            "score": 0.90599
+          },
+          {
+            "tag": "capcom",
+            "score": 0.89625
+          },
+          {
+            "tag": "traditional media (artwork)",
+            "score": 0.89029
+          },
+          {
+            "tag": "black background",
+            "score": 0.88563
+          },
+          {
+            "tag": "portrait",
+            "score": 0.8808
+          },
+          {
+            "tag": "murine",
+            "score": 0.86883
+          },
+          {
+            "tag": "meme",
+            "score": 0.86613
+          },
+          {
+            "tag": ":3",
+            "score": 0.86431
+          },
+          {
+            "tag": "white fur",
+            "score": 0.86339
+          },
+          {
+            "tag": "grey fur",
+            "score": 0.85966
+          },
+          {
+            "tag": "animal",
+            "score": 0.85391
+          },
+          {
+            "tag": "no humans",
+            "score": 0.85294
+          },
+          {
+            "tag": "official art",
+            "score": 0.84897
+          },
+          {
+            "tag": "true fox",
+            "score": 0.84897
+          },
+          {
+            "tag": "1:1",
+            "score": 0.8439
+          },
+          {
+            "tag": "fur",
+            "score": 0.83332
+          }
         ]
       }
     },
@@ -16657,6 +18867,176 @@
           "🌨",
           "❄"
         ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "a5fa22c92071a7e054cfdf57a6e9fccda162438be52b82451270194f54aadbe3",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "headwear",
+            "score": 0.99972
+          },
+          {
+            "tag": "real",
+            "score": 0.99972
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.99961
+          },
+          {
+            "tag": "headgear",
+            "score": 0.99929
+          },
+          {
+            "tag": "christmas",
+            "score": 0.9992
+          },
+          {
+            "tag": "santa hat",
+            "score": 0.99845
+          },
+          {
+            "tag": "christmas headwear",
+            "score": 0.99729
+          },
+          {
+            "tag": "hat",
+            "score": 0.99673
+          },
+          {
+            "tag": "realistic",
+            "score": 0.99553
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.99553
+          },
+          {
+            "tag": "christmas clothing",
+            "score": 0.99409
+          },
+          {
+            "tag": "headgear only",
+            "score": 0.9931
+          },
+          {
+            "tag": "mammal",
+            "score": 0.99288
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.99115
+          },
+          {
+            "tag": "solo",
+            "score": 0.99029
+          },
+          {
+            "tag": "feral",
+            "score": 0.98967
+          },
+          {
+            "tag": "grandfathered content",
+            "score": 0.98935
+          },
+          {
+            "tag": "holidays",
+            "score": 0.98901
+          },
+          {
+            "tag": "meme",
+            "score": 0.9855
+          },
+          {
+            "tag": "red hat",
+            "score": 0.9855
+          },
+          {
+            "tag": "photo background",
+            "score": 0.97967
+          },
+          {
+            "tag": "red headwear",
+            "score": 0.97935
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.97771
+          },
+          {
+            "tag": "headwear only",
+            "score": 0.97595
+          },
+          {
+            "tag": "costume",
+            "score": 0.97024
+          },
+          {
+            "tag": "tan fur",
+            "score": 0.96267
+          },
+          {
+            "tag": "inside",
+            "score": 0.96153
+          },
+          {
+            "tag": "humor",
+            "score": 0.95532
+          },
+          {
+            "tag": "3d (artwork)",
+            "score": 0.95186
+          },
+          {
+            "tag": "hat only",
+            "score": 0.94967
+          },
+          {
+            "tag": "detailed",
+            "score": 0.94892
+          },
+          {
+            "tag": "quadruped",
+            "score": 0.94499
+          },
+          {
+            "tag": "photo",
+            "score": 0.94499
+          },
+          {
+            "tag": "semi-anthro",
+            "score": 0.94079
+          },
+          {
+            "tag": "photorealism",
+            "score": 0.94079
+          },
+          {
+            "tag": "paws",
+            "score": 0.93812
+          },
+          {
+            "tag": "1:1",
+            "score": 0.93245
+          },
+          {
+            "tag": "white body",
+            "score": 0.92736
+          },
+          {
+            "tag": "clothing",
+            "score": 0.91611
+          },
+          {
+            "tag": "traditional media (artwork)",
+            "score": 0.91611
+          }
+        ]
       }
     },
     {
@@ -16687,6 +19067,176 @@
           "😞",
           "🤧",
           "🤕"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "f693564530975ee24c7212425333661351264e68a888214451d20a0edd049b4b",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "hedgehog",
+            "score": 0.9985
+          },
+          {
+            "tag": "real",
+            "score": 0.99788
+          },
+          {
+            "tag": "rodent",
+            "score": 0.99737
+          },
+          {
+            "tag": "feral",
+            "score": 0.99711
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.99692
+          },
+          {
+            "tag": "mammal",
+            "score": 0.98935
+          },
+          {
+            "tag": "murine",
+            "score": 0.98935
+          },
+          {
+            "tag": "sleeping",
+            "score": 0.98795
+          },
+          {
+            "tag": "murid",
+            "score": 0.98458
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.98028
+          },
+          {
+            "tag": "low res",
+            "score": 0.97935
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.97702
+          },
+          {
+            "tag": "bedding",
+            "score": 0.97482
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.97156
+          },
+          {
+            "tag": "realistic",
+            "score": 0.96267
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.96095
+          },
+          {
+            "tag": "rat",
+            "score": 0.95854
+          },
+          {
+            "tag": "meme",
+            "score": 0.95728
+          },
+          {
+            "tag": "animal",
+            "score": 0.95465
+          },
+          {
+            "tag": "bed sheet",
+            "score": 0.95397
+          },
+          {
+            "tag": "traditional media (artwork)",
+            "score": 0.95328
+          },
+          {
+            "tag": "lying",
+            "score": 0.9458
+          },
+          {
+            "tag": "furniture",
+            "score": 0.9344
+          },
+          {
+            "tag": "on side",
+            "score": 0.93343
+          },
+          {
+            "tag": "bed",
+            "score": 0.92414
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.91611
+          },
+          {
+            "tag": "young",
+            "score": 0.91118
+          },
+          {
+            "tag": "photorealism",
+            "score": 0.90862
+          },
+          {
+            "tag": "solo",
+            "score": 0.89912
+          },
+          {
+            "tag": "white fur",
+            "score": 0.8977
+          },
+          {
+            "tag": "humor",
+            "score": 0.89479
+          },
+          {
+            "tag": "young ambiguous",
+            "score": 0.89479
+          },
+          {
+            "tag": "detailed",
+            "score": 0.89181
+          },
+          {
+            "tag": "grandfathered content",
+            "score": 0.88876
+          },
+          {
+            "tag": "curled up",
+            "score": 0.88563
+          },
+          {
+            "tag": "white body",
+            "score": 0.88243
+          },
+          {
+            "tag": "what",
+            "score": 0.87321
+          },
+          {
+            "tag": "digital painting (artwork)",
+            "score": 0.87235
+          },
+          {
+            "tag": "fur",
+            "score": 0.86613
+          },
+          {
+            "tag": "mixed media",
+            "score": 0.86613
+          }
         ]
       }
     },
@@ -16724,6 +19274,176 @@
           "🧴",
           "🧼"
         ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "15dda5596c307618d793e93a435b2a592de88e5ee925f6673570f1e79914d3c1",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "bathtub",
+            "score": 0.99927
+          },
+          {
+            "tag": "real",
+            "score": 0.99618
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.99605
+          },
+          {
+            "tag": "soap",
+            "score": 0.99462
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.9931
+          },
+          {
+            "tag": "partially submerged",
+            "score": 0.99265
+          },
+          {
+            "tag": "realistic",
+            "score": 0.99265
+          },
+          {
+            "tag": "bathing",
+            "score": 0.99087
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.98999
+          },
+          {
+            "tag": "suds",
+            "score": 0.9855
+          },
+          {
+            "tag": "bubble",
+            "score": 0.98309
+          },
+          {
+            "tag": "soap bubbles",
+            "score": 0.98256
+          },
+          {
+            "tag": "bubble bath",
+            "score": 0.98256
+          },
+          {
+            "tag": "foam",
+            "score": 0.98174
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.97558
+          },
+          {
+            "tag": "bathroom",
+            "score": 0.9679
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.96641
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.96323
+          },
+          {
+            "tag": "rodent",
+            "score": 0.95257
+          },
+          {
+            "tag": "solo",
+            "score": 0.95186
+          },
+          {
+            "tag": "no humans",
+            "score": 0.9458
+          },
+          {
+            "tag": "animal",
+            "score": 0.9344
+          },
+          {
+            "tag": "meme",
+            "score": 0.93343
+          },
+          {
+            "tag": "mixed media",
+            "score": 0.92841
+          },
+          {
+            "tag": "feral",
+            "score": 0.9263
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.92523
+          },
+          {
+            "tag": "portrait",
+            "score": 0.92304
+          },
+          {
+            "tag": "humor",
+            "score": 0.92192
+          },
+          {
+            "tag": "mammal",
+            "score": 0.90465
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.90465
+          },
+          {
+            "tag": "white body",
+            "score": 0.90192
+          },
+          {
+            "tag": "water",
+            "score": 0.89479
+          },
+          {
+            "tag": "1:1",
+            "score": 0.89331
+          },
+          {
+            "tag": "traditional media (artwork)",
+            "score": 0.88876
+          },
+          {
+            "tag": "american opossum",
+            "score": 0.86522
+          },
+          {
+            "tag": "pink skin",
+            "score": 0.86154
+          },
+          {
+            "tag": "wet",
+            "score": 0.84183
+          },
+          {
+            "tag": "dot eyes",
+            "score": 0.83548
+          },
+          {
+            "tag": "bath",
+            "score": 0.82783
+          },
+          {
+            "tag": "what",
+            "score": 0.81757
+          }
+        ]
       }
     },
     {
@@ -16753,6 +19473,176 @@
         "emoticons": [
           "😴",
           "💤"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "6ebfef45a4d37717aa4c5476ccfbef1a753acc70f0221e71ea230a29f1e75f45",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "feral",
+            "score": 0.99819
+          },
+          {
+            "tag": "real",
+            "score": 0.9976
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.99753
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.99593
+          },
+          {
+            "tag": "solo",
+            "score": 0.99168
+          },
+          {
+            "tag": "bedding",
+            "score": 0.98935
+          },
+          {
+            "tag": "rodent",
+            "score": 0.98594
+          },
+          {
+            "tag": "semi-anthro",
+            "score": 0.98504
+          },
+          {
+            "tag": "bed sheet",
+            "score": 0.98409
+          },
+          {
+            "tag": "on back",
+            "score": 0.98256
+          },
+          {
+            "tag": "furniture",
+            "score": 0.97443
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.97443
+          },
+          {
+            "tag": "mammal",
+            "score": 0.96838
+          },
+          {
+            "tag": "low res",
+            "score": 0.9679
+          },
+          {
+            "tag": "lying",
+            "score": 0.96095
+          },
+          {
+            "tag": "teats",
+            "score": 0.95397
+          },
+          {
+            "tag": "traditional media (artwork)",
+            "score": 0.95114
+          },
+          {
+            "tag": "bed",
+            "score": 0.93902
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.92841
+          },
+          {
+            "tag": "sleeping",
+            "score": 0.92523
+          },
+          {
+            "tag": "pussy",
+            "score": 0.91368
+          },
+          {
+            "tag": "grandfathered content",
+            "score": 0.90465
+          },
+          {
+            "tag": "realistic",
+            "score": 0.90053
+          },
+          {
+            "tag": "white body",
+            "score": 0.89912
+          },
+          {
+            "tag": "photorealism",
+            "score": 0.8977
+          },
+          {
+            "tag": "blanket",
+            "score": 0.89181
+          },
+          {
+            "tag": "quadruped",
+            "score": 0.88404
+          },
+          {
+            "tag": "on bed",
+            "score": 0.87663
+          },
+          {
+            "tag": "high-angle view",
+            "score": 0.86793
+          },
+          {
+            "tag": "1:1",
+            "score": 0.85777
+          },
+          {
+            "tag": "genitals",
+            "score": 0.85585
+          },
+          {
+            "tag": "multi nipple",
+            "score": 0.85294
+          },
+          {
+            "tag": "murine",
+            "score": 0.83224
+          },
+          {
+            "tag": "true musteline",
+            "score": 0.81757
+          },
+          {
+            "tag": "biped",
+            "score": 0.81287
+          },
+          {
+            "tag": "white fur",
+            "score": 0.80441
+          },
+          {
+            "tag": "murid",
+            "score": 0.79693
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.78399
+          },
+          {
+            "tag": "pink skin",
+            "score": 0.76769
+          },
+          {
+            "tag": "capcom",
+            "score": 0.74909
+          }
         ]
       }
     },
@@ -16788,6 +19678,176 @@
           "😀",
           "😂"
         ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "c187460f048d786cc752235bb3ab9232f234258f8dfd81586a941c57f26cd1b2",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "real",
+            "score": 0.99917
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.99854
+          },
+          {
+            "tag": "rodent",
+            "score": 0.9985
+          },
+          {
+            "tag": "realistic",
+            "score": 0.99567
+          },
+          {
+            "tag": "murine",
+            "score": 0.99409
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.99242
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.99142
+          },
+          {
+            "tag": "feral",
+            "score": 0.9855
+          },
+          {
+            "tag": "murid",
+            "score": 0.98409
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.9836
+          },
+          {
+            "tag": "no humans",
+            "score": 0.97904
+          },
+          {
+            "tag": "white fur",
+            "score": 0.9679
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.96378
+          },
+          {
+            "tag": "rat",
+            "score": 0.95728
+          },
+          {
+            "tag": "animal",
+            "score": 0.95598
+          },
+          {
+            "tag": "solo",
+            "score": 0.95114
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.95114
+          },
+          {
+            "tag": "pink skin",
+            "score": 0.94499
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.93991
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.93991
+          },
+          {
+            "tag": "photorealism",
+            "score": 0.93991
+          },
+          {
+            "tag": "mammal",
+            "score": 0.9344
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.92304
+          },
+          {
+            "tag": "white body",
+            "score": 0.91611
+          },
+          {
+            "tag": "close-up",
+            "score": 0.9149
+          },
+          {
+            "tag": "low res",
+            "score": 0.90192
+          },
+          {
+            "tag": "pink nose",
+            "score": 0.89331
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.8606
+          },
+          {
+            "tag": "pink body",
+            "score": 0.84797
+          },
+          {
+            "tag": "grandfathered content",
+            "score": 0.83224
+          },
+          {
+            "tag": "portrait",
+            "score": 0.82446
+          },
+          {
+            "tag": "1:1",
+            "score": 0.81757
+          },
+          {
+            "tag": "front view",
+            "score": 0.80807
+          },
+          {
+            "tag": "pink fur",
+            "score": 0.80563
+          },
+          {
+            "tag": "mouse",
+            "score": 0.79053
+          },
+          {
+            "tag": "humor",
+            "score": 0.79053
+          },
+          {
+            "tag": "hamster",
+            "score": 0.78923
+          },
+          {
+            "tag": "meme",
+            "score": 0.78662
+          },
+          {
+            "tag": "daww",
+            "score": 0.77458
+          },
+          {
+            "tag": "mixed media",
+            "score": 0.76065
+          }
+        ]
       }
     },
     {
@@ -16818,6 +19878,176 @@
           "🥱",
           "😪",
           "😮‍💨"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "0926c4c4e497f49844d068d5ef926008835a5f213c6292896a3f8bfa39e789ff",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "hedgehog",
+            "score": 0.99927
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.99629
+          },
+          {
+            "tag": "realistic",
+            "score": 0.99524
+          },
+          {
+            "tag": "real",
+            "score": 0.99509
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.99494
+          },
+          {
+            "tag": "blanket",
+            "score": 0.98409
+          },
+          {
+            "tag": "animal",
+            "score": 0.9836
+          },
+          {
+            "tag": "bedding",
+            "score": 0.98309
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.97998
+          },
+          {
+            "tag": "no humans",
+            "score": 0.97935
+          },
+          {
+            "tag": "pink skin",
+            "score": 0.9752
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.97404
+          },
+          {
+            "tag": "white fur",
+            "score": 0.97199
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.97156
+          },
+          {
+            "tag": "feral",
+            "score": 0.96741
+          },
+          {
+            "tag": "pink body",
+            "score": 0.96267
+          },
+          {
+            "tag": "bed sheet",
+            "score": 0.96153
+          },
+          {
+            "tag": "bed",
+            "score": 0.95397
+          },
+          {
+            "tag": "white body",
+            "score": 0.95257
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.94967
+          },
+          {
+            "tag": "pink fur",
+            "score": 0.94499
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.93629
+          },
+          {
+            "tag": "lying",
+            "score": 0.93535
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.92736
+          },
+          {
+            "tag": "mammal",
+            "score": 0.92304
+          },
+          {
+            "tag": "original",
+            "score": 0.91964
+          },
+          {
+            "tag": "sleeping",
+            "score": 0.91848
+          },
+          {
+            "tag": "rodent",
+            "score": 0.9173
+          },
+          {
+            "tag": "portrait",
+            "score": 0.89912
+          },
+          {
+            "tag": "meme",
+            "score": 0.8872
+          },
+          {
+            "tag": "on stomach",
+            "score": 0.88563
+          },
+          {
+            "tag": "solo",
+            "score": 0.87321
+          },
+          {
+            "tag": "detailed",
+            "score": 0.87321
+          },
+          {
+            "tag": "1:1",
+            "score": 0.8439
+          },
+          {
+            "tag": "photorealism",
+            "score": 0.83868
+          },
+          {
+            "tag": "digital painting (artwork)",
+            "score": 0.83441
+          },
+          {
+            "tag": "daww",
+            "score": 0.82446
+          },
+          {
+            "tag": "domestic ferret",
+            "score": 0.80807
+          },
+          {
+            "tag": "close-up",
+            "score": 0.79819
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.79819
+          }
         ]
       }
     },
@@ -16850,6 +20080,176 @@
           "🙃",
           "🙂"
         ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "005a77421f6ce2c03f0e340d8c21ba7ddf8b6591edcffd08ea474eb904640663",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "whiskers",
+            "score": 0.99872
+          },
+          {
+            "tag": "realistic",
+            "score": 0.99745
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.99409
+          },
+          {
+            "tag": "portrait",
+            "score": 0.9931
+          },
+          {
+            "tag": "real",
+            "score": 0.98757
+          },
+          {
+            "tag": "white body",
+            "score": 0.98409
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.98409
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.9836
+          },
+          {
+            "tag": "headshot portrait",
+            "score": 0.9836
+          },
+          {
+            "tag": "close-up",
+            "score": 0.98309
+          },
+          {
+            "tag": "white fur",
+            "score": 0.97998
+          },
+          {
+            "tag": "bust portrait",
+            "score": 0.97771
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.97443
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.97024
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.96979
+          },
+          {
+            "tag": "no humans",
+            "score": 0.96432
+          },
+          {
+            "tag": "icon",
+            "score": 0.95854
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.95257
+          },
+          {
+            "tag": "solo",
+            "score": 0.94418
+          },
+          {
+            "tag": "animal",
+            "score": 0.93245
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.92841
+          },
+          {
+            "tag": "1:1",
+            "score": 0.92304
+          },
+          {
+            "tag": "mammal",
+            "score": 0.92192
+          },
+          {
+            "tag": "feral",
+            "score": 0.91368
+          },
+          {
+            "tag": "original",
+            "score": 0.91244
+          },
+          {
+            "tag": "front view",
+            "score": 0.8439
+          },
+          {
+            "tag": "blurred background",
+            "score": 0.84183
+          },
+          {
+            "tag": "photorealism",
+            "score": 0.82783
+          },
+          {
+            "tag": "quills (anatomy)",
+            "score": 0.81874
+          },
+          {
+            "tag": "low res",
+            "score": 0.80317
+          },
+          {
+            "tag": "blurry background",
+            "score": 0.80194
+          },
+          {
+            "tag": "mouth closed",
+            "score": 0.77184
+          },
+          {
+            "tag": "2018",
+            "score": 0.77046
+          },
+          {
+            "tag": "depth of field",
+            "score": 0.76348
+          },
+          {
+            "tag": "black nose",
+            "score": 0.74762
+          },
+          {
+            "tag": "digital painting (artwork)",
+            "score": 0.73716
+          },
+          {
+            "tag": "glistening eyes",
+            "score": 0.73259
+          },
+          {
+            "tag": "snout",
+            "score": 0.72952
+          },
+          {
+            "tag": "detailed",
+            "score": 0.72875
+          },
+          {
+            "tag": "grey background",
+            "score": 0.7272
+          }
+        ]
       }
     },
     {
@@ -16878,6 +20278,176 @@
         "id": "5391091813782135907",
         "emoticons": [
           "😌"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "1d9d04f5eb36d74164a0280ac96a7358612f5f586afc3f4b416cc53b9ebefcd6",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "real",
+            "score": 0.99879
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.99835
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.99807
+          },
+          {
+            "tag": "realistic",
+            "score": 0.99702
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.99509
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.99371
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.98999
+          },
+          {
+            "tag": "white fur",
+            "score": 0.98795
+          },
+          {
+            "tag": "feral",
+            "score": 0.98504
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.98201
+          },
+          {
+            "tag": "mammal",
+            "score": 0.98145
+          },
+          {
+            "tag": "solo",
+            "score": 0.98117
+          },
+          {
+            "tag": "bedding",
+            "score": 0.97967
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.97324
+          },
+          {
+            "tag": "rodent",
+            "score": 0.96979
+          },
+          {
+            "tag": "white body",
+            "score": 0.9679
+          },
+          {
+            "tag": "bed sheet",
+            "score": 0.96538
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.95854
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.95041
+          },
+          {
+            "tag": "1:1",
+            "score": 0.94892
+          },
+          {
+            "tag": "pink skin",
+            "score": 0.94418
+          },
+          {
+            "tag": "photorealism",
+            "score": 0.93721
+          },
+          {
+            "tag": "animal",
+            "score": 0.9344
+          },
+          {
+            "tag": "blanket",
+            "score": 0.9344
+          },
+          {
+            "tag": "pink body",
+            "score": 0.93343
+          },
+          {
+            "tag": "digital painting (artwork)",
+            "score": 0.93245
+          },
+          {
+            "tag": "front view",
+            "score": 0.9149
+          },
+          {
+            "tag": "photo background",
+            "score": 0.91368
+          },
+          {
+            "tag": "meme",
+            "score": 0.91244
+          },
+          {
+            "tag": "young",
+            "score": 0.90192
+          },
+          {
+            "tag": "bed",
+            "score": 0.90053
+          },
+          {
+            "tag": "portrait",
+            "score": 0.89029
+          },
+          {
+            "tag": "murine",
+            "score": 0.88563
+          },
+          {
+            "tag": "furniture",
+            "score": 0.87997
+          },
+          {
+            "tag": "daww",
+            "score": 0.86793
+          },
+          {
+            "tag": "2018",
+            "score": 0.86613
+          },
+          {
+            "tag": "murid",
+            "score": 0.86339
+          },
+          {
+            "tag": "humor",
+            "score": 0.85777
+          },
+          {
+            "tag": "no humans",
+            "score": 0.84594
+          },
+          {
+            "tag": "fur",
+            "score": 0.84183
+          }
         ]
       }
     },
@@ -16909,6 +20479,176 @@
           "😳",
           "🥵"
         ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "1a8833e69e76e8b32195cbbf99e084ba9585d3a2f792447ad0fe578a12c3d159",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "whiskers",
+            "score": 0.9998
+          },
+          {
+            "tag": "realistic",
+            "score": 0.9972
+          },
+          {
+            "tag": "close-up",
+            "score": 0.99194
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.99087
+          },
+          {
+            "tag": "headshot portrait",
+            "score": 0.98967
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.98718
+          },
+          {
+            "tag": "real",
+            "score": 0.97324
+          },
+          {
+            "tag": "animal",
+            "score": 0.9659
+          },
+          {
+            "tag": "rodent",
+            "score": 0.96432
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.95976
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.95598
+          },
+          {
+            "tag": "bust portrait",
+            "score": 0.95186
+          },
+          {
+            "tag": "portrait",
+            "score": 0.9458
+          },
+          {
+            "tag": "icon",
+            "score": 0.93535
+          },
+          {
+            "tag": "no humans",
+            "score": 0.93245
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.92841
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.91964
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.9173
+          },
+          {
+            "tag": "tan fur",
+            "score": 0.90991
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.90731
+          },
+          {
+            "tag": "mammal",
+            "score": 0.89181
+          },
+          {
+            "tag": "solo",
+            "score": 0.87579
+          },
+          {
+            "tag": "1:1",
+            "score": 0.87408
+          },
+          {
+            "tag": "front view",
+            "score": 0.87321
+          },
+          {
+            "tag": "meme",
+            "score": 0.86613
+          },
+          {
+            "tag": "feral",
+            "score": 0.86339
+          },
+          {
+            "tag": "tan body",
+            "score": 0.85777
+          },
+          {
+            "tag": "brown body",
+            "score": 0.84997
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.84897
+          },
+          {
+            "tag": "digital painting (artwork)",
+            "score": 0.83548
+          },
+          {
+            "tag": "traditional media (artwork)",
+            "score": 0.83332
+          },
+          {
+            "tag": "first person view",
+            "score": 0.82219
+          },
+          {
+            "tag": "brown fur",
+            "score": 0.81874
+          },
+          {
+            "tag": "original",
+            "score": 0.81405
+          },
+          {
+            "tag": "white fur",
+            "score": 0.79566
+          },
+          {
+            "tag": "pink skin",
+            "score": 0.78793
+          },
+          {
+            "tag": "detailed",
+            "score": 0.7773
+          },
+          {
+            "tag": "brown background",
+            "score": 0.76348
+          },
+          {
+            "tag": "dot eyes",
+            "score": 0.73564
+          },
+          {
+            "tag": "english commentary",
+            "score": 0.71938
+          }
+        ]
       }
     },
     {
@@ -16937,6 +20677,176 @@
         "id": "5391075424186933965",
         "emoticons": [
           "😏"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "7d265590f0b1e6fef6d58f300c261a2ddacae33ca978226b348174db0768ae4c",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "real",
+            "score": 0.99917
+          },
+          {
+            "tag": "container",
+            "score": 0.99906
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.9989
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.99807
+          },
+          {
+            "tag": "realistic",
+            "score": 0.99768
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.99753
+          },
+          {
+            "tag": "bowl",
+            "score": 0.99729
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.99553
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.99409
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.99351
+          },
+          {
+            "tag": "blurred background",
+            "score": 0.99029
+          },
+          {
+            "tag": "no humans",
+            "score": 0.98458
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.98309
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.97967
+          },
+          {
+            "tag": "feral",
+            "score": 0.97702
+          },
+          {
+            "tag": "cup",
+            "score": 0.96886
+          },
+          {
+            "tag": "blurry background",
+            "score": 0.96323
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.96211
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.95854
+          },
+          {
+            "tag": "white fur",
+            "score": 0.95465
+          },
+          {
+            "tag": "white body",
+            "score": 0.95397
+          },
+          {
+            "tag": "meme",
+            "score": 0.94815
+          },
+          {
+            "tag": "depth of field",
+            "score": 0.94079
+          },
+          {
+            "tag": "mammal",
+            "score": 0.93902
+          },
+          {
+            "tag": "steam",
+            "score": 0.93343
+          },
+          {
+            "tag": "humor",
+            "score": 0.92736
+          },
+          {
+            "tag": "photo background",
+            "score": 0.92736
+          },
+          {
+            "tag": "mixed media",
+            "score": 0.92736
+          },
+          {
+            "tag": "animal",
+            "score": 0.92414
+          },
+          {
+            "tag": "photorealism",
+            "score": 0.92304
+          },
+          {
+            "tag": "low res",
+            "score": 0.91848
+          },
+          {
+            "tag": "blurry",
+            "score": 0.90053
+          },
+          {
+            "tag": "detailed",
+            "score": 0.89912
+          },
+          {
+            "tag": "portrait",
+            "score": 0.8977
+          },
+          {
+            "tag": "1:1",
+            "score": 0.89331
+          },
+          {
+            "tag": "digital painting (artwork)",
+            "score": 0.89029
+          },
+          {
+            "tag": "rodent",
+            "score": 0.88404
+          },
+          {
+            "tag": "solo",
+            "score": 0.87235
+          },
+          {
+            "tag": "dot eyes",
+            "score": 0.85488
+          },
+          {
+            "tag": "black nose",
+            "score": 0.85391
+          }
         ]
       }
     },
@@ -16967,6 +20877,176 @@
         "emoticons": [
           "😛"
         ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "147e42763c6458c54cad1fe36e6620d7aebbece0b5874a239518411ba9e8ee8f",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "fruit",
+            "score": 0.99995
+          },
+          {
+            "tag": "food",
+            "score": 0.99917
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.99825
+          },
+          {
+            "tag": "plant",
+            "score": 0.99662
+          },
+          {
+            "tag": "mammal",
+            "score": 0.9939
+          },
+          {
+            "tag": "real",
+            "score": 0.99194
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.99087
+          },
+          {
+            "tag": "licking",
+            "score": 0.98935
+          },
+          {
+            "tag": "realistic",
+            "score": 0.98831
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.98409
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.97998
+          },
+          {
+            "tag": "humor",
+            "score": 0.97805
+          },
+          {
+            "tag": "leaf",
+            "score": 0.97737
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.97443
+          },
+          {
+            "tag": "1:1",
+            "score": 0.96691
+          },
+          {
+            "tag": "white fur",
+            "score": 0.96211
+          },
+          {
+            "tag": "white body",
+            "score": 0.95915
+          },
+          {
+            "tag": "licking lips",
+            "score": 0.95915
+          },
+          {
+            "tag": "rodent",
+            "score": 0.95041
+          },
+          {
+            "tag": "tongue",
+            "score": 0.9466
+          },
+          {
+            "tag": "tongue out",
+            "score": 0.94251
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.93535
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.9344
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.92523
+          },
+          {
+            "tag": "solo",
+            "score": 0.92304
+          },
+          {
+            "tag": "self lick",
+            "score": 0.90731
+          },
+          {
+            "tag": "no humans",
+            "score": 0.90599
+          },
+          {
+            "tag": "low res",
+            "score": 0.89029
+          },
+          {
+            "tag": "blurred background",
+            "score": 0.88876
+          },
+          {
+            "tag": "bust portrait",
+            "score": 0.88876
+          },
+          {
+            "tag": "blep",
+            "score": 0.87915
+          },
+          {
+            "tag": "close-up",
+            "score": 0.87579
+          },
+          {
+            "tag": "icon",
+            "score": 0.86431
+          },
+          {
+            "tag": "feral",
+            "score": 0.83868
+          },
+          {
+            "tag": "mixed media",
+            "score": 0.83868
+          },
+          {
+            "tag": "portrait",
+            "score": 0.82894
+          },
+          {
+            "tag": "grandfathered content",
+            "score": 0.82783
+          },
+          {
+            "tag": "licking own lips",
+            "score": 0.82104
+          },
+          {
+            "tag": "animal",
+            "score": 0.81168
+          },
+          {
+            "tag": "photorealism",
+            "score": 0.81048
+          }
+        ]
       }
     },
     {
@@ -16995,6 +21075,176 @@
         "id": "5393340834751980247",
         "emoticons": [
           "😮‍💨"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "285f54b1e366b1549c2d8c2a15af8231cf8382fcd8b6fbe29e80b34e4e92aab1",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "real",
+            "score": 0.99968
+          },
+          {
+            "tag": "pillow",
+            "score": 0.99961
+          },
+          {
+            "tag": "bed",
+            "score": 0.99941
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.999
+          },
+          {
+            "tag": "bed sheet",
+            "score": 0.99872
+          },
+          {
+            "tag": "feral",
+            "score": 0.9985
+          },
+          {
+            "tag": "bedding",
+            "score": 0.99768
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.99753
+          },
+          {
+            "tag": "furniture",
+            "score": 0.99605
+          },
+          {
+            "tag": "on bed",
+            "score": 0.99494
+          },
+          {
+            "tag": "mammal",
+            "score": 0.99409
+          },
+          {
+            "tag": "meme",
+            "score": 0.99218
+          },
+          {
+            "tag": "lying",
+            "score": 0.99115
+          },
+          {
+            "tag": "blanket",
+            "score": 0.99087
+          },
+          {
+            "tag": "rodent",
+            "score": 0.98795
+          },
+          {
+            "tag": "realistic",
+            "score": 0.98757
+          },
+          {
+            "tag": "murine",
+            "score": 0.97737
+          },
+          {
+            "tag": "hamster",
+            "score": 0.97595
+          },
+          {
+            "tag": "white body",
+            "score": 0.97404
+          },
+          {
+            "tag": "quadruped",
+            "score": 0.97364
+          },
+          {
+            "tag": "grandfathered content",
+            "score": 0.97364
+          },
+          {
+            "tag": "on back",
+            "score": 0.97199
+          },
+          {
+            "tag": "realistic feral",
+            "score": 0.97199
+          },
+          {
+            "tag": "photo background",
+            "score": 0.97069
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.96979
+          },
+          {
+            "tag": "polar bear",
+            "score": 0.96741
+          },
+          {
+            "tag": "solo",
+            "score": 0.96323
+          },
+          {
+            "tag": "white fur",
+            "score": 0.96267
+          },
+          {
+            "tag": "humor",
+            "score": 0.96267
+          },
+          {
+            "tag": "cricetid",
+            "score": 0.96153
+          },
+          {
+            "tag": "inside",
+            "score": 0.94418
+          },
+          {
+            "tag": "lying on bed",
+            "score": 0.94335
+          },
+          {
+            "tag": "low res",
+            "score": 0.94165
+          },
+          {
+            "tag": "murid",
+            "score": 0.94079
+          },
+          {
+            "tag": "draw over",
+            "score": 0.93902
+          },
+          {
+            "tag": "animal",
+            "score": 0.93535
+          },
+          {
+            "tag": "on side",
+            "score": 0.9344
+          },
+          {
+            "tag": "3d (artwork)",
+            "score": 0.93343
+          },
+          {
+            "tag": "bedroom",
+            "score": 0.93343
+          },
+          {
+            "tag": "1:1",
+            "score": 0.9173
+          }
         ]
       }
     },
@@ -17025,6 +21275,176 @@
         "emoticons": [
           "🥹"
         ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "6fcc65742f510ecaeea43a304486ffd240898f759e2db2964c7addcfcadbab8b",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "whiskers",
+            "score": 0.99937
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.99059
+          },
+          {
+            "tag": "bust portrait",
+            "score": 0.98795
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.98678
+          },
+          {
+            "tag": "close-up",
+            "score": 0.98678
+          },
+          {
+            "tag": "headshot portrait",
+            "score": 0.98309
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.98201
+          },
+          {
+            "tag": "mammal",
+            "score": 0.98145
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.97871
+          },
+          {
+            "tag": "low res",
+            "score": 0.97156
+          },
+          {
+            "tag": "blurred background",
+            "score": 0.96932
+          },
+          {
+            "tag": "icon",
+            "score": 0.96538
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.96036
+          },
+          {
+            "tag": "realistic",
+            "score": 0.95598
+          },
+          {
+            "tag": "portrait",
+            "score": 0.94892
+          },
+          {
+            "tag": "front view",
+            "score": 0.94165
+          },
+          {
+            "tag": "1:1",
+            "score": 0.93721
+          },
+          {
+            "tag": "meme",
+            "score": 0.93721
+          },
+          {
+            "tag": "first person view",
+            "score": 0.93146
+          },
+          {
+            "tag": "white body",
+            "score": 0.92944
+          },
+          {
+            "tag": "animal",
+            "score": 0.92414
+          },
+          {
+            "tag": "rodent",
+            "score": 0.91964
+          },
+          {
+            "tag": "mustelid",
+            "score": 0.9173
+          },
+          {
+            "tag": "biped",
+            "score": 0.9149
+          },
+          {
+            "tag": "feral",
+            "score": 0.90599
+          },
+          {
+            "tag": "real",
+            "score": 0.90192
+          },
+          {
+            "tag": "black nose",
+            "score": 0.90053
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.89625
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.89181
+          },
+          {
+            "tag": "solo",
+            "score": 0.88876
+          },
+          {
+            "tag": "snout",
+            "score": 0.88563
+          },
+          {
+            "tag": "2024",
+            "score": 0.87997
+          },
+          {
+            "tag": "white fur",
+            "score": 0.87579
+          },
+          {
+            "tag": "depth of field",
+            "score": 0.86883
+          },
+          {
+            "tag": "stoat",
+            "score": 0.8439
+          },
+          {
+            "tag": "brown background",
+            "score": 0.84183
+          },
+          {
+            "tag": "true musteline",
+            "score": 0.83548
+          },
+          {
+            "tag": "digital painting (artwork)",
+            "score": 0.83224
+          },
+          {
+            "tag": "brown body",
+            "score": 0.81405
+          },
+          {
+            "tag": "dot eyes",
+            "score": 0.80928
+          }
+        ]
       }
     },
     {
@@ -17053,6 +21473,176 @@
         "id": "5391343108023656869",
         "emoticons": [
           "🥹"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "c95f137c89e5aa670bdf97add96e793e0fb52d467679419c02cf51968194e48f",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "whiskers",
+            "score": 0.99835
+          },
+          {
+            "tag": "real",
+            "score": 0.9976
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.99737
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.99218
+          },
+          {
+            "tag": "no humans",
+            "score": 0.98831
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.98678
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.9855
+          },
+          {
+            "tag": "bathtub",
+            "score": 0.98028
+          },
+          {
+            "tag": "feral",
+            "score": 0.97998
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.97967
+          },
+          {
+            "tag": "rodent",
+            "score": 0.97156
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.96741
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.96153
+          },
+          {
+            "tag": "realistic",
+            "score": 0.95791
+          },
+          {
+            "tag": "low res",
+            "score": 0.95728
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.94892
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.94499
+          },
+          {
+            "tag": "meme",
+            "score": 0.93812
+          },
+          {
+            "tag": "murine",
+            "score": 0.9344
+          },
+          {
+            "tag": "1:1",
+            "score": 0.93343
+          },
+          {
+            "tag": "mammal",
+            "score": 0.92523
+          },
+          {
+            "tag": "animal",
+            "score": 0.92414
+          },
+          {
+            "tag": "inside",
+            "score": 0.91848
+          },
+          {
+            "tag": "humor",
+            "score": 0.90465
+          },
+          {
+            "tag": "murid",
+            "score": 0.90329
+          },
+          {
+            "tag": "white body",
+            "score": 0.89331
+          },
+          {
+            "tag": "daww",
+            "score": 0.89181
+          },
+          {
+            "tag": "water",
+            "score": 0.87915
+          },
+          {
+            "tag": "bathroom",
+            "score": 0.87915
+          },
+          {
+            "tag": "pun",
+            "score": 0.85777
+          },
+          {
+            "tag": "claws",
+            "score": 0.85391
+          },
+          {
+            "tag": "portrait",
+            "score": 0.85391
+          },
+          {
+            "tag": "photo-referenced",
+            "score": 0.84078
+          },
+          {
+            "tag": "solo",
+            "score": 0.83973
+          },
+          {
+            "tag": "front view",
+            "score": 0.83973
+          },
+          {
+            "tag": "indoors",
+            "score": 0.82104
+          },
+          {
+            "tag": "white fur",
+            "score": 0.81641
+          },
+          {
+            "tag": "blurry background",
+            "score": 0.81048
+          },
+          {
+            "tag": "rat",
+            "score": 0.80928
+          },
+          {
+            "tag": "photo background",
+            "score": 0.80807
+          }
         ]
       }
     },
@@ -17086,6 +21676,176 @@
           "🤚",
           "✋"
         ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "d7b0a9299488ed981a23ef165c74e713c7d9b1f840b7a55899ed1482590a1b0d",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "hedgehog",
+            "score": 0.99957
+          },
+          {
+            "tag": "feral",
+            "score": 0.99819
+          },
+          {
+            "tag": "real",
+            "score": 0.99673
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.99567
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.99494
+          },
+          {
+            "tag": "rodent",
+            "score": 0.99331
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.99331
+          },
+          {
+            "tag": "holding character",
+            "score": 0.99115
+          },
+          {
+            "tag": "low res",
+            "score": 0.98901
+          },
+          {
+            "tag": "disembodied hand",
+            "score": 0.98636
+          },
+          {
+            "tag": "mammal",
+            "score": 0.98504
+          },
+          {
+            "tag": "first person view",
+            "score": 0.98409
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.97838
+          },
+          {
+            "tag": "carrying another",
+            "score": 0.97805
+          },
+          {
+            "tag": "white fur",
+            "score": 0.97482
+          },
+          {
+            "tag": "white body",
+            "score": 0.97443
+          },
+          {
+            "tag": "realistic",
+            "score": 0.97364
+          },
+          {
+            "tag": "human",
+            "score": 0.96323
+          },
+          {
+            "tag": "solo focus",
+            "score": 0.94165
+          },
+          {
+            "tag": "quadruped",
+            "score": 0.94165
+          },
+          {
+            "tag": "pink skin",
+            "score": 0.93812
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.93812
+          },
+          {
+            "tag": "true musteline",
+            "score": 0.93629
+          },
+          {
+            "tag": "holding another",
+            "score": 0.93535
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.9344
+          },
+          {
+            "tag": "human pov",
+            "score": 0.93343
+          },
+          {
+            "tag": "photorealism",
+            "score": 0.92736
+          },
+          {
+            "tag": "domestic ferret",
+            "score": 0.92414
+          },
+          {
+            "tag": "murine",
+            "score": 0.92192
+          },
+          {
+            "tag": "humor",
+            "score": 0.9173
+          },
+          {
+            "tag": "micro",
+            "score": 0.91244
+          },
+          {
+            "tag": "animal",
+            "score": 0.90991
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.90053
+          },
+          {
+            "tag": "semi-anthro",
+            "score": 0.8977
+          },
+          {
+            "tag": "meme",
+            "score": 0.89479
+          },
+          {
+            "tag": "1:1",
+            "score": 0.87408
+          },
+          {
+            "tag": "mustelid",
+            "score": 0.87321
+          },
+          {
+            "tag": "grey background",
+            "score": 0.86339
+          },
+          {
+            "tag": "murid",
+            "score": 0.85488
+          },
+          {
+            "tag": "smaller feral",
+            "score": 0.84997
+          }
+        ]
       }
     },
     {
@@ -17118,6 +21878,176 @@
           "😶",
           "🫥"
         ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "6787e6633bbcb1c3b291c2d12d966d366323a64c8163be24aae3127186f020d7",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "real",
+            "score": 0.99729
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.99692
+          },
+          {
+            "tag": "blanket",
+            "score": 0.99641
+          },
+          {
+            "tag": "bedding",
+            "score": 0.99593
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.9958
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.99462
+          },
+          {
+            "tag": "no humans",
+            "score": 0.99462
+          },
+          {
+            "tag": "feral",
+            "score": 0.99409
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.99288
+          },
+          {
+            "tag": "realistic",
+            "score": 0.98935
+          },
+          {
+            "tag": "bed sheet",
+            "score": 0.9855
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.98504
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.98409
+          },
+          {
+            "tag": "white fur",
+            "score": 0.98028
+          },
+          {
+            "tag": "animal",
+            "score": 0.97838
+          },
+          {
+            "tag": "white body",
+            "score": 0.97595
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.97558
+          },
+          {
+            "tag": "low res",
+            "score": 0.97364
+          },
+          {
+            "tag": "rodent",
+            "score": 0.96432
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.96211
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.94418
+          },
+          {
+            "tag": "bed",
+            "score": 0.93535
+          },
+          {
+            "tag": "meme",
+            "score": 0.93046
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.91611
+          },
+          {
+            "tag": "humor",
+            "score": 0.9149
+          },
+          {
+            "tag": "mammal",
+            "score": 0.91368
+          },
+          {
+            "tag": "solo",
+            "score": 0.88876
+          },
+          {
+            "tag": "1:1",
+            "score": 0.87997
+          },
+          {
+            "tag": "digital painting (artwork)",
+            "score": 0.87915
+          },
+          {
+            "tag": "dot eyes",
+            "score": 0.86704
+          },
+          {
+            "tag": "photorealism",
+            "score": 0.86431
+          },
+          {
+            "tag": "under covers",
+            "score": 0.86247
+          },
+          {
+            "tag": "daww",
+            "score": 0.84492
+          },
+          {
+            "tag": "original",
+            "score": 0.8439
+          },
+          {
+            "tag": "furniture",
+            "score": 0.83762
+          },
+          {
+            "tag": "traditional media (artwork)",
+            "score": 0.82783
+          },
+          {
+            "tag": "murine",
+            "score": 0.82219
+          },
+          {
+            "tag": "young",
+            "score": 0.82219
+          },
+          {
+            "tag": "portrait",
+            "score": 0.81757
+          },
+          {
+            "tag": "black nose",
+            "score": 0.80685
+          }
+        ]
       }
     },
     {
@@ -17149,6 +22079,176 @@
           "🤤",
           "😎"
         ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "725f31db1b71afa48f416a6a2b2b6d26a4f34a37a4f2920e453f5658cc3b3cb3",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "hedgehog",
+            "score": 0.9995
+          },
+          {
+            "tag": "feral",
+            "score": 0.9972
+          },
+          {
+            "tag": "real",
+            "score": 0.99673
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.99494
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.99445
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.9836
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.97324
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.97283
+          },
+          {
+            "tag": "mammal",
+            "score": 0.97199
+          },
+          {
+            "tag": "rodent",
+            "score": 0.96979
+          },
+          {
+            "tag": "bedding",
+            "score": 0.96378
+          },
+          {
+            "tag": "solo",
+            "score": 0.96211
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.95257
+          },
+          {
+            "tag": "on back",
+            "score": 0.94967
+          },
+          {
+            "tag": "realistic",
+            "score": 0.94499
+          },
+          {
+            "tag": "low res",
+            "score": 0.93812
+          },
+          {
+            "tag": "blanket",
+            "score": 0.93046
+          },
+          {
+            "tag": "photorealism",
+            "score": 0.9263
+          },
+          {
+            "tag": "grandfathered content",
+            "score": 0.92192
+          },
+          {
+            "tag": "semi-anthro",
+            "score": 0.91848
+          },
+          {
+            "tag": "black nose",
+            "score": 0.9173
+          },
+          {
+            "tag": "bed sheet",
+            "score": 0.9173
+          },
+          {
+            "tag": "1:1",
+            "score": 0.91118
+          },
+          {
+            "tag": "pink skin",
+            "score": 0.90991
+          },
+          {
+            "tag": "tan fur",
+            "score": 0.89912
+          },
+          {
+            "tag": "pink body",
+            "score": 0.8977
+          },
+          {
+            "tag": "humor",
+            "score": 0.89029
+          },
+          {
+            "tag": "brown body",
+            "score": 0.87915
+          },
+          {
+            "tag": "white body",
+            "score": 0.87831
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.87663
+          },
+          {
+            "tag": "traditional media (artwork)",
+            "score": 0.86793
+          },
+          {
+            "tag": "claws",
+            "score": 0.86704
+          },
+          {
+            "tag": "tan body",
+            "score": 0.86431
+          },
+          {
+            "tag": "toe claws",
+            "score": 0.86431
+          },
+          {
+            "tag": "lying",
+            "score": 0.85777
+          },
+          {
+            "tag": "quills (anatomy)",
+            "score": 0.85681
+          },
+          {
+            "tag": "musteline",
+            "score": 0.84997
+          },
+          {
+            "tag": "white fur",
+            "score": 0.84492
+          },
+          {
+            "tag": "pink fur",
+            "score": 0.84286
+          },
+          {
+            "tag": "furniture",
+            "score": 0.82219
+          }
+        ]
       }
     },
     {
@@ -17178,6 +22278,176 @@
         "emoticons": [
           "🤗",
           "👋"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "92be8e7ac2445f4c29290484ec0a5de8cc6435a86ec87143c497084e39004ea9",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "real",
+            "score": 0.99957
+          },
+          {
+            "tag": "murine",
+            "score": 0.99745
+          },
+          {
+            "tag": "low res",
+            "score": 0.99494
+          },
+          {
+            "tag": "rodent",
+            "score": 0.99478
+          },
+          {
+            "tag": "feral",
+            "score": 0.99331
+          },
+          {
+            "tag": "murid",
+            "score": 0.9931
+          },
+          {
+            "tag": "brown background",
+            "score": 0.99242
+          },
+          {
+            "tag": "photorealism",
+            "score": 0.99115
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.98999
+          },
+          {
+            "tag": "pink nose",
+            "score": 0.98718
+          },
+          {
+            "tag": "realistic",
+            "score": 0.98594
+          },
+          {
+            "tag": "solo",
+            "score": 0.9855
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.98256
+          },
+          {
+            "tag": "pink skin",
+            "score": 0.97935
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.97558
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.97404
+          },
+          {
+            "tag": "semi-anthro",
+            "score": 0.95976
+          },
+          {
+            "tag": "mammal",
+            "score": 0.94967
+          },
+          {
+            "tag": "white fur",
+            "score": 0.94418
+          },
+          {
+            "tag": "tan fur",
+            "score": 0.94165
+          },
+          {
+            "tag": "rat",
+            "score": 0.93535
+          },
+          {
+            "tag": "bust portrait",
+            "score": 0.93535
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.93535
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.93245
+          },
+          {
+            "tag": "grandfathered content",
+            "score": 0.93146
+          },
+          {
+            "tag": "front view",
+            "score": 0.93046
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.92841
+          },
+          {
+            "tag": "icon",
+            "score": 0.92841
+          },
+          {
+            "tag": "white body",
+            "score": 0.91848
+          },
+          {
+            "tag": "mouse",
+            "score": 0.91848
+          },
+          {
+            "tag": "tan body",
+            "score": 0.91368
+          },
+          {
+            "tag": "young",
+            "score": 0.90731
+          },
+          {
+            "tag": "digital painting (artwork)",
+            "score": 0.89479
+          },
+          {
+            "tag": "1:1",
+            "score": 0.89331
+          },
+          {
+            "tag": "traditional media (artwork)",
+            "score": 0.8872
+          },
+          {
+            "tag": "pink body",
+            "score": 0.88563
+          },
+          {
+            "tag": "grey background",
+            "score": 0.87663
+          },
+          {
+            "tag": "portrait",
+            "score": 0.87493
+          },
+          {
+            "tag": "daww",
+            "score": 0.87235
+          },
+          {
+            "tag": "light body",
+            "score": 0.86883
+          }
         ]
       }
     },
@@ -17212,6 +22482,176 @@
           "🤕",
           "🤒"
         ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "80e24f8430d29f5934b62afb2dd0947909854d1eaf68c331bedf954140766ce1",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "real",
+            "score": 0.99963
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.99962
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.99553
+          },
+          {
+            "tag": "feral",
+            "score": 0.9939
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.9939
+          },
+          {
+            "tag": "no humans",
+            "score": 0.98935
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.98935
+          },
+          {
+            "tag": "realistic",
+            "score": 0.98678
+          },
+          {
+            "tag": "meme",
+            "score": 0.98458
+          },
+          {
+            "tag": "low res",
+            "score": 0.98409
+          },
+          {
+            "tag": "pink skin",
+            "score": 0.9836
+          },
+          {
+            "tag": "animal",
+            "score": 0.98256
+          },
+          {
+            "tag": "humor",
+            "score": 0.98088
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.98088
+          },
+          {
+            "tag": "wooden floor",
+            "score": 0.97998
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.97871
+          },
+          {
+            "tag": "rodent",
+            "score": 0.97667
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.97404
+          },
+          {
+            "tag": "brown background",
+            "score": 0.97199
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.96267
+          },
+          {
+            "tag": "wood",
+            "score": 0.95976
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.94499
+          },
+          {
+            "tag": "solo",
+            "score": 0.93902
+          },
+          {
+            "tag": "floor",
+            "score": 0.9344
+          },
+          {
+            "tag": "photo background",
+            "score": 0.93343
+          },
+          {
+            "tag": "white body",
+            "score": 0.92944
+          },
+          {
+            "tag": "pink body",
+            "score": 0.92841
+          },
+          {
+            "tag": "murine",
+            "score": 0.9149
+          },
+          {
+            "tag": "digital painting (artwork)",
+            "score": 0.91244
+          },
+          {
+            "tag": "mammal",
+            "score": 0.91118
+          },
+          {
+            "tag": "inside",
+            "score": 0.90192
+          },
+          {
+            "tag": "white fur",
+            "score": 0.89912
+          },
+          {
+            "tag": "portrait",
+            "score": 0.89625
+          },
+          {
+            "tag": "blurry background",
+            "score": 0.88876
+          },
+          {
+            "tag": "pun",
+            "score": 0.8872
+          },
+          {
+            "tag": "quadruped",
+            "score": 0.88404
+          },
+          {
+            "tag": "young",
+            "score": 0.88243
+          },
+          {
+            "tag": "1:1",
+            "score": 0.87147
+          },
+          {
+            "tag": "wood floor",
+            "score": 0.86522
+          },
+          {
+            "tag": "daww",
+            "score": 0.85872
+          }
+        ]
       }
     },
     {
@@ -17244,6 +22684,176 @@
           "🙂",
           "🥹"
         ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "e138f40b92e0ba9c3c2a8001b1e53a7c3e54ea98430c184f178c42f0d84639a8",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "whiskers",
+            "score": 0.99982
+          },
+          {
+            "tag": "low res",
+            "score": 0.999
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.99876
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.99539
+          },
+          {
+            "tag": "real",
+            "score": 0.9939
+          },
+          {
+            "tag": "mammal",
+            "score": 0.98867
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.98831
+          },
+          {
+            "tag": "electronics",
+            "score": 0.98678
+          },
+          {
+            "tag": "realistic",
+            "score": 0.9855
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.96741
+          },
+          {
+            "tag": "close-up",
+            "score": 0.96691
+          },
+          {
+            "tag": "white fur",
+            "score": 0.96432
+          },
+          {
+            "tag": "computer",
+            "score": 0.96378
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.96267
+          },
+          {
+            "tag": "humor",
+            "score": 0.96267
+          },
+          {
+            "tag": "rodent",
+            "score": 0.96153
+          },
+          {
+            "tag": "white body",
+            "score": 0.96095
+          },
+          {
+            "tag": "feral",
+            "score": 0.95976
+          },
+          {
+            "tag": "headshot portrait",
+            "score": 0.95598
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.95041
+          },
+          {
+            "tag": "true musteline",
+            "score": 0.94967
+          },
+          {
+            "tag": "brown body",
+            "score": 0.9458
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.94335
+          },
+          {
+            "tag": "meme",
+            "score": 0.92841
+          },
+          {
+            "tag": "portrait",
+            "score": 0.92523
+          },
+          {
+            "tag": "no humans",
+            "score": 0.91964
+          },
+          {
+            "tag": "grandfathered content",
+            "score": 0.91611
+          },
+          {
+            "tag": "bust portrait",
+            "score": 0.91244
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.89479
+          },
+          {
+            "tag": "solo",
+            "score": 0.89331
+          },
+          {
+            "tag": "mustelid",
+            "score": 0.88876
+          },
+          {
+            "tag": "black nose",
+            "score": 0.87997
+          },
+          {
+            "tag": "animal",
+            "score": 0.87321
+          },
+          {
+            "tag": "1:1",
+            "score": 0.87235
+          },
+          {
+            "tag": "domestic ferret",
+            "score": 0.86793
+          },
+          {
+            "tag": "computer keyboard",
+            "score": 0.8439
+          },
+          {
+            "tag": "stoat",
+            "score": 0.83332
+          },
+          {
+            "tag": "traditional media (artwork)",
+            "score": 0.83004
+          },
+          {
+            "tag": "icon",
+            "score": 0.82783
+          },
+          {
+            "tag": "inside",
+            "score": 0.81048
+          }
+        ]
       }
     },
     {
@@ -17273,6 +22883,176 @@
         "emoticons": [
           "🤨",
           "🫤"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "095117c46b9503eb892de0e7d850031ac8a0735207e3119f1536a3474f8c8212",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "flower",
+            "score": 0.99924
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.99894
+          },
+          {
+            "tag": "real",
+            "score": 0.9976
+          },
+          {
+            "tag": "feral",
+            "score": 0.99673
+          },
+          {
+            "tag": "realistic",
+            "score": 0.99142
+          },
+          {
+            "tag": "rodent",
+            "score": 0.99087
+          },
+          {
+            "tag": "plant",
+            "score": 0.98967
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.98867
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.98636
+          },
+          {
+            "tag": "white fur",
+            "score": 0.98256
+          },
+          {
+            "tag": "no humans",
+            "score": 0.97935
+          },
+          {
+            "tag": "white body",
+            "score": 0.97199
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.96886
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.9679
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.96741
+          },
+          {
+            "tag": "animal",
+            "score": 0.96267
+          },
+          {
+            "tag": "low res",
+            "score": 0.96211
+          },
+          {
+            "tag": "humor",
+            "score": 0.96036
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.95728
+          },
+          {
+            "tag": "meme",
+            "score": 0.95663
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.95663
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.95186
+          },
+          {
+            "tag": "blanket",
+            "score": 0.94499
+          },
+          {
+            "tag": "mammal",
+            "score": 0.94165
+          },
+          {
+            "tag": "solo",
+            "score": 0.91848
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.91611
+          },
+          {
+            "tag": "murid",
+            "score": 0.90862
+          },
+          {
+            "tag": "young",
+            "score": 0.89912
+          },
+          {
+            "tag": "daww",
+            "score": 0.89181
+          },
+          {
+            "tag": "grandfathered content",
+            "score": 0.87748
+          },
+          {
+            "tag": "blue flower",
+            "score": 0.86522
+          },
+          {
+            "tag": "pun",
+            "score": 0.86247
+          },
+          {
+            "tag": "flower in hair",
+            "score": 0.85872
+          },
+          {
+            "tag": "bed",
+            "score": 0.85391
+          },
+          {
+            "tag": "murine",
+            "score": 0.84286
+          },
+          {
+            "tag": "what",
+            "score": 0.83224
+          },
+          {
+            "tag": "photo (medium)",
+            "score": 0.82219
+          },
+          {
+            "tag": "capcom",
+            "score": 0.80928
+          },
+          {
+            "tag": "photo",
+            "score": 0.79693
+          },
+          {
+            "tag": "bedding",
+            "score": 0.78793
+          }
         ]
       }
     },
@@ -17305,6 +23085,176 @@
           "🧈",
           "🥚"
         ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "e2d6fb2be0573bcf280a624773f33adc1f0af4f7392fb71b9f8f4ca391a19fbb",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "real",
+            "score": 0.99984
+          },
+          {
+            "tag": "egg",
+            "score": 0.99945
+          },
+          {
+            "tag": "food",
+            "score": 0.99927
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.99924
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.99711
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.99683
+          },
+          {
+            "tag": "micro",
+            "score": 0.99673
+          },
+          {
+            "tag": "feral",
+            "score": 0.99553
+          },
+          {
+            "tag": "rodent",
+            "score": 0.99331
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.99242
+          },
+          {
+            "tag": "pancake",
+            "score": 0.99059
+          },
+          {
+            "tag": "dairy products",
+            "score": 0.98935
+          },
+          {
+            "tag": "murine",
+            "score": 0.98831
+          },
+          {
+            "tag": "low res",
+            "score": 0.98594
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.98504
+          },
+          {
+            "tag": "realistic",
+            "score": 0.98504
+          },
+          {
+            "tag": "detailed food",
+            "score": 0.98504
+          },
+          {
+            "tag": "butter",
+            "score": 0.97737
+          },
+          {
+            "tag": "container",
+            "score": 0.97595
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.97443
+          },
+          {
+            "tag": "humor",
+            "score": 0.97364
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.97364
+          },
+          {
+            "tag": "what",
+            "score": 0.97324
+          },
+          {
+            "tag": "white body",
+            "score": 0.96979
+          },
+          {
+            "tag": "eating",
+            "score": 0.96838
+          },
+          {
+            "tag": "plate",
+            "score": 0.9679
+          },
+          {
+            "tag": "murid",
+            "score": 0.96486
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.96323
+          },
+          {
+            "tag": "no humans",
+            "score": 0.96211
+          },
+          {
+            "tag": "detailed",
+            "score": 0.96211
+          },
+          {
+            "tag": "wood",
+            "score": 0.96036
+          },
+          {
+            "tag": "mammal",
+            "score": 0.95854
+          },
+          {
+            "tag": "meat",
+            "score": 0.95663
+          },
+          {
+            "tag": "young",
+            "score": 0.95598
+          },
+          {
+            "tag": "meme",
+            "score": 0.95532
+          },
+          {
+            "tag": "comically large object",
+            "score": 0.95186
+          },
+          {
+            "tag": "mixed media",
+            "score": 0.95114
+          },
+          {
+            "tag": "white fur",
+            "score": 0.94499
+          },
+          {
+            "tag": "inside",
+            "score": 0.93902
+          },
+          {
+            "tag": "marsupial",
+            "score": 0.93629
+          }
+        ]
       }
     },
     {
@@ -17333,6 +23283,176 @@
         "id": "5393229994530974155",
         "emoticons": [
           "🎮"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "415c70dca23772e7f860a80f0605a140b31c4a1aaebaf227bc33bee3288d5abd",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "controller",
+            "score": 1.0
+          },
+          {
+            "tag": "game controller",
+            "score": 1.0
+          },
+          {
+            "tag": "holding controller",
+            "score": 0.99968
+          },
+          {
+            "tag": "playstation controller",
+            "score": 0.99939
+          },
+          {
+            "tag": "holding game controller",
+            "score": 0.99903
+          },
+          {
+            "tag": "gamepad",
+            "score": 0.99887
+          },
+          {
+            "tag": "playstation",
+            "score": 0.99641
+          },
+          {
+            "tag": "gaming",
+            "score": 0.99539
+          },
+          {
+            "tag": "playing games",
+            "score": 0.99539
+          },
+          {
+            "tag": "no humans",
+            "score": 0.99524
+          },
+          {
+            "tag": "dualshock",
+            "score": 0.99509
+          },
+          {
+            "tag": "game console",
+            "score": 0.99494
+          },
+          {
+            "tag": "realistic",
+            "score": 0.99087
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.99029
+          },
+          {
+            "tag": "sony corporation",
+            "score": 0.97805
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.97595
+          },
+          {
+            "tag": "playstation 4",
+            "score": 0.97364
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.97199
+          },
+          {
+            "tag": "animal",
+            "score": 0.96838
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.96095
+          },
+          {
+            "tag": "xbox controller",
+            "score": 0.95854
+          },
+          {
+            "tag": "sony interactive entertainment",
+            "score": 0.95728
+          },
+          {
+            "tag": "english commentary",
+            "score": 0.95465
+          },
+          {
+            "tag": "xbox 360",
+            "score": 0.94418
+          },
+          {
+            "tag": "real",
+            "score": 0.93146
+          },
+          {
+            "tag": "original",
+            "score": 0.92192
+          },
+          {
+            "tag": "photo-referenced",
+            "score": 0.91244
+          },
+          {
+            "tag": "d-pad",
+            "score": 0.90991
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.87997
+          },
+          {
+            "tag": "meme",
+            "score": 0.87748
+          },
+          {
+            "tag": "playing video game",
+            "score": 0.8706
+          },
+          {
+            "tag": "real life",
+            "score": 0.86339
+          },
+          {
+            "tag": "true musteline",
+            "score": 0.86247
+          },
+          {
+            "tag": "pink skin",
+            "score": 0.85777
+          },
+          {
+            "tag": "joystick",
+            "score": 0.85681
+          },
+          {
+            "tag": "fluffy",
+            "score": 0.85294
+          },
+          {
+            "tag": "on stomach",
+            "score": 0.82671
+          },
+          {
+            "tag": "video game",
+            "score": 0.82559
+          },
+          {
+            "tag": "playstation 5",
+            "score": 0.82559
+          },
+          {
+            "tag": "microsoft",
+            "score": 0.81523
+          }
         ]
       }
     },
@@ -17364,6 +23484,176 @@
           "🎧",
           "🎵",
           "🎶"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "9aeda25cadd0c15d70d1e2f793ecd94bb3995f6ebb43bb3c27d8add22b2f9a89",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "headphones",
+            "score": 0.99999
+          },
+          {
+            "tag": "electronics",
+            "score": 0.9999
+          },
+          {
+            "tag": "real",
+            "score": 0.99683
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.99629
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.98967
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.98967
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.98636
+          },
+          {
+            "tag": "feral",
+            "score": 0.98504
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.98174
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.97805
+          },
+          {
+            "tag": "solo",
+            "score": 0.97771
+          },
+          {
+            "tag": "realistic",
+            "score": 0.97595
+          },
+          {
+            "tag": "white fur",
+            "score": 0.97283
+          },
+          {
+            "tag": "headgear",
+            "score": 0.96153
+          },
+          {
+            "tag": "mammal",
+            "score": 0.96095
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.96095
+          },
+          {
+            "tag": "no humans",
+            "score": 0.95728
+          },
+          {
+            "tag": "humor",
+            "score": 0.95598
+          },
+          {
+            "tag": "white body",
+            "score": 0.95465
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.95397
+          },
+          {
+            "tag": "1:1",
+            "score": 0.94815
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.9458
+          },
+          {
+            "tag": "meme",
+            "score": 0.93902
+          },
+          {
+            "tag": "portrait",
+            "score": 0.92841
+          },
+          {
+            "tag": "digital painting (artwork)",
+            "score": 0.90731
+          },
+          {
+            "tag": "animal",
+            "score": 0.88563
+          },
+          {
+            "tag": "low res",
+            "score": 0.88563
+          },
+          {
+            "tag": "headphones around neck",
+            "score": 0.87321
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.86704
+          },
+          {
+            "tag": "headshot portrait",
+            "score": 0.86431
+          },
+          {
+            "tag": "domestic ferret",
+            "score": 0.85966
+          },
+          {
+            "tag": "daww",
+            "score": 0.84997
+          },
+          {
+            "tag": "quadruped",
+            "score": 0.83868
+          },
+          {
+            "tag": "tan fur",
+            "score": 0.83762
+          },
+          {
+            "tag": "rodent",
+            "score": 0.83004
+          },
+          {
+            "tag": "tan body",
+            "score": 0.82894
+          },
+          {
+            "tag": "photorealism",
+            "score": 0.82671
+          },
+          {
+            "tag": "close-up",
+            "score": 0.79693
+          },
+          {
+            "tag": "photo background",
+            "score": 0.79311
+          },
+          {
+            "tag": "pun",
+            "score": 0.79182
+          }
         ]
       }
     },
@@ -17399,6 +23689,176 @@
           "😒",
           "😓"
         ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "c27afbeddc9099d4c22d0e5c8e1044f95f73bf07598a7c3ba98d249d2cf69ed4",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "blanket",
+            "score": 0.99929
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.99876
+          },
+          {
+            "tag": "low res",
+            "score": 0.9972
+          },
+          {
+            "tag": "bedding",
+            "score": 0.99494
+          },
+          {
+            "tag": "animal",
+            "score": 0.98795
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.9855
+          },
+          {
+            "tag": "close-up",
+            "score": 0.98458
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.98458
+          },
+          {
+            "tag": "under covers",
+            "score": 0.97631
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.97595
+          },
+          {
+            "tag": "real",
+            "score": 0.97024
+          },
+          {
+            "tag": "sleeping",
+            "score": 0.96886
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.95854
+          },
+          {
+            "tag": "bed sheet",
+            "score": 0.95465
+          },
+          {
+            "tag": "humor",
+            "score": 0.95465
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.95041
+          },
+          {
+            "tag": "solo",
+            "score": 0.9466
+          },
+          {
+            "tag": "feral",
+            "score": 0.93812
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.93812
+          },
+          {
+            "tag": "no humans",
+            "score": 0.93535
+          },
+          {
+            "tag": "meme",
+            "score": 0.9344
+          },
+          {
+            "tag": "bed",
+            "score": 0.93146
+          },
+          {
+            "tag": "1:1",
+            "score": 0.92736
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.91848
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.90599
+          },
+          {
+            "tag": "mammal",
+            "score": 0.8977
+          },
+          {
+            "tag": "pillow",
+            "score": 0.87748
+          },
+          {
+            "tag": "headshot portrait",
+            "score": 0.87321
+          },
+          {
+            "tag": "english commentary",
+            "score": 0.86793
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.86613
+          },
+          {
+            "tag": "brown body",
+            "score": 0.85681
+          },
+          {
+            "tag": "domestic ferret",
+            "score": 0.85681
+          },
+          {
+            "tag": "tan fur",
+            "score": 0.85488
+          },
+          {
+            "tag": "furniture",
+            "score": 0.85294
+          },
+          {
+            "tag": "daww",
+            "score": 0.83973
+          },
+          {
+            "tag": "on bed",
+            "score": 0.83762
+          },
+          {
+            "tag": "icon",
+            "score": 0.83332
+          },
+          {
+            "tag": "bust portrait",
+            "score": 0.83224
+          },
+          {
+            "tag": "crying",
+            "score": 0.81523
+          },
+          {
+            "tag": "tan body",
+            "score": 0.79944
+          }
+        ]
       }
     },
     {
@@ -17429,6 +23889,176 @@
           "👋",
           "😳",
           "🥹"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "aafadd5911d2e786bc9af3b6dde117f0e695d13eb3a88f9ad866c9fd4857b5c8",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "door",
+            "score": 0.99998
+          },
+          {
+            "tag": "real",
+            "score": 0.99887
+          },
+          {
+            "tag": "doorway",
+            "score": 0.99883
+          },
+          {
+            "tag": "rodent",
+            "score": 0.99371
+          },
+          {
+            "tag": "grandfathered content",
+            "score": 0.99029
+          },
+          {
+            "tag": "open door",
+            "score": 0.98678
+          },
+          {
+            "tag": "inside",
+            "score": 0.98594
+          },
+          {
+            "tag": "feral",
+            "score": 0.9855
+          },
+          {
+            "tag": "mammal",
+            "score": 0.97771
+          },
+          {
+            "tag": "meme",
+            "score": 0.97364
+          },
+          {
+            "tag": "doorknob",
+            "score": 0.96979
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.96641
+          },
+          {
+            "tag": "photo",
+            "score": 0.96095
+          },
+          {
+            "tag": "low res",
+            "score": 0.95915
+          },
+          {
+            "tag": "peeking out",
+            "score": 0.94738
+          },
+          {
+            "tag": "true musteline",
+            "score": 0.9466
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.94335
+          },
+          {
+            "tag": "animal",
+            "score": 0.94251
+          },
+          {
+            "tag": "against surface",
+            "score": 0.94165
+          },
+          {
+            "tag": "hamster",
+            "score": 0.94165
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.93812
+          },
+          {
+            "tag": "brown body",
+            "score": 0.93629
+          },
+          {
+            "tag": "against wall",
+            "score": 0.93046
+          },
+          {
+            "tag": "1:1",
+            "score": 0.9173
+          },
+          {
+            "tag": "humor",
+            "score": 0.90053
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.88404
+          },
+          {
+            "tag": "murine",
+            "score": 0.87493
+          },
+          {
+            "tag": "realistic",
+            "score": 0.8706
+          },
+          {
+            "tag": "opening door",
+            "score": 0.8706
+          },
+          {
+            "tag": "hiding",
+            "score": 0.86339
+          },
+          {
+            "tag": "mustelid",
+            "score": 0.85777
+          },
+          {
+            "tag": "compression artifacts",
+            "score": 0.85585
+          },
+          {
+            "tag": "daww",
+            "score": 0.85195
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.84183
+          },
+          {
+            "tag": "weasel",
+            "score": 0.83548
+          },
+          {
+            "tag": "chipmunk",
+            "score": 0.83548
+          },
+          {
+            "tag": "murid",
+            "score": 0.83114
+          },
+          {
+            "tag": "cricetid",
+            "score": 0.82333
+          },
+          {
+            "tag": "solo",
+            "score": 0.81405
+          },
+          {
+            "tag": "no humans",
+            "score": 0.81048
+          }
         ]
       }
     },
@@ -17463,6 +24093,176 @@
           "🤚",
           "✋",
           "👐"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "f5ccc31c25b0c30ef5c6f4fce84a9b9cf499d6c09210d1653a75458b6bbf89e8",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "real",
+            "score": 0.99954
+          },
+          {
+            "tag": "photography (artwork)",
+            "score": 0.99927
+          },
+          {
+            "tag": "hedgehog",
+            "score": 0.99917
+          },
+          {
+            "tag": "photo",
+            "score": 0.99863
+          },
+          {
+            "tag": "photo manipulation",
+            "score": 0.99845
+          },
+          {
+            "tag": "feral",
+            "score": 0.99775
+          },
+          {
+            "tag": "photo background",
+            "score": 0.99494
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.99242
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.98999
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.98867
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.98174
+          },
+          {
+            "tag": "eulipotyphlan",
+            "score": 0.98174
+          },
+          {
+            "tag": "semi-anthro",
+            "score": 0.98145
+          },
+          {
+            "tag": "meme",
+            "score": 0.98058
+          },
+          {
+            "tag": "realistic",
+            "score": 0.97998
+          },
+          {
+            "tag": "humor",
+            "score": 0.97967
+          },
+          {
+            "tag": "rodent",
+            "score": 0.97871
+          },
+          {
+            "tag": "white body",
+            "score": 0.9752
+          },
+          {
+            "tag": "white fur",
+            "score": 0.97482
+          },
+          {
+            "tag": "carrying another",
+            "score": 0.97364
+          },
+          {
+            "tag": "mammal",
+            "score": 0.97241
+          },
+          {
+            "tag": "grandfathered content",
+            "score": 0.96378
+          },
+          {
+            "tag": "traditional media (artwork)",
+            "score": 0.96095
+          },
+          {
+            "tag": "mixed media",
+            "score": 0.96095
+          },
+          {
+            "tag": "young",
+            "score": 0.94815
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.94165
+          },
+          {
+            "tag": "quadruped",
+            "score": 0.93991
+          },
+          {
+            "tag": "porcupine",
+            "score": 0.93629
+          },
+          {
+            "tag": "inside",
+            "score": 0.93535
+          },
+          {
+            "tag": "1:1",
+            "score": 0.93146
+          },
+          {
+            "tag": "low res",
+            "score": 0.93146
+          },
+          {
+            "tag": "photorealism",
+            "score": 0.92736
+          },
+          {
+            "tag": "murid",
+            "score": 0.92192
+          },
+          {
+            "tag": "detailed",
+            "score": 0.91964
+          },
+          {
+            "tag": "detailed background",
+            "score": 0.91848
+          },
+          {
+            "tag": "quills (anatomy)",
+            "score": 0.90731
+          },
+          {
+            "tag": "poster",
+            "score": 0.90465
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.90192
+          },
+          {
+            "tag": "digital painting (artwork)",
+            "score": 0.8872
+          },
+          {
+            "tag": "pink skin",
+            "score": 0.88243
+          }
         ]
       }
     }
