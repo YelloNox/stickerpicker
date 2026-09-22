@@ -38,8 +38,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "3d2029fc2ae44b9b92ae4cafa394e1063bfddeed0fd300541b72c3a036b6d167",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -201,6 +201,142 @@
           {
             "tag": "commentary",
             "score": 0.83762
+          },
+          {
+            "tag": "slit pupils",
+            "score": 0.82671
+          },
+          {
+            "tag": "solo",
+            "score": 0.81287
+          },
+          {
+            "tag": "felis",
+            "score": 0.80317
+          },
+          {
+            "tag": "holding box",
+            "score": 0.79944
+          },
+          {
+            "tag": "still life",
+            "score": 0.79311
+          },
+          {
+            "tag": "messy hair",
+            "score": 0.79053
+          },
+          {
+            "tag": "chibi",
+            "score": 0.75201
+          },
+          {
+            "tag": "green sclera",
+            "score": 0.72487
+          },
+          {
+            "tag": "solid circle pupils",
+            "score": 0.71542
+          },
+          {
+            "tag": "photo-referenced",
+            "score": 0.69264
+          },
+          {
+            "tag": "gift wrapping",
+            "score": 0.69264
+          },
+          {
+            "tag": "transparent background",
+            "score": 0.66628
+          },
+          {
+            "tag": "grey cat",
+            "score": 0.6478
+          },
+          {
+            "tag": "chibi only",
+            "score": 0.64333
+          },
+          {
+            "tag": "blending",
+            "score": 0.64333
+          },
+          {
+            "tag": "cat girl",
+            "score": 0.63522
+          },
+          {
+            "tag": "no lineart",
+            "score": 0.6325
+          },
+          {
+            "tag": "wide-eyed",
+            "score": 0.61878
+          },
+          {
+            "tag": "animalization",
+            "score": 0.57463
+          },
+          {
+            "tag": ":3",
+            "score": 0.56554
+          },
+          {
+            "tag": "christmas",
+            "score": 0.5617
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.55688
+          },
+          {
+            "tag": "grey background",
+            "score": 0.55447
+          },
+          {
+            "tag": "commentary request",
+            "score": 0.54819
+          },
+          {
+            "tag": "brown cat",
+            "score": 0.53631
+          },
+          {
+            "tag": "mixed-language commentary",
+            "score": 0.53461
+          },
+          {
+            "tag": "cardboard box",
+            "score": 0.53388
+          },
+          {
+            "tag": "arknights",
+            "score": 0.53291
+          },
+          {
+            "tag": "feline",
+            "score": 0.52695
+          },
+          {
+            "tag": "copyright request",
+            "score": 0.51105
+          },
+          {
+            "tag": "tuxedo cat",
+            "score": 0.50995
+          },
+          {
+            "tag": "derivative work",
+            "score": 0.50742
+          },
+          {
+            "tag": "no nose",
+            "score": 0.50412
+          },
+          {
+            "tag": "bad id",
+            "score": 0.50346
           }
         ]
       }
@@ -240,8 +376,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "643f2f3a640ac7463effca1bf60c9f0d68c9cb1d61289cf73a8400e67987b819",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -403,6 +539,194 @@
           {
             "tag": "meme",
             "score": 0.81405
+          },
+          {
+            "tag": "jaggy lines",
+            "score": 0.81405
+          },
+          {
+            "tag": "dungeon meshi",
+            "score": 0.80928
+          },
+          {
+            "tag": "cat tail",
+            "score": 0.80317
+          },
+          {
+            "tag": "blue sky",
+            "score": 0.79311
+          },
+          {
+            "tag": "english commentary",
+            "score": 0.79053
+          },
+          {
+            "tag": "christmas",
+            "score": 0.78399
+          },
+          {
+            "tag": "outdoors",
+            "score": 0.77865
+          },
+          {
+            "tag": "no mouth",
+            "score": 0.77046
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.75347
+          },
+          {
+            "tag": "grey sky",
+            "score": 0.70982
+          },
+          {
+            "tag": "holding cat",
+            "score": 0.69596
+          },
+          {
+            "tag": "steam",
+            "score": 0.69014
+          },
+          {
+            "tag": "commentary",
+            "score": 0.68595
+          },
+          {
+            "tag": "tail",
+            "score": 0.68088
+          },
+          {
+            "tag": "aqua background",
+            "score": 0.67747
+          },
+          {
+            "tag": "straight-on",
+            "score": 0.67319
+          },
+          {
+            "tag": "felid",
+            "score": 0.67233
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.67147
+          },
+          {
+            "tag": "slit pupils",
+            "score": 0.66715
+          },
+          {
+            "tag": "animalization",
+            "score": 0.66715
+          },
+          {
+            "tag": "green sclera",
+            "score": 0.65489
+          },
+          {
+            "tag": "brown cat",
+            "score": 0.65313
+          },
+          {
+            "tag": "derivative work",
+            "score": 0.64958
+          },
+          {
+            "tag": "yellow scarf",
+            "score": 0.64333
+          },
+          {
+            "tag": "santa hat",
+            "score": 0.63432
+          },
+          {
+            "tag": "other focus",
+            "score": 0.62977
+          },
+          {
+            "tag": "red headwear",
+            "score": 0.62429
+          },
+          {
+            "tag": "limited palette",
+            "score": 0.62429
+          },
+          {
+            "tag": "shadow",
+            "score": 0.622
+          },
+          {
+            "tag": "sitting",
+            "score": 0.62016
+          },
+          {
+            "tag": "no nose",
+            "score": 0.6044
+          },
+          {
+            "tag": "black tail",
+            "score": 0.60113
+          },
+          {
+            "tag": "winter coat",
+            "score": 0.60019
+          },
+          {
+            "tag": "pupils",
+            "score": 0.59314
+          },
+          {
+            "tag": "cat ears",
+            "score": 0.58415
+          },
+          {
+            "tag": "copyright request",
+            "score": 0.57892
+          },
+          {
+            "tag": "grey cat",
+            "score": 0.57845
+          },
+          {
+            "tag": "cloudy sky",
+            "score": 0.55905
+          },
+          {
+            "tag": "kitten",
+            "score": 0.55809
+          },
+          {
+            "tag": "bad twitter id",
+            "score": 0.55712
+          },
+          {
+            "tag": "simple background",
+            "score": 0.55326
+          },
+          {
+            "tag": "snow on head",
+            "score": 0.54964
+          },
+          {
+            "tag": "sky",
+            "score": 0.53364
+          },
+          {
+            "tag": "1boy",
+            "score": 0.52963
+          },
+          {
+            "tag": "chibi",
+            "score": 0.52671
+          },
+          {
+            "tag": "wide-eyed",
+            "score": 0.51525
+          },
+          {
+            "tag": "bad id",
+            "score": 0.50001
           }
         ]
       }
@@ -440,8 +764,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "01017fb99a087e49df14e38c171778ead6f54baae50349728391bf6a74444154",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -603,6 +927,114 @@
           {
             "tag": "holding cat",
             "score": 0.76769
+          },
+          {
+            "tag": "cable",
+            "score": 0.76207
+          },
+          {
+            "tag": "on stomach",
+            "score": 0.74167
+          },
+          {
+            "tag": "jaggy lines",
+            "score": 0.72643
+          },
+          {
+            "tag": "white cat",
+            "score": 0.72331
+          },
+          {
+            "tag": "entangled",
+            "score": 0.71622
+          },
+          {
+            "tag": "grey cat",
+            "score": 0.71542
+          },
+          {
+            "tag": "bad twitter id",
+            "score": 0.70089
+          },
+          {
+            "tag": "other focus",
+            "score": 0.69843
+          },
+          {
+            "tag": "too many",
+            "score": 0.69761
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.67747
+          },
+          {
+            "tag": "legs up",
+            "score": 0.67233
+          },
+          {
+            "tag": "tail",
+            "score": 0.67061
+          },
+          {
+            "tag": "commentary",
+            "score": 0.65489
+          },
+          {
+            "tag": "clothed animal",
+            "score": 0.63432
+          },
+          {
+            "tag": "string lights",
+            "score": 0.6325
+          },
+          {
+            "tag": "pawpads",
+            "score": 0.60673
+          },
+          {
+            "tag": "animalization",
+            "score": 0.60673
+          },
+          {
+            "tag": "bad id",
+            "score": 0.60066
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.58794
+          },
+          {
+            "tag": "1other",
+            "score": 0.57081
+          },
+          {
+            "tag": "white outline",
+            "score": 0.56889
+          },
+          {
+            "tag": "messy hair",
+            "score": 0.54359
+          },
+          {
+            "tag": "third-party source",
+            "score": 0.54117
+          },
+          {
+            "tag": "black tail",
+            "score": 0.53036
+          },
+          {
+            "tag": "multiple tails",
+            "score": 0.53036
+          },
+          {
+            "tag": "brown cat",
+            "score": 0.53024
+          },
+          {
+            "tag": "slit pupils",
+            "score": 0.52586
           }
         ]
       }
@@ -640,8 +1072,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "2a57ac639ff86dd9cc0c24ed21e1c085877f00464db798d599d2d7160ff0984f",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -803,6 +1235,194 @@
           {
             "tag": "symbol-only commentary",
             "score": 0.84696
+          },
+          {
+            "tag": "photo-referenced",
+            "score": 0.83762
+          },
+          {
+            "tag": ":3",
+            "score": 0.83548
+          },
+          {
+            "tag": "brown cat",
+            "score": 0.83548
+          },
+          {
+            "tag": "bad twitter id",
+            "score": 0.82333
+          },
+          {
+            "tag": "cat ears",
+            "score": 0.80807
+          },
+          {
+            "tag": "grey cat",
+            "score": 0.80685
+          },
+          {
+            "tag": "transparent background",
+            "score": 0.80563
+          },
+          {
+            "tag": "raised tail",
+            "score": 0.79182
+          },
+          {
+            "tag": "tail raised",
+            "score": 0.79182
+          },
+          {
+            "tag": "limbus company",
+            "score": 0.78531
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.77458
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.75491
+          },
+          {
+            "tag": "fluffy",
+            "score": 0.75055
+          },
+          {
+            "tag": "v-shaped eyebrows",
+            "score": 0.75055
+          },
+          {
+            "tag": "jaggy lines",
+            "score": 0.74466
+          },
+          {
+            "tag": "yellow outline",
+            "score": 0.73716
+          },
+          {
+            "tag": "messy hair",
+            "score": 0.73564
+          },
+          {
+            "tag": "solo",
+            "score": 0.73412
+          },
+          {
+            "tag": "artist request",
+            "score": 0.73259
+          },
+          {
+            "tag": "pleading eyes",
+            "score": 0.72952
+          },
+          {
+            "tag": "felis",
+            "score": 0.72253
+          },
+          {
+            "tag": "chibi only",
+            "score": 0.71701
+          },
+          {
+            "tag": "^^^",
+            "score": 0.70497
+          },
+          {
+            "tag": "domestic cat",
+            "score": 0.69513
+          },
+          {
+            "tag": "commentary",
+            "score": 0.68847
+          },
+          {
+            "tag": "spoken anger vein",
+            "score": 0.66367
+          },
+          {
+            "tag": "from behind",
+            "score": 0.65578
+          },
+          {
+            "tag": "white cat",
+            "score": 0.65489
+          },
+          {
+            "tag": "+ +",
+            "score": 0.64512
+          },
+          {
+            "tag": "body fur",
+            "score": 0.64423
+          },
+          {
+            "tag": "wolf tail",
+            "score": 0.63341
+          },
+          {
+            "tag": "traditional media",
+            "score": 0.62977
+          },
+          {
+            "tag": "dog",
+            "score": 0.6058
+          },
+          {
+            "tag": "film grain",
+            "score": 0.60019
+          },
+          {
+            "tag": "too many",
+            "score": 0.59361
+          },
+          {
+            "tag": "animal ear fluff",
+            "score": 0.5813
+          },
+          {
+            "tag": "clothed animal",
+            "score": 0.5813
+          },
+          {
+            "tag": "kaenbyou rin",
+            "score": 0.57559
+          },
+          {
+            "tag": "lobotomy corporation",
+            "score": 0.56746
+          },
+          {
+            "tag": "wolf ears",
+            "score": 0.5641
+          },
+          {
+            "tag": "sparkling eyes",
+            "score": 0.56073
+          },
+          {
+            "tag": "on stomach",
+            "score": 0.5494
+          },
+          {
+            "tag": "other focus",
+            "score": 0.51903
+          },
+          {
+            "tag": "virtual youtuber",
+            "score": 0.50799
+          },
+          {
+            "tag": "dot nose",
+            "score": 0.50574
+          },
+          {
+            "tag": "squiggle",
+            "score": 0.50479
+          },
+          {
+            "tag": "all fours",
+            "score": 0.5018
           }
         ]
       }
@@ -839,8 +1459,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "5d7662f9196bfe0f4e07d10484370e7e777344c9ca5fd192553a621e3afd9717",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -1002,6 +1622,142 @@
           {
             "tag": "screaming",
             "score": 0.78793
+          },
+          {
+            "tag": "surprised",
+            "score": 0.78662
+          },
+          {
+            "tag": "head back",
+            "score": 0.78662
+          },
+          {
+            "tag": "emanata",
+            "score": 0.78531
+          },
+          {
+            "tag": "fluffy",
+            "score": 0.78133
+          },
+          {
+            "tag": "bad twitter id",
+            "score": 0.77458
+          },
+          {
+            "tag": "yawning",
+            "score": 0.75923
+          },
+          {
+            "tag": "crying",
+            "score": 0.73412
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.72798
+          },
+          {
+            "tag": "messy hair",
+            "score": 0.72565
+          },
+          {
+            "tag": "commentary",
+            "score": 0.71622
+          },
+          {
+            "tag": "pokemon (creature)",
+            "score": 0.7066
+          },
+          {
+            "tag": "happy",
+            "score": 0.66715
+          },
+          {
+            "tag": "jaggy lines",
+            "score": 0.6478
+          },
+          {
+            "tag": "tail",
+            "score": 0.64512
+          },
+          {
+            "tag": "virtual youtuber",
+            "score": 0.64243
+          },
+          {
+            "tag": "korean commentary",
+            "score": 0.6197
+          },
+          {
+            "tag": "sitting",
+            "score": 0.61185
+          },
+          {
+            "tag": "multiple tails",
+            "score": 0.60019
+          },
+          {
+            "tag": "holding animal",
+            "score": 0.58605
+          },
+          {
+            "tag": "derivative work",
+            "score": 0.57416
+          },
+          {
+            "tag": "creature",
+            "score": 0.57224
+          },
+          {
+            "tag": "commentary request",
+            "score": 0.56218
+          },
+          {
+            "tag": "from above",
+            "score": 0.56097
+          },
+          {
+            "tag": "felis",
+            "score": 0.55736
+          },
+          {
+            "tag": "chibi only",
+            "score": 0.55254
+          },
+          {
+            "tag": "1other",
+            "score": 0.55206
+          },
+          {
+            "tag": "outstretched arms",
+            "score": 0.54407
+          },
+          {
+            "tag": "laughing",
+            "score": 0.54165
+          },
+          {
+            "tag": "wide-eyed",
+            "score": 0.53728
+          },
+          {
+            "tag": "alternate color",
+            "score": 0.53084
+          },
+          {
+            "tag": "clothed animal",
+            "score": 0.52147
+          },
+          {
+            "tag": "cat tail",
+            "score": 0.51757
+          },
+          {
+            "tag": "photo-referenced",
+            "score": 0.51513
+          },
+          {
+            "tag": "tearing up",
+            "score": 0.51446
           }
         ]
       }
@@ -1038,8 +1794,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "6dbe630f23c225784e13ac793c252f13f24703312a141ed4b376725766407e00",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -1201,6 +1957,246 @@
           {
             "tag": "blep",
             "score": 0.85391
+          },
+          {
+            "tag": "felis",
+            "score": 0.85294
+          },
+          {
+            "tag": "jaggy lines",
+            "score": 0.85096
+          },
+          {
+            "tag": "container",
+            "score": 0.8439
+          },
+          {
+            "tag": "solo",
+            "score": 0.83655
+          },
+          {
+            "tag": "transparent background",
+            "score": 0.82671
+          },
+          {
+            "tag": "bad twitter id",
+            "score": 0.82333
+          },
+          {
+            "tag": "messy hair",
+            "score": 0.81048
+          },
+          {
+            "tag": "milk",
+            "score": 0.80317
+          },
+          {
+            "tag": "bowl",
+            "score": 0.79693
+          },
+          {
+            "tag": "steam",
+            "score": 0.79053
+          },
+          {
+            "tag": "1other",
+            "score": 0.77999
+          },
+          {
+            "tag": "notice lines",
+            "score": 0.77594
+          },
+          {
+            "tag": "disposable cup",
+            "score": 0.77594
+          },
+          {
+            "tag": "black body",
+            "score": 0.77458
+          },
+          {
+            "tag": "kitten",
+            "score": 0.77322
+          },
+          {
+            "tag": "other focus",
+            "score": 0.76489
+          },
+          {
+            "tag": "solid circle pupils",
+            "score": 0.76489
+          },
+          {
+            "tag": "lowres",
+            "score": 0.75923
+          },
+          {
+            "tag": "project moon",
+            "score": 0.75347
+          },
+          {
+            "tag": "straight-on",
+            "score": 0.75055
+          },
+          {
+            "tag": "holding drink",
+            "score": 0.75055
+          },
+          {
+            "tag": "body fur",
+            "score": 0.74017
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.73867
+          },
+          {
+            "tag": "from behind",
+            "score": 0.72643
+          },
+          {
+            "tag": "cat tail",
+            "score": 0.72409
+          },
+          {
+            "tag": "wolf ears",
+            "score": 0.71701
+          },
+          {
+            "tag": "cat ears",
+            "score": 0.71383
+          },
+          {
+            "tag": "feline",
+            "score": 0.70416
+          },
+          {
+            "tag": "pokemon (creature)",
+            "score": 0.70008
+          },
+          {
+            "tag": "snowing",
+            "score": 0.68679
+          },
+          {
+            "tag": "black tail",
+            "score": 0.68342
+          },
+          {
+            "tag": "arknights",
+            "score": 0.68003
+          },
+          {
+            "tag": ":3",
+            "score": 0.67491
+          },
+          {
+            "tag": ":q",
+            "score": 0.67061
+          },
+          {
+            "tag": "commentary",
+            "score": 0.66628
+          },
+          {
+            "tag": "clothed animal",
+            "score": 0.65313
+          },
+          {
+            "tag": "tea",
+            "score": 0.6478
+          },
+          {
+            "tag": "animal ears",
+            "score": 0.64243
+          },
+          {
+            "tag": "holding food",
+            "score": 0.63793
+          },
+          {
+            "tag": "creature",
+            "score": 0.62886
+          },
+          {
+            "tag": "derivative work",
+            "score": 0.62886
+          },
+          {
+            "tag": "wolf tail",
+            "score": 0.61832
+          },
+          {
+            "tag": "animal ear fluff",
+            "score": 0.60066
+          },
+          {
+            "tag": "artist request",
+            "score": 0.60066
+          },
+          {
+            "tag": "teacup",
+            "score": 0.59878
+          },
+          {
+            "tag": "tail raised",
+            "score": 0.59031
+          },
+          {
+            "tag": "male focus",
+            "score": 0.5832
+          },
+          {
+            "tag": "tail",
+            "score": 0.57797
+          },
+          {
+            "tag": "fluffy",
+            "score": 0.56362
+          },
+          {
+            "tag": "disposable coffee cup",
+            "score": 0.55712
+          },
+          {
+            "tag": "animal hands",
+            "score": 0.55375
+          },
+          {
+            "tag": "snowflake print",
+            "score": 0.55182
+          },
+          {
+            "tag": "sitting",
+            "score": 0.54988
+          },
+          {
+            "tag": "luo xiaohei",
+            "score": 0.54456
+          },
+          {
+            "tag": "two tails",
+            "score": 0.53607
+          },
+          {
+            "tag": "grey outline",
+            "score": 0.53121
+          },
+          {
+            "tag": "drinking",
+            "score": 0.52305
+          },
+          {
+            "tag": "lobotomy corporation",
+            "score": 0.52293
+          },
+          {
+            "tag": "blending",
+            "score": 0.5205
+          },
+          {
+            "tag": "holding object",
+            "score": 0.51672
           }
         ]
       }
@@ -1239,8 +2235,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "e726a9af08a00e7ef1d4c4651259049c45405dc0931916f249b17b0b02acee8d",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -1402,6 +2398,246 @@
           {
             "tag": "yellow sclera",
             "score": 0.92079
+          },
+          {
+            "tag": "sunglasses",
+            "score": 0.91964
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.91848
+          },
+          {
+            "tag": "pince-nez",
+            "score": 0.91848
+          },
+          {
+            "tag": "other focus",
+            "score": 0.91611
+          },
+          {
+            "tag": "animal ears",
+            "score": 0.90991
+          },
+          {
+            "tag": "black-framed eyewear",
+            "score": 0.90991
+          },
+          {
+            "tag": "wreath",
+            "score": 0.90731
+          },
+          {
+            "tag": "green-framed eyewear",
+            "score": 0.90599
+          },
+          {
+            "tag": "opaque glasses",
+            "score": 0.90329
+          },
+          {
+            "tag": "yellow-framed eyewear",
+            "score": 0.89912
+          },
+          {
+            "tag": "clothed animal",
+            "score": 0.8977
+          },
+          {
+            "tag": "chibi only",
+            "score": 0.89625
+          },
+          {
+            "tag": "yellow eyes",
+            "score": 0.89479
+          },
+          {
+            "tag": "white-framed eyewear",
+            "score": 0.89331
+          },
+          {
+            "tag": "blue-framed eyewear",
+            "score": 0.89331
+          },
+          {
+            "tag": "artist request",
+            "score": 0.88563
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.88404
+          },
+          {
+            "tag": "facing viewer",
+            "score": 0.88404
+          },
+          {
+            "tag": "closed mouth",
+            "score": 0.87321
+          },
+          {
+            "tag": "meme",
+            "score": 0.87321
+          },
+          {
+            "tag": "under-rim eyewear",
+            "score": 0.86971
+          },
+          {
+            "tag": "furry",
+            "score": 0.86793
+          },
+          {
+            "tag": "christmas clothing",
+            "score": 0.86247
+          },
+          {
+            "tag": "touhou",
+            "score": 0.86154
+          },
+          {
+            "tag": "christmas ornaments",
+            "score": 0.85585
+          },
+          {
+            "tag": "lobotomy corporation",
+            "score": 0.85294
+          },
+          {
+            "tag": "body fur",
+            "score": 0.85195
+          },
+          {
+            "tag": "tree",
+            "score": 0.84078
+          },
+          {
+            "tag": "black body",
+            "score": 0.83762
+          },
+          {
+            "tag": "solid circle pupils",
+            "score": 0.83762
+          },
+          {
+            "tag": "animalization",
+            "score": 0.83441
+          },
+          {
+            "tag": "domestic cat",
+            "score": 0.82894
+          },
+          {
+            "tag": "christmas headwear",
+            "score": 0.82559
+          },
+          {
+            "tag": "1other",
+            "score": 0.82333
+          },
+          {
+            "tag": "upper body",
+            "score": 0.81874
+          },
+          {
+            "tag": "red headwear",
+            "score": 0.80807
+          },
+          {
+            "tag": "brown-framed eyewear",
+            "score": 0.80563
+          },
+          {
+            "tag": "project moon",
+            "score": 0.80317
+          },
+          {
+            "tag": "eyewear",
+            "score": 0.80069
+          },
+          {
+            "tag": "solo",
+            "score": 0.79182
+          },
+          {
+            "tag": "hololive",
+            "score": 0.77999
+          },
+          {
+            "tag": "holding",
+            "score": 0.77865
+          },
+          {
+            "tag": "official art",
+            "score": 0.76207
+          },
+          {
+            "tag": "green hat",
+            "score": 0.75923
+          },
+          {
+            "tag": "commentary",
+            "score": 0.75347
+          },
+          {
+            "tag": "cat tail",
+            "score": 0.75201
+          },
+          {
+            "tag": "full body",
+            "score": 0.73564
+          },
+          {
+            "tag": "arknights",
+            "score": 0.73412
+          },
+          {
+            "tag": "game cg",
+            "score": 0.72643
+          },
+          {
+            "tag": "beanie",
+            "score": 0.72643
+          },
+          {
+            "tag": "indie virtual youtuber",
+            "score": 0.71701
+          },
+          {
+            "tag": "santa costume",
+            "score": 0.70497
+          },
+          {
+            "tag": "semi-rimless eyewear",
+            "score": 0.69843
+          },
+          {
+            "tag": "happy",
+            "score": 0.69347
+          },
+          {
+            "tag": "portrait",
+            "score": 0.69098
+          },
+          {
+            "tag": "blending",
+            "score": 0.69014
+          },
+          {
+            "tag": "green sclera",
+            "score": 0.68257
+          },
+          {
+            "tag": "chinese commentary",
+            "score": 0.67662
+          },
+          {
+            "tag": "wavy mouth",
+            "score": 0.67662
+          },
+          {
+            "tag": "notice lines",
+            "score": 0.67233
           }
         ]
       }
@@ -1439,8 +2675,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "e2908fe5714d1e54fa5ca91afb29460c3d34c878cec21b0e27d1b59d882f0225",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -1602,6 +2838,238 @@
           {
             "tag": "clothed animal",
             "score": 0.83441
+          },
+          {
+            "tag": "feline",
+            "score": 0.83332
+          },
+          {
+            "tag": "black skin",
+            "score": 0.83332
+          },
+          {
+            "tag": "animalization",
+            "score": 0.82559
+          },
+          {
+            "tag": "english commentary",
+            "score": 0.81287
+          },
+          {
+            "tag": "pupils",
+            "score": 0.79438
+          },
+          {
+            "tag": "wide-eyed",
+            "score": 0.79311
+          },
+          {
+            "tag": "black tail",
+            "score": 0.78662
+          },
+          {
+            "tag": "semi-anthro",
+            "score": 0.78531
+          },
+          {
+            "tag": "solid circle eyes",
+            "score": 0.78531
+          },
+          {
+            "tag": "party",
+            "score": 0.76908
+          },
+          {
+            "tag": "container",
+            "score": 0.76769
+          },
+          {
+            "tag": "furry",
+            "score": 0.76207
+          },
+          {
+            "tag": "toony",
+            "score": 0.75055
+          },
+          {
+            "tag": "gift",
+            "score": 0.74167
+          },
+          {
+            "tag": "1other",
+            "score": 0.73867
+          },
+          {
+            "tag": "party hat",
+            "score": 0.73564
+          },
+          {
+            "tag": "explosive",
+            "score": 0.71938
+          },
+          {
+            "tag": "inflatable",
+            "score": 0.71303
+          },
+          {
+            "tag": "stuffed toy",
+            "score": 0.70982
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.7066
+          },
+          {
+            "tag": "fireworks",
+            "score": 0.70008
+          },
+          {
+            "tag": "big eyes",
+            "score": 0.6943
+          },
+          {
+            "tag": "shadow",
+            "score": 0.69347
+          },
+          {
+            "tag": "2019",
+            "score": 0.69264
+          },
+          {
+            "tag": "looking up",
+            "score": 0.69181
+          },
+          {
+            "tag": "green sclera",
+            "score": 0.68173
+          },
+          {
+            "tag": "no mouth",
+            "score": 0.65754
+          },
+          {
+            "tag": "happy",
+            "score": 0.64958
+          },
+          {
+            "tag": "male focus",
+            "score": 0.63884
+          },
+          {
+            "tag": "solo",
+            "score": 0.63341
+          },
+          {
+            "tag": "commentary",
+            "score": 0.61786
+          },
+          {
+            "tag": "feral",
+            "score": 0.61786
+          },
+          {
+            "tag": "glowstick",
+            "score": 0.61786
+          },
+          {
+            "tag": "1boy",
+            "score": 0.61694
+          },
+          {
+            "tag": "scp foundation",
+            "score": 0.61694
+          },
+          {
+            "tag": "2017",
+            "score": 0.60813
+          },
+          {
+            "tag": "fur",
+            "score": 0.60253
+          },
+          {
+            "tag": "official art",
+            "score": 0.60253
+          },
+          {
+            "tag": "black scales",
+            "score": 0.60206
+          },
+          {
+            "tag": "graduation",
+            "score": 0.60159
+          },
+          {
+            "tag": "furry male",
+            "score": 0.59831
+          },
+          {
+            "tag": "wide eyed",
+            "score": 0.59549
+          },
+          {
+            "tag": "daww",
+            "score": 0.59455
+          },
+          {
+            "tag": "animal hands",
+            "score": 0.56746
+          },
+          {
+            "tag": "can",
+            "score": 0.56506
+          },
+          {
+            "tag": "body fur",
+            "score": 0.56458
+          },
+          {
+            "tag": "fuse",
+            "score": 0.56073
+          },
+          {
+            "tag": "mammal",
+            "score": 0.55085
+          },
+          {
+            "tag": "happy birthday",
+            "score": 0.54698
+          },
+          {
+            "tag": "portrait",
+            "score": 0.5465
+          },
+          {
+            "tag": "sitting",
+            "score": 0.52646
+          },
+          {
+            "tag": "tube",
+            "score": 0.52354
+          },
+          {
+            "tag": "black background",
+            "score": 0.5205
+          },
+          {
+            "tag": "black wings",
+            "score": 0.52037
+          },
+          {
+            "tag": "2018",
+            "score": 0.50793
+          },
+          {
+            "tag": "meme",
+            "score": 0.50531
+          },
+          {
+            "tag": "other focus",
+            "score": 0.50372
+          },
+          {
+            "tag": "toy gun",
+            "score": 0.5004
           }
         ]
       }
@@ -1639,8 +3107,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "7931ea103a767c614cfa4ca6e688e5e8dfd5c38d9d71ba5c130db372f7940975",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -1802,6 +3270,242 @@
           {
             "tag": "cat ears",
             "score": 0.85777
+          },
+          {
+            "tag": "english commentary",
+            "score": 0.84897
+          },
+          {
+            "tag": "cutlery",
+            "score": 0.84492
+          },
+          {
+            "tag": "dagger",
+            "score": 0.83762
+          },
+          {
+            "tag": "multiple tails",
+            "score": 0.82783
+          },
+          {
+            "tag": "tail raised",
+            "score": 0.82559
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.82333
+          },
+          {
+            "tag": "bad twitter id",
+            "score": 0.80194
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.7773
+          },
+          {
+            "tag": "tuxedo cat",
+            "score": 0.77322
+          },
+          {
+            "tag": "commentary",
+            "score": 0.76629
+          },
+          {
+            "tag": "holding dagger",
+            "score": 0.75636
+          },
+          {
+            "tag": "felid",
+            "score": 0.74614
+          },
+          {
+            "tag": "fork",
+            "score": 0.74167
+          },
+          {
+            "tag": "too many",
+            "score": 0.72017
+          },
+          {
+            "tag": "other focus",
+            "score": 0.71701
+          },
+          {
+            "tag": "animalization",
+            "score": 0.71303
+          },
+          {
+            "tag": "from behind",
+            "score": 0.71143
+          },
+          {
+            "tag": "kitchen utensils",
+            "score": 0.70821
+          },
+          {
+            "tag": "1:1",
+            "score": 0.68257
+          },
+          {
+            "tag": "no lineart",
+            "score": 0.66628
+          },
+          {
+            "tag": "standing",
+            "score": 0.66454
+          },
+          {
+            "tag": "animal hands",
+            "score": 0.6593
+          },
+          {
+            "tag": "biting",
+            "score": 0.65313
+          },
+          {
+            "tag": "nekomata",
+            "score": 0.64958
+          },
+          {
+            "tag": "photo-referenced",
+            "score": 0.63613
+          },
+          {
+            "tag": "two tails",
+            "score": 0.63159
+          },
+          {
+            "tag": ":3",
+            "score": 0.62338
+          },
+          {
+            "tag": "weapon",
+            "score": 0.6197
+          },
+          {
+            "tag": "closed mouth",
+            "score": 0.61786
+          },
+          {
+            "tag": "third-party source",
+            "score": 0.61416
+          },
+          {
+            "tag": "derivative work",
+            "score": 0.61092
+          },
+          {
+            "tag": "fangs",
+            "score": 0.60859
+          },
+          {
+            "tag": "grey background",
+            "score": 0.60766
+          },
+          {
+            "tag": "chibi only",
+            "score": 0.60766
+          },
+          {
+            "tag": "pupils",
+            "score": 0.59172
+          },
+          {
+            "tag": "cutting board",
+            "score": 0.58936
+          },
+          {
+            "tag": "artist request",
+            "score": 0.58889
+          },
+          {
+            "tag": "kitten",
+            "score": 0.58415
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.58225
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.57988
+          },
+          {
+            "tag": "fluffy",
+            "score": 0.57797
+          },
+          {
+            "tag": "reverse grip",
+            "score": 0.55977
+          },
+          {
+            "tag": "dot nose",
+            "score": 0.55881
+          },
+          {
+            "tag": "brown cat",
+            "score": 0.55351
+          },
+          {
+            "tag": "cat girl",
+            "score": 0.55157
+          },
+          {
+            "tag": "copyright request",
+            "score": 0.54674
+          },
+          {
+            "tag": "raised tail",
+            "score": 0.54335
+          },
+          {
+            "tag": "1other",
+            "score": 0.53995
+          },
+          {
+            "tag": "animal ears",
+            "score": 0.53048
+          },
+          {
+            "tag": "feral",
+            "score": 0.52805
+          },
+          {
+            "tag": "combat knife",
+            "score": 0.52488
+          },
+          {
+            "tag": "fang",
+            "score": 0.52245
+          },
+          {
+            "tag": "animal ear fluff",
+            "score": 0.52147
+          },
+          {
+            "tag": "wide-eyed",
+            "score": 0.51586
+          },
+          {
+            "tag": "clothed animal",
+            "score": 0.51098
+          },
+          {
+            "tag": "from side",
+            "score": 0.50748
+          },
+          {
+            "tag": "grey cat",
+            "score": 0.50705
+          },
+          {
+            "tag": "holding utensil",
+            "score": 0.50418
+          },
+          {
+            "tag": "body fur",
+            "score": 0.50052
           }
         ]
       }
@@ -1841,8 +3545,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "d042c6f992769d49a2aeadc5babe96bf99020ea79a586b9ad0851cf519754fdb",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -2004,6 +3708,246 @@
           {
             "tag": "kitten",
             "score": 0.85966
+          },
+          {
+            "tag": "open mouth",
+            "score": 0.85777
+          },
+          {
+            "tag": "star (symbol)",
+            "score": 0.85777
+          },
+          {
+            "tag": "animal hands",
+            "score": 0.85681
+          },
+          {
+            "tag": "commentary",
+            "score": 0.83762
+          },
+          {
+            "tag": ":d",
+            "score": 0.83655
+          },
+          {
+            "tag": "two-tone background",
+            "score": 0.81989
+          },
+          {
+            "tag": "artist request",
+            "score": 0.81523
+          },
+          {
+            "tag": "tail",
+            "score": 0.81287
+          },
+          {
+            "tag": "outside border",
+            "score": 0.80441
+          },
+          {
+            "tag": "black body",
+            "score": 0.80317
+          },
+          {
+            "tag": "outstretched arms",
+            "score": 0.79944
+          },
+          {
+            "tag": "dancing",
+            "score": 0.79566
+          },
+          {
+            "tag": "stage lights",
+            "score": 0.78923
+          },
+          {
+            "tag": "solo",
+            "score": 0.76908
+          },
+          {
+            "tag": "third-party source",
+            "score": 0.75923
+          },
+          {
+            "tag": "aqua background",
+            "score": 0.74466
+          },
+          {
+            "tag": "fang",
+            "score": 0.74167
+          },
+          {
+            "tag": "felid",
+            "score": 0.73564
+          },
+          {
+            "tag": "animalization",
+            "score": 0.72487
+          },
+          {
+            "tag": "walking",
+            "score": 0.72409
+          },
+          {
+            "tag": "standing",
+            "score": 0.71303
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.71063
+          },
+          {
+            "tag": "pixel art",
+            "score": 0.70821
+          },
+          {
+            "tag": "sparkling eyes",
+            "score": 0.70416
+          },
+          {
+            "tag": "stage",
+            "score": 0.70335
+          },
+          {
+            "tag": "shadow",
+            "score": 0.70008
+          },
+          {
+            "tag": "sparkles",
+            "score": 0.68931
+          },
+          {
+            "tag": "official art",
+            "score": 0.68257
+          },
+          {
+            "tag": "microphone",
+            "score": 0.67319
+          },
+          {
+            "tag": "black tail",
+            "score": 0.67233
+          },
+          {
+            "tag": "bad twitter id",
+            "score": 0.66801
+          },
+          {
+            "tag": "jumping",
+            "score": 0.66801
+          },
+          {
+            "tag": "dot nose",
+            "score": 0.6628
+          },
+          {
+            "tag": "ball",
+            "score": 0.64423
+          },
+          {
+            "tag": "jaggy lines",
+            "score": 0.64333
+          },
+          {
+            "tag": "chibi",
+            "score": 0.63613
+          },
+          {
+            "tag": "object focus",
+            "score": 0.63522
+          },
+          {
+            "tag": "project moon",
+            "score": 0.62977
+          },
+          {
+            "tag": "white cat",
+            "score": 0.62977
+          },
+          {
+            "tag": "green background",
+            "score": 0.6072
+          },
+          {
+            "tag": "too many",
+            "score": 0.60533
+          },
+          {
+            "tag": "leg up",
+            "score": 0.60159
+          },
+          {
+            "tag": "from behind",
+            "score": 0.59502
+          },
+          {
+            "tag": "dungeon meshi",
+            "score": 0.59219
+          },
+          {
+            "tag": "derivative work",
+            "score": 0.58463
+          },
+          {
+            "tag": "multiple tails",
+            "score": 0.57511
+          },
+          {
+            "tag": "diamond (shape)",
+            "score": 0.57272
+          },
+          {
+            "tag": "arm up",
+            "score": 0.56314
+          },
+          {
+            "tag": "spread arms",
+            "score": 0.56314
+          },
+          {
+            "tag": "fangs",
+            "score": 0.55857
+          },
+          {
+            "tag": "sparkle background",
+            "score": 0.55616
+          },
+          {
+            "tag": "no nose",
+            "score": 0.55592
+          },
+          {
+            "tag": "parody",
+            "score": 0.54771
+          },
+          {
+            "tag": "jpeg artifacts",
+            "score": 0.54577
+          },
+          {
+            "tag": "photo-referenced",
+            "score": 0.54117
+          },
+          {
+            "tag": "bad source",
+            "score": 0.53874
+          },
+          {
+            "tag": "smile",
+            "score": 0.53267
+          },
+          {
+            "tag": "messy hair",
+            "score": 0.5278
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.525
+          },
+          {
+            "tag": "solid circle pupils",
+            "score": 0.51086
           }
         ]
       }
@@ -2041,8 +3985,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "ab2fa888a6dd02f03d64d9706e416d08d621a2ad4ae0a869fe7f516badf1d817",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -2204,6 +4148,126 @@
           {
             "tag": "commentary",
             "score": 0.83114
+          },
+          {
+            "tag": "clothed animal",
+            "score": 0.79311
+          },
+          {
+            "tag": "holidays",
+            "score": 0.77046
+          },
+          {
+            "tag": "emanata",
+            "score": 0.77046
+          },
+          {
+            "tag": "black feathers",
+            "score": 0.76207
+          },
+          {
+            "tag": "other focus",
+            "score": 0.73716
+          },
+          {
+            "tag": "feline",
+            "score": 0.73564
+          },
+          {
+            "tag": "animalization",
+            "score": 0.70335
+          },
+          {
+            "tag": "orange eyes",
+            "score": 0.69925
+          },
+          {
+            "tag": "wide-eyed",
+            "score": 0.69513
+          },
+          {
+            "tag": "project moon",
+            "score": 0.68763
+          },
+          {
+            "tag": "yellow outline",
+            "score": 0.67576
+          },
+          {
+            "tag": "chibi",
+            "score": 0.6628
+          },
+          {
+            "tag": "feral",
+            "score": 0.64869
+          },
+          {
+            "tag": "multiple tails",
+            "score": 0.63884
+          },
+          {
+            "tag": "creature",
+            "score": 0.63522
+          },
+          {
+            "tag": "dungeon meshi",
+            "score": 0.62795
+          },
+          {
+            "tag": "holly",
+            "score": 0.61694
+          },
+          {
+            "tag": "christmas decorations",
+            "score": 0.61555
+          },
+          {
+            "tag": "leaf",
+            "score": 0.60487
+          },
+          {
+            "tag": "artist request",
+            "score": 0.58605
+          },
+          {
+            "tag": "furry",
+            "score": 0.58605
+          },
+          {
+            "tag": "alternate color",
+            "score": 0.58035
+          },
+          {
+            "tag": "1:1",
+            "score": 0.57224
+          },
+          {
+            "tag": "glowing",
+            "score": 0.55905
+          },
+          {
+            "tag": "holding",
+            "score": 0.55809
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.55447
+          },
+          {
+            "tag": "white cat",
+            "score": 0.54577
+          },
+          {
+            "tag": "tail",
+            "score": 0.53971
+          },
+          {
+            "tag": "+++",
+            "score": 0.51806
+          },
+          {
+            "tag": "christmas ornament",
+            "score": 0.51031
           }
         ]
       }
@@ -2240,8 +4304,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "bc7bef0f42538a21ec70355626a697defc59819c194d437581a3300b332181cc",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -2403,6 +4467,210 @@
           {
             "tag": "clothed animal",
             "score": 0.82446
+          },
+          {
+            "tag": "dragon tail",
+            "score": 0.79693
+          },
+          {
+            "tag": "black scales",
+            "score": 0.79053
+          },
+          {
+            "tag": "on stomach",
+            "score": 0.78399
+          },
+          {
+            "tag": "lobotomy corporation",
+            "score": 0.78399
+          },
+          {
+            "tag": "transparent background",
+            "score": 0.78133
+          },
+          {
+            "tag": "dragon",
+            "score": 0.76769
+          },
+          {
+            "tag": "1:1",
+            "score": 0.76629
+          },
+          {
+            "tag": ":3",
+            "score": 0.74762
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.73259
+          },
+          {
+            "tag": "all fours",
+            "score": 0.72643
+          },
+          {
+            "tag": "looking back",
+            "score": 0.71859
+          },
+          {
+            "tag": "commentary",
+            "score": 0.71701
+          },
+          {
+            "tag": "chibi only",
+            "score": 0.70416
+          },
+          {
+            "tag": "body fur",
+            "score": 0.70253
+          },
+          {
+            "tag": "arknights",
+            "score": 0.69596
+          },
+          {
+            "tag": "bad twitter id",
+            "score": 0.69264
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.69098
+          },
+          {
+            "tag": "upside down",
+            "score": 0.69098
+          },
+          {
+            "tag": "virtual youtuber",
+            "score": 0.69014
+          },
+          {
+            "tag": "project moon",
+            "score": 0.68003
+          },
+          {
+            "tag": "hololive",
+            "score": 0.67491
+          },
+          {
+            "tag": "twisted wonderland",
+            "score": 0.67319
+          },
+          {
+            "tag": "mythology",
+            "score": 0.66974
+          },
+          {
+            "tag": "furry",
+            "score": 0.66974
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.66105
+          },
+          {
+            "tag": "black wings",
+            "score": 0.65135
+          },
+          {
+            "tag": "x anus",
+            "score": 0.64691
+          },
+          {
+            "tag": "dragon horns",
+            "score": 0.60952
+          },
+          {
+            "tag": "wolf tail",
+            "score": 0.6044
+          },
+          {
+            "tag": "feral",
+            "score": 0.60346
+          },
+          {
+            "tag": "1other",
+            "score": 0.60253
+          },
+          {
+            "tag": "top-down bottom-up",
+            "score": 0.59737
+          },
+          {
+            "tag": "alternate form",
+            "score": 0.58983
+          },
+          {
+            "tag": "single horn",
+            "score": 0.58794
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.58035
+          },
+          {
+            "tag": "lowres",
+            "score": 0.57988
+          },
+          {
+            "tag": "cosplay",
+            "score": 0.57797
+          },
+          {
+            "tag": "dog",
+            "score": 0.57081
+          },
+          {
+            "tag": "male focus",
+            "score": 0.56889
+          },
+          {
+            "tag": "chimera",
+            "score": 0.54625
+          },
+          {
+            "tag": "multiple horns",
+            "score": 0.53801
+          },
+          {
+            "tag": "fur",
+            "score": 0.53413
+          },
+          {
+            "tag": "back",
+            "score": 0.53413
+          },
+          {
+            "tag": "animal feet",
+            "score": 0.52281
+          },
+          {
+            "tag": "orange eyes",
+            "score": 0.51879
+          },
+          {
+            "tag": "pupils",
+            "score": 0.51428
+          },
+          {
+            "tag": "nijisanji",
+            "score": 0.5119
+          },
+          {
+            "tag": "colored skin",
+            "score": 0.51141
+          },
+          {
+            "tag": "wings",
+            "score": 0.51135
+          },
+          {
+            "tag": "asymmetrical horns",
+            "score": 0.50989
+          },
+          {
+            "tag": "blue outline",
+            "score": 0.50494
           }
         ]
       }
@@ -2440,8 +4708,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "dbfac012204d498cda83e522f174ef3bc6a54e91a1570cf2d32c0adab0ce68b1",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -2603,6 +4871,214 @@
           {
             "tag": "meme",
             "score": 0.82219
+          },
+          {
+            "tag": "clothed animal",
+            "score": 0.82219
+          },
+          {
+            "tag": "solo",
+            "score": 0.81874
+          },
+          {
+            "tag": "commentary",
+            "score": 0.81874
+          },
+          {
+            "tag": "cat tail",
+            "score": 0.81287
+          },
+          {
+            "tag": "project moon",
+            "score": 0.81048
+          },
+          {
+            "tag": "glowing",
+            "score": 0.80685
+          },
+          {
+            "tag": "kitten",
+            "score": 0.78793
+          },
+          {
+            "tag": "other focus",
+            "score": 0.78399
+          },
+          {
+            "tag": "plant",
+            "score": 0.77865
+          },
+          {
+            "tag": "male focus",
+            "score": 0.7773
+          },
+          {
+            "tag": "on floor",
+            "score": 0.77458
+          },
+          {
+            "tag": "cat ears",
+            "score": 0.77184
+          },
+          {
+            "tag": "in container",
+            "score": 0.77184
+          },
+          {
+            "tag": "sleeping",
+            "score": 0.76629
+          },
+          {
+            "tag": "from behind",
+            "score": 0.76065
+          },
+          {
+            "tag": "wreath",
+            "score": 0.75923
+          },
+          {
+            "tag": "sitting",
+            "score": 0.74614
+          },
+          {
+            "tag": "feline",
+            "score": 0.73564
+          },
+          {
+            "tag": "outside border",
+            "score": 0.72409
+          },
+          {
+            "tag": "brown cat",
+            "score": 0.72017
+          },
+          {
+            "tag": "black border",
+            "score": 0.7178
+          },
+          {
+            "tag": "on side",
+            "score": 0.68595
+          },
+          {
+            "tag": "too many",
+            "score": 0.68426
+          },
+          {
+            "tag": "black body",
+            "score": 0.68173
+          },
+          {
+            "tag": "tuxedo cat",
+            "score": 0.68088
+          },
+          {
+            "tag": "animalization",
+            "score": 0.66541
+          },
+          {
+            "tag": "chainsaw man",
+            "score": 0.66367
+          },
+          {
+            "tag": "traditional media",
+            "score": 0.65047
+          },
+          {
+            "tag": "photo-referenced",
+            "score": 0.64958
+          },
+          {
+            "tag": "lowres",
+            "score": 0.63703
+          },
+          {
+            "tag": "derivative work",
+            "score": 0.63432
+          },
+          {
+            "tag": "christmas wreath",
+            "score": 0.62977
+          },
+          {
+            "tag": "slit pupils",
+            "score": 0.61924
+          },
+          {
+            "tag": "holly",
+            "score": 0.6174
+          },
+          {
+            "tag": "facing viewer",
+            "score": 0.61601
+          },
+          {
+            "tag": "garland (decoration)",
+            "score": 0.60999
+          },
+          {
+            "tag": "lying",
+            "score": 0.58983
+          },
+          {
+            "tag": "limbus company",
+            "score": 0.58035
+          },
+          {
+            "tag": "solid circle pupils",
+            "score": 0.57416
+          },
+          {
+            "tag": "tail",
+            "score": 0.57177
+          },
+          {
+            "tag": "jpeg artifacts",
+            "score": 0.56218
+          },
+          {
+            "tag": "holding gift",
+            "score": 0.53777
+          },
+          {
+            "tag": "green sclera",
+            "score": 0.53704
+          },
+          {
+            "tag": "animal ear fluff",
+            "score": 0.53656
+          },
+          {
+            "tag": "green border",
+            "score": 0.53437
+          },
+          {
+            "tag": "third-party source",
+            "score": 0.52074
+          },
+          {
+            "tag": "chibi",
+            "score": 0.5205
+          },
+          {
+            "tag": "body fur",
+            "score": 0.5205
+          },
+          {
+            "tag": "happy",
+            "score": 0.52001
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.51721
+          },
+          {
+            "tag": "black tail",
+            "score": 0.50671
+          },
+          {
+            "tag": "outline",
+            "score": 0.50034
           }
         ]
       }
@@ -2640,8 +5116,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "d6d9deb6fdc94e0617436b4dafd36b03c8cc8173afc2670783b72255f4611f41",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -2803,6 +5279,162 @@
           {
             "tag": "orange sclera",
             "score": 0.75347
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.74762
+          },
+          {
+            "tag": "no mouth",
+            "score": 0.74614
+          },
+          {
+            "tag": "abstract background",
+            "score": 0.73867
+          },
+          {
+            "tag": "photo-referenced",
+            "score": 0.73029
+          },
+          {
+            "tag": "chibi",
+            "score": 0.72798
+          },
+          {
+            "tag": "looking down",
+            "score": 0.72253
+          },
+          {
+            "tag": "pleading eyes",
+            "score": 0.72174
+          },
+          {
+            "tag": "body fur",
+            "score": 0.7178
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.71463
+          },
+          {
+            "tag": "animal hands",
+            "score": 0.70416
+          },
+          {
+            "tag": "limbus company",
+            "score": 0.69843
+          },
+          {
+            "tag": "1:1",
+            "score": 0.69678
+          },
+          {
+            "tag": "commentary",
+            "score": 0.68931
+          },
+          {
+            "tag": "jaggy lines",
+            "score": 0.68763
+          },
+          {
+            "tag": "chibi only",
+            "score": 0.67061
+          },
+          {
+            "tag": "fur",
+            "score": 0.66888
+          },
+          {
+            "tag": "portrait",
+            "score": 0.6478
+          },
+          {
+            "tag": "dungeon meshi",
+            "score": 0.63884
+          },
+          {
+            "tag": "third-party source",
+            "score": 0.63432
+          },
+          {
+            "tag": "tail",
+            "score": 0.622
+          },
+          {
+            "tag": "quadruped",
+            "score": 0.6072
+          },
+          {
+            "tag": "looking up",
+            "score": 0.59925
+          },
+          {
+            "tag": "creature",
+            "score": 0.59361
+          },
+          {
+            "tag": "kitten",
+            "score": 0.59172
+          },
+          {
+            "tag": "black feathers",
+            "score": 0.57892
+          },
+          {
+            "tag": "clothed animal",
+            "score": 0.56985
+          },
+          {
+            "tag": "closed mouth",
+            "score": 0.56458
+          },
+          {
+            "tag": "black hair",
+            "score": 0.55977
+          },
+          {
+            "tag": "artist request",
+            "score": 0.55857
+          },
+          {
+            "tag": "wide-eyed",
+            "score": 0.55785
+          },
+          {
+            "tag": "from behind",
+            "score": 0.54044
+          },
+          {
+            "tag": "silent comic",
+            "score": 0.53583
+          },
+          {
+            "tag": "tagme",
+            "score": 0.53218
+          },
+          {
+            "tag": "white pupils",
+            "score": 0.52866
+          },
+          {
+            "tag": "pixel (artwork)",
+            "score": 0.52573
+          },
+          {
+            "tag": "official art",
+            "score": 0.5194
+          },
+          {
+            "tag": "feralized",
+            "score": 0.50659
+          },
+          {
+            "tag": "messy hair",
+            "score": 0.50574
+          },
+          {
+            "tag": "1boy",
+            "score": 0.50201
           }
         ]
       }
@@ -2839,8 +5471,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "7c92f04efd5fe492c8649f73549562bbcc43b44f5c1e31a637d96751847f720a",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -3002,6 +5634,174 @@
           {
             "tag": "pink scarf",
             "score": 0.81168
+          },
+          {
+            "tag": "1other",
+            "score": 0.80069
+          },
+          {
+            "tag": "christmas",
+            "score": 0.79182
+          },
+          {
+            "tag": "commentary",
+            "score": 0.78793
+          },
+          {
+            "tag": "winter clothes",
+            "score": 0.78662
+          },
+          {
+            "tag": "domestic cat",
+            "score": 0.78266
+          },
+          {
+            "tag": "white cat",
+            "score": 0.78133
+          },
+          {
+            "tag": "red nose",
+            "score": 0.77999
+          },
+          {
+            "tag": "carrot",
+            "score": 0.77322
+          },
+          {
+            "tag": "red hat",
+            "score": 0.77046
+          },
+          {
+            "tag": "meme",
+            "score": 0.75636
+          },
+          {
+            "tag": "bad twitter id",
+            "score": 0.74167
+          },
+          {
+            "tag": "branch",
+            "score": 0.72952
+          },
+          {
+            "tag": "2others",
+            "score": 0.7066
+          },
+          {
+            "tag": "1:1",
+            "score": 0.69925
+          },
+          {
+            "tag": "stick",
+            "score": 0.67405
+          },
+          {
+            "tag": "wolf ears",
+            "score": 0.67319
+          },
+          {
+            "tag": ". .",
+            "score": 0.66367
+          },
+          {
+            "tag": "snowflakes",
+            "score": 0.65135
+          },
+          {
+            "tag": "ice",
+            "score": 0.62886
+          },
+          {
+            "tag": "chibi only",
+            "score": 0.62108
+          },
+          {
+            "tag": "kitten",
+            "score": 0.61185
+          },
+          {
+            "tag": "furry male",
+            "score": 0.60253
+          },
+          {
+            "tag": "black body",
+            "score": 0.59784
+          },
+          {
+            "tag": "happy",
+            "score": 0.58889
+          },
+          {
+            "tag": "creature",
+            "score": 0.58463
+          },
+          {
+            "tag": "jaggy lines",
+            "score": 0.57797
+          },
+          {
+            "tag": "beanie",
+            "score": 0.57559
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.57081
+          },
+          {
+            "tag": "mittens",
+            "score": 0.56698
+          },
+          {
+            "tag": "artist request",
+            "score": 0.56266
+          },
+          {
+            "tag": "smile",
+            "score": 0.55929
+          },
+          {
+            "tag": "santa hat",
+            "score": 0.55857
+          },
+          {
+            "tag": "snowball",
+            "score": 0.55447
+          },
+          {
+            "tag": "orange scarf",
+            "score": 0.55278
+          },
+          {
+            "tag": "male focus",
+            "score": 0.54771
+          },
+          {
+            "tag": "too many",
+            "score": 0.53036
+          },
+          {
+            "tag": "fang",
+            "score": 0.52245
+          },
+          {
+            "tag": "bad id",
+            "score": 0.52086
+          },
+          {
+            "tag": "green scarf",
+            "score": 0.51769
+          },
+          {
+            "tag": "furry",
+            "score": 0.50323
+          },
+          {
+            "tag": "red headwear",
+            "score": 0.50186
+          },
+          {
+            "tag": ":<",
+            "score": 0.5002
           }
         ]
       }
@@ -3040,8 +5840,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "4cd64151d4296686abb27f6e6635ea87cb92607d90067bc26f2dc653ecd3b637",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -3203,6 +6003,198 @@
           {
             "tag": "ambiguous gender",
             "score": 0.84492
+          },
+          {
+            "tag": "pleading eyes",
+            "score": 0.81757
+          },
+          {
+            "tag": "body fur",
+            "score": 0.81523
+          },
+          {
+            "tag": "yellow eyes",
+            "score": 0.81287
+          },
+          {
+            "tag": "heart eyes",
+            "score": 0.80441
+          },
+          {
+            "tag": ":p",
+            "score": 0.79693
+          },
+          {
+            "tag": "licking",
+            "score": 0.78923
+          },
+          {
+            "tag": "notice lines",
+            "score": 0.78531
+          },
+          {
+            "tag": "derivative work",
+            "score": 0.78266
+          },
+          {
+            "tag": "derp eyes",
+            "score": 0.77594
+          },
+          {
+            "tag": "animal ears",
+            "score": 0.76629
+          },
+          {
+            "tag": "pupils",
+            "score": 0.75347
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.74317
+          },
+          {
+            "tag": "fluffy",
+            "score": 0.73716
+          },
+          {
+            "tag": "bust portrait",
+            "score": 0.73716
+          },
+          {
+            "tag": "full body",
+            "score": 0.73259
+          },
+          {
+            "tag": "animalization",
+            "score": 0.71938
+          },
+          {
+            "tag": ":3",
+            "score": 0.71063
+          },
+          {
+            "tag": "jaggy lines",
+            "score": 0.7074
+          },
+          {
+            "tag": "dungeon meshi",
+            "score": 0.70579
+          },
+          {
+            "tag": "fur",
+            "score": 0.67747
+          },
+          {
+            "tag": ":<",
+            "score": 0.66888
+          },
+          {
+            "tag": "cat tail",
+            "score": 0.66628
+          },
+          {
+            "tag": "other focus",
+            "score": 0.66454
+          },
+          {
+            "tag": "solid circle pupils",
+            "score": 0.6593
+          },
+          {
+            "tag": "project moon",
+            "score": 0.65578
+          },
+          {
+            "tag": "lobotomy corporation",
+            "score": 0.64512
+          },
+          {
+            "tag": "green sclera",
+            "score": 0.63793
+          },
+          {
+            "tag": "hearts around head",
+            "score": 0.63793
+          },
+          {
+            "tag": "photo-referenced",
+            "score": 0.62704
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.62062
+          },
+          {
+            "tag": "blue outline",
+            "score": 0.61601
+          },
+          {
+            "tag": "licking lips",
+            "score": 0.60159
+          },
+          {
+            "tag": "1other",
+            "score": 0.5969
+          },
+          {
+            "tag": "tagme",
+            "score": 0.59267
+          },
+          {
+            "tag": "commentary",
+            "score": 0.58415
+          },
+          {
+            "tag": "looking up",
+            "score": 0.58178
+          },
+          {
+            "tag": "kitten",
+            "score": 0.5794
+          },
+          {
+            "tag": "black background",
+            "score": 0.57463
+          },
+          {
+            "tag": "red heart",
+            "score": 0.57416
+          },
+          {
+            "tag": "happy",
+            "score": 0.57272
+          },
+          {
+            "tag": "headshot portrait",
+            "score": 0.56842
+          },
+          {
+            "tag": "mammal",
+            "score": 0.54141
+          },
+          {
+            "tag": "furry male",
+            "score": 0.5334
+          },
+          {
+            "tag": "low res",
+            "score": 0.53315
+          },
+          {
+            "tag": "pink tongue",
+            "score": 0.53267
+          },
+          {
+            "tag": "wide eyed",
+            "score": 0.51842
+          },
+          {
+            "tag": "digital drawing (artwork)",
+            "score": 0.51562
+          },
+          {
+            "tag": "black outline",
+            "score": 0.50285
           }
         ]
       }
@@ -3240,8 +6232,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "fd95e149ba345418d7dae6374ed176783a1c57b29255b6653c96c3befea5f9b7",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -3403,6 +6395,198 @@
           {
             "tag": "pokemon (creature)",
             "score": 0.77046
+          },
+          {
+            "tag": "cat tail",
+            "score": 0.76348
+          },
+          {
+            "tag": "aqua background",
+            "score": 0.75636
+          },
+          {
+            "tag": "domestic cat",
+            "score": 0.75491
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.75055
+          },
+          {
+            "tag": "animal ears",
+            "score": 0.74614
+          },
+          {
+            "tag": "white pupils",
+            "score": 0.74317
+          },
+          {
+            "tag": "english commentary",
+            "score": 0.73716
+          },
+          {
+            "tag": "commentary",
+            "score": 0.71938
+          },
+          {
+            "tag": "light blush",
+            "score": 0.71938
+          },
+          {
+            "tag": "white outline",
+            "score": 0.70902
+          },
+          {
+            "tag": "third-party source",
+            "score": 0.7066
+          },
+          {
+            "tag": "looking to the side",
+            "score": 0.70416
+          },
+          {
+            "tag": "solid circle pupils",
+            "score": 0.69761
+          },
+          {
+            "tag": "night sky",
+            "score": 0.69014
+          },
+          {
+            "tag": "jaggy lines",
+            "score": 0.68342
+          },
+          {
+            "tag": "creature",
+            "score": 0.66628
+          },
+          {
+            "tag": "male focus",
+            "score": 0.65489
+          },
+          {
+            "tag": "portrait",
+            "score": 0.65489
+          },
+          {
+            "tag": "white cat",
+            "score": 0.65489
+          },
+          {
+            "tag": "snow on head",
+            "score": 0.65401
+          },
+          {
+            "tag": "photo-referenced",
+            "score": 0.6478
+          },
+          {
+            "tag": "from side",
+            "score": 0.64512
+          },
+          {
+            "tag": "licking",
+            "score": 0.64153
+          },
+          {
+            "tag": "artist request",
+            "score": 0.63974
+          },
+          {
+            "tag": "ice",
+            "score": 0.63974
+          },
+          {
+            "tag": "wide-eyed",
+            "score": 0.62977
+          },
+          {
+            "tag": "bright pupils",
+            "score": 0.61463
+          },
+          {
+            "tag": "slit pupils",
+            "score": 0.61185
+          },
+          {
+            "tag": "dungeon meshi",
+            "score": 0.61138
+          },
+          {
+            "tag": ":p",
+            "score": 0.58889
+          },
+          {
+            "tag": "looking ahead",
+            "score": 0.58794
+          },
+          {
+            "tag": "messy hair",
+            "score": 0.5851
+          },
+          {
+            "tag": "commentary request",
+            "score": 0.58368
+          },
+          {
+            "tag": "black body",
+            "score": 0.5794
+          },
+          {
+            "tag": "close-up",
+            "score": 0.5641
+          },
+          {
+            "tag": "notice lines",
+            "score": 0.55809
+          },
+          {
+            "tag": "framed",
+            "score": 0.54795
+          },
+          {
+            "tag": "mouth hold",
+            "score": 0.54771
+          },
+          {
+            "tag": "painting (medium)",
+            "score": 0.54432
+          },
+          {
+            "tag": "night",
+            "score": 0.53971
+          },
+          {
+            "tag": "simple background",
+            "score": 0.53826
+          },
+          {
+            "tag": "one piece",
+            "score": 0.52963
+          },
+          {
+            "tag": "pleading eyes",
+            "score": 0.52549
+          },
+          {
+            "tag": "upper body",
+            "score": 0.51623
+          },
+          {
+            "tag": "grey outline",
+            "score": 0.50897
+          },
+          {
+            "tag": "grey cat",
+            "score": 0.50684
+          },
+          {
+            "tag": "profile",
+            "score": 0.50249
+          },
+          {
+            "tag": "too many",
+            "score": 0.50117
           }
         ]
       }
@@ -3440,8 +6624,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "bd30c4fd1a798f23066e6a3c335bb4d274e6069ab77396768a8c8bfa0a3788e7",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -3603,6 +6787,242 @@
           {
             "tag": "chibi",
             "score": 0.86793
+          },
+          {
+            "tag": "mouth hold",
+            "score": 0.86704
+          },
+          {
+            "tag": "kitten",
+            "score": 0.86613
+          },
+          {
+            "tag": "cat tail",
+            "score": 0.85294
+          },
+          {
+            "tag": "colored sclera",
+            "score": 0.84594
+          },
+          {
+            "tag": "korean commentary",
+            "score": 0.84286
+          },
+          {
+            "tag": "commentary",
+            "score": 0.83441
+          },
+          {
+            "tag": "domestic cat",
+            "score": 0.82219
+          },
+          {
+            "tag": "hands",
+            "score": 0.81989
+          },
+          {
+            "tag": "pov",
+            "score": 0.81523
+          },
+          {
+            "tag": "felis",
+            "score": 0.81048
+          },
+          {
+            "tag": "arknights",
+            "score": 0.81048
+          },
+          {
+            "tag": "silent comic",
+            "score": 0.81048
+          },
+          {
+            "tag": "other focus",
+            "score": 0.80563
+          },
+          {
+            "tag": "pov hands",
+            "score": 0.80069
+          },
+          {
+            "tag": "male focus",
+            "score": 0.79944
+          },
+          {
+            "tag": "bad twitter id",
+            "score": 0.79182
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.78531
+          },
+          {
+            "tag": "waving",
+            "score": 0.78531
+          },
+          {
+            "tag": "chinese commentary",
+            "score": 0.76769
+          },
+          {
+            "tag": "portrait",
+            "score": 0.75779
+          },
+          {
+            "tag": "animal ears",
+            "score": 0.74909
+          },
+          {
+            "tag": "outstretched arm",
+            "score": 0.71701
+          },
+          {
+            "tag": "holding cat",
+            "score": 0.71143
+          },
+          {
+            "tag": "hand up",
+            "score": 0.70171
+          },
+          {
+            "tag": "dungeon meshi",
+            "score": 0.69925
+          },
+          {
+            "tag": "messy hair",
+            "score": 0.69678
+          },
+          {
+            "tag": "chibi only",
+            "score": 0.69678
+          },
+          {
+            "tag": "reaching",
+            "score": 0.68426
+          },
+          {
+            "tag": "lowres",
+            "score": 0.67319
+          },
+          {
+            "tag": "hand focus",
+            "score": 0.67061
+          },
+          {
+            "tag": "personification",
+            "score": 0.66888
+          },
+          {
+            "tag": "cropped torso",
+            "score": 0.66715
+          },
+          {
+            "tag": "pleading eyes",
+            "score": 0.66105
+          },
+          {
+            "tag": "transparent background",
+            "score": 0.64958
+          },
+          {
+            "tag": "shadow",
+            "score": 0.64691
+          },
+          {
+            "tag": "black body",
+            "score": 0.64243
+          },
+          {
+            "tag": "black hair",
+            "score": 0.64064
+          },
+          {
+            "tag": "solid circle eyes",
+            "score": 0.62886
+          },
+          {
+            "tag": "!",
+            "score": 0.62612
+          },
+          {
+            "tag": "straight-on",
+            "score": 0.62016
+          },
+          {
+            "tag": "cat girl",
+            "score": 0.61878
+          },
+          {
+            "tag": "+++",
+            "score": 0.60346
+          },
+          {
+            "tag": "white cat",
+            "score": 0.60346
+          },
+          {
+            "tag": "upper body",
+            "score": 0.58983
+          },
+          {
+            "tag": "arm up",
+            "score": 0.58083
+          },
+          {
+            "tag": "cat boy",
+            "score": 0.57129
+          },
+          {
+            "tag": "peeking out",
+            "score": 0.56985
+          },
+          {
+            "tag": "white border",
+            "score": 0.56266
+          },
+          {
+            "tag": "cheek squash",
+            "score": 0.56121
+          },
+          {
+            "tag": "longcat (meme)",
+            "score": 0.55809
+          },
+          {
+            "tag": "virtual youtuber",
+            "score": 0.55061
+          },
+          {
+            "tag": "hashtag-only commentary",
+            "score": 0.54359
+          },
+          {
+            "tag": "green sclera",
+            "score": 0.52622
+          },
+          {
+            "tag": "emphasis lines",
+            "score": 0.52439
+          },
+          {
+            "tag": "poking",
+            "score": 0.52342
+          },
+          {
+            "tag": "grey cat",
+            "score": 0.5233
+          },
+          {
+            "tag": "animal ear fluff",
+            "score": 0.51855
+          },
+          {
+            "tag": "parody",
+            "score": 0.51635
+          },
+          {
+            "tag": "grey background",
+            "score": 0.50659
           }
         ]
       }
@@ -3639,8 +7059,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "77abf8dddce2c95bd12e92550136d4dd5211edf301f7b01194a8063c00031fd6",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -3802,6 +7222,246 @@
           {
             "tag": "feral",
             "score": 0.87321
+          },
+          {
+            "tag": "grey fur",
+            "score": 0.87235
+          },
+          {
+            "tag": "mammal",
+            "score": 0.86793
+          },
+          {
+            "tag": "simple background",
+            "score": 0.84594
+          },
+          {
+            "tag": "semi-anthro",
+            "score": 0.83973
+          },
+          {
+            "tag": "2017",
+            "score": 0.81874
+          },
+          {
+            "tag": "big eyes",
+            "score": 0.81757
+          },
+          {
+            "tag": "mouth hold",
+            "score": 0.81641
+          },
+          {
+            "tag": "front view",
+            "score": 0.81287
+          },
+          {
+            "tag": "2019",
+            "score": 0.81168
+          },
+          {
+            "tag": "green sclera",
+            "score": 0.80194
+          },
+          {
+            "tag": "fluffy",
+            "score": 0.79693
+          },
+          {
+            "tag": "eating food",
+            "score": 0.79693
+          },
+          {
+            "tag": "original",
+            "score": 0.7773
+          },
+          {
+            "tag": "pink pawpads",
+            "score": 0.77458
+          },
+          {
+            "tag": "shadow",
+            "score": 0.76769
+          },
+          {
+            "tag": "happy",
+            "score": 0.76489
+          },
+          {
+            "tag": "lowres",
+            "score": 0.76207
+          },
+          {
+            "tag": "low res",
+            "score": 0.75923
+          },
+          {
+            "tag": "portrait",
+            "score": 0.74909
+          },
+          {
+            "tag": "hindpaw",
+            "score": 0.74909
+          },
+          {
+            "tag": "pepperoni pizza",
+            "score": 0.74317
+          },
+          {
+            "tag": "digital art",
+            "score": 0.70253
+          },
+          {
+            "tag": "kemono",
+            "score": 0.70089
+          },
+          {
+            "tag": "3 toes",
+            "score": 0.68847
+          },
+          {
+            "tag": "holding object",
+            "score": 0.68342
+          },
+          {
+            "tag": "wide eyed",
+            "score": 0.68342
+          },
+          {
+            "tag": "full body",
+            "score": 0.67405
+          },
+          {
+            "tag": "2018",
+            "score": 0.67147
+          },
+          {
+            "tag": "grey body",
+            "score": 0.66628
+          },
+          {
+            "tag": "digital drawing (artwork)",
+            "score": 0.6628
+          },
+          {
+            "tag": "colored sclera",
+            "score": 0.65666
+          },
+          {
+            "tag": "slit pupils",
+            "score": 0.63703
+          },
+          {
+            "tag": "black ears",
+            "score": 0.63703
+          },
+          {
+            "tag": "quadruped",
+            "score": 0.63068
+          },
+          {
+            "tag": "transparent background",
+            "score": 0.62886
+          },
+          {
+            "tag": "derp eyes",
+            "score": 0.62612
+          },
+          {
+            "tag": "2024",
+            "score": 0.61878
+          },
+          {
+            "tag": "feet",
+            "score": 0.61045
+          },
+          {
+            "tag": "glistening",
+            "score": 0.60999
+          },
+          {
+            "tag": "male (lore)",
+            "score": 0.60627
+          },
+          {
+            "tag": ":3",
+            "score": 0.59643
+          },
+          {
+            "tag": "food in mouth",
+            "score": 0.58652
+          },
+          {
+            "tag": "biped",
+            "score": 0.58273
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.58178
+          },
+          {
+            "tag": "two tone body",
+            "score": 0.57797
+          },
+          {
+            "tag": "2022",
+            "score": 0.57272
+          },
+          {
+            "tag": "colored",
+            "score": 0.56266
+          },
+          {
+            "tag": "two tone fur",
+            "score": 0.55037
+          },
+          {
+            "tag": "toes",
+            "score": 0.54553
+          },
+          {
+            "tag": "pleading eyes",
+            "score": 0.54238
+          },
+          {
+            "tag": "alternate species",
+            "score": 0.54189
+          },
+          {
+            "tag": "young",
+            "score": 0.5385
+          },
+          {
+            "tag": "flat colors",
+            "score": 0.53728
+          },
+          {
+            "tag": "2020",
+            "score": 0.53486
+          },
+          {
+            "tag": "4 toes",
+            "score": 0.52561
+          },
+          {
+            "tag": "big pupils",
+            "score": 0.52135
+          },
+          {
+            "tag": "digital painting (artwork)",
+            "score": 0.51977
+          },
+          {
+            "tag": "2015",
+            "score": 0.51324
+          },
+          {
+            "tag": "mouthless",
+            "score": 0.51092
+          },
+          {
+            "tag": "2016",
+            "score": 0.50641
           }
         ]
       }
@@ -3838,8 +7498,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "bf42def164e0b146bab3c3c99f76ad822c38eddb927618ecb5bb24698f3f6a1e",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -4001,6 +7661,154 @@
           {
             "tag": "animalization",
             "score": 0.78923
+          },
+          {
+            "tag": "chibi",
+            "score": 0.78531
+          },
+          {
+            "tag": "1other",
+            "score": 0.77865
+          },
+          {
+            "tag": "polka dot background",
+            "score": 0.75636
+          },
+          {
+            "tag": "blanket",
+            "score": 0.73716
+          },
+          {
+            "tag": "meme",
+            "score": 0.73564
+          },
+          {
+            "tag": "dress",
+            "score": 0.73259
+          },
+          {
+            "tag": "grey cat",
+            "score": 0.73259
+          },
+          {
+            "tag": "cat girl",
+            "score": 0.72487
+          },
+          {
+            "tag": "polka dots",
+            "score": 0.72409
+          },
+          {
+            "tag": "dungeon meshi",
+            "score": 0.72174
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.71463
+          },
+          {
+            "tag": "on stomach",
+            "score": 0.70821
+          },
+          {
+            "tag": "commentary",
+            "score": 0.69347
+          },
+          {
+            "tag": "bad twitter id",
+            "score": 0.68847
+          },
+          {
+            "tag": "paws",
+            "score": 0.63793
+          },
+          {
+            "tag": "green sclera",
+            "score": 0.63159
+          },
+          {
+            "tag": "photo-referenced",
+            "score": 0.63159
+          },
+          {
+            "tag": "body fur",
+            "score": 0.62521
+          },
+          {
+            "tag": "chibi only",
+            "score": 0.62246
+          },
+          {
+            "tag": "clothed animal",
+            "score": 0.62246
+          },
+          {
+            "tag": "halftone",
+            "score": 0.61463
+          },
+          {
+            "tag": "upside-down",
+            "score": 0.6137
+          },
+          {
+            "tag": "polka dot shirt",
+            "score": 0.59549
+          },
+          {
+            "tag": "two tails",
+            "score": 0.58558
+          },
+          {
+            "tag": "curled up",
+            "score": 0.58178
+          },
+          {
+            "tag": "under covers",
+            "score": 0.57845
+          },
+          {
+            "tag": "other focus",
+            "score": 0.5775
+          },
+          {
+            "tag": "multiple tails",
+            "score": 0.5732
+          },
+          {
+            "tag": "red theme",
+            "score": 0.5576
+          },
+          {
+            "tag": "solid circle pupils",
+            "score": 0.55616
+          },
+          {
+            "tag": "white cat",
+            "score": 0.55133
+          },
+          {
+            "tag": "brown cat",
+            "score": 0.53753
+          },
+          {
+            "tag": "male focus",
+            "score": 0.52951
+          },
+          {
+            "tag": "looking down",
+            "score": 0.52866
+          },
+          {
+            "tag": "animal feet",
+            "score": 0.50983
+          },
+          {
+            "tag": "drop shadow",
+            "score": 0.50565
+          },
+          {
+            "tag": "jaggy lines",
+            "score": 0.5025
           }
         ]
       }
@@ -4038,8 +7846,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "cbfa2d7a6a8055429cf52d202b4c37666bfb03f2e2b45481aa941b07f1efe385",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -4201,6 +8009,246 @@
           {
             "tag": "furry",
             "score": 0.90731
+          },
+          {
+            "tag": "white background",
+            "score": 0.90053
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.89625
+          },
+          {
+            "tag": "english commentary",
+            "score": 0.8872
+          },
+          {
+            "tag": "simple background",
+            "score": 0.87147
+          },
+          {
+            "tag": "other focus",
+            "score": 0.86971
+          },
+          {
+            "tag": "creature",
+            "score": 0.85488
+          },
+          {
+            "tag": "bad twitter id",
+            "score": 0.84897
+          },
+          {
+            "tag": "cat tail",
+            "score": 0.8439
+          },
+          {
+            "tag": "hugging object",
+            "score": 0.83868
+          },
+          {
+            "tag": "pawpads",
+            "score": 0.83114
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.83114
+          },
+          {
+            "tag": "white outline",
+            "score": 0.82559
+          },
+          {
+            "tag": "yellow eyes",
+            "score": 0.80563
+          },
+          {
+            "tag": ":<",
+            "score": 0.79693
+          },
+          {
+            "tag": "body fur",
+            "score": 0.79693
+          },
+          {
+            "tag": "lowres",
+            "score": 0.79566
+          },
+          {
+            "tag": "futon",
+            "score": 0.78923
+          },
+          {
+            "tag": "pajamas",
+            "score": 0.78793
+          },
+          {
+            "tag": "chibi only",
+            "score": 0.77999
+          },
+          {
+            "tag": "commentary",
+            "score": 0.76908
+          },
+          {
+            "tag": "animalization",
+            "score": 0.76769
+          },
+          {
+            "tag": "from above",
+            "score": 0.76629
+          },
+          {
+            "tag": "cat ears",
+            "score": 0.76065
+          },
+          {
+            "tag": "messy hair",
+            "score": 0.75636
+          },
+          {
+            "tag": "x anus",
+            "score": 0.74466
+          },
+          {
+            "tag": "stuffed animal",
+            "score": 0.73867
+          },
+          {
+            "tag": "selfie",
+            "score": 0.73867
+          },
+          {
+            "tag": "pillow hug",
+            "score": 0.73867
+          },
+          {
+            "tag": "x x",
+            "score": 0.73259
+          },
+          {
+            "tag": "feline",
+            "score": 0.71622
+          },
+          {
+            "tag": "cuddling",
+            "score": 0.71622
+          },
+          {
+            "tag": "fluffy",
+            "score": 0.70821
+          },
+          {
+            "tag": "korean commentary",
+            "score": 0.70579
+          },
+          {
+            "tag": "electronics",
+            "score": 0.70089
+          },
+          {
+            "tag": "limbus company",
+            "score": 0.69925
+          },
+          {
+            "tag": "second-party source",
+            "score": 0.69596
+          },
+          {
+            "tag": "animal hands",
+            "score": 0.69098
+          },
+          {
+            "tag": "bedding",
+            "score": 0.68342
+          },
+          {
+            "tag": "no mouth",
+            "score": 0.66974
+          },
+          {
+            "tag": "chinese commentary",
+            "score": 0.65578
+          },
+          {
+            "tag": "multiple others",
+            "score": 0.64958
+          },
+          {
+            "tag": "felid",
+            "score": 0.64153
+          },
+          {
+            "tag": ":3",
+            "score": 0.6325
+          },
+          {
+            "tag": "third-party source",
+            "score": 0.62886
+          },
+          {
+            "tag": "oversized animal",
+            "score": 0.62612
+          },
+          {
+            "tag": "artist request",
+            "score": 0.61555
+          },
+          {
+            "tag": "blue fur",
+            "score": 0.60627
+          },
+          {
+            "tag": "1boy",
+            "score": 0.60346
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.58747
+          },
+          {
+            "tag": "pokemon (creature)",
+            "score": 0.58747
+          },
+          {
+            "tag": "cushion",
+            "score": 0.58083
+          },
+          {
+            "tag": "multiple views",
+            "score": 0.57416
+          },
+          {
+            "tag": "arknights",
+            "score": 0.57033
+          },
+          {
+            "tag": "x hair ornament",
+            "score": 0.56602
+          },
+          {
+            "tag": "furry male",
+            "score": 0.5494
+          },
+          {
+            "tag": "solid circle pupils",
+            "score": 0.54722
+          },
+          {
+            "tag": "blue outline",
+            "score": 0.54674
+          },
+          {
+            "tag": "holding pillow",
+            "score": 0.54504
+          },
+          {
+            "tag": "virtual youtuber",
+            "score": 0.54359
+          },
+          {
+            "tag": "closed mouth",
+            "score": 0.52379
           }
         ]
       }
@@ -4238,8 +8286,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "cde9dd04c8780ddd2bb46ffd550fc52b53b1e3b56c596c57ce241183d7d0f79b",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -4401,6 +8449,206 @@
           {
             "tag": "all fours",
             "score": 0.83114
+          },
+          {
+            "tag": "abstract background",
+            "score": 0.80563
+          },
+          {
+            "tag": "mammal",
+            "score": 0.79693
+          },
+          {
+            "tag": "digital painting (artwork)",
+            "score": 0.79438
+          },
+          {
+            "tag": "tuft",
+            "score": 0.78399
+          },
+          {
+            "tag": "motion blur",
+            "score": 0.78133
+          },
+          {
+            "tag": "prick ears",
+            "score": 0.78133
+          },
+          {
+            "tag": "official art",
+            "score": 0.77458
+          },
+          {
+            "tag": "digital art",
+            "score": 0.75201
+          },
+          {
+            "tag": "2024",
+            "score": 0.74466
+          },
+          {
+            "tag": "feet",
+            "score": 0.73716
+          },
+          {
+            "tag": "orange sclera",
+            "score": 0.73564
+          },
+          {
+            "tag": "white background",
+            "score": 0.73106
+          },
+          {
+            "tag": "magic cat academy",
+            "score": 0.72565
+          },
+          {
+            "tag": "biped",
+            "score": 0.71859
+          },
+          {
+            "tag": "paws",
+            "score": 0.71859
+          },
+          {
+            "tag": "walking",
+            "score": 0.71622
+          },
+          {
+            "tag": "big eyes",
+            "score": 0.71303
+          },
+          {
+            "tag": "google",
+            "score": 0.6943
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.69347
+          },
+          {
+            "tag": "original",
+            "score": 0.69014
+          },
+          {
+            "tag": "full body",
+            "score": 0.68679
+          },
+          {
+            "tag": "portrait",
+            "score": 0.67405
+          },
+          {
+            "tag": "looking down",
+            "score": 0.66367
+          },
+          {
+            "tag": "standing",
+            "score": 0.6478
+          },
+          {
+            "tag": "green sclera",
+            "score": 0.64423
+          },
+          {
+            "tag": "orange eyes",
+            "score": 0.63613
+          },
+          {
+            "tag": "digital drawing (artwork)",
+            "score": 0.62154
+          },
+          {
+            "tag": "digitigrade",
+            "score": 0.6058
+          },
+          {
+            "tag": "google doodle",
+            "score": 0.60487
+          },
+          {
+            "tag": "young",
+            "score": 0.6044
+          },
+          {
+            "tag": "fluffy tail",
+            "score": 0.59502
+          },
+          {
+            "tag": "colored",
+            "score": 0.59408
+          },
+          {
+            "tag": "toes",
+            "score": 0.59314
+          },
+          {
+            "tag": "3 toes",
+            "score": 0.59314
+          },
+          {
+            "tag": "chibi",
+            "score": 0.58463
+          },
+          {
+            "tag": "daww",
+            "score": 0.58225
+          },
+          {
+            "tag": "shaded",
+            "score": 0.56937
+          },
+          {
+            "tag": "looking up",
+            "score": 0.55905
+          },
+          {
+            "tag": "monotone fur",
+            "score": 0.54964
+          },
+          {
+            "tag": "toony",
+            "score": 0.53801
+          },
+          {
+            "tag": "black ears",
+            "score": 0.53291
+          },
+          {
+            "tag": "pointy ears",
+            "score": 0.52622
+          },
+          {
+            "tag": "cat tail",
+            "score": 0.52537
+          },
+          {
+            "tag": "humor",
+            "score": 0.51635
+          },
+          {
+            "tag": "female (lore)",
+            "score": 0.51562
+          },
+          {
+            "tag": "jumping",
+            "score": 0.51031
+          },
+          {
+            "tag": "grey background",
+            "score": 0.5083
+          },
+          {
+            "tag": "looking away",
+            "score": 0.50577
+          },
+          {
+            "tag": "silhouette",
+            "score": 0.50305
+          },
+          {
+            "tag": "three-quarter view",
+            "score": 0.50036
           }
         ]
       }
@@ -4438,8 +8686,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "06b017cb5e1b99fcb9b569557695bcb5240233ba996023e984924a302735b2cb",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -4601,6 +8849,234 @@
           {
             "tag": "full-length portrait",
             "score": 0.85096
+          },
+          {
+            "tag": "sitting",
+            "score": 0.84286
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.81523
+          },
+          {
+            "tag": "official art",
+            "score": 0.80194
+          },
+          {
+            "tag": "monotone body",
+            "score": 0.79693
+          },
+          {
+            "tag": "2019",
+            "score": 0.79053
+          },
+          {
+            "tag": "cartoon network",
+            "score": 0.78266
+          },
+          {
+            "tag": "digital drawing (artwork)",
+            "score": 0.75779
+          },
+          {
+            "tag": "transparent background",
+            "score": 0.74466
+          },
+          {
+            "tag": "digital art",
+            "score": 0.73716
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.73412
+          },
+          {
+            "tag": "orange sclera",
+            "score": 0.7178
+          },
+          {
+            "tag": "bust portrait",
+            "score": 0.71383
+          },
+          {
+            "tag": "narrowed eyes",
+            "score": 0.70902
+          },
+          {
+            "tag": "half-closed eyes",
+            "score": 0.70579
+          },
+          {
+            "tag": "chibi",
+            "score": 0.70497
+          },
+          {
+            "tag": "curled up",
+            "score": 0.69513
+          },
+          {
+            "tag": "on front",
+            "score": 0.68511
+          },
+          {
+            "tag": "mouthless",
+            "score": 0.66888
+          },
+          {
+            "tag": "tuft",
+            "score": 0.66541
+          },
+          {
+            "tag": "2024",
+            "score": 0.66541
+          },
+          {
+            "tag": "2018",
+            "score": 0.66541
+          },
+          {
+            "tag": "daww",
+            "score": 0.66367
+          },
+          {
+            "tag": "head tuft",
+            "score": 0.65666
+          },
+          {
+            "tag": "2016",
+            "score": 0.65489
+          },
+          {
+            "tag": "sketch",
+            "score": 0.65313
+          },
+          {
+            "tag": "original",
+            "score": 0.64958
+          },
+          {
+            "tag": "black tail",
+            "score": 0.64512
+          },
+          {
+            "tag": "front view",
+            "score": 0.64423
+          },
+          {
+            "tag": "fluffy",
+            "score": 0.64153
+          },
+          {
+            "tag": "atlus",
+            "score": 0.63068
+          },
+          {
+            "tag": "grumpy",
+            "score": 0.62886
+          },
+          {
+            "tag": "shaded",
+            "score": 0.60627
+          },
+          {
+            "tag": "2020",
+            "score": 0.60393
+          },
+          {
+            "tag": "sad",
+            "score": 0.59596
+          },
+          {
+            "tag": "cheek tuft",
+            "score": 0.59219
+          },
+          {
+            "tag": "male (lore)",
+            "score": 0.58368
+          },
+          {
+            "tag": "2023",
+            "score": 0.58083
+          },
+          {
+            "tag": "2021",
+            "score": 0.57988
+          },
+          {
+            "tag": "mouth closed",
+            "score": 0.56001
+          },
+          {
+            "tag": "night in the woods",
+            "score": 0.55977
+          },
+          {
+            "tag": "pokemon (creature)",
+            "score": 0.5448
+          },
+          {
+            "tag": "full body",
+            "score": 0.54383
+          },
+          {
+            "tag": "monotone fur",
+            "score": 0.54214
+          },
+          {
+            "tag": "paws",
+            "score": 0.54165
+          },
+          {
+            "tag": "neck tuft",
+            "score": 0.53971
+          },
+          {
+            "tag": "black background",
+            "score": 0.53753
+          },
+          {
+            "tag": "unavailable at source",
+            "score": 0.53704
+          },
+          {
+            "tag": "2022",
+            "score": 0.53486
+          },
+          {
+            "tag": "glistening",
+            "score": 0.53461
+          },
+          {
+            "tag": "colored",
+            "score": 0.53388
+          },
+          {
+            "tag": "black inner ear",
+            "score": 0.53121
+          },
+          {
+            "tag": "low res",
+            "score": 0.52001
+          },
+          {
+            "tag": "black ears",
+            "score": 0.51483
+          },
+          {
+            "tag": "pokemon gold beta",
+            "score": 0.51196
+          },
+          {
+            "tag": "black nose",
+            "score": 0.51123
+          },
+          {
+            "tag": "alternate species",
+            "score": 0.50166
+          },
+          {
+            "tag": "pointy ears",
+            "score": 0.50156
           }
         ]
       }
@@ -4639,8 +9115,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "8ae85c337f51d2cc6e3d7d8b97e141de87c04892c606d16a19e0b18085b94159",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -4802,6 +9278,110 @@
           {
             "tag": "sitting",
             "score": 0.71859
+          },
+          {
+            "tag": "animal feet",
+            "score": 0.7074
+          },
+          {
+            "tag": "creature",
+            "score": 0.68931
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.67747
+          },
+          {
+            "tag": "lying",
+            "score": 0.67319
+          },
+          {
+            "tag": "commentary request",
+            "score": 0.66715
+          },
+          {
+            "tag": "blue background",
+            "score": 0.66105
+          },
+          {
+            "tag": ":d",
+            "score": 0.64958
+          },
+          {
+            "tag": "jaggy lines",
+            "score": 0.63068
+          },
+          {
+            "tag": "multiple tails",
+            "score": 0.62886
+          },
+          {
+            "tag": "male focus",
+            "score": 0.61832
+          },
+          {
+            "tag": "teeth",
+            "score": 0.59125
+          },
+          {
+            "tag": "on back",
+            "score": 0.58983
+          },
+          {
+            "tag": "arms at sides",
+            "score": 0.58463
+          },
+          {
+            "tag": "1:1",
+            "score": 0.57416
+          },
+          {
+            "tag": "alternate color",
+            "score": 0.56554
+          },
+          {
+            "tag": "fluffy",
+            "score": 0.56314
+          },
+          {
+            "tag": "notice lines",
+            "score": 0.55157
+          },
+          {
+            "tag": "dungeon meshi",
+            "score": 0.55037
+          },
+          {
+            "tag": "drooling",
+            "score": 0.54698
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.54674
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.54601
+          },
+          {
+            "tag": "made in abyss",
+            "score": 0.52293
+          },
+          {
+            "tag": "red outline",
+            "score": 0.52001
+          },
+          {
+            "tag": "derivative work",
+            "score": 0.51855
+          },
+          {
+            "tag": "felis",
+            "score": 0.5094
+          },
+          {
+            "tag": "hand up",
+            "score": 0.50824
           }
         ]
       }
@@ -4838,8 +9418,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "d7d58c8634292856b820a3d09d330c6479ad1af463efa5e46eb4fbcd4335d8b9",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -5001,6 +9581,234 @@
           {
             "tag": "felis",
             "score": 0.8977
+          },
+          {
+            "tag": "headwear",
+            "score": 0.85391
+          },
+          {
+            "tag": "lowres",
+            "score": 0.85096
+          },
+          {
+            "tag": "hat ornament",
+            "score": 0.84797
+          },
+          {
+            "tag": "solo",
+            "score": 0.84594
+          },
+          {
+            "tag": "stick",
+            "score": 0.84594
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.84286
+          },
+          {
+            "tag": "magic user",
+            "score": 0.84183
+          },
+          {
+            "tag": "1other",
+            "score": 0.83004
+          },
+          {
+            "tag": "animalization",
+            "score": 0.82219
+          },
+          {
+            "tag": "chibi only",
+            "score": 0.78793
+          },
+          {
+            "tag": "starry background",
+            "score": 0.78399
+          },
+          {
+            "tag": "furry",
+            "score": 0.78133
+          },
+          {
+            "tag": "commentary",
+            "score": 0.77594
+          },
+          {
+            "tag": "cat tail",
+            "score": 0.77458
+          },
+          {
+            "tag": "print headwear",
+            "score": 0.77322
+          },
+          {
+            "tag": "shadow",
+            "score": 0.76908
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.76065
+          },
+          {
+            "tag": "feline",
+            "score": 0.75636
+          },
+          {
+            "tag": "chibi",
+            "score": 0.75636
+          },
+          {
+            "tag": "body fur",
+            "score": 0.74909
+          },
+          {
+            "tag": "bad twitter id",
+            "score": 0.74466
+          },
+          {
+            "tag": "cosplay",
+            "score": 0.73412
+          },
+          {
+            "tag": "colored skin",
+            "score": 0.73029
+          },
+          {
+            "tag": "holding stick",
+            "score": 0.72643
+          },
+          {
+            "tag": "purple headwear",
+            "score": 0.70982
+          },
+          {
+            "tag": "kirisame marisa",
+            "score": 0.70821
+          },
+          {
+            "tag": "grey background",
+            "score": 0.70497
+          },
+          {
+            "tag": "ears through headwear",
+            "score": 0.70089
+          },
+          {
+            "tag": "solid circle pupils",
+            "score": 0.69761
+          },
+          {
+            "tag": "artist request",
+            "score": 0.69596
+          },
+          {
+            "tag": "large hat",
+            "score": 0.66715
+          },
+          {
+            "tag": "blending",
+            "score": 0.6628
+          },
+          {
+            "tag": "1boy",
+            "score": 0.65666
+          },
+          {
+            "tag": "scepter",
+            "score": 0.65401
+          },
+          {
+            "tag": "cat ears",
+            "score": 0.65047
+          },
+          {
+            "tag": "black hat",
+            "score": 0.64512
+          },
+          {
+            "tag": "black tail",
+            "score": 0.63793
+          },
+          {
+            "tag": "furry male",
+            "score": 0.63613
+          },
+          {
+            "tag": "no mouth",
+            "score": 0.62977
+          },
+          {
+            "tag": "star symbol background",
+            "score": 0.62108
+          },
+          {
+            "tag": "straight-on",
+            "score": 0.61138
+          },
+          {
+            "tag": "blue headwear",
+            "score": 0.61092
+          },
+          {
+            "tag": "meme",
+            "score": 0.60952
+          },
+          {
+            "tag": "constellation",
+            "score": 0.60859
+          },
+          {
+            "tag": "mage staff",
+            "score": 0.59878
+          },
+          {
+            "tag": "slit pupils",
+            "score": 0.59219
+          },
+          {
+            "tag": "plump",
+            "score": 0.59219
+          },
+          {
+            "tag": "white cat",
+            "score": 0.587
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.54092
+          },
+          {
+            "tag": "cropped torso",
+            "score": 0.53971
+          },
+          {
+            "tag": "starry sky print",
+            "score": 0.53607
+          },
+          {
+            "tag": "male focus",
+            "score": 0.53243
+          },
+          {
+            "tag": "black outline",
+            "score": 0.52111
+          },
+          {
+            "tag": "halloween",
+            "score": 0.51818
+          },
+          {
+            "tag": "official art",
+            "score": 0.51794
+          },
+          {
+            "tag": "star (sky)",
+            "score": 0.50903
+          },
+          {
+            "tag": "photo-referenced",
+            "score": 0.50534
           }
         ]
       }
@@ -5037,8 +9845,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "8d9c31092cb42993f50a44e1c08d632e1287455deb5529735297fa1999a09af4",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -5200,6 +10008,130 @@
           {
             "tag": "clothed animal",
             "score": 0.67747
+          },
+          {
+            "tag": "fang",
+            "score": 0.66715
+          },
+          {
+            "tag": ":d",
+            "score": 0.66105
+          },
+          {
+            "tag": "cat ears",
+            "score": 0.65489
+          },
+          {
+            "tag": "simple background",
+            "score": 0.64691
+          },
+          {
+            "tag": "other focus",
+            "score": 0.64333
+          },
+          {
+            "tag": "frown",
+            "score": 0.63703
+          },
+          {
+            "tag": "lowres",
+            "score": 0.63432
+          },
+          {
+            "tag": "black tail",
+            "score": 0.62521
+          },
+          {
+            "tag": "pokemon (creature)",
+            "score": 0.61878
+          },
+          {
+            "tag": "grey cat",
+            "score": 0.61786
+          },
+          {
+            "tag": "lobotomy corporation",
+            "score": 0.61647
+          },
+          {
+            "tag": "wide-eyed",
+            "score": 0.6137
+          },
+          {
+            "tag": "parody",
+            "score": 0.6072
+          },
+          {
+            "tag": "body fur",
+            "score": 0.59972
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.59267
+          },
+          {
+            "tag": "domestic cat",
+            "score": 0.59031
+          },
+          {
+            "tag": "felis",
+            "score": 0.5813
+          },
+          {
+            "tag": "animal ears",
+            "score": 0.58083
+          },
+          {
+            "tag": "fluffy",
+            "score": 0.57988
+          },
+          {
+            "tag": "tail",
+            "score": 0.57892
+          },
+          {
+            "tag": "dog",
+            "score": 0.57654
+          },
+          {
+            "tag": "creature",
+            "score": 0.56937
+          },
+          {
+            "tag": "pokemon sv",
+            "score": 0.56842
+          },
+          {
+            "tag": "multiple views",
+            "score": 0.55977
+          },
+          {
+            "tag": "library of ruina",
+            "score": 0.55544
+          },
+          {
+            "tag": "feline",
+            "score": 0.54189
+          },
+          {
+            "tag": "black skin",
+            "score": 0.53801
+          },
+          {
+            "tag": "1other",
+            "score": 0.53145
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.52963
+          },
+          {
+            "tag": "one piece",
+            "score": 0.51257
+          },
+          {
+            "tag": "photo-referenced",
+            "score": 0.50288
           }
         ]
       }
@@ -5236,8 +10168,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "010e72f41855b194872d7f86c9b691e4d6f730b2acca619160c2938d270d1c52",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -5399,6 +10331,170 @@
           {
             "tag": "solo",
             "score": 0.81874
+          },
+          {
+            "tag": "bad twitter id",
+            "score": 0.81523
+          },
+          {
+            "tag": "dungeon meshi",
+            "score": 0.78531
+          },
+          {
+            "tag": "head wreath",
+            "score": 0.78399
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.77594
+          },
+          {
+            "tag": "holding",
+            "score": 0.75923
+          },
+          {
+            "tag": "holly",
+            "score": 0.74167
+          },
+          {
+            "tag": "white outline",
+            "score": 0.72565
+          },
+          {
+            "tag": "plant",
+            "score": 0.71938
+          },
+          {
+            "tag": "leaf",
+            "score": 0.71303
+          },
+          {
+            "tag": "other focus",
+            "score": 0.69513
+          },
+          {
+            "tag": "official art",
+            "score": 0.69014
+          },
+          {
+            "tag": "shadow",
+            "score": 0.68931
+          },
+          {
+            "tag": "daww",
+            "score": 0.67061
+          },
+          {
+            "tag": "lowres",
+            "score": 0.66541
+          },
+          {
+            "tag": "hands up",
+            "score": 0.65842
+          },
+          {
+            "tag": "branch",
+            "score": 0.65754
+          },
+          {
+            "tag": "on back",
+            "score": 0.65578
+          },
+          {
+            "tag": "jpeg artifacts",
+            "score": 0.6478
+          },
+          {
+            "tag": "project moon",
+            "score": 0.63613
+          },
+          {
+            "tag": "derivative work",
+            "score": 0.63159
+          },
+          {
+            "tag": ":<",
+            "score": 0.61924
+          },
+          {
+            "tag": "tail",
+            "score": 0.61324
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.60627
+          },
+          {
+            "tag": "straight-on",
+            "score": 0.6044
+          },
+          {
+            "tag": "green sclera",
+            "score": 0.59878
+          },
+          {
+            "tag": "felid",
+            "score": 0.58794
+          },
+          {
+            "tag": "third-party source",
+            "score": 0.56073
+          },
+          {
+            "tag": "meme",
+            "score": 0.55157
+          },
+          {
+            "tag": "korean commentary",
+            "score": 0.54867
+          },
+          {
+            "tag": "animal ear fluff",
+            "score": 0.54189
+          },
+          {
+            "tag": "lying",
+            "score": 0.53728
+          },
+          {
+            "tag": "body fur",
+            "score": 0.53607
+          },
+          {
+            "tag": "cropped torso",
+            "score": 0.53315
+          },
+          {
+            "tag": "garland (decoration)",
+            "score": 0.52622
+          },
+          {
+            "tag": "mistletoe",
+            "score": 0.52403
+          },
+          {
+            "tag": "transparent background",
+            "score": 0.51977
+          },
+          {
+            "tag": "from behind",
+            "score": 0.51495
+          },
+          {
+            "tag": "cat ears",
+            "score": 0.51464
+          },
+          {
+            "tag": "pokemon (creature)",
+            "score": 0.51214
+          },
+          {
+            "tag": "furry",
+            "score": 0.50604
+          },
+          {
+            "tag": "bell",
+            "score": 0.5036
           }
         ]
       }
@@ -5436,8 +10532,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "d99b4d695ed1aca5a289758ab4d752999f333870231039dffb73f43778e267a4",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -5599,6 +10695,246 @@
           {
             "tag": "black feathers",
             "score": 0.90329
+          },
+          {
+            "tag": "domestic cat",
+            "score": 0.89625
+          },
+          {
+            "tag": "meme",
+            "score": 0.89479
+          },
+          {
+            "tag": "holding map",
+            "score": 0.88404
+          },
+          {
+            "tag": "furry",
+            "score": 0.88243
+          },
+          {
+            "tag": "body fur",
+            "score": 0.87915
+          },
+          {
+            "tag": "ink",
+            "score": 0.87663
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.86704
+          },
+          {
+            "tag": "felis",
+            "score": 0.8606
+          },
+          {
+            "tag": "male focus",
+            "score": 0.8606
+          },
+          {
+            "tag": "project moon",
+            "score": 0.8606
+          },
+          {
+            "tag": "1other",
+            "score": 0.83548
+          },
+          {
+            "tag": "cat tail",
+            "score": 0.83441
+          },
+          {
+            "tag": "writing",
+            "score": 0.81405
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.81287
+          },
+          {
+            "tag": "feather hair ornament",
+            "score": 0.79819
+          },
+          {
+            "tag": "green sclera",
+            "score": 0.79819
+          },
+          {
+            "tag": "feline",
+            "score": 0.77594
+          },
+          {
+            "tag": "official art",
+            "score": 0.77458
+          },
+          {
+            "tag": "holding pen",
+            "score": 0.77184
+          },
+          {
+            "tag": "reading",
+            "score": 0.76769
+          },
+          {
+            "tag": "bad twitter id",
+            "score": 0.75923
+          },
+          {
+            "tag": "1boy",
+            "score": 0.75055
+          },
+          {
+            "tag": "commentary",
+            "score": 0.74909
+          },
+          {
+            "tag": "transparent background",
+            "score": 0.74909
+          },
+          {
+            "tag": "inkwell",
+            "score": 0.74909
+          },
+          {
+            "tag": "pupils",
+            "score": 0.74017
+          },
+          {
+            "tag": "slit pupils",
+            "score": 0.71859
+          },
+          {
+            "tag": "grey background",
+            "score": 0.70821
+          },
+          {
+            "tag": "shadow",
+            "score": 0.69925
+          },
+          {
+            "tag": "sitting",
+            "score": 0.69098
+          },
+          {
+            "tag": "map (object)",
+            "score": 0.69098
+          },
+          {
+            "tag": "chibi only",
+            "score": 0.68763
+          },
+          {
+            "tag": "artist request",
+            "score": 0.68595
+          },
+          {
+            "tag": "cat ears",
+            "score": 0.68342
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.68257
+          },
+          {
+            "tag": "lowres",
+            "score": 0.67491
+          },
+          {
+            "tag": "solo",
+            "score": 0.6478
+          },
+          {
+            "tag": "virtual youtuber",
+            "score": 0.6478
+          },
+          {
+            "tag": "jaggy lines",
+            "score": 0.6478
+          },
+          {
+            "tag": "felid",
+            "score": 0.64064
+          },
+          {
+            "tag": "black skin",
+            "score": 0.63068
+          },
+          {
+            "tag": "fluffy",
+            "score": 0.62612
+          },
+          {
+            "tag": "happy",
+            "score": 0.62429
+          },
+          {
+            "tag": "korean commentary",
+            "score": 0.62429
+          },
+          {
+            "tag": "clothed animal",
+            "score": 0.6137
+          },
+          {
+            "tag": "smug",
+            "score": 0.6044
+          },
+          {
+            "tag": "two-tone fur",
+            "score": 0.59878
+          },
+          {
+            "tag": "wavy mouth",
+            "score": 0.58983
+          },
+          {
+            "tag": "1:1",
+            "score": 0.57845
+          },
+          {
+            "tag": "derivative work",
+            "score": 0.57272
+          },
+          {
+            "tag": "crumpled paper",
+            "score": 0.56362
+          },
+          {
+            "tag": "drawing",
+            "score": 0.55616
+          },
+          {
+            "tag": "looking down",
+            "score": 0.54819
+          },
+          {
+            "tag": "black outline",
+            "score": 0.54553
+          },
+          {
+            "tag": "fang",
+            "score": 0.5385
+          },
+          {
+            "tag": "writing text",
+            "score": 0.53243
+          },
+          {
+            "tag": "jpeg artifacts",
+            "score": 0.53218
+          },
+          {
+            "tag": "smile",
+            "score": 0.52793
+          },
+          {
+            "tag": "limited palette",
+            "score": 0.51818
+          },
+          {
+            "tag": "2others",
+            "score": 0.51538
           }
         ]
       }
@@ -5635,8 +10971,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "303446ab7850faf424e429850d9028805d633dd6567ad92b7a8c667119cdadd1",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -5798,6 +11134,246 @@
           {
             "tag": "fur",
             "score": 0.86522
+          },
+          {
+            "tag": "icon",
+            "score": 0.86522
+          },
+          {
+            "tag": "detailed",
+            "score": 0.86154
+          },
+          {
+            "tag": "2017",
+            "score": 0.85966
+          },
+          {
+            "tag": "white background",
+            "score": 0.85681
+          },
+          {
+            "tag": "black tail",
+            "score": 0.84797
+          },
+          {
+            "tag": "leaf",
+            "score": 0.84183
+          },
+          {
+            "tag": "big eyes",
+            "score": 0.83548
+          },
+          {
+            "tag": "egg",
+            "score": 0.83114
+          },
+          {
+            "tag": "alpha channel",
+            "score": 0.83004
+          },
+          {
+            "tag": "front view",
+            "score": 0.82446
+          },
+          {
+            "tag": "in food",
+            "score": 0.82104
+          },
+          {
+            "tag": "holidays",
+            "score": 0.81989
+          },
+          {
+            "tag": "2019",
+            "score": 0.81523
+          },
+          {
+            "tag": "simple background",
+            "score": 0.80069
+          },
+          {
+            "tag": "slit pupils",
+            "score": 0.79438
+          },
+          {
+            "tag": "official art",
+            "score": 0.78662
+          },
+          {
+            "tag": "traditional media (artwork)",
+            "score": 0.77999
+          },
+          {
+            "tag": "digital painting (artwork)",
+            "score": 0.77999
+          },
+          {
+            "tag": "toony",
+            "score": 0.77184
+          },
+          {
+            "tag": "cooking",
+            "score": 0.76629
+          },
+          {
+            "tag": "feral",
+            "score": 0.76348
+          },
+          {
+            "tag": "marine",
+            "score": 0.74614
+          },
+          {
+            "tag": "young",
+            "score": 0.74614
+          },
+          {
+            "tag": "holding object",
+            "score": 0.74167
+          },
+          {
+            "tag": "black ears",
+            "score": 0.73564
+          },
+          {
+            "tag": "chopsticks",
+            "score": 0.71622
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.71063
+          },
+          {
+            "tag": "digital art",
+            "score": 0.70253
+          },
+          {
+            "tag": "semi-anthro",
+            "score": 0.70253
+          },
+          {
+            "tag": "digital drawing (artwork)",
+            "score": 0.69347
+          },
+          {
+            "tag": "whisker markings",
+            "score": 0.68931
+          },
+          {
+            "tag": "cartoon network",
+            "score": 0.68257
+          },
+          {
+            "tag": "black cat",
+            "score": 0.68173
+          },
+          {
+            "tag": "glistening",
+            "score": 0.67918
+          },
+          {
+            "tag": "dessert",
+            "score": 0.67662
+          },
+          {
+            "tag": "lineless",
+            "score": 0.66454
+          },
+          {
+            "tag": "low res",
+            "score": 0.65842
+          },
+          {
+            "tag": "pasta",
+            "score": 0.65578
+          },
+          {
+            "tag": "mouth closed",
+            "score": 0.65313
+          },
+          {
+            "tag": "chibi",
+            "score": 0.64243
+          },
+          {
+            "tag": "paws",
+            "score": 0.63432
+          },
+          {
+            "tag": "creative commons",
+            "score": 0.62886
+          },
+          {
+            "tag": "other focus",
+            "score": 0.62704
+          },
+          {
+            "tag": "daww",
+            "score": 0.62612
+          },
+          {
+            "tag": "detailed food",
+            "score": 0.61185
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.60999
+          },
+          {
+            "tag": "sauce",
+            "score": 0.60627
+          },
+          {
+            "tag": "dairy products",
+            "score": 0.6058
+          },
+          {
+            "tag": "seaweed",
+            "score": 0.59925
+          },
+          {
+            "tag": "black scales",
+            "score": 0.59737
+          },
+          {
+            "tag": "glistening eyes",
+            "score": 0.59643
+          },
+          {
+            "tag": "plate",
+            "score": 0.58558
+          },
+          {
+            "tag": "half-length portrait",
+            "score": 0.5851
+          },
+          {
+            "tag": "black face",
+            "score": 0.57511
+          },
+          {
+            "tag": "male (lore)",
+            "score": 0.57272
+          },
+          {
+            "tag": "eating food",
+            "score": 0.57272
+          },
+          {
+            "tag": "fish",
+            "score": 0.57224
+          },
+          {
+            "tag": ":3",
+            "score": 0.56985
+          },
+          {
+            "tag": "angry",
+            "score": 0.56746
+          },
+          {
+            "tag": "2015",
+            "score": 0.56698
           }
         ]
       }
@@ -5835,8 +11411,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "708e2e12655deb3ade806dca62646398af10ad3e8c474aa6fe4dfb572a2f084e",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -5998,6 +11574,226 @@
           {
             "tag": "scenery",
             "score": 0.87147
+          },
+          {
+            "tag": "canis",
+            "score": 0.84078
+          },
+          {
+            "tag": "footprint",
+            "score": 0.83762
+          },
+          {
+            "tag": "black sky",
+            "score": 0.83762
+          },
+          {
+            "tag": "shadow",
+            "score": 0.83114
+          },
+          {
+            "tag": "walking",
+            "score": 0.80194
+          },
+          {
+            "tag": "moonlight",
+            "score": 0.80069
+          },
+          {
+            "tag": "cat",
+            "score": 0.77184
+          },
+          {
+            "tag": "official art",
+            "score": 0.76629
+          },
+          {
+            "tag": "back",
+            "score": 0.76207
+          },
+          {
+            "tag": "black border",
+            "score": 0.74614
+          },
+          {
+            "tag": "animalization",
+            "score": 0.74466
+          },
+          {
+            "tag": "commentary",
+            "score": 0.72798
+          },
+          {
+            "tag": "blue sky",
+            "score": 0.72565
+          },
+          {
+            "tag": "domestic dog",
+            "score": 0.72409
+          },
+          {
+            "tag": "animal hands",
+            "score": 0.71701
+          },
+          {
+            "tag": "dog tail",
+            "score": 0.71622
+          },
+          {
+            "tag": "outside border",
+            "score": 0.66541
+          },
+          {
+            "tag": "meme",
+            "score": 0.6593
+          },
+          {
+            "tag": "jpeg artifacts",
+            "score": 0.65666
+          },
+          {
+            "tag": "english commentary",
+            "score": 0.65135
+          },
+          {
+            "tag": "rear view",
+            "score": 0.64869
+          },
+          {
+            "tag": "standing",
+            "score": 0.6325
+          },
+          {
+            "tag": "touhou",
+            "score": 0.63068
+          },
+          {
+            "tag": "plant",
+            "score": 0.62338
+          },
+          {
+            "tag": "christmas tree",
+            "score": 0.62062
+          },
+          {
+            "tag": "looking back",
+            "score": 0.61509
+          },
+          {
+            "tag": "husky",
+            "score": 0.61463
+          },
+          {
+            "tag": "mahou shoujo madoka magica",
+            "score": 0.61231
+          },
+          {
+            "tag": "cloud",
+            "score": 0.60159
+          },
+          {
+            "tag": "chibi only",
+            "score": 0.60113
+          },
+          {
+            "tag": "chibi",
+            "score": 0.60019
+          },
+          {
+            "tag": "evergreen tree",
+            "score": 0.59737
+          },
+          {
+            "tag": "hill",
+            "score": 0.59219
+          },
+          {
+            "tag": "monochrome",
+            "score": 0.58936
+          },
+          {
+            "tag": "raised tail",
+            "score": 0.58842
+          },
+          {
+            "tag": "bad twitter id",
+            "score": 0.58747
+          },
+          {
+            "tag": "branch",
+            "score": 0.58035
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.57988
+          },
+          {
+            "tag": "commentary request",
+            "score": 0.57272
+          },
+          {
+            "tag": "limited palette",
+            "score": 0.56937
+          },
+          {
+            "tag": "derivative work",
+            "score": 0.56218
+          },
+          {
+            "tag": "grey sky",
+            "score": 0.55929
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.5564
+          },
+          {
+            "tag": "crescent",
+            "score": 0.5402
+          },
+          {
+            "tag": "backlighting",
+            "score": 0.5402
+          },
+          {
+            "tag": "white outline",
+            "score": 0.53583
+          },
+          {
+            "tag": "spitz",
+            "score": 0.53413
+          },
+          {
+            "tag": "by naga u",
+            "score": 0.52476
+          },
+          {
+            "tag": "dog ears",
+            "score": 0.52354
+          },
+          {
+            "tag": "all fours",
+            "score": 0.51806
+          },
+          {
+            "tag": "light",
+            "score": 0.51708
+          },
+          {
+            "tag": "cold",
+            "score": 0.50946
+          },
+          {
+            "tag": "wide shot",
+            "score": 0.50507
+          },
+          {
+            "tag": "third-party source",
+            "score": 0.50415
+          },
+          {
+            "tag": "black tail",
+            "score": 0.50159
           }
         ]
       }
@@ -6035,8 +11831,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "0a40e26c328023fd871fa6127050d22d3ef34d3fbc94c8e11045d227c12f0e4e",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -6198,6 +11994,246 @@
           {
             "tag": "notice lines",
             "score": 0.88563
+          },
+          {
+            "tag": "cropped torso",
+            "score": 0.87831
+          },
+          {
+            "tag": "animal ears",
+            "score": 0.87663
+          },
+          {
+            "tag": "whisker markings",
+            "score": 0.87493
+          },
+          {
+            "tag": "chibi only",
+            "score": 0.87408
+          },
+          {
+            "tag": "meme",
+            "score": 0.87235
+          },
+          {
+            "tag": "straight-on",
+            "score": 0.86522
+          },
+          {
+            "tag": "reindeer",
+            "score": 0.86522
+          },
+          {
+            "tag": "brown hairband",
+            "score": 0.86339
+          },
+          {
+            "tag": "other focus",
+            "score": 0.85966
+          },
+          {
+            "tag": "furry",
+            "score": 0.85872
+          },
+          {
+            "tag": "yellow eyes",
+            "score": 0.85294
+          },
+          {
+            "tag": "hairband",
+            "score": 0.85294
+          },
+          {
+            "tag": "chibi",
+            "score": 0.84997
+          },
+          {
+            "tag": "deltarune",
+            "score": 0.84797
+          },
+          {
+            "tag": "headshot portrait",
+            "score": 0.84594
+          },
+          {
+            "tag": "black outline",
+            "score": 0.84594
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.83868
+          },
+          {
+            "tag": "felid",
+            "score": 0.83224
+          },
+          {
+            "tag": "artist request",
+            "score": 0.82559
+          },
+          {
+            "tag": "one piece",
+            "score": 0.81757
+          },
+          {
+            "tag": "korean commentary",
+            "score": 0.81287
+          },
+          {
+            "tag": "reindeer costume",
+            "score": 0.80685
+          },
+          {
+            "tag": "commentary",
+            "score": 0.80563
+          },
+          {
+            "tag": "animal ear hairband",
+            "score": 0.79182
+          },
+          {
+            "tag": "pokemon (creature)",
+            "score": 0.78266
+          },
+          {
+            "tag": "wide-eyed",
+            "score": 0.77999
+          },
+          {
+            "tag": "lobotomy corporation",
+            "score": 0.77458
+          },
+          {
+            "tag": "christmas",
+            "score": 0.75636
+          },
+          {
+            "tag": "jaggy lines",
+            "score": 0.75201
+          },
+          {
+            "tag": "derivative work",
+            "score": 0.75055
+          },
+          {
+            "tag": "red headband",
+            "score": 0.74909
+          },
+          {
+            "tag": "animal costume",
+            "score": 0.74762
+          },
+          {
+            "tag": "alternate species",
+            "score": 0.72253
+          },
+          {
+            "tag": "cosplay",
+            "score": 0.71938
+          },
+          {
+            "tag": "upper body",
+            "score": 0.71859
+          },
+          {
+            "tag": "full body",
+            "score": 0.71542
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.71383
+          },
+          {
+            "tag": "alternate color",
+            "score": 0.69098
+          },
+          {
+            "tag": "solid circle pupils",
+            "score": 0.69098
+          },
+          {
+            "tag": "official art",
+            "score": 0.68931
+          },
+          {
+            "tag": "monotone body",
+            "score": 0.68426
+          },
+          {
+            "tag": "noelle holiday",
+            "score": 0.68173
+          },
+          {
+            "tag": "body fur",
+            "score": 0.66367
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.66105
+          },
+          {
+            "tag": "pupils",
+            "score": 0.65666
+          },
+          {
+            "tag": "monotone fur",
+            "score": 0.64423
+          },
+          {
+            "tag": "photo-referenced",
+            "score": 0.64243
+          },
+          {
+            "tag": "holidays",
+            "score": 0.63068
+          },
+          {
+            "tag": "third-party source",
+            "score": 0.62977
+          },
+          {
+            "tag": "earmuffs",
+            "score": 0.62795
+          },
+          {
+            "tag": "clown nose",
+            "score": 0.62612
+          },
+          {
+            "tag": "animal hands",
+            "score": 0.62521
+          },
+          {
+            "tag": "stare",
+            "score": 0.62338
+          },
+          {
+            "tag": "front view",
+            "score": 0.61832
+          },
+          {
+            "tag": "black hair",
+            "score": 0.6174
+          },
+          {
+            "tag": "furry male",
+            "score": 0.59925
+          },
+          {
+            "tag": "cat tail",
+            "score": 0.58889
+          },
+          {
+            "tag": "yellow outline",
+            "score": 0.58558
+          },
+          {
+            "tag": "pokemon gold beta",
+            "score": 0.58368
+          },
+          {
+            "tag": "animalization",
+            "score": 0.57559
           }
         ]
       }
@@ -6236,8 +12272,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "ff43e8ff93c26b52c0749d2af613aada98cfa8a4d90fa78f8a3e09b810fddd4a",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -6399,6 +12435,246 @@
           {
             "tag": "black eyes",
             "score": 0.85777
+          },
+          {
+            "tag": "eating",
+            "score": 0.85294
+          },
+          {
+            "tag": "holding food",
+            "score": 0.84594
+          },
+          {
+            "tag": "holidays",
+            "score": 0.8439
+          },
+          {
+            "tag": "body fur",
+            "score": 0.8439
+          },
+          {
+            "tag": "english commentary",
+            "score": 0.82104
+          },
+          {
+            "tag": "pine tree",
+            "score": 0.82104
+          },
+          {
+            "tag": "christmas lights",
+            "score": 0.81405
+          },
+          {
+            "tag": "cat tail",
+            "score": 0.80807
+          },
+          {
+            "tag": "rice",
+            "score": 0.80441
+          },
+          {
+            "tag": "plant",
+            "score": 0.79693
+          },
+          {
+            "tag": "cat girl",
+            "score": 0.79566
+          },
+          {
+            "tag": "brown background",
+            "score": 0.76489
+          },
+          {
+            "tag": "furry",
+            "score": 0.76348
+          },
+          {
+            "tag": "christmas ornaments",
+            "score": 0.76348
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.75923
+          },
+          {
+            "tag": "garland (decoration)",
+            "score": 0.75491
+          },
+          {
+            "tag": "kitten",
+            "score": 0.75347
+          },
+          {
+            "tag": "chicken leg",
+            "score": 0.74909
+          },
+          {
+            "tag": "commentary",
+            "score": 0.74167
+          },
+          {
+            "tag": "third-party source",
+            "score": 0.74167
+          },
+          {
+            "tag": "no mouth",
+            "score": 0.7272
+          },
+          {
+            "tag": "wooden table",
+            "score": 0.71223
+          },
+          {
+            "tag": "chibi",
+            "score": 0.70497
+          },
+          {
+            "tag": "shadow",
+            "score": 0.69761
+          },
+          {
+            "tag": "holding",
+            "score": 0.68595
+          },
+          {
+            "tag": "happy",
+            "score": 0.68088
+          },
+          {
+            "tag": "still life",
+            "score": 0.67491
+          },
+          {
+            "tag": "holding plate",
+            "score": 0.67147
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.66715
+          },
+          {
+            "tag": "official art",
+            "score": 0.66541
+          },
+          {
+            "tag": "on table",
+            "score": 0.65754
+          },
+          {
+            "tag": "silent comic",
+            "score": 0.65313
+          },
+          {
+            "tag": "yellow background",
+            "score": 0.65224
+          },
+          {
+            "tag": "lowres",
+            "score": 0.64958
+          },
+          {
+            "tag": "male focus",
+            "score": 0.6478
+          },
+          {
+            "tag": "blurry",
+            "score": 0.6478
+          },
+          {
+            "tag": "white background",
+            "score": 0.62016
+          },
+          {
+            "tag": "looking down",
+            "score": 0.62016
+          },
+          {
+            "tag": "artist request",
+            "score": 0.6137
+          },
+          {
+            "tag": "bad twitter id",
+            "score": 0.60253
+          },
+          {
+            "tag": "window",
+            "score": 0.59831
+          },
+          {
+            "tag": "inside",
+            "score": 0.59643
+          },
+          {
+            "tag": "wood",
+            "score": 0.58794
+          },
+          {
+            "tag": "derivative work",
+            "score": 0.58463
+          },
+          {
+            "tag": "clothed animal",
+            "score": 0.58035
+          },
+          {
+            "tag": "dinner",
+            "score": 0.5794
+          },
+          {
+            "tag": "pasta",
+            "score": 0.57702
+          },
+          {
+            "tag": "creature",
+            "score": 0.56554
+          },
+          {
+            "tag": "solid circle pupils",
+            "score": 0.56554
+          },
+          {
+            "tag": "1boy",
+            "score": 0.56146
+          },
+          {
+            "tag": "outside border",
+            "score": 0.54916
+          },
+          {
+            "tag": "yellow border",
+            "score": 0.54843
+          },
+          {
+            "tag": "wide-eyed",
+            "score": 0.54625
+          },
+          {
+            "tag": "feral",
+            "score": 0.54359
+          },
+          {
+            "tag": "closed mouth",
+            "score": 0.53995
+          },
+          {
+            "tag": "full body",
+            "score": 0.53364
+          },
+          {
+            "tag": "green sclera",
+            "score": 0.53291
+          },
+          {
+            "tag": "sitting",
+            "score": 0.52427
+          },
+          {
+            "tag": "looking at food",
+            "score": 0.50586
+          },
+          {
+            "tag": "christmas decorations",
+            "score": 0.50415
           }
         ]
       }
@@ -6435,8 +12711,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "51b64040044b349e30ed66f2ae317bf82ea80cba6ad63a368dac2ca738e40117",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -6598,6 +12874,122 @@
           {
             "tag": "microsoft",
             "score": 0.81405
+          },
+          {
+            "tag": "headshot portrait",
+            "score": 0.76348
+          },
+          {
+            "tag": "beta pokemon (species)",
+            "score": 0.76348
+          },
+          {
+            "tag": "2023",
+            "score": 0.76207
+          },
+          {
+            "tag": "transparent background",
+            "score": 0.73867
+          },
+          {
+            "tag": "animal",
+            "score": 0.73412
+          },
+          {
+            "tag": "2019",
+            "score": 0.72952
+          },
+          {
+            "tag": "black cat",
+            "score": 0.72798
+          },
+          {
+            "tag": "2024",
+            "score": 0.7066
+          },
+          {
+            "tag": "robe",
+            "score": 0.7066
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.66888
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.66367
+          },
+          {
+            "tag": "chibi",
+            "score": 0.64423
+          },
+          {
+            "tag": "orange sclera",
+            "score": 0.63341
+          },
+          {
+            "tag": "daww",
+            "score": 0.63159
+          },
+          {
+            "tag": "fur",
+            "score": 0.62154
+          },
+          {
+            "tag": "2021",
+            "score": 0.61694
+          },
+          {
+            "tag": "2017",
+            "score": 0.61277
+          },
+          {
+            "tag": "colored sclera",
+            "score": 0.61231
+          },
+          {
+            "tag": "icon",
+            "score": 0.59784
+          },
+          {
+            "tag": "night in the woods",
+            "score": 0.56746
+          },
+          {
+            "tag": "digital art",
+            "score": 0.55544
+          },
+          {
+            "tag": "full-length portrait",
+            "score": 0.54577
+          },
+          {
+            "tag": "humor",
+            "score": 0.54286
+          },
+          {
+            "tag": "blue body",
+            "score": 0.53267
+          },
+          {
+            "tag": "shaded",
+            "score": 0.52452
+          },
+          {
+            "tag": "cat humanoid",
+            "score": 0.51696
+          },
+          {
+            "tag": "toony",
+            "score": 0.51477
+          },
+          {
+            "tag": "no sclera",
+            "score": 0.50504
+          },
+          {
+            "tag": "blazblue",
+            "score": 0.50163
           }
         ]
       }
@@ -6635,8 +13027,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "048d5d8079608096a93bc9c3ad540c461441c469ca4c38f90c93c507537b5167",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -6798,6 +13190,246 @@
           {
             "tag": "plant",
             "score": 0.87748
+          },
+          {
+            "tag": "digital drawing (artwork)",
+            "score": 0.87147
+          },
+          {
+            "tag": "digital painting (artwork)",
+            "score": 0.87147
+          },
+          {
+            "tag": "holding food",
+            "score": 0.84797
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.84594
+          },
+          {
+            "tag": "furry male",
+            "score": 0.83655
+          },
+          {
+            "tag": "food creature",
+            "score": 0.83548
+          },
+          {
+            "tag": "mammal",
+            "score": 0.83224
+          },
+          {
+            "tag": "chibi only",
+            "score": 0.83114
+          },
+          {
+            "tag": "portrait",
+            "score": 0.82333
+          },
+          {
+            "tag": "white skin",
+            "score": 0.82219
+          },
+          {
+            "tag": "waking up",
+            "score": 0.80807
+          },
+          {
+            "tag": "furry",
+            "score": 0.80685
+          },
+          {
+            "tag": "body fur",
+            "score": 0.77594
+          },
+          {
+            "tag": "bust portrait",
+            "score": 0.77458
+          },
+          {
+            "tag": "black skin",
+            "score": 0.77322
+          },
+          {
+            "tag": "giant panda",
+            "score": 0.76769
+          },
+          {
+            "tag": "claws",
+            "score": 0.76348
+          },
+          {
+            "tag": "english commentary",
+            "score": 0.76065
+          },
+          {
+            "tag": "daww",
+            "score": 0.76065
+          },
+          {
+            "tag": "from above",
+            "score": 0.75779
+          },
+          {
+            "tag": "feral",
+            "score": 0.75636
+          },
+          {
+            "tag": "black tail",
+            "score": 0.74909
+          },
+          {
+            "tag": "green eyes",
+            "score": 0.74466
+          },
+          {
+            "tag": "sad",
+            "score": 0.74017
+          },
+          {
+            "tag": "white fur",
+            "score": 0.73867
+          },
+          {
+            "tag": "dakimakura (medium)",
+            "score": 0.73867
+          },
+          {
+            "tag": "pickle (food)",
+            "score": 0.73716
+          },
+          {
+            "tag": "bear",
+            "score": 0.73564
+          },
+          {
+            "tag": "tired",
+            "score": 0.73564
+          },
+          {
+            "tag": "white body",
+            "score": 0.71701
+          },
+          {
+            "tag": "2023",
+            "score": 0.71542
+          },
+          {
+            "tag": "furrification",
+            "score": 0.70902
+          },
+          {
+            "tag": "blue background",
+            "score": 0.69513
+          },
+          {
+            "tag": "redraw",
+            "score": 0.6943
+          },
+          {
+            "tag": "lol comments",
+            "score": 0.68847
+          },
+          {
+            "tag": "black claws",
+            "score": 0.68763
+          },
+          {
+            "tag": "2019",
+            "score": 0.68426
+          },
+          {
+            "tag": "animate inanimate",
+            "score": 0.68173
+          },
+          {
+            "tag": "aged down",
+            "score": 0.68003
+          },
+          {
+            "tag": "front view",
+            "score": 0.64601
+          },
+          {
+            "tag": "animal humanoid",
+            "score": 0.63703
+          },
+          {
+            "tag": "lying on bed",
+            "score": 0.63703
+          },
+          {
+            "tag": "skull mask",
+            "score": 0.63522
+          },
+          {
+            "tag": "photo",
+            "score": 0.62612
+          },
+          {
+            "tag": "lettuce",
+            "score": 0.61463
+          },
+          {
+            "tag": "dakimakura",
+            "score": 0.60766
+          },
+          {
+            "tag": "arthropod",
+            "score": 0.60487
+          },
+          {
+            "tag": "animal",
+            "score": 0.60206
+          },
+          {
+            "tag": "looking up",
+            "score": 0.59502
+          },
+          {
+            "tag": "no pupils",
+            "score": 0.59502
+          },
+          {
+            "tag": "plushie",
+            "score": 0.58794
+          },
+          {
+            "tag": "changed (video game)",
+            "score": 0.58747
+          },
+          {
+            "tag": "owl",
+            "score": 0.58558
+          },
+          {
+            "tag": "alternate species",
+            "score": 0.58368
+          },
+          {
+            "tag": "pun",
+            "score": 0.58273
+          },
+          {
+            "tag": "on front",
+            "score": 0.57511
+          },
+          {
+            "tag": "grabbing sheets",
+            "score": 0.57368
+          },
+          {
+            "tag": "hybrid",
+            "score": 0.57272
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.56218
+          },
+          {
+            "tag": "outline",
+            "score": 0.55375
           }
         ]
       }
@@ -6838,8 +13470,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "d73a1f9e53422251f2670a120f5448ee690d82c5457b12c11e8a9bc6894324c4",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -7001,6 +13633,246 @@
           {
             "tag": "english text",
             "score": 0.87831
+          },
+          {
+            "tag": "chibi",
+            "score": 0.8706
+          },
+          {
+            "tag": ":d",
+            "score": 0.86431
+          },
+          {
+            "tag": "front view",
+            "score": 0.8606
+          },
+          {
+            "tag": "box",
+            "score": 0.85872
+          },
+          {
+            "tag": "gift",
+            "score": 0.85777
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.85195
+          },
+          {
+            "tag": "holly (plant)",
+            "score": 0.84897
+          },
+          {
+            "tag": "merry christmas",
+            "score": 0.84078
+          },
+          {
+            "tag": "green sclera",
+            "score": 0.83655
+          },
+          {
+            "tag": "holding",
+            "score": 0.83004
+          },
+          {
+            "tag": "cat ears",
+            "score": 0.82559
+          },
+          {
+            "tag": "bust portrait",
+            "score": 0.82104
+          },
+          {
+            "tag": "pun",
+            "score": 0.81874
+          },
+          {
+            "tag": "official art",
+            "score": 0.81757
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.81523
+          },
+          {
+            "tag": "open smile",
+            "score": 0.80928
+          },
+          {
+            "tag": "simple background",
+            "score": 0.80317
+          },
+          {
+            "tag": "spanish text",
+            "score": 0.79693
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.79182
+          },
+          {
+            "tag": "mammal",
+            "score": 0.78531
+          },
+          {
+            "tag": "ribbons",
+            "score": 0.77999
+          },
+          {
+            "tag": "fang",
+            "score": 0.76908
+          },
+          {
+            "tag": "solo",
+            "score": 0.76489
+          },
+          {
+            "tag": "raised arms",
+            "score": 0.76489
+          },
+          {
+            "tag": "in container",
+            "score": 0.75347
+          },
+          {
+            "tag": "christmas ornaments",
+            "score": 0.73564
+          },
+          {
+            "tag": "icon",
+            "score": 0.73106
+          },
+          {
+            "tag": "holly",
+            "score": 0.72331
+          },
+          {
+            "tag": "commentary",
+            "score": 0.72174
+          },
+          {
+            "tag": "digital drawing (artwork)",
+            "score": 0.72096
+          },
+          {
+            "tag": "pine tree",
+            "score": 0.72017
+          },
+          {
+            "tag": "felid humanoid",
+            "score": 0.71383
+          },
+          {
+            "tag": "cat humanoid",
+            "score": 0.71303
+          },
+          {
+            "tag": "plant",
+            "score": 0.70579
+          },
+          {
+            "tag": "chibi only",
+            "score": 0.70579
+          },
+          {
+            "tag": "open mouth",
+            "score": 0.69925
+          },
+          {
+            "tag": "pupils",
+            "score": 0.69347
+          },
+          {
+            "tag": "cropped torso",
+            "score": 0.68847
+          },
+          {
+            "tag": "copyright request",
+            "score": 0.68679
+          },
+          {
+            "tag": "mistletoe",
+            "score": 0.68088
+          },
+          {
+            "tag": "wide eyed",
+            "score": 0.67918
+          },
+          {
+            "tag": "placard",
+            "score": 0.67833
+          },
+          {
+            "tag": "1other",
+            "score": 0.67405
+          },
+          {
+            "tag": "smiling at viewer",
+            "score": 0.67233
+          },
+          {
+            "tag": "smile",
+            "score": 0.67147
+          },
+          {
+            "tag": "parody",
+            "score": 0.66801
+          },
+          {
+            "tag": "raised arm",
+            "score": 0.6593
+          },
+          {
+            "tag": "black ears",
+            "score": 0.65842
+          },
+          {
+            "tag": "pink tongue",
+            "score": 0.65401
+          },
+          {
+            "tag": "black feathers",
+            "score": 0.64958
+          },
+          {
+            "tag": "red bow",
+            "score": 0.64691
+          },
+          {
+            "tag": "fangs",
+            "score": 0.64243
+          },
+          {
+            "tag": "soyuzmultfilm",
+            "score": 0.63793
+          },
+          {
+            "tag": "gesture",
+            "score": 0.63432
+          },
+          {
+            "tag": "christmas decorations",
+            "score": 0.63341
+          },
+          {
+            "tag": "2019",
+            "score": 0.63159
+          },
+          {
+            "tag": "digital art",
+            "score": 0.62795
+          },
+          {
+            "tag": "cat girl",
+            "score": 0.62704
+          },
+          {
+            "tag": "spread arms",
+            "score": 0.62338
+          },
+          {
+            "tag": "tuft",
+            "score": 0.61878
           }
         ]
       }
@@ -7037,8 +13909,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "a8e291035d17403a991a0fb668fe998c94819ea6c8e1269cb172209c3d984469",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -7200,6 +14072,222 @@
           {
             "tag": "original",
             "score": 0.81287
+          },
+          {
+            "tag": "alternate species",
+            "score": 0.80563
+          },
+          {
+            "tag": "spot color",
+            "score": 0.80563
+          },
+          {
+            "tag": "lobotomy corporation",
+            "score": 0.79311
+          },
+          {
+            "tag": "quadruped",
+            "score": 0.78923
+          },
+          {
+            "tag": "orange sclera",
+            "score": 0.78793
+          },
+          {
+            "tag": "fur",
+            "score": 0.76908
+          },
+          {
+            "tag": "furrification",
+            "score": 0.76908
+          },
+          {
+            "tag": "on side",
+            "score": 0.76769
+          },
+          {
+            "tag": "full-length portrait",
+            "score": 0.76348
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.75923
+          },
+          {
+            "tag": "wide eyed",
+            "score": 0.74466
+          },
+          {
+            "tag": "wink",
+            "score": 0.74167
+          },
+          {
+            "tag": "semi-anthro",
+            "score": 0.73029
+          },
+          {
+            "tag": "full body",
+            "score": 0.71223
+          },
+          {
+            "tag": "daww",
+            "score": 0.70579
+          },
+          {
+            "tag": "feet",
+            "score": 0.70253
+          },
+          {
+            "tag": "prick ears",
+            "score": 0.70008
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.6943
+          },
+          {
+            "tag": "yellow outline",
+            "score": 0.6943
+          },
+          {
+            "tag": "green sclera",
+            "score": 0.69347
+          },
+          {
+            "tag": "sitting",
+            "score": 0.69264
+          },
+          {
+            "tag": "english commentary",
+            "score": 0.68763
+          },
+          {
+            "tag": "monotone body",
+            "score": 0.67662
+          },
+          {
+            "tag": "black background",
+            "score": 0.66801
+          },
+          {
+            "tag": "project moon",
+            "score": 0.66105
+          },
+          {
+            "tag": "derivative work",
+            "score": 0.65754
+          },
+          {
+            "tag": "digital drawing (artwork)",
+            "score": 0.65578
+          },
+          {
+            "tag": "big eyes",
+            "score": 0.64601
+          },
+          {
+            "tag": "curled up",
+            "score": 0.64601
+          },
+          {
+            "tag": "2024",
+            "score": 0.64243
+          },
+          {
+            "tag": "ambiguous feral",
+            "score": 0.62246
+          },
+          {
+            "tag": "hindpaw",
+            "score": 0.62154
+          },
+          {
+            "tag": "portrait",
+            "score": 0.60859
+          },
+          {
+            "tag": "chibi only",
+            "score": 0.60859
+          },
+          {
+            "tag": "tagme",
+            "score": 0.603
+          },
+          {
+            "tag": "toes",
+            "score": 0.59831
+          },
+          {
+            "tag": "blue outline",
+            "score": 0.5969
+          },
+          {
+            "tag": "no sclera",
+            "score": 0.59219
+          },
+          {
+            "tag": "barefoot",
+            "score": 0.59125
+          },
+          {
+            "tag": "flexible",
+            "score": 0.58273
+          },
+          {
+            "tag": "cat tail",
+            "score": 0.58225
+          },
+          {
+            "tag": "on back",
+            "score": 0.57845
+          },
+          {
+            "tag": "emanata",
+            "score": 0.57559
+          },
+          {
+            "tag": "kemono",
+            "score": 0.5732
+          },
+          {
+            "tag": "humor",
+            "score": 0.5732
+          },
+          {
+            "tag": "other focus",
+            "score": 0.55037
+          },
+          {
+            "tag": "waving",
+            "score": 0.54916
+          },
+          {
+            "tag": "standing on one leg",
+            "score": 0.54359
+          },
+          {
+            "tag": "4 toes",
+            "score": 0.54165
+          },
+          {
+            "tag": "front view",
+            "score": 0.53461
+          },
+          {
+            "tag": "shaded",
+            "score": 0.53364
+          },
+          {
+            "tag": "real world",
+            "score": 0.53048
+          },
+          {
+            "tag": "pose",
+            "score": 0.51458
+          },
+          {
+            "tag": "digital art",
+            "score": 0.50071
           }
         ]
       }
@@ -7236,8 +14324,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "bd1fa5d8acbbb2b2b1b0c0e1750b755214710df4be1be81145ccfa7d5566a3d1",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -7399,6 +14487,246 @@
           {
             "tag": "hakurei reimu",
             "score": 0.90599
+          },
+          {
+            "tag": "youtube",
+            "score": 0.90599
+          },
+          {
+            "tag": "cat ears",
+            "score": 0.90465
+          },
+          {
+            "tag": "love live!",
+            "score": 0.90465
+          },
+          {
+            "tag": "white hair",
+            "score": 0.90329
+          },
+          {
+            "tag": "sonic the hedgehog (series)",
+            "score": 0.89331
+          },
+          {
+            "tag": "cursor",
+            "score": 0.89331
+          },
+          {
+            "tag": "fourth wall",
+            "score": 0.89029
+          },
+          {
+            "tag": "blurry",
+            "score": 0.88876
+          },
+          {
+            "tag": "doki doki literature club",
+            "score": 0.88876
+          },
+          {
+            "tag": "commentary",
+            "score": 0.88563
+          },
+          {
+            "tag": "animal humanoid",
+            "score": 0.88563
+          },
+          {
+            "tag": "canid humanoid",
+            "score": 0.88563
+          },
+          {
+            "tag": "kyubey",
+            "score": 0.88404
+          },
+          {
+            "tag": "hololive english",
+            "score": 0.87579
+          },
+          {
+            "tag": "text messaging",
+            "score": 0.87408
+          },
+          {
+            "tag": "style parody",
+            "score": 0.87235
+          },
+          {
+            "tag": "phone",
+            "score": 0.87147
+          },
+          {
+            "tag": "pov",
+            "score": 0.86154
+          },
+          {
+            "tag": "tweet",
+            "score": 0.86154
+          },
+          {
+            "tag": "hair tubes",
+            "score": 0.8606
+          },
+          {
+            "tag": "photo",
+            "score": 0.85488
+          },
+          {
+            "tag": "watermark",
+            "score": 0.84286
+          },
+          {
+            "tag": "emoticon",
+            "score": 0.84078
+          },
+          {
+            "tag": "nijisanji",
+            "score": 0.83655
+          },
+          {
+            "tag": "white dress",
+            "score": 0.83114
+          },
+          {
+            "tag": "extra ears",
+            "score": 0.83004
+          },
+          {
+            "tag": "mosaic censoring",
+            "score": 0.82894
+          },
+          {
+            "tag": "kaname madoka",
+            "score": 0.82783
+          },
+          {
+            "tag": "spanish text",
+            "score": 0.82783
+          },
+          {
+            "tag": "photo inset",
+            "score": 0.82671
+          },
+          {
+            "tag": "ribbon",
+            "score": 0.82559
+          },
+          {
+            "tag": "suzumiya haruhi",
+            "score": 0.82446
+          },
+          {
+            "tag": "touhou",
+            "score": 0.81874
+          },
+          {
+            "tag": "emoji",
+            "score": 0.81874
+          },
+          {
+            "tag": "german text",
+            "score": 0.81523
+          },
+          {
+            "tag": "dog",
+            "score": 0.81405
+          },
+          {
+            "tag": "kasodani kyouko",
+            "score": 0.81405
+          },
+          {
+            "tag": "two side up",
+            "score": 0.80807
+          },
+          {
+            "tag": "red ribbon",
+            "score": 0.80441
+          },
+          {
+            "tag": "bow (feature)",
+            "score": 0.79819
+          },
+          {
+            "tag": "hatsune miku",
+            "score": 0.79566
+          },
+          {
+            "tag": "censored text",
+            "score": 0.79438
+          },
+          {
+            "tag": "suzumiya haruhi no yuuutsu",
+            "score": 0.79053
+          },
+          {
+            "tag": "bow accessory",
+            "score": 0.78793
+          },
+          {
+            "tag": "pixiv",
+            "score": 0.78793
+          },
+          {
+            "tag": "annotated",
+            "score": 0.78531
+          },
+          {
+            "tag": "konpaku youmu",
+            "score": 0.78399
+          },
+          {
+            "tag": "vocaloid",
+            "score": 0.78133
+          },
+          {
+            "tag": "directional arrow",
+            "score": 0.77594
+          },
+          {
+            "tag": "tumblr",
+            "score": 0.77594
+          },
+          {
+            "tag": "profanity",
+            "score": 0.77458
+          },
+          {
+            "tag": "dog humanoid",
+            "score": 0.77458
+          },
+          {
+            "tag": "user interface",
+            "score": 0.76629
+          },
+          {
+            "tag": "cellphone photo",
+            "score": 0.76629
+          },
+          {
+            "tag": "white bow",
+            "score": 0.76489
+          },
+          {
+            "tag": "what",
+            "score": 0.76348
+          },
+          {
+            "tag": "black bow",
+            "score": 0.76207
+          },
+          {
+            "tag": "caption",
+            "score": 0.76207
+          },
+          {
+            "tag": "italian text",
+            "score": 0.76065
+          },
+          {
+            "tag": "cat tail",
+            "score": 0.75779
           }
         ]
       }
@@ -7435,8 +14763,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "665c085e0cc948fd0eaa5473886e5a663c3d00ad7068b2151b45e7c29421d23d",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -7598,6 +14926,246 @@
           {
             "tag": "english commentary",
             "score": 0.85391
+          },
+          {
+            "tag": "hooded jacket",
+            "score": 0.85294
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.85096
+          },
+          {
+            "tag": "front view",
+            "score": 0.84897
+          },
+          {
+            "tag": "white hoodie",
+            "score": 0.84797
+          },
+          {
+            "tag": "mammal humanoid",
+            "score": 0.84696
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.84696
+          },
+          {
+            "tag": "other focus",
+            "score": 0.83441
+          },
+          {
+            "tag": "drawstring",
+            "score": 0.82894
+          },
+          {
+            "tag": "character name",
+            "score": 0.82671
+          },
+          {
+            "tag": "shadow face",
+            "score": 0.82446
+          },
+          {
+            "tag": "the amazing world of gumball",
+            "score": 0.82104
+          },
+          {
+            "tag": "fake animal ears",
+            "score": 0.81048
+          },
+          {
+            "tag": "2023",
+            "score": 0.79944
+          },
+          {
+            "tag": "male focus",
+            "score": 0.79566
+          },
+          {
+            "tag": "straight-on",
+            "score": 0.79182
+          },
+          {
+            "tag": "furry male",
+            "score": 0.78923
+          },
+          {
+            "tag": "humanoid",
+            "score": 0.78662
+          },
+          {
+            "tag": "animal ears",
+            "score": 0.78531
+          },
+          {
+            "tag": "mouthless",
+            "score": 0.78399
+          },
+          {
+            "tag": "derivative work",
+            "score": 0.78133
+          },
+          {
+            "tag": "stare",
+            "score": 0.76908
+          },
+          {
+            "tag": "facial mark",
+            "score": 0.75923
+          },
+          {
+            "tag": "wide eyed",
+            "score": 0.75779
+          },
+          {
+            "tag": "animal humanoid",
+            "score": 0.75055
+          },
+          {
+            "tag": "topwear",
+            "score": 0.74762
+          },
+          {
+            "tag": "solo",
+            "score": 0.74466
+          },
+          {
+            "tag": "cloak",
+            "score": 0.74017
+          },
+          {
+            "tag": "text",
+            "score": 0.73259
+          },
+          {
+            "tag": "half-length portrait",
+            "score": 0.73106
+          },
+          {
+            "tag": "slit pupils",
+            "score": 0.73029
+          },
+          {
+            "tag": "official art",
+            "score": 0.72952
+          },
+          {
+            "tag": "icon",
+            "score": 0.7272
+          },
+          {
+            "tag": "furry",
+            "score": 0.72565
+          },
+          {
+            "tag": "translated",
+            "score": 0.72409
+          },
+          {
+            "tag": "simple background",
+            "score": 0.72253
+          },
+          {
+            "tag": "big eyes",
+            "score": 0.71223
+          },
+          {
+            "tag": "mammal",
+            "score": 0.70579
+          },
+          {
+            "tag": "grey body",
+            "score": 0.70416
+          },
+          {
+            "tag": "grey skin",
+            "score": 0.70171
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.69347
+          },
+          {
+            "tag": "cartoon network",
+            "score": 0.69347
+          },
+          {
+            "tag": "blue fur",
+            "score": 0.68003
+          },
+          {
+            "tag": "glistening eyes",
+            "score": 0.67833
+          },
+          {
+            "tag": "holidays",
+            "score": 0.67405
+          },
+          {
+            "tag": "blue background",
+            "score": 0.67319
+          },
+          {
+            "tag": "1other",
+            "score": 0.67233
+          },
+          {
+            "tag": "redraw",
+            "score": 0.66974
+          },
+          {
+            "tag": "commentary",
+            "score": 0.66888
+          },
+          {
+            "tag": "cat girl",
+            "score": 0.66715
+          },
+          {
+            "tag": "english text",
+            "score": 0.66628
+          },
+          {
+            "tag": "close-up",
+            "score": 0.6478
+          },
+          {
+            "tag": "outline",
+            "score": 0.64243
+          },
+          {
+            "tag": "artist request",
+            "score": 0.63974
+          },
+          {
+            "tag": "no mouth",
+            "score": 0.63974
+          },
+          {
+            "tag": "blue ears",
+            "score": 0.63884
+          },
+          {
+            "tag": "clothing",
+            "score": 0.62886
+          },
+          {
+            "tag": "alien",
+            "score": 0.62795
+          },
+          {
+            "tag": "digital art",
+            "score": 0.62246
+          },
+          {
+            "tag": "spirit",
+            "score": 0.59831
+          },
+          {
+            "tag": "head markings",
+            "score": 0.5969
           }
         ]
       }

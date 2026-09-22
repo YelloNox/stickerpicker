@@ -24,8 +24,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "b6819da8346ee74a6ac89a0f8a89ca28135332264375be93638676cbf383ac33",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -187,6 +187,246 @@
           {
             "tag": "hair between eyes",
             "score": 0.89912
+          },
+          {
+            "tag": "light brown hair",
+            "score": 0.89331
+          },
+          {
+            "tag": "wolf ears",
+            "score": 0.89331
+          },
+          {
+            "tag": "breasts",
+            "score": 0.89029
+          },
+          {
+            "tag": "turtleneck sweater",
+            "score": 0.89029
+          },
+          {
+            "tag": "thighs",
+            "score": 0.87663
+          },
+          {
+            "tag": "bad twitter id",
+            "score": 0.87235
+          },
+          {
+            "tag": "white hair",
+            "score": 0.86883
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.86793
+          },
+          {
+            "tag": "knee boots",
+            "score": 0.86613
+          },
+          {
+            "tag": "meme attire",
+            "score": 0.86339
+          },
+          {
+            "tag": "knee up",
+            "score": 0.86154
+          },
+          {
+            "tag": "feet out of frame",
+            "score": 0.8606
+          },
+          {
+            "tag": "white sleeves",
+            "score": 0.85294
+          },
+          {
+            "tag": "cleavage",
+            "score": 0.85195
+          },
+          {
+            "tag": "arm support",
+            "score": 0.84897
+          },
+          {
+            "tag": "socks",
+            "score": 0.83332
+          },
+          {
+            "tag": "legs together",
+            "score": 0.82219
+          },
+          {
+            "tag": "arm warmers",
+            "score": 0.82104
+          },
+          {
+            "tag": "original",
+            "score": 0.81405
+          },
+          {
+            "tag": "very long hair",
+            "score": 0.80685
+          },
+          {
+            "tag": "bad id",
+            "score": 0.79944
+          },
+          {
+            "tag": "head tilt",
+            "score": 0.79819
+          },
+          {
+            "tag": "fox ears",
+            "score": 0.79053
+          },
+          {
+            "tag": "off shoulder",
+            "score": 0.78531
+          },
+          {
+            "tag": "cat girl",
+            "score": 0.78531
+          },
+          {
+            "tag": "knees up",
+            "score": 0.78399
+          },
+          {
+            "tag": "white theme",
+            "score": 0.76348
+          },
+          {
+            "tag": "short sleeves",
+            "score": 0.76207
+          },
+          {
+            "tag": "bare legs",
+            "score": 0.76065
+          },
+          {
+            "tag": "leg warmers",
+            "score": 0.76065
+          },
+          {
+            "tag": "bad pixiv id",
+            "score": 0.75923
+          },
+          {
+            "tag": "no shoes",
+            "score": 0.73867
+          },
+          {
+            "tag": "sleeveless",
+            "score": 0.73564
+          },
+          {
+            "tag": "full body",
+            "score": 0.73106
+          },
+          {
+            "tag": "clenched hand",
+            "score": 0.72565
+          },
+          {
+            "tag": "white socks",
+            "score": 0.72096
+          },
+          {
+            "tag": "large breasts",
+            "score": 0.7074
+          },
+          {
+            "tag": "commentary request",
+            "score": 0.70579
+          },
+          {
+            "tag": "puffy sleeves",
+            "score": 0.70008
+          },
+          {
+            "tag": "alternate costume",
+            "score": 0.68595
+          },
+          {
+            "tag": "commentary",
+            "score": 0.68426
+          },
+          {
+            "tag": "sleeveless dress",
+            "score": 0.68426
+          },
+          {
+            "tag": "knees",
+            "score": 0.68003
+          },
+          {
+            "tag": "long sleeves",
+            "score": 0.67233
+          },
+          {
+            "tag": "off-shoulder dress",
+            "score": 0.66715
+          },
+          {
+            "tag": "thighhighs",
+            "score": 0.66105
+          },
+          {
+            "tag": "pixel-perfect duplicate",
+            "score": 0.65578
+          },
+          {
+            "tag": "naked sweater",
+            "score": 0.65489
+          },
+          {
+            "tag": "wolf girl",
+            "score": 0.63884
+          },
+          {
+            "tag": "animal ear fluff",
+            "score": 0.63793
+          },
+          {
+            "tag": "convenient leg",
+            "score": 0.62795
+          },
+          {
+            "tag": "white thighhighs",
+            "score": 0.61878
+          },
+          {
+            "tag": "white legwear",
+            "score": 0.61463
+          },
+          {
+            "tag": "frown",
+            "score": 0.61092
+          },
+          {
+            "tag": "md5 mismatch",
+            "score": 0.60859
+          },
+          {
+            "tag": "blush",
+            "score": 0.5775
+          },
+          {
+            "tag": "revision",
+            "score": 0.57416
+          },
+          {
+            "tag": "official art",
+            "score": 0.57177
+          },
+          {
+            "tag": "light smile",
+            "score": 0.57129
+          },
+          {
+            "tag": "hip focus",
+            "score": 0.56458
           }
         ]
       }
@@ -213,8 +453,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "3b415082575596ef2a71e0f933c6fcce2a874f807f70be667823c21774c886ef",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -376,6 +616,246 @@
           {
             "tag": "symbol-only commentary",
             "score": 0.92736
+          },
+          {
+            "tag": "thighs",
+            "score": 0.9263
+          },
+          {
+            "tag": "long sleeves",
+            "score": 0.92523
+          },
+          {
+            "tag": "red eyes",
+            "score": 0.92304
+          },
+          {
+            "tag": "animal ear fluff",
+            "score": 0.9173
+          },
+          {
+            "tag": "tail raised",
+            "score": 0.91118
+          },
+          {
+            "tag": "white jacket",
+            "score": 0.8872
+          },
+          {
+            "tag": "long hair",
+            "score": 0.8808
+          },
+          {
+            "tag": "torn shorts",
+            "score": 0.8706
+          },
+          {
+            "tag": "original",
+            "score": 0.86883
+          },
+          {
+            "tag": "idolmaster",
+            "score": 0.86883
+          },
+          {
+            "tag": "by shugao",
+            "score": 0.85391
+          },
+          {
+            "tag": "jpeg artifacts",
+            "score": 0.84897
+          },
+          {
+            "tag": "looking to the side",
+            "score": 0.84492
+          },
+          {
+            "tag": "black shorts",
+            "score": 0.8439
+          },
+          {
+            "tag": "light brown hair",
+            "score": 0.83762
+          },
+          {
+            "tag": "duplicate",
+            "score": 0.83114
+          },
+          {
+            "tag": "hair between eyes",
+            "score": 0.82333
+          },
+          {
+            "tag": "bare legs",
+            "score": 0.82219
+          },
+          {
+            "tag": "sidelocks",
+            "score": 0.81989
+          },
+          {
+            "tag": "closed mouth",
+            "score": 0.81757
+          },
+          {
+            "tag": "parted lips",
+            "score": 0.81523
+          },
+          {
+            "tag": "copyright request",
+            "score": 0.81168
+          },
+          {
+            "tag": "idolmaster shiny colors",
+            "score": 0.80317
+          },
+          {
+            "tag": "fake tail",
+            "score": 0.78662
+          },
+          {
+            "tag": "second-party source",
+            "score": 0.77322
+          },
+          {
+            "tag": "sleeves past fingers",
+            "score": 0.76207
+          },
+          {
+            "tag": "pout",
+            "score": 0.74762
+          },
+          {
+            "tag": "legs together",
+            "score": 0.74466
+          },
+          {
+            "tag": "commentary request",
+            "score": 0.72409
+          },
+          {
+            "tag": "bad id",
+            "score": 0.72096
+          },
+          {
+            "tag": "brown tail",
+            "score": 0.71622
+          },
+          {
+            "tag": "facial mark",
+            "score": 0.71063
+          },
+          {
+            "tag": ":o",
+            "score": 0.70008
+          },
+          {
+            "tag": "small breasts",
+            "score": 0.69264
+          },
+          {
+            "tag": "denim skirt",
+            "score": 0.69098
+          },
+          {
+            "tag": "white hoodie",
+            "score": 0.68003
+          },
+          {
+            "tag": "tsurime",
+            "score": 0.67918
+          },
+          {
+            "tag": "straight hair",
+            "score": 0.66888
+          },
+          {
+            "tag": "track jacket",
+            "score": 0.64691
+          },
+          {
+            "tag": "drawstring",
+            "score": 0.63974
+          },
+          {
+            "tag": "head tilt",
+            "score": 0.63068
+          },
+          {
+            "tag": "standing",
+            "score": 0.62886
+          },
+          {
+            "tag": "commentary",
+            "score": 0.622
+          },
+          {
+            "tag": "eyes visible through hair",
+            "score": 0.61924
+          },
+          {
+            "tag": "ass",
+            "score": 0.60766
+          },
+          {
+            "tag": "protected link",
+            "score": 0.6044
+          },
+          {
+            "tag": "alternate costume",
+            "score": 0.60019
+          },
+          {
+            "tag": "multicolored clothes",
+            "score": 0.59831
+          },
+          {
+            "tag": "raglan sleeves",
+            "score": 0.59219
+          },
+          {
+            "tag": "cat day",
+            "score": 0.58889
+          },
+          {
+            "tag": "alternate hairstyle",
+            "score": 0.56985
+          },
+          {
+            "tag": "sweater",
+            "score": 0.56889
+          },
+          {
+            "tag": "hooded sweater",
+            "score": 0.56698
+          },
+          {
+            "tag": "v-shaped eyebrows",
+            "score": 0.53995
+          },
+          {
+            "tag": "striped clothes",
+            "score": 0.53826
+          },
+          {
+            "tag": "profile",
+            "score": 0.53218
+          },
+          {
+            "tag": "resized",
+            "score": 0.52476
+          },
+          {
+            "tag": "arms behind back",
+            "score": 0.51635
+          },
+          {
+            "tag": "oversized clothes",
+            "score": 0.50748
+          },
+          {
+            "tag": "frown",
+            "score": 0.50723
           }
         ]
       }
@@ -402,8 +882,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "19020f8b6ab22a87132eccffa2897b28e905025ac5a2b3b03dfd429ccc199993",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -565,6 +1045,246 @@
           {
             "tag": "frilled sleeves",
             "score": 0.86247
+          },
+          {
+            "tag": "pink dress",
+            "score": 0.86154
+          },
+          {
+            "tag": "sleeves past wrists",
+            "score": 0.85391
+          },
+          {
+            "tag": "looking ahead",
+            "score": 0.85294
+          },
+          {
+            "tag": "blue dress",
+            "score": 0.84286
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.82333
+          },
+          {
+            "tag": "puffy long sleeves",
+            "score": 0.82333
+          },
+          {
+            "tag": "expressionless",
+            "score": 0.81757
+          },
+          {
+            "tag": "center frills",
+            "score": 0.81641
+          },
+          {
+            "tag": "between legs",
+            "score": 0.79566
+          },
+          {
+            "tag": "seiza",
+            "score": 0.78133
+          },
+          {
+            "tag": "animal ear fluff",
+            "score": 0.77594
+          },
+          {
+            "tag": "blouse",
+            "score": 0.77594
+          },
+          {
+            "tag": "closed mouth",
+            "score": 0.77458
+          },
+          {
+            "tag": "original",
+            "score": 0.77322
+          },
+          {
+            "tag": "collarbone",
+            "score": 0.76908
+          },
+          {
+            "tag": "white jacket",
+            "score": 0.76629
+          },
+          {
+            "tag": "brown hair",
+            "score": 0.75923
+          },
+          {
+            "tag": "sleeveless",
+            "score": 0.75491
+          },
+          {
+            "tag": "corrupted twitter file",
+            "score": 0.75201
+          },
+          {
+            "tag": "legs",
+            "score": 0.74762
+          },
+          {
+            "tag": "open shirt",
+            "score": 0.74466
+          },
+          {
+            "tag": "arm under breasts",
+            "score": 0.74466
+          },
+          {
+            "tag": "wariza",
+            "score": 0.73259
+          },
+          {
+            "tag": "green dress",
+            "score": 0.72487
+          },
+          {
+            "tag": "eyes visible through hair",
+            "score": 0.72253
+          },
+          {
+            "tag": "frilled shirt",
+            "score": 0.72253
+          },
+          {
+            "tag": "dress shirt",
+            "score": 0.7178
+          },
+          {
+            "tag": "alternate costume",
+            "score": 0.71383
+          },
+          {
+            "tag": "hair between eyes",
+            "score": 0.70982
+          },
+          {
+            "tag": "grey shirt",
+            "score": 0.70008
+          },
+          {
+            "tag": "white shirt",
+            "score": 0.69843
+          },
+          {
+            "tag": "frilled skirt",
+            "score": 0.69513
+          },
+          {
+            "tag": "negligee",
+            "score": 0.68847
+          },
+          {
+            "tag": "black ribbon",
+            "score": 0.67662
+          },
+          {
+            "tag": "shirt",
+            "score": 0.67491
+          },
+          {
+            "tag": "grey dress",
+            "score": 0.66801
+          },
+          {
+            "tag": "unfinished",
+            "score": 0.6628
+          },
+          {
+            "tag": "open jacket",
+            "score": 0.66192
+          },
+          {
+            "tag": "miniskirt",
+            "score": 0.65578
+          },
+          {
+            "tag": "black dress",
+            "score": 0.65578
+          },
+          {
+            "tag": "short hair",
+            "score": 0.65047
+          },
+          {
+            "tag": "bad twitter id",
+            "score": 0.64333
+          },
+          {
+            "tag": "purple ribbon",
+            "score": 0.64243
+          },
+          {
+            "tag": "from side",
+            "score": 0.63432
+          },
+          {
+            "tag": "buttons",
+            "score": 0.63432
+          },
+          {
+            "tag": "legs together",
+            "score": 0.63068
+          },
+          {
+            "tag": "white pupils",
+            "score": 0.62704
+          },
+          {
+            "tag": "small breasts",
+            "score": 0.6174
+          },
+          {
+            "tag": "large breasts",
+            "score": 0.61694
+          },
+          {
+            "tag": "brown eyes",
+            "score": 0.60906
+          },
+          {
+            "tag": "puffy sleeves",
+            "score": 0.6058
+          },
+          {
+            "tag": "pleated dress",
+            "score": 0.59549
+          },
+          {
+            "tag": "sideways glance",
+            "score": 0.59361
+          },
+          {
+            "tag": "chinese commentary",
+            "score": 0.59314
+          },
+          {
+            "tag": "skirt",
+            "score": 0.59219
+          },
+          {
+            "tag": "wind lift",
+            "score": 0.58889
+          },
+          {
+            "tag": "hashtag-only commentary",
+            "score": 0.58652
+          },
+          {
+            "tag": "collared dress",
+            "score": 0.57892
+          },
+          {
+            "tag": "barefoot",
+            "score": 0.5775
+          },
+          {
+            "tag": "purple skirt",
+            "score": 0.57129
           }
         ]
       }
@@ -591,8 +1311,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "c53f33243e7bd9744d105b7189ba8f0acfea7dec6612e69057a2d8139084943d",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -754,6 +1474,246 @@
           {
             "tag": "blunt bangs",
             "score": 0.90465
+          },
+          {
+            "tag": "black jacket",
+            "score": 0.90053
+          },
+          {
+            "tag": ":|",
+            "score": 0.90053
+          },
+          {
+            "tag": "sweatdrop",
+            "score": 0.89479
+          },
+          {
+            "tag": ":<",
+            "score": 0.89479
+          },
+          {
+            "tag": "extra",
+            "score": 0.8872
+          },
+          {
+            "tag": "wavy hair",
+            "score": 0.88563
+          },
+          {
+            "tag": "anime screenshot",
+            "score": 0.88563
+          },
+          {
+            "tag": "high collar",
+            "score": 0.87493
+          },
+          {
+            "tag": "serious",
+            "score": 0.86247
+          },
+          {
+            "tag": "furrowed brow",
+            "score": 0.8606
+          },
+          {
+            "tag": "official style",
+            "score": 0.85681
+          },
+          {
+            "tag": "jacket",
+            "score": 0.84897
+          },
+          {
+            "tag": "uniform",
+            "score": 0.84797
+          },
+          {
+            "tag": "spoilers",
+            "score": 0.8439
+          },
+          {
+            "tag": "sisters",
+            "score": 0.84183
+          },
+          {
+            "tag": "sad",
+            "score": 0.84078
+          },
+          {
+            "tag": "artist name",
+            "score": 0.83655
+          },
+          {
+            "tag": "imageboard desourced",
+            "score": 0.83004
+          },
+          {
+            "tag": "purple dress",
+            "score": 0.82783
+          },
+          {
+            "tag": "purple eyes",
+            "score": 0.82671
+          },
+          {
+            "tag": "4girls",
+            "score": 0.82446
+          },
+          {
+            "tag": "annoyed",
+            "score": 0.82333
+          },
+          {
+            "tag": "alternate hairstyle",
+            "score": 0.82104
+          },
+          {
+            "tag": "upper body",
+            "score": 0.81874
+          },
+          {
+            "tag": "blue jacket",
+            "score": 0.81287
+          },
+          {
+            "tag": "photoshop (medium)",
+            "score": 0.80563
+          },
+          {
+            "tag": "little witch academia",
+            "score": 0.80563
+          },
+          {
+            "tag": "character doll",
+            "score": 0.80194
+          },
+          {
+            "tag": "cross-laced clothes",
+            "score": 0.79944
+          },
+          {
+            "tag": "height difference",
+            "score": 0.79182
+          },
+          {
+            "tag": "hand on another's shoulder",
+            "score": 0.78793
+          },
+          {
+            "tag": "scan",
+            "score": 0.78399
+          },
+          {
+            "tag": "collared jacket",
+            "score": 0.78266
+          },
+          {
+            "tag": "light frown",
+            "score": 0.77999
+          },
+          {
+            "tag": "looking at another",
+            "score": 0.77865
+          },
+          {
+            "tag": "sky",
+            "score": 0.7773
+          },
+          {
+            "tag": "empty eyes",
+            "score": 0.77594
+          },
+          {
+            "tag": "derivative work",
+            "score": 0.77594
+          },
+          {
+            "tag": "open jacket",
+            "score": 0.76489
+          },
+          {
+            "tag": "solid oval eyes",
+            "score": 0.76489
+          },
+          {
+            "tag": "long hair",
+            "score": 0.75923
+          },
+          {
+            "tag": "english commentary",
+            "score": 0.75055
+          },
+          {
+            "tag": "semi-rimless eyewear",
+            "score": 0.74762
+          },
+          {
+            "tag": "purple jacket",
+            "score": 0.74466
+          },
+          {
+            "tag": "on couch",
+            "score": 0.74317
+          },
+          {
+            "tag": "bob cut",
+            "score": 0.73716
+          },
+          {
+            "tag": "school uniform",
+            "score": 0.73412
+          },
+          {
+            "tag": "adjusting hair",
+            "score": 0.73106
+          },
+          {
+            "tag": "kono subarashii sekai ni shukufuku wo!",
+            "score": 0.72798
+          },
+          {
+            "tag": "half updo",
+            "score": 0.72487
+          },
+          {
+            "tag": ":x",
+            "score": 0.72331
+          },
+          {
+            "tag": "1other",
+            "score": 0.71859
+          },
+          {
+            "tag": "chibi",
+            "score": 0.7178
+          },
+          {
+            "tag": "head out of frame",
+            "score": 0.70821
+          },
+          {
+            "tag": "grey eyes",
+            "score": 0.70253
+          },
+          {
+            "tag": "short hair",
+            "score": 0.69596
+          },
+          {
+            "tag": "brother and sister",
+            "score": 0.69596
+          },
+          {
+            "tag": "solid eyes",
+            "score": 0.69513
+          },
+          {
+            "tag": "kill la kill",
+            "score": 0.69014
+          },
+          {
+            "tag": "no nose",
+            "score": 0.68847
           }
         ]
       }
@@ -780,8 +1740,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "72c60fec131d334a134e56cc39bf9e169fba29dc5a5bf541847110c90bc86aa7",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -943,6 +1903,246 @@
           {
             "tag": "artist request",
             "score": 0.89912
+          },
+          {
+            "tag": "angry",
+            "score": 0.89029
+          },
+          {
+            "tag": "v-shaped eyebrows",
+            "score": 0.8872
+          },
+          {
+            "tag": "animal ears",
+            "score": 0.87748
+          },
+          {
+            "tag": "bow",
+            "score": 0.87663
+          },
+          {
+            "tag": "logo",
+            "score": 0.87579
+          },
+          {
+            "tag": "style parody",
+            "score": 0.87321
+          },
+          {
+            "tag": "frown",
+            "score": 0.8706
+          },
+          {
+            "tag": "upper body",
+            "score": 0.86339
+          },
+          {
+            "tag": "reflection",
+            "score": 0.86339
+          },
+          {
+            "tag": "shirt",
+            "score": 0.86247
+          },
+          {
+            "tag": ":o",
+            "score": 0.86154
+          },
+          {
+            "tag": "scan",
+            "score": 0.85777
+          },
+          {
+            "tag": "real life",
+            "score": 0.85294
+          },
+          {
+            "tag": "looking to the side",
+            "score": 0.85195
+          },
+          {
+            "tag": "lepidopteran",
+            "score": 0.84997
+          },
+          {
+            "tag": "scared",
+            "score": 0.84492
+          },
+          {
+            "tag": "meme",
+            "score": 0.83868
+          },
+          {
+            "tag": "portrait",
+            "score": 0.82783
+          },
+          {
+            "tag": "cropped",
+            "score": 0.82783
+          },
+          {
+            "tag": "black neckwear",
+            "score": 0.82783
+          },
+          {
+            "tag": "close-up",
+            "score": 0.82559
+          },
+          {
+            "tag": "looking at animal",
+            "score": 0.82104
+          },
+          {
+            "tag": "school uniform",
+            "score": 0.81168
+          },
+          {
+            "tag": "english commentary",
+            "score": 0.80194
+          },
+          {
+            "tag": "straight hair",
+            "score": 0.79566
+          },
+          {
+            "tag": "neck ribbon",
+            "score": 0.78662
+          },
+          {
+            "tag": "indoors",
+            "score": 0.76207
+          },
+          {
+            "tag": "voice actor connection",
+            "score": 0.76065
+          },
+          {
+            "tag": "kashiwazaki sena",
+            "score": 0.76065
+          },
+          {
+            "tag": "moth",
+            "score": 0.75201
+          },
+          {
+            "tag": "2girls",
+            "score": 0.75055
+          },
+          {
+            "tag": "upper teeth only",
+            "score": 0.74762
+          },
+          {
+            "tag": "furrowed brow",
+            "score": 0.73716
+          },
+          {
+            "tag": "wavy mouth",
+            "score": 0.73106
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.72487
+          },
+          {
+            "tag": "official style",
+            "score": 0.72487
+          },
+          {
+            "tag": "raised eyebrows",
+            "score": 0.72409
+          },
+          {
+            "tag": "artist name",
+            "score": 0.71383
+          },
+          {
+            "tag": "long bangs",
+            "score": 0.70171
+          },
+          {
+            "tag": "hair ornament",
+            "score": 0.70008
+          },
+          {
+            "tag": "third-party source",
+            "score": 0.69843
+          },
+          {
+            "tag": "face-to-face",
+            "score": 0.69843
+          },
+          {
+            "tag": "hand on wall",
+            "score": 0.69596
+          },
+          {
+            "tag": "butterfly wings",
+            "score": 0.6943
+          },
+          {
+            "tag": "looking away",
+            "score": 0.69181
+          },
+          {
+            "tag": "looking ahead",
+            "score": 0.68763
+          },
+          {
+            "tag": "open mouth",
+            "score": 0.68679
+          },
+          {
+            "tag": "hair between eyes",
+            "score": 0.68679
+          },
+          {
+            "tag": "horse tail",
+            "score": 0.68426
+          },
+          {
+            "tag": "film grain",
+            "score": 0.67747
+          },
+          {
+            "tag": "door",
+            "score": 0.67576
+          },
+          {
+            "tag": "source request",
+            "score": 0.67319
+          },
+          {
+            "tag": "aqua eyes",
+            "score": 0.66715
+          },
+          {
+            "tag": "imageboard desourced",
+            "score": 0.66628
+          },
+          {
+            "tag": "insect",
+            "score": 0.63793
+          },
+          {
+            "tag": "worried",
+            "score": 0.62338
+          },
+          {
+            "tag": "commentary",
+            "score": 0.61832
+          },
+          {
+            "tag": "light blush",
+            "score": 0.61277
+          },
+          {
+            "tag": "ribbon",
+            "score": 0.59737
+          },
+          {
+            "tag": "shaded face",
+            "score": 0.59267
           }
         ]
       }
@@ -969,8 +2169,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "cb4172dd8bfbc201f42beed913117c488a2cb80958c1e62a96dfe1e9abb75028",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -1132,6 +2332,246 @@
           {
             "tag": "yellow ribbon",
             "score": 0.93902
+          },
+          {
+            "tag": "reaching",
+            "score": 0.9344
+          },
+          {
+            "tag": "black necktie",
+            "score": 0.93343
+          },
+          {
+            "tag": "jacket",
+            "score": 0.93046
+          },
+          {
+            "tag": "throwing",
+            "score": 0.93046
+          },
+          {
+            "tag": "fleeing",
+            "score": 0.93046
+          },
+          {
+            "tag": "low twintails",
+            "score": 0.92523
+          },
+          {
+            "tag": "punching",
+            "score": 0.92079
+          },
+          {
+            "tag": "brown hair",
+            "score": 0.91964
+          },
+          {
+            "tag": "military uniform",
+            "score": 0.91848
+          },
+          {
+            "tag": "official art",
+            "score": 0.9173
+          },
+          {
+            "tag": "outstretched arms",
+            "score": 0.91611
+          },
+          {
+            "tag": "short twintails",
+            "score": 0.9149
+          },
+          {
+            "tag": "black suit",
+            "score": 0.90991
+          },
+          {
+            "tag": "empty eyes",
+            "score": 0.90329
+          },
+          {
+            "tag": "turn pale",
+            "score": 0.90329
+          },
+          {
+            "tag": "yellow bow",
+            "score": 0.90053
+          },
+          {
+            "tag": "gakuran",
+            "score": 0.89625
+          },
+          {
+            "tag": "injury",
+            "score": 0.89479
+          },
+          {
+            "tag": "black pants",
+            "score": 0.89181
+          },
+          {
+            "tag": "spread arms",
+            "score": 0.88876
+          },
+          {
+            "tag": "two side up",
+            "score": 0.88243
+          },
+          {
+            "tag": "suit jacket",
+            "score": 0.88243
+          },
+          {
+            "tag": "scene reference",
+            "score": 0.87579
+          },
+          {
+            "tag": "artist request",
+            "score": 0.87235
+          },
+          {
+            "tag": "incoming attack",
+            "score": 0.87235
+          },
+          {
+            "tag": "black serafuku",
+            "score": 0.8706
+          },
+          {
+            "tag": "spoilers",
+            "score": 0.8706
+          },
+          {
+            "tag": "blush stickers",
+            "score": 0.86883
+          },
+          {
+            "tag": "blazer",
+            "score": 0.86247
+          },
+          {
+            "tag": "o o",
+            "score": 0.86247
+          },
+          {
+            "tag": "no pupils",
+            "score": 0.85681
+          },
+          {
+            "tag": "fighting",
+            "score": 0.85585
+          },
+          {
+            "tag": "outstretched hand",
+            "score": 0.85391
+          },
+          {
+            "tag": "shouting",
+            "score": 0.84594
+          },
+          {
+            "tag": "evil smile",
+            "score": 0.84492
+          },
+          {
+            "tag": "short hair",
+            "score": 0.8439
+          },
+          {
+            "tag": "motion lines",
+            "score": 0.84183
+          },
+          {
+            "tag": "glowing eyes",
+            "score": 0.83868
+          },
+          {
+            "tag": "dancing",
+            "score": 0.83441
+          },
+          {
+            "tag": "dress",
+            "score": 0.83114
+          },
+          {
+            "tag": "crazy eyes",
+            "score": 0.83114
+          },
+          {
+            "tag": "orange hair",
+            "score": 0.83004
+          },
+          {
+            "tag": "coat",
+            "score": 0.83004
+          },
+          {
+            "tag": "tears",
+            "score": 0.82894
+          },
+          {
+            "tag": "battle",
+            "score": 0.82671
+          },
+          {
+            "tag": "black skirt",
+            "score": 0.82446
+          },
+          {
+            "tag": "red eyes",
+            "score": 0.82219
+          },
+          {
+            "tag": "formal clothes",
+            "score": 0.82104
+          },
+          {
+            "tag": "reaching towards viewer",
+            "score": 0.82104
+          },
+          {
+            "tag": "2girls",
+            "score": 0.81874
+          },
+          {
+            "tag": "arm up",
+            "score": 0.81757
+          },
+          {
+            "tag": "medium hair",
+            "score": 0.81405
+          },
+          {
+            "tag": "furrowed brow",
+            "score": 0.81168
+          },
+          {
+            "tag": "parted bangs",
+            "score": 0.81048
+          },
+          {
+            "tag": "cosplay",
+            "score": 0.80928
+          },
+          {
+            "tag": "floating hair",
+            "score": 0.79438
+          },
+          {
+            "tag": "constricted pupils",
+            "score": 0.79182
+          },
+          {
+            "tag": "crossover",
+            "score": 0.78662
+          },
+          {
+            "tag": "derivative work",
+            "score": 0.78399
+          },
+          {
+            "tag": "crying",
+            "score": 0.77999
           }
         ]
       }

@@ -151,8 +151,8 @@ def main():
                         default=Path(os.environ.get('XDG_CACHE_HOME', Path.home() / '.cache')) / 'stickerpicker/taggerine')
     parser.add_argument('--device', choices=('auto', 'cuda', 'cpu'), default='auto',
                         help='cuda also selects AMD GPUs through PyTorch ROCm')
-    parser.add_argument('--threshold', type=float, default=0.35)
-    parser.add_argument('--max-tags', type=int, default=40)
+    parser.add_argument('--threshold', type=float, default=0.50)
+    parser.add_argument('--max-tags', type=int, default=100)
     parser.add_argument('--force', action='store_true', help='Regenerate tags even for unchanged images')
     parser.add_argument('--dry-run', action='store_true', help='List work without downloading or loading a model')
     args = parser.parse_args()

@@ -38,8 +38,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "9541b82faa036eaef23a55c162e94af0884027ff7c326f5b2cb61afb6d1f3382",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -201,6 +201,246 @@
           {
             "tag": "fingers",
             "score": 0.8977
+          },
+          {
+            "tag": "eyelashes",
+            "score": 0.8977
+          },
+          {
+            "tag": "heart symbol",
+            "score": 0.8977
+          },
+          {
+            "tag": "5 fingers",
+            "score": 0.8977
+          },
+          {
+            "tag": "eyebrow through hair",
+            "score": 0.89331
+          },
+          {
+            "tag": "simple background",
+            "score": 0.88876
+          },
+          {
+            "tag": "grey body",
+            "score": 0.87997
+          },
+          {
+            "tag": "grey fur",
+            "score": 0.86793
+          },
+          {
+            "tag": "bust portrait",
+            "score": 0.85096
+          },
+          {
+            "tag": "spotted markings",
+            "score": 0.85096
+          },
+          {
+            "tag": "fur",
+            "score": 0.84797
+          },
+          {
+            "tag": "black ears",
+            "score": 0.84492
+          },
+          {
+            "tag": "long hair",
+            "score": 0.83332
+          },
+          {
+            "tag": "colored",
+            "score": 0.83332
+          },
+          {
+            "tag": "teeth",
+            "score": 0.83114
+          },
+          {
+            "tag": "shaded",
+            "score": 0.83114
+          },
+          {
+            "tag": "black choker",
+            "score": 0.82783
+          },
+          {
+            "tag": "black eyebrows",
+            "score": 0.82104
+          },
+          {
+            "tag": "white background",
+            "score": 0.81989
+          },
+          {
+            "tag": "female anthro",
+            "score": 0.80685
+          },
+          {
+            "tag": "claws",
+            "score": 0.80069
+          },
+          {
+            "tag": "open mouth",
+            "score": 0.79944
+          },
+          {
+            "tag": "emanata",
+            "score": 0.79693
+          },
+          {
+            "tag": "dark body",
+            "score": 0.79438
+          },
+          {
+            "tag": "unsigned",
+            "score": 0.79182
+          },
+          {
+            "tag": "fangs",
+            "score": 0.78923
+          },
+          {
+            "tag": "nails",
+            "score": 0.78923
+          },
+          {
+            "tag": "happy",
+            "score": 0.78793
+          },
+          {
+            "tag": "red tongue",
+            "score": 0.77999
+          },
+          {
+            "tag": "black necklace",
+            "score": 0.77865
+          },
+          {
+            "tag": "digital drawing (artwork)",
+            "score": 0.76769
+          },
+          {
+            "tag": "digital art",
+            "score": 0.76348
+          },
+          {
+            "tag": "1:1",
+            "score": 0.76207
+          },
+          {
+            "tag": "raised eyebrows",
+            "score": 0.76207
+          },
+          {
+            "tag": "nude anthro",
+            "score": 0.76065
+          },
+          {
+            "tag": "black nose",
+            "score": 0.75923
+          },
+          {
+            "tag": "front view",
+            "score": 0.74762
+          },
+          {
+            "tag": "inner ear fluff",
+            "score": 0.74614
+          },
+          {
+            "tag": "4 fingers",
+            "score": 0.74614
+          },
+          {
+            "tag": "exclamation point",
+            "score": 0.74614
+          },
+          {
+            "tag": "arm tuft",
+            "score": 0.74017
+          },
+          {
+            "tag": "2023",
+            "score": 0.73867
+          },
+          {
+            "tag": "leopard spots",
+            "score": 0.73412
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.73106
+          },
+          {
+            "tag": "beckoning",
+            "score": 0.7272
+          },
+          {
+            "tag": "laugh",
+            "score": 0.72331
+          },
+          {
+            "tag": "humanoid hands",
+            "score": 0.71938
+          },
+          {
+            "tag": "smile",
+            "score": 0.71383
+          },
+          {
+            "tag": "tuft",
+            "score": 0.70497
+          },
+          {
+            "tag": "collar",
+            "score": 0.70497
+          },
+          {
+            "tag": "translucent",
+            "score": 0.70497
+          },
+          {
+            "tag": "meme",
+            "score": 0.69678
+          },
+          {
+            "tag": "feline",
+            "score": 0.6943
+          },
+          {
+            "tag": "2021",
+            "score": 0.69264
+          },
+          {
+            "tag": "2022",
+            "score": 0.68931
+          },
+          {
+            "tag": "pupils",
+            "score": 0.68679
+          },
+          {
+            "tag": "raised arm",
+            "score": 0.68342
+          },
+          {
+            "tag": "hand gesture",
+            "score": 0.68088
+          },
+          {
+            "tag": "highlights (coloring)",
+            "score": 0.67833
+          },
+          {
+            "tag": "black spots",
+            "score": 0.67833
+          },
+          {
+            "tag": "seductive",
+            "score": 0.65754
           }
         ]
       }
@@ -237,8 +477,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "7c1b605e7ec175d018573e465f6461a1db4ed446d5ef2936da19874816b6987a",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -400,6 +640,246 @@
           {
             "tag": "intimate",
             "score": 0.89331
+          },
+          {
+            "tag": "white body",
+            "score": 0.89181
+          },
+          {
+            "tag": "tattoo",
+            "score": 0.89029
+          },
+          {
+            "tag": "grey fur",
+            "score": 0.88876
+          },
+          {
+            "tag": "black body",
+            "score": 0.88243
+          },
+          {
+            "tag": "closed smile",
+            "score": 0.8808
+          },
+          {
+            "tag": "hand on shoulder",
+            "score": 0.87831
+          },
+          {
+            "tag": "topless",
+            "score": 0.87748
+          },
+          {
+            "tag": "nude anthro",
+            "score": 0.87408
+          },
+          {
+            "tag": "heart (marking)",
+            "score": 0.87408
+          },
+          {
+            "tag": "blue fur",
+            "score": 0.87321
+          },
+          {
+            "tag": "humanoid hands",
+            "score": 0.86339
+          },
+          {
+            "tag": "facial tuft",
+            "score": 0.85872
+          },
+          {
+            "tag": "black fur",
+            "score": 0.85777
+          },
+          {
+            "tag": "breasts",
+            "score": 0.85681
+          },
+          {
+            "tag": "breast squish",
+            "score": 0.85294
+          },
+          {
+            "tag": "nude",
+            "score": 0.84997
+          },
+          {
+            "tag": "digital art",
+            "score": 0.84183
+          },
+          {
+            "tag": "shaded",
+            "score": 0.83973
+          },
+          {
+            "tag": "kissing",
+            "score": 0.83868
+          },
+          {
+            "tag": "spotted markings",
+            "score": 0.83548
+          },
+          {
+            "tag": "eyebrow through hair",
+            "score": 0.83441
+          },
+          {
+            "tag": "cheek tuft",
+            "score": 0.83332
+          },
+          {
+            "tag": "portrait",
+            "score": 0.83224
+          },
+          {
+            "tag": "arm markings",
+            "score": 0.83224
+          },
+          {
+            "tag": "translucent",
+            "score": 0.83004
+          },
+          {
+            "tag": "happy",
+            "score": 0.82559
+          },
+          {
+            "tag": "hugging another",
+            "score": 0.82333
+          },
+          {
+            "tag": "love",
+            "score": 0.81874
+          },
+          {
+            "tag": "white background",
+            "score": 0.81757
+          },
+          {
+            "tag": "female anthro",
+            "score": 0.81757
+          },
+          {
+            "tag": "blue body",
+            "score": 0.81523
+          },
+          {
+            "tag": "side boob",
+            "score": 0.81287
+          },
+          {
+            "tag": "blue nipples",
+            "score": 0.81168
+          },
+          {
+            "tag": "2021",
+            "score": 0.80807
+          },
+          {
+            "tag": "body writing",
+            "score": 0.80317
+          },
+          {
+            "tag": "tuft",
+            "score": 0.79819
+          },
+          {
+            "tag": "eyelashes",
+            "score": 0.79693
+          },
+          {
+            "tag": "2020",
+            "score": 0.79438
+          },
+          {
+            "tag": "interspecies",
+            "score": 0.79311
+          },
+          {
+            "tag": "kissing cheek",
+            "score": 0.79182
+          },
+          {
+            "tag": "featureless breasts",
+            "score": 0.78266
+          },
+          {
+            "tag": "black nose",
+            "score": 0.7773
+          },
+          {
+            "tag": "fingers",
+            "score": 0.76065
+          },
+          {
+            "tag": "straight hair",
+            "score": 0.76065
+          },
+          {
+            "tag": "hyena",
+            "score": 0.75201
+          },
+          {
+            "tag": "2023",
+            "score": 0.75055
+          },
+          {
+            "tag": "casual nudity",
+            "score": 0.75055
+          },
+          {
+            "tag": "romantic ambiance",
+            "score": 0.74614
+          },
+          {
+            "tag": "side view",
+            "score": 0.74317
+          },
+          {
+            "tag": "monotone body",
+            "score": 0.74167
+          },
+          {
+            "tag": "digital drawing (artwork)",
+            "score": 0.73716
+          },
+          {
+            "tag": "mouth closed",
+            "score": 0.73259
+          },
+          {
+            "tag": "smile",
+            "score": 0.72643
+          },
+          {
+            "tag": "jaguar",
+            "score": 0.72174
+          },
+          {
+            "tag": "fur markings",
+            "score": 0.72017
+          },
+          {
+            "tag": "unsigned",
+            "score": 0.71859
+          },
+          {
+            "tag": "lion",
+            "score": 0.71542
+          },
+          {
+            "tag": "hugging from behind",
+            "score": 0.71542
+          },
+          {
+            "tag": "half-length portrait",
+            "score": 0.69678
+          },
+          {
+            "tag": "colored",
+            "score": 0.69347
           }
         ]
       }
@@ -436,8 +916,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "da3c221d404e0c84090ea09ac36cccd191c3185a0a8933670e0efb39c29c9ddc",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -599,6 +1079,246 @@
           {
             "tag": "convenient censorship",
             "score": 0.87579
+          },
+          {
+            "tag": "glowing eyes",
+            "score": 0.87493
+          },
+          {
+            "tag": "big breasts",
+            "score": 0.87408
+          },
+          {
+            "tag": "smirk",
+            "score": 0.8706
+          },
+          {
+            "tag": "translucent hair",
+            "score": 0.85488
+          },
+          {
+            "tag": "spotted markings",
+            "score": 0.85488
+          },
+          {
+            "tag": "lips",
+            "score": 0.84997
+          },
+          {
+            "tag": "jaguar",
+            "score": 0.84492
+          },
+          {
+            "tag": "tattoo",
+            "score": 0.83868
+          },
+          {
+            "tag": "shaded",
+            "score": 0.83762
+          },
+          {
+            "tag": "finger claws",
+            "score": 0.83762
+          },
+          {
+            "tag": "pink eyes",
+            "score": 0.83548
+          },
+          {
+            "tag": "eyelashes",
+            "score": 0.83224
+          },
+          {
+            "tag": "highlights (coloring)",
+            "score": 0.83224
+          },
+          {
+            "tag": "fur",
+            "score": 0.82783
+          },
+          {
+            "tag": "glowing",
+            "score": 0.81405
+          },
+          {
+            "tag": "2023",
+            "score": 0.81048
+          },
+          {
+            "tag": "hyena",
+            "score": 0.80441
+          },
+          {
+            "tag": "black nipples",
+            "score": 0.80441
+          },
+          {
+            "tag": "covering breasts",
+            "score": 0.80069
+          },
+          {
+            "tag": "1:1",
+            "score": 0.79819
+          },
+          {
+            "tag": "eyebrow through hair",
+            "score": 0.79819
+          },
+          {
+            "tag": "2021",
+            "score": 0.79566
+          },
+          {
+            "tag": "dark body",
+            "score": 0.79566
+          },
+          {
+            "tag": "digital art",
+            "score": 0.79311
+          },
+          {
+            "tag": "narrowed eyes",
+            "score": 0.78793
+          },
+          {
+            "tag": "simple background",
+            "score": 0.78266
+          },
+          {
+            "tag": "three-quarter portrait",
+            "score": 0.78266
+          },
+          {
+            "tag": "open smile",
+            "score": 0.78133
+          },
+          {
+            "tag": "heart pupils",
+            "score": 0.77322
+          },
+          {
+            "tag": "nude",
+            "score": 0.77046
+          },
+          {
+            "tag": "fingers",
+            "score": 0.76769
+          },
+          {
+            "tag": "2022",
+            "score": 0.76065
+          },
+          {
+            "tag": "covering",
+            "score": 0.74909
+          },
+          {
+            "tag": "glowing markings",
+            "score": 0.74466
+          },
+          {
+            "tag": "holidays",
+            "score": 0.74167
+          },
+          {
+            "tag": "under boob",
+            "score": 0.74167
+          },
+          {
+            "tag": "text",
+            "score": 0.74017
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.73867
+          },
+          {
+            "tag": "curvy figure",
+            "score": 0.73716
+          },
+          {
+            "tag": "squish",
+            "score": 0.72798
+          },
+          {
+            "tag": "topless",
+            "score": 0.7272
+          },
+          {
+            "tag": "female anthro",
+            "score": 0.7272
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.72487
+          },
+          {
+            "tag": "colored",
+            "score": 0.71622
+          },
+          {
+            "tag": "half-closed eyes",
+            "score": 0.7066
+          },
+          {
+            "tag": "valentine's day",
+            "score": 0.7066
+          },
+          {
+            "tag": "nude female",
+            "score": 0.70171
+          },
+          {
+            "tag": "2024",
+            "score": 0.69596
+          },
+          {
+            "tag": "eye through hair",
+            "score": 0.69596
+          },
+          {
+            "tag": "nude anthro",
+            "score": 0.69513
+          },
+          {
+            "tag": "grey body",
+            "score": 0.6943
+          },
+          {
+            "tag": "fur markings",
+            "score": 0.69014
+          },
+          {
+            "tag": "teeth",
+            "score": 0.68511
+          },
+          {
+            "tag": "cheetah",
+            "score": 0.67833
+          },
+          {
+            "tag": "smug",
+            "score": 0.67061
+          },
+          {
+            "tag": "grin",
+            "score": 0.66801
+          },
+          {
+            "tag": "black hair",
+            "score": 0.66541
+          },
+          {
+            "tag": "makeup",
+            "score": 0.6628
+          },
+          {
+            "tag": "index to index",
+            "score": 0.65489
+          },
+          {
+            "tag": "translucent",
+            "score": 0.65135
           }
         ]
       }
@@ -635,8 +1355,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "5062241e8b883e8a86c2c23711f306474146551efeb38fd14ef86698a76d8e79",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -798,6 +1518,246 @@
           {
             "tag": "simple background",
             "score": 0.86793
+          },
+          {
+            "tag": "middle finger",
+            "score": 0.86522
+          },
+          {
+            "tag": "shaded",
+            "score": 0.85195
+          },
+          {
+            "tag": "fingers",
+            "score": 0.84797
+          },
+          {
+            "tag": "1:1",
+            "score": 0.83114
+          },
+          {
+            "tag": "beanie",
+            "score": 0.83114
+          },
+          {
+            "tag": "beckoning",
+            "score": 0.83004
+          },
+          {
+            "tag": "glowing eyes",
+            "score": 0.82559
+          },
+          {
+            "tag": "lion",
+            "score": 0.82333
+          },
+          {
+            "tag": "breasts",
+            "score": 0.81523
+          },
+          {
+            "tag": "markings",
+            "score": 0.81405
+          },
+          {
+            "tag": "colored",
+            "score": 0.81287
+          },
+          {
+            "tag": "three-quarter portrait",
+            "score": 0.80563
+          },
+          {
+            "tag": "alternate species",
+            "score": 0.80194
+          },
+          {
+            "tag": "black nose",
+            "score": 0.80069
+          },
+          {
+            "tag": "hand on hip",
+            "score": 0.79944
+          },
+          {
+            "tag": "colored nails",
+            "score": 0.79819
+          },
+          {
+            "tag": "pupils",
+            "score": 0.79566
+          },
+          {
+            "tag": "ursine",
+            "score": 0.79438
+          },
+          {
+            "tag": "nails",
+            "score": 0.78923
+          },
+          {
+            "tag": "pink eyes",
+            "score": 0.78793
+          },
+          {
+            "tag": "highlights (coloring)",
+            "score": 0.78662
+          },
+          {
+            "tag": "humor",
+            "score": 0.77046
+          },
+          {
+            "tag": "clothing",
+            "score": 0.75347
+          },
+          {
+            "tag": "digital art",
+            "score": 0.75347
+          },
+          {
+            "tag": "headwear",
+            "score": 0.75347
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.75201
+          },
+          {
+            "tag": "heart symbol",
+            "score": 0.74466
+          },
+          {
+            "tag": "cheetah",
+            "score": 0.74167
+          },
+          {
+            "tag": "icon",
+            "score": 0.74017
+          },
+          {
+            "tag": "eyelashes",
+            "score": 0.73259
+          },
+          {
+            "tag": "nude",
+            "score": 0.72331
+          },
+          {
+            "tag": "digital drawing (artwork)",
+            "score": 0.72253
+          },
+          {
+            "tag": "nude anthro",
+            "score": 0.7178
+          },
+          {
+            "tag": "pointing up",
+            "score": 0.71701
+          },
+          {
+            "tag": "feline",
+            "score": 0.71542
+          },
+          {
+            "tag": "2021",
+            "score": 0.71143
+          },
+          {
+            "tag": "seductive",
+            "score": 0.71143
+          },
+          {
+            "tag": "pinup",
+            "score": 0.71143
+          },
+          {
+            "tag": "impact (font)",
+            "score": 0.70821
+          },
+          {
+            "tag": "smile",
+            "score": 0.7066
+          },
+          {
+            "tag": "heart eyes",
+            "score": 0.69925
+          },
+          {
+            "tag": "smug",
+            "score": 0.68931
+          },
+          {
+            "tag": "claws",
+            "score": 0.68763
+          },
+          {
+            "tag": "spotted markings",
+            "score": 0.68426
+          },
+          {
+            "tag": "pointing at self",
+            "score": 0.68426
+          },
+          {
+            "tag": "headgear",
+            "score": 0.67576
+          },
+          {
+            "tag": "furrification",
+            "score": 0.67405
+          },
+          {
+            "tag": "v sign",
+            "score": 0.66974
+          },
+          {
+            "tag": "bedroom eyes",
+            "score": 0.66888
+          },
+          {
+            "tag": "shush",
+            "score": 0.65754
+          },
+          {
+            "tag": "text",
+            "score": 0.65666
+          },
+          {
+            "tag": "smirk",
+            "score": 0.65047
+          },
+          {
+            "tag": "narrowed eyes",
+            "score": 0.64691
+          },
+          {
+            "tag": "lips",
+            "score": 0.64333
+          },
+          {
+            "tag": "bust portrait",
+            "score": 0.64333
+          },
+          {
+            "tag": "hyena",
+            "score": 0.63884
+          },
+          {
+            "tag": "black skin",
+            "score": 0.63703
+          },
+          {
+            "tag": "clothed female",
+            "score": 0.63613
+          },
+          {
+            "tag": "black nails",
+            "score": 0.63341
+          },
+          {
+            "tag": "leopard spots",
+            "score": 0.63159
           }
         ]
       }
@@ -834,8 +1794,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "ae5b4a3f262fcca9e539294e707b03f70e71c28ad5b9341e4457e1facdcdb3de",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -997,6 +1957,246 @@
           {
             "tag": "eyebrows",
             "score": 0.91611
+          },
+          {
+            "tag": "teeth",
+            "score": 0.91368
+          },
+          {
+            "tag": "star (symbol)",
+            "score": 0.91118
+          },
+          {
+            "tag": "colored nails",
+            "score": 0.91118
+          },
+          {
+            "tag": "5 fingers",
+            "score": 0.90991
+          },
+          {
+            "tag": "translucent hair",
+            "score": 0.90731
+          },
+          {
+            "tag": "star pupils",
+            "score": 0.90599
+          },
+          {
+            "tag": "pose",
+            "score": 0.90053
+          },
+          {
+            "tag": "snow leopard",
+            "score": 0.8977
+          },
+          {
+            "tag": "open smile",
+            "score": 0.89331
+          },
+          {
+            "tag": "portrait",
+            "score": 0.89029
+          },
+          {
+            "tag": "purple eyes",
+            "score": 0.8872
+          },
+          {
+            "tag": "4 fingers",
+            "score": 0.8808
+          },
+          {
+            "tag": "dark body",
+            "score": 0.87997
+          },
+          {
+            "tag": "fingers",
+            "score": 0.87663
+          },
+          {
+            "tag": "fur markings",
+            "score": 0.87579
+          },
+          {
+            "tag": "grey fur",
+            "score": 0.87321
+          },
+          {
+            "tag": "humanoid hands",
+            "score": 0.86522
+          },
+          {
+            "tag": "long tail",
+            "score": 0.86522
+          },
+          {
+            "tag": "nude",
+            "score": 0.86154
+          },
+          {
+            "tag": "eyebrow through hair",
+            "score": 0.85681
+          },
+          {
+            "tag": "unusual pupils",
+            "score": 0.85681
+          },
+          {
+            "tag": "black nails",
+            "score": 0.85294
+          },
+          {
+            "tag": "black spots",
+            "score": 0.85294
+          },
+          {
+            "tag": "claws",
+            "score": 0.85195
+          },
+          {
+            "tag": "leopard spots",
+            "score": 0.84594
+          },
+          {
+            "tag": "jaguar",
+            "score": 0.84492
+          },
+          {
+            "tag": "grey body",
+            "score": 0.84183
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.84078
+          },
+          {
+            "tag": "black nose",
+            "score": 0.83868
+          },
+          {
+            "tag": "shaded",
+            "score": 0.83548
+          },
+          {
+            "tag": "glistening eyes",
+            "score": 0.83441
+          },
+          {
+            "tag": "lips",
+            "score": 0.83332
+          },
+          {
+            "tag": "eyelashes",
+            "score": 0.83114
+          },
+          {
+            "tag": "bear",
+            "score": 0.83114
+          },
+          {
+            "tag": "blep",
+            "score": 0.82894
+          },
+          {
+            "tag": "black eyebrows",
+            "score": 0.82559
+          },
+          {
+            "tag": "tongue out",
+            "score": 0.82446
+          },
+          {
+            "tag": "black claws",
+            "score": 0.82333
+          },
+          {
+            "tag": "bangs",
+            "score": 0.82219
+          },
+          {
+            "tag": "standing",
+            "score": 0.81757
+          },
+          {
+            "tag": "hybrid",
+            "score": 0.81641
+          },
+          {
+            "tag": "bedroom eyes",
+            "score": 0.81523
+          },
+          {
+            "tag": "star symbol",
+            "score": 0.81287
+          },
+          {
+            "tag": "dark fur",
+            "score": 0.81048
+          },
+          {
+            "tag": "nude anthro",
+            "score": 0.80928
+          },
+          {
+            "tag": "spotted markings",
+            "score": 0.80807
+          },
+          {
+            "tag": "cheetah",
+            "score": 0.80317
+          },
+          {
+            "tag": "tuft",
+            "score": 0.80194
+          },
+          {
+            "tag": "beckoning",
+            "score": 0.79311
+          },
+          {
+            "tag": "digital art",
+            "score": 0.78531
+          },
+          {
+            "tag": "simple background",
+            "score": 0.78133
+          },
+          {
+            "tag": "seductive",
+            "score": 0.78133
+          },
+          {
+            "tag": "nude female",
+            "score": 0.78133
+          },
+          {
+            "tag": "biped",
+            "score": 0.77594
+          },
+          {
+            "tag": "colored",
+            "score": 0.77322
+          },
+          {
+            "tag": "spotted hyena",
+            "score": 0.77322
+          },
+          {
+            "tag": "convenient censorship",
+            "score": 0.77322
+          },
+          {
+            "tag": "tail",
+            "score": 0.77046
+          },
+          {
+            "tag": "alpha channel",
+            "score": 0.77046
+          },
+          {
+            "tag": "star eyes",
+            "score": 0.77046
           }
         ]
       }
@@ -1033,8 +2233,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "b5e7285adaae8260d17fd127aa67b7eaba774de8311573ea05b1f6a624d03d57",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -1196,6 +2396,246 @@
           {
             "tag": "nervous",
             "score": 0.9149
+          },
+          {
+            "tag": "sound effects",
+            "score": 0.91118
+          },
+          {
+            "tag": "angry",
+            "score": 0.90991
+          },
+          {
+            "tag": "1:1",
+            "score": 0.90465
+          },
+          {
+            "tag": "jaguar",
+            "score": 0.90465
+          },
+          {
+            "tag": "side boob",
+            "score": 0.90192
+          },
+          {
+            "tag": "confusion",
+            "score": 0.90192
+          },
+          {
+            "tag": "cheetah",
+            "score": 0.89625
+          },
+          {
+            "tag": "highlights (coloring)",
+            "score": 0.89181
+          },
+          {
+            "tag": "sad",
+            "score": 0.88243
+          },
+          {
+            "tag": "nervous sweat",
+            "score": 0.87663
+          },
+          {
+            "tag": "frown",
+            "score": 0.87579
+          },
+          {
+            "tag": "nails",
+            "score": 0.87321
+          },
+          {
+            "tag": "teeth showing",
+            "score": 0.87147
+          },
+          {
+            "tag": "breasts",
+            "score": 0.86704
+          },
+          {
+            "tag": "open mouth",
+            "score": 0.86339
+          },
+          {
+            "tag": "pupils",
+            "score": 0.86339
+          },
+          {
+            "tag": "fingers",
+            "score": 0.85966
+          },
+          {
+            "tag": "portrait",
+            "score": 0.85585
+          },
+          {
+            "tag": "fangs",
+            "score": 0.85391
+          },
+          {
+            "tag": "spotted markings",
+            "score": 0.85391
+          },
+          {
+            "tag": "alternate species",
+            "score": 0.85096
+          },
+          {
+            "tag": "pivoted ears",
+            "score": 0.85096
+          },
+          {
+            "tag": "fur",
+            "score": 0.84897
+          },
+          {
+            "tag": "feline",
+            "score": 0.83868
+          },
+          {
+            "tag": "colored nails",
+            "score": 0.83114
+          },
+          {
+            "tag": "translucent hair",
+            "score": 0.83004
+          },
+          {
+            "tag": "colored",
+            "score": 0.82671
+          },
+          {
+            "tag": "blue eyes",
+            "score": 0.82446
+          },
+          {
+            "tag": "claws",
+            "score": 0.82219
+          },
+          {
+            "tag": "ears down",
+            "score": 0.81757
+          },
+          {
+            "tag": "shaded",
+            "score": 0.81523
+          },
+          {
+            "tag": "digital drawing (artwork)",
+            "score": 0.80807
+          },
+          {
+            "tag": "mind control",
+            "score": 0.80807
+          },
+          {
+            "tag": "black ears",
+            "score": 0.80807
+          },
+          {
+            "tag": "screaming",
+            "score": 0.80441
+          },
+          {
+            "tag": "embarrassed",
+            "score": 0.80194
+          },
+          {
+            "tag": "head markings",
+            "score": 0.79566
+          },
+          {
+            "tag": "grey spots",
+            "score": 0.79053
+          },
+          {
+            "tag": "alpha channel",
+            "score": 0.78662
+          },
+          {
+            "tag": "caught in the act",
+            "score": 0.78531
+          },
+          {
+            "tag": "sharp teeth",
+            "score": 0.78399
+          },
+          {
+            "tag": "after transformation",
+            "score": 0.78399
+          },
+          {
+            "tag": "long hair",
+            "score": 0.78133
+          },
+          {
+            "tag": "fur markings",
+            "score": 0.7773
+          },
+          {
+            "tag": "glistening eyes",
+            "score": 0.77458
+          },
+          {
+            "tag": "digital art",
+            "score": 0.76348
+          },
+          {
+            "tag": "covering",
+            "score": 0.76348
+          },
+          {
+            "tag": "transparent background",
+            "score": 0.76207
+          },
+          {
+            "tag": "dark body",
+            "score": 0.75636
+          },
+          {
+            "tag": "annoyed",
+            "score": 0.75347
+          },
+          {
+            "tag": "crying",
+            "score": 0.75201
+          },
+          {
+            "tag": "growling",
+            "score": 0.74909
+          },
+          {
+            "tag": "onomatopoeia",
+            "score": 0.74762
+          },
+          {
+            "tag": "transformation",
+            "score": 0.74614
+          },
+          {
+            "tag": "eyelashes",
+            "score": 0.74466
+          },
+          {
+            "tag": "half-length portrait",
+            "score": 0.73867
+          },
+          {
+            "tag": "open frown",
+            "score": 0.73029
+          },
+          {
+            "tag": "snout",
+            "score": 0.72643
+          },
+          {
+            "tag": "ears back",
+            "score": 0.72643
+          },
+          {
+            "tag": "eyebrow through hair",
+            "score": 0.72487
           }
         ]
       }
@@ -1232,8 +2672,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "a381e0e6fc198177fff0f3aa1fd9ef9fa25ac09be4688e9afbe163f7fd11eb7a",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -1395,6 +2835,246 @@
           {
             "tag": "markings",
             "score": 0.89479
+          },
+          {
+            "tag": "hybrid",
+            "score": 0.89479
+          },
+          {
+            "tag": "teeth",
+            "score": 0.88404
+          },
+          {
+            "tag": "grey body",
+            "score": 0.8808
+          },
+          {
+            "tag": "5 fingers",
+            "score": 0.87915
+          },
+          {
+            "tag": "hands together",
+            "score": 0.87831
+          },
+          {
+            "tag": "looking away",
+            "score": 0.87748
+          },
+          {
+            "tag": "fur",
+            "score": 0.87579
+          },
+          {
+            "tag": "fingers",
+            "score": 0.87493
+          },
+          {
+            "tag": "long hair",
+            "score": 0.8706
+          },
+          {
+            "tag": "eyebrows",
+            "score": 0.8706
+          },
+          {
+            "tag": "feline",
+            "score": 0.86883
+          },
+          {
+            "tag": "pivoted ears",
+            "score": 0.86883
+          },
+          {
+            "tag": "portrait",
+            "score": 0.86431
+          },
+          {
+            "tag": "crying",
+            "score": 0.86431
+          },
+          {
+            "tag": "2019",
+            "score": 0.85391
+          },
+          {
+            "tag": "ellipsis",
+            "score": 0.85195
+          },
+          {
+            "tag": "ears down",
+            "score": 0.8439
+          },
+          {
+            "tag": "hand on breast",
+            "score": 0.83224
+          },
+          {
+            "tag": "1:1",
+            "score": 0.83114
+          },
+          {
+            "tag": "black spots",
+            "score": 0.82333
+          },
+          {
+            "tag": "bodily fluids",
+            "score": 0.81989
+          },
+          {
+            "tag": "lips",
+            "score": 0.80685
+          },
+          {
+            "tag": "shaded",
+            "score": 0.80317
+          },
+          {
+            "tag": "2021",
+            "score": 0.79944
+          },
+          {
+            "tag": "embarrassed",
+            "score": 0.79693
+          },
+          {
+            "tag": "sweatdrop",
+            "score": 0.78923
+          },
+          {
+            "tag": "jaguar",
+            "score": 0.78923
+          },
+          {
+            "tag": "glowing eyes",
+            "score": 0.78793
+          },
+          {
+            "tag": "side boob",
+            "score": 0.77865
+          },
+          {
+            "tag": "simple background",
+            "score": 0.7773
+          },
+          {
+            "tag": "nude",
+            "score": 0.77458
+          },
+          {
+            "tag": "worried",
+            "score": 0.76769
+          },
+          {
+            "tag": "black eyebrows",
+            "score": 0.76348
+          },
+          {
+            "tag": "multicolored ears",
+            "score": 0.75636
+          },
+          {
+            "tag": "half-closed eyes",
+            "score": 0.75055
+          },
+          {
+            "tag": "blue eyes",
+            "score": 0.74466
+          },
+          {
+            "tag": "pink eyes",
+            "score": 0.74317
+          },
+          {
+            "tag": "breast squish",
+            "score": 0.74167
+          },
+          {
+            "tag": "mind control",
+            "score": 0.73412
+          },
+          {
+            "tag": "gesture",
+            "score": 0.73259
+          },
+          {
+            "tag": "eyelashes",
+            "score": 0.72331
+          },
+          {
+            "tag": "black nose",
+            "score": 0.72174
+          },
+          {
+            "tag": "white background",
+            "score": 0.72096
+          },
+          {
+            "tag": "unimpressed",
+            "score": 0.72096
+          },
+          {
+            "tag": "snout",
+            "score": 0.71859
+          },
+          {
+            "tag": "4 fingers",
+            "score": 0.71303
+          },
+          {
+            "tag": "translucent hair",
+            "score": 0.70902
+          },
+          {
+            "tag": "alpha channel",
+            "score": 0.70821
+          },
+          {
+            "tag": "looking up",
+            "score": 0.7074
+          },
+          {
+            "tag": "sweat",
+            "score": 0.70416
+          },
+          {
+            "tag": "digital art",
+            "score": 0.70089
+          },
+          {
+            "tag": "tired",
+            "score": 0.70089
+          },
+          {
+            "tag": "spotted hyena",
+            "score": 0.69843
+          },
+          {
+            "tag": "unknown species",
+            "score": 0.6943
+          },
+          {
+            "tag": "lion",
+            "score": 0.68511
+          },
+          {
+            "tag": "dipstick ears",
+            "score": 0.68342
+          },
+          {
+            "tag": "white hair",
+            "score": 0.68088
+          },
+          {
+            "tag": "hypnosis",
+            "score": 0.67491
+          },
+          {
+            "tag": "female anthro",
+            "score": 0.66628
+          },
+          {
+            "tag": "looking aside",
+            "score": 0.66628
           }
         ]
       }
@@ -1431,8 +3111,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "b70319ebe7ef506fba77f0b9ff31e12125295d294b9808dd831b7f6ebd3b2be4",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -1594,6 +3274,246 @@
           {
             "tag": "black nose",
             "score": 0.86339
+          },
+          {
+            "tag": "simple background",
+            "score": 0.86154
+          },
+          {
+            "tag": "half-closed eyes",
+            "score": 0.86154
+          },
+          {
+            "tag": "narrowed eyes",
+            "score": 0.85488
+          },
+          {
+            "tag": "eyelashes",
+            "score": 0.85391
+          },
+          {
+            "tag": "beckoning",
+            "score": 0.85391
+          },
+          {
+            "tag": "inner ear fluff",
+            "score": 0.84997
+          },
+          {
+            "tag": "spotted markings",
+            "score": 0.84696
+          },
+          {
+            "tag": "highlights (coloring)",
+            "score": 0.83868
+          },
+          {
+            "tag": "seductive",
+            "score": 0.83762
+          },
+          {
+            "tag": "leopard spots",
+            "score": 0.83762
+          },
+          {
+            "tag": "1:1",
+            "score": 0.82671
+          },
+          {
+            "tag": "colored nails",
+            "score": 0.82104
+          },
+          {
+            "tag": "nails",
+            "score": 0.81989
+          },
+          {
+            "tag": "black eyebrows",
+            "score": 0.81874
+          },
+          {
+            "tag": "heart (marking)",
+            "score": 0.81757
+          },
+          {
+            "tag": "jaguar",
+            "score": 0.81641
+          },
+          {
+            "tag": "purple eyes",
+            "score": 0.80928
+          },
+          {
+            "tag": "felid",
+            "score": 0.80563
+          },
+          {
+            "tag": "pink eyes",
+            "score": 0.79053
+          },
+          {
+            "tag": "long hair",
+            "score": 0.78662
+          },
+          {
+            "tag": "hybrid",
+            "score": 0.77458
+          },
+          {
+            "tag": "white background",
+            "score": 0.77322
+          },
+          {
+            "tag": "5 fingers",
+            "score": 0.76489
+          },
+          {
+            "tag": "digital art",
+            "score": 0.75636
+          },
+          {
+            "tag": "eye through hair",
+            "score": 0.75491
+          },
+          {
+            "tag": "black spots",
+            "score": 0.75055
+          },
+          {
+            "tag": "finger claws",
+            "score": 0.73106
+          },
+          {
+            "tag": "smug",
+            "score": 0.73029
+          },
+          {
+            "tag": "unsigned",
+            "score": 0.73029
+          },
+          {
+            "tag": "dark body",
+            "score": 0.7272
+          },
+          {
+            "tag": "digital drawing (artwork)",
+            "score": 0.72017
+          },
+          {
+            "tag": "big breasts",
+            "score": 0.71938
+          },
+          {
+            "tag": "smiling at viewer",
+            "score": 0.71463
+          },
+          {
+            "tag": "bangs",
+            "score": 0.70902
+          },
+          {
+            "tag": "heart reaction",
+            "score": 0.69678
+          },
+          {
+            "tag": "dark fur",
+            "score": 0.67576
+          },
+          {
+            "tag": "smile",
+            "score": 0.67319
+          },
+          {
+            "tag": "hair over eye",
+            "score": 0.67319
+          },
+          {
+            "tag": "2022",
+            "score": 0.66715
+          },
+          {
+            "tag": "nude",
+            "score": 0.66017
+          },
+          {
+            "tag": "suggestive",
+            "score": 0.6593
+          },
+          {
+            "tag": "female anthro",
+            "score": 0.65401
+          },
+          {
+            "tag": "2021",
+            "score": 0.65135
+          },
+          {
+            "tag": "pointing up",
+            "score": 0.65047
+          },
+          {
+            "tag": "2020",
+            "score": 0.64958
+          },
+          {
+            "tag": "claws",
+            "score": 0.6478
+          },
+          {
+            "tag": "smirk",
+            "score": 0.63613
+          },
+          {
+            "tag": "emoji",
+            "score": 0.62704
+          },
+          {
+            "tag": "fingers",
+            "score": 0.61694
+          },
+          {
+            "tag": "2023",
+            "score": 0.61694
+          },
+          {
+            "tag": "raised finger",
+            "score": 0.6072
+          },
+          {
+            "tag": "black nails",
+            "score": 0.6058
+          },
+          {
+            "tag": "fingernails",
+            "score": 0.60346
+          },
+          {
+            "tag": "spotted hyena",
+            "score": 0.59361
+          },
+          {
+            "tag": "tuft",
+            "score": 0.59314
+          },
+          {
+            "tag": "mouth closed",
+            "score": 0.59078
+          },
+          {
+            "tag": "thick lips",
+            "score": 0.58747
+          },
+          {
+            "tag": "heart pupils",
+            "score": 0.57797
+          },
+          {
+            "tag": "glistening eyes",
+            "score": 0.57654
+          },
+          {
+            "tag": "glowing eyes",
+            "score": 0.56746
           }
         ]
       }
@@ -1630,8 +3550,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "98c8e42df109ef8c1d6a43597110faeb3a0ddf793544b29ee40078c42f570a39",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -1793,6 +3713,246 @@
           {
             "tag": "black ears",
             "score": 0.84997
+          },
+          {
+            "tag": "highlights (coloring)",
+            "score": 0.8439
+          },
+          {
+            "tag": "colored nails",
+            "score": 0.84183
+          },
+          {
+            "tag": "winking at viewer",
+            "score": 0.84183
+          },
+          {
+            "tag": "translucent hair",
+            "score": 0.83973
+          },
+          {
+            "tag": "nails",
+            "score": 0.82783
+          },
+          {
+            "tag": "felis",
+            "score": 0.82219
+          },
+          {
+            "tag": "black nose",
+            "score": 0.81874
+          },
+          {
+            "tag": "lips",
+            "score": 0.81874
+          },
+          {
+            "tag": "smiling at viewer",
+            "score": 0.80928
+          },
+          {
+            "tag": "spotted markings",
+            "score": 0.80807
+          },
+          {
+            "tag": "nude",
+            "score": 0.80069
+          },
+          {
+            "tag": "cheetah",
+            "score": 0.80069
+          },
+          {
+            "tag": "digital art",
+            "score": 0.78923
+          },
+          {
+            "tag": "purple eyes",
+            "score": 0.78923
+          },
+          {
+            "tag": "breasts",
+            "score": 0.78266
+          },
+          {
+            "tag": "bedroom eyes",
+            "score": 0.76489
+          },
+          {
+            "tag": "seductive",
+            "score": 0.75923
+          },
+          {
+            "tag": "half-length portrait",
+            "score": 0.74762
+          },
+          {
+            "tag": "long hair",
+            "score": 0.74317
+          },
+          {
+            "tag": "smile",
+            "score": 0.74317
+          },
+          {
+            "tag": "leopard spots",
+            "score": 0.74317
+          },
+          {
+            "tag": "raised tail",
+            "score": 0.74167
+          },
+          {
+            "tag": "tail",
+            "score": 0.74017
+          },
+          {
+            "tag": "jaguar",
+            "score": 0.74017
+          },
+          {
+            "tag": "2021",
+            "score": 0.72331
+          },
+          {
+            "tag": "2020",
+            "score": 0.7178
+          },
+          {
+            "tag": "finger claws",
+            "score": 0.71622
+          },
+          {
+            "tag": "dark body",
+            "score": 0.71542
+          },
+          {
+            "tag": "tuft",
+            "score": 0.71303
+          },
+          {
+            "tag": "pose",
+            "score": 0.71143
+          },
+          {
+            "tag": "covering",
+            "score": 0.71143
+          },
+          {
+            "tag": "claws",
+            "score": 0.69843
+          },
+          {
+            "tag": "glowing eyes",
+            "score": 0.6943
+          },
+          {
+            "tag": "fingers",
+            "score": 0.68847
+          },
+          {
+            "tag": "2019",
+            "score": 0.67918
+          },
+          {
+            "tag": "hand on cheek",
+            "score": 0.67319
+          },
+          {
+            "tag": "shaded",
+            "score": 0.66367
+          },
+          {
+            "tag": "colored",
+            "score": 0.66017
+          },
+          {
+            "tag": "convenient censorship",
+            "score": 0.65224
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.64423
+          },
+          {
+            "tag": "white hair",
+            "score": 0.63159
+          },
+          {
+            "tag": "5 fingers",
+            "score": 0.63068
+          },
+          {
+            "tag": "hybrid",
+            "score": 0.62246
+          },
+          {
+            "tag": "featureless crotch",
+            "score": 0.61694
+          },
+          {
+            "tag": "pink eyes",
+            "score": 0.61647
+          },
+          {
+            "tag": "suggestive",
+            "score": 0.61277
+          },
+          {
+            "tag": "telegram sticker",
+            "score": 0.6072
+          },
+          {
+            "tag": "heart (marking)",
+            "score": 0.60113
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.59831
+          },
+          {
+            "tag": "dark fur",
+            "score": 0.59784
+          },
+          {
+            "tag": "pinup",
+            "score": 0.59219
+          },
+          {
+            "tag": "tail markings",
+            "score": 0.59172
+          },
+          {
+            "tag": "narrowed eyes",
+            "score": 0.58558
+          },
+          {
+            "tag": "pupils",
+            "score": 0.5851
+          },
+          {
+            "tag": "2022",
+            "score": 0.57797
+          },
+          {
+            "tag": "humanoid hands",
+            "score": 0.57416
+          },
+          {
+            "tag": "gradient hair",
+            "score": 0.56458
+          },
+          {
+            "tag": "black nails",
+            "score": 0.56458
+          },
+          {
+            "tag": "translucent",
+            "score": 0.55157
+          },
+          {
+            "tag": "casual nudity",
+            "score": 0.54795
           }
         ]
       }
@@ -1829,8 +3989,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "fffb0ea2e13c35ab6bc9fa1d3403831bcc6c98922e6d206ec7bbfb3afdadb40e",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -1992,6 +4152,246 @@
           {
             "tag": "fur",
             "score": 0.84696
+          },
+          {
+            "tag": "finger claws",
+            "score": 0.84286
+          },
+          {
+            "tag": "hybrid",
+            "score": 0.84183
+          },
+          {
+            "tag": "ear markings",
+            "score": 0.84183
+          },
+          {
+            "tag": "dipstick ears",
+            "score": 0.83973
+          },
+          {
+            "tag": "markings",
+            "score": 0.82894
+          },
+          {
+            "tag": "annoyed",
+            "score": 0.82671
+          },
+          {
+            "tag": "fetal pose",
+            "score": 0.82446
+          },
+          {
+            "tag": "nails",
+            "score": 0.81048
+          },
+          {
+            "tag": "colored nails",
+            "score": 0.80928
+          },
+          {
+            "tag": "white hair",
+            "score": 0.80807
+          },
+          {
+            "tag": "eyelashes",
+            "score": 0.80563
+          },
+          {
+            "tag": "ears down",
+            "score": 0.80194
+          },
+          {
+            "tag": "nude",
+            "score": 0.79566
+          },
+          {
+            "tag": "blue nose",
+            "score": 0.79566
+          },
+          {
+            "tag": "purple eyes",
+            "score": 0.78399
+          },
+          {
+            "tag": "2021",
+            "score": 0.78399
+          },
+          {
+            "tag": "1:1",
+            "score": 0.77999
+          },
+          {
+            "tag": "digital art",
+            "score": 0.7773
+          },
+          {
+            "tag": "cheetah",
+            "score": 0.77046
+          },
+          {
+            "tag": "pivoted ears",
+            "score": 0.76348
+          },
+          {
+            "tag": "black spots",
+            "score": 0.76065
+          },
+          {
+            "tag": "fur markings",
+            "score": 0.75491
+          },
+          {
+            "tag": "covering self",
+            "score": 0.74317
+          },
+          {
+            "tag": "breasts",
+            "score": 0.73867
+          },
+          {
+            "tag": "2020",
+            "score": 0.73867
+          },
+          {
+            "tag": "upset",
+            "score": 0.71859
+          },
+          {
+            "tag": "shaded",
+            "score": 0.71463
+          },
+          {
+            "tag": "gradient hair",
+            "score": 0.71303
+          },
+          {
+            "tag": "black ears",
+            "score": 0.71063
+          },
+          {
+            "tag": "lynx",
+            "score": 0.70497
+          },
+          {
+            "tag": "2022",
+            "score": 0.70253
+          },
+          {
+            "tag": "multicolored ears",
+            "score": 0.70253
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.69925
+          },
+          {
+            "tag": "fingers",
+            "score": 0.69014
+          },
+          {
+            "tag": "portrait",
+            "score": 0.68847
+          },
+          {
+            "tag": "two tone fur",
+            "score": 0.68088
+          },
+          {
+            "tag": "side boob",
+            "score": 0.67405
+          },
+          {
+            "tag": "nude anthro",
+            "score": 0.66801
+          },
+          {
+            "tag": "knees pulled up",
+            "score": 0.66367
+          },
+          {
+            "tag": "depression",
+            "score": 0.6593
+          },
+          {
+            "tag": "5 fingers",
+            "score": 0.65842
+          },
+          {
+            "tag": "tired",
+            "score": 0.65135
+          },
+          {
+            "tag": "lion",
+            "score": 0.64333
+          },
+          {
+            "tag": "2019",
+            "score": 0.63703
+          },
+          {
+            "tag": "eyebrow through hair",
+            "score": 0.62521
+          },
+          {
+            "tag": "female anthro",
+            "score": 0.61832
+          },
+          {
+            "tag": "bear",
+            "score": 0.61324
+          },
+          {
+            "tag": "multicolored fur",
+            "score": 0.60673
+          },
+          {
+            "tag": "pouting",
+            "score": 0.60627
+          },
+          {
+            "tag": "grey hair",
+            "score": 0.60159
+          },
+          {
+            "tag": "black hair",
+            "score": 0.58794
+          },
+          {
+            "tag": "translucent",
+            "score": 0.58225
+          },
+          {
+            "tag": "glowing eyes",
+            "score": 0.56842
+          },
+          {
+            "tag": "eye through hair",
+            "score": 0.5665
+          },
+          {
+            "tag": "unsigned",
+            "score": 0.56602
+          },
+          {
+            "tag": "saber-toothed tiger",
+            "score": 0.5617
+          },
+          {
+            "tag": "topless",
+            "score": 0.56025
+          },
+          {
+            "tag": "herm (lore)",
+            "score": 0.55833
+          },
+          {
+            "tag": "comforting",
+            "score": 0.55399
+          },
+          {
+            "tag": "teary eyes",
+            "score": 0.55085
           }
         ]
       }
@@ -2028,8 +4428,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "6aec15b67b1c8144a15c2a46bbdd6d83d5d6c0c9a039719cdcb1c2b504973a1a",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -2191,6 +4591,246 @@
           {
             "tag": "1:1",
             "score": 0.95598
+          },
+          {
+            "tag": "mammal",
+            "score": 0.95465
+          },
+          {
+            "tag": "half-length portrait",
+            "score": 0.95186
+          },
+          {
+            "tag": "roleplay",
+            "score": 0.95041
+          },
+          {
+            "tag": "harness",
+            "score": 0.94335
+          },
+          {
+            "tag": "beanie",
+            "score": 0.94335
+          },
+          {
+            "tag": "spotted markings",
+            "score": 0.93245
+          },
+          {
+            "tag": "hair",
+            "score": 0.93146
+          },
+          {
+            "tag": "front view",
+            "score": 0.92841
+          },
+          {
+            "tag": "heart pupils",
+            "score": 0.92841
+          },
+          {
+            "tag": "bondage gear",
+            "score": 0.92736
+          },
+          {
+            "tag": "jaguar",
+            "score": 0.92079
+          },
+          {
+            "tag": "petplay",
+            "score": 0.91244
+          },
+          {
+            "tag": "fur",
+            "score": 0.90991
+          },
+          {
+            "tag": "chained",
+            "score": 0.90862
+          },
+          {
+            "tag": "handcuffed",
+            "score": 0.90862
+          },
+          {
+            "tag": "mask",
+            "score": 0.90599
+          },
+          {
+            "tag": "portrait",
+            "score": 0.90192
+          },
+          {
+            "tag": "bedroom eyes",
+            "score": 0.90192
+          },
+          {
+            "tag": "prehistoric species",
+            "score": 0.89331
+          },
+          {
+            "tag": "markings",
+            "score": 0.89181
+          },
+          {
+            "tag": "felid",
+            "score": 0.8808
+          },
+          {
+            "tag": "bondage gloves",
+            "score": 0.87579
+          },
+          {
+            "tag": "clothing",
+            "score": 0.86883
+          },
+          {
+            "tag": "breasts",
+            "score": 0.86613
+          },
+          {
+            "tag": "prisoner",
+            "score": 0.86431
+          },
+          {
+            "tag": "translucent",
+            "score": 0.86339
+          },
+          {
+            "tag": "female anthro",
+            "score": 0.8606
+          },
+          {
+            "tag": "seductive",
+            "score": 0.85488
+          },
+          {
+            "tag": "bear",
+            "score": 0.84797
+          },
+          {
+            "tag": "eyebrows",
+            "score": 0.84492
+          },
+          {
+            "tag": "leash",
+            "score": 0.83655
+          },
+          {
+            "tag": "hearts around head",
+            "score": 0.83655
+          },
+          {
+            "tag": "straps",
+            "score": 0.83224
+          },
+          {
+            "tag": "nipples",
+            "score": 0.82104
+          },
+          {
+            "tag": "dominant",
+            "score": 0.82104
+          },
+          {
+            "tag": "purple eyes",
+            "score": 0.81989
+          },
+          {
+            "tag": "hands tied",
+            "score": 0.81874
+          },
+          {
+            "tag": "areola",
+            "score": 0.81287
+          },
+          {
+            "tag": "slave",
+            "score": 0.81048
+          },
+          {
+            "tag": "digital art",
+            "score": 0.80685
+          },
+          {
+            "tag": "leopard spots",
+            "score": 0.80563
+          },
+          {
+            "tag": "smiling at viewer",
+            "score": 0.79944
+          },
+          {
+            "tag": "long hair",
+            "score": 0.79566
+          },
+          {
+            "tag": "necklace",
+            "score": 0.79438
+          },
+          {
+            "tag": "collar only",
+            "score": 0.78266
+          },
+          {
+            "tag": "hybrid",
+            "score": 0.77999
+          },
+          {
+            "tag": "nude anthro",
+            "score": 0.7773
+          },
+          {
+            "tag": "backwards hat",
+            "score": 0.7773
+          },
+          {
+            "tag": "heart (marking)",
+            "score": 0.7773
+          },
+          {
+            "tag": "tuft",
+            "score": 0.77458
+          },
+          {
+            "tag": "simple background",
+            "score": 0.77184
+          },
+          {
+            "tag": "5 fingers",
+            "score": 0.77184
+          },
+          {
+            "tag": "black collar",
+            "score": 0.77046
+          },
+          {
+            "tag": "cheetah",
+            "score": 0.76489
+          },
+          {
+            "tag": "trans (lore)",
+            "score": 0.76348
+          },
+          {
+            "tag": "mittens",
+            "score": 0.76207
+          },
+          {
+            "tag": "translucent hair",
+            "score": 0.76065
+          },
+          {
+            "tag": "submissive male",
+            "score": 0.75923
+          },
+          {
+            "tag": "narrowed eyes",
+            "score": 0.75779
+          },
+          {
+            "tag": "shaded",
+            "score": 0.75636
           }
         ]
       }
@@ -2227,8 +4867,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "9e25b219e1347b3fcc60ea418b66edf0f608edcc158681f38d7c94974967c755",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -2390,6 +5030,246 @@
           {
             "tag": "gag",
             "score": 0.90329
+          },
+          {
+            "tag": "grey body",
+            "score": 0.90192
+          },
+          {
+            "tag": "dark nipples",
+            "score": 0.90192
+          },
+          {
+            "tag": "restraints",
+            "score": 0.90053
+          },
+          {
+            "tag": "breasts",
+            "score": 0.8977
+          },
+          {
+            "tag": "areola",
+            "score": 0.8977
+          },
+          {
+            "tag": "fur",
+            "score": 0.89331
+          },
+          {
+            "tag": "black collar",
+            "score": 0.89029
+          },
+          {
+            "tag": "half-length portrait",
+            "score": 0.89029
+          },
+          {
+            "tag": "dark areola",
+            "score": 0.87321
+          },
+          {
+            "tag": "collar only",
+            "score": 0.86704
+          },
+          {
+            "tag": "black hair",
+            "score": 0.86522
+          },
+          {
+            "tag": "jaguar",
+            "score": 0.86431
+          },
+          {
+            "tag": "black nipples",
+            "score": 0.8606
+          },
+          {
+            "tag": "fangs",
+            "score": 0.85488
+          },
+          {
+            "tag": "simple background",
+            "score": 0.85294
+          },
+          {
+            "tag": "lion",
+            "score": 0.85096
+          },
+          {
+            "tag": "1:1",
+            "score": 0.84594
+          },
+          {
+            "tag": "bodily fluids",
+            "score": 0.83224
+          },
+          {
+            "tag": "grey fur",
+            "score": 0.82333
+          },
+          {
+            "tag": "highlights (coloring)",
+            "score": 0.82104
+          },
+          {
+            "tag": "leash pull",
+            "score": 0.81168
+          },
+          {
+            "tag": "tuft",
+            "score": 0.80807
+          },
+          {
+            "tag": "first person view",
+            "score": 0.80807
+          },
+          {
+            "tag": "red tongue",
+            "score": 0.79182
+          },
+          {
+            "tag": "hands behind back",
+            "score": 0.78923
+          },
+          {
+            "tag": "shaded",
+            "score": 0.78662
+          },
+          {
+            "tag": "inner ear fluff",
+            "score": 0.78662
+          },
+          {
+            "tag": "saliva drip",
+            "score": 0.78662
+          },
+          {
+            "tag": "dominant",
+            "score": 0.78399
+          },
+          {
+            "tag": "black areola",
+            "score": 0.77999
+          },
+          {
+            "tag": "2019",
+            "score": 0.77594
+          },
+          {
+            "tag": "front view",
+            "score": 0.77184
+          },
+          {
+            "tag": "gagged",
+            "score": 0.76769
+          },
+          {
+            "tag": "feline",
+            "score": 0.76348
+          },
+          {
+            "tag": "ring gag",
+            "score": 0.76065
+          },
+          {
+            "tag": "markings",
+            "score": 0.75779
+          },
+          {
+            "tag": "open mouth",
+            "score": 0.75636
+          },
+          {
+            "tag": "dominant female",
+            "score": 0.75636
+          },
+          {
+            "tag": "long hair",
+            "score": 0.75201
+          },
+          {
+            "tag": "lips",
+            "score": 0.75201
+          },
+          {
+            "tag": "open smile",
+            "score": 0.74317
+          },
+          {
+            "tag": "saliva on tongue",
+            "score": 0.74317
+          },
+          {
+            "tag": "blep",
+            "score": 0.73259
+          },
+          {
+            "tag": "purple nipples",
+            "score": 0.73029
+          },
+          {
+            "tag": "digital art",
+            "score": 0.72798
+          },
+          {
+            "tag": "straight hair",
+            "score": 0.72643
+          },
+          {
+            "tag": "black lips",
+            "score": 0.72565
+          },
+          {
+            "tag": "petplay",
+            "score": 0.72331
+          },
+          {
+            "tag": "bangs",
+            "score": 0.71542
+          },
+          {
+            "tag": "nude",
+            "score": 0.71463
+          },
+          {
+            "tag": "dark fur",
+            "score": 0.71303
+          },
+          {
+            "tag": "black leash",
+            "score": 0.71223
+          },
+          {
+            "tag": "black nose",
+            "score": 0.70821
+          },
+          {
+            "tag": "female anthro",
+            "score": 0.7074
+          },
+          {
+            "tag": "alpha channel",
+            "score": 0.70416
+          },
+          {
+            "tag": "teeth showing",
+            "score": 0.70335
+          },
+          {
+            "tag": "arms tied",
+            "score": 0.70008
+          },
+          {
+            "tag": "two tone hair",
+            "score": 0.69596
+          },
+          {
+            "tag": "digital drawing (artwork)",
+            "score": 0.68763
+          },
+          {
+            "tag": "tape",
+            "score": 0.68679
           }
         ]
       }
@@ -2426,8 +5306,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "0ec68d554b4bf11babc2fe9633951025426b1be1f9f9307d9dec4f9913af4e75",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -2589,6 +5469,246 @@
           {
             "tag": "alpha channel",
             "score": 0.90862
+          },
+          {
+            "tag": "dark body",
+            "score": 0.90731
+          },
+          {
+            "tag": "nipples",
+            "score": 0.89912
+          },
+          {
+            "tag": "portrait",
+            "score": 0.89912
+          },
+          {
+            "tag": "jaguar",
+            "score": 0.89181
+          },
+          {
+            "tag": "saliva",
+            "score": 0.8872
+          },
+          {
+            "tag": "cum on body",
+            "score": 0.8808
+          },
+          {
+            "tag": "slave",
+            "score": 0.87831
+          },
+          {
+            "tag": "spotted fur",
+            "score": 0.87663
+          },
+          {
+            "tag": "feline",
+            "score": 0.87579
+          },
+          {
+            "tag": "black nipples",
+            "score": 0.87321
+          },
+          {
+            "tag": "areola",
+            "score": 0.86339
+          },
+          {
+            "tag": "grey body",
+            "score": 0.85294
+          },
+          {
+            "tag": "1:1",
+            "score": 0.84797
+          },
+          {
+            "tag": "messy",
+            "score": 0.84696
+          },
+          {
+            "tag": "spotted body",
+            "score": 0.84183
+          },
+          {
+            "tag": "drooling",
+            "score": 0.83868
+          },
+          {
+            "tag": "half-length portrait",
+            "score": 0.83224
+          },
+          {
+            "tag": "simple background",
+            "score": 0.83004
+          },
+          {
+            "tag": "collar only",
+            "score": 0.82219
+          },
+          {
+            "tag": "roleplay",
+            "score": 0.81989
+          },
+          {
+            "tag": "oral invitation",
+            "score": 0.81757
+          },
+          {
+            "tag": "fur",
+            "score": 0.80317
+          },
+          {
+            "tag": "lion",
+            "score": 0.79693
+          },
+          {
+            "tag": "pink tongue",
+            "score": 0.79566
+          },
+          {
+            "tag": "nude",
+            "score": 0.79438
+          },
+          {
+            "tag": "teeth",
+            "score": 0.79053
+          },
+          {
+            "tag": "dripping",
+            "score": 0.78662
+          },
+          {
+            "tag": "cum string",
+            "score": 0.78531
+          },
+          {
+            "tag": "cheetah",
+            "score": 0.78531
+          },
+          {
+            "tag": "after oral",
+            "score": 0.78531
+          },
+          {
+            "tag": "bukkake",
+            "score": 0.78133
+          },
+          {
+            "tag": "unknown species",
+            "score": 0.77184
+          },
+          {
+            "tag": "submissive anthro",
+            "score": 0.77046
+          },
+          {
+            "tag": "leashed collar",
+            "score": 0.76489
+          },
+          {
+            "tag": "2019",
+            "score": 0.75923
+          },
+          {
+            "tag": "cumshot",
+            "score": 0.75347
+          },
+          {
+            "tag": "cum on muzzle",
+            "score": 0.74909
+          },
+          {
+            "tag": "2017",
+            "score": 0.73412
+          },
+          {
+            "tag": "fangs",
+            "score": 0.72017
+          },
+          {
+            "tag": "purple nipples",
+            "score": 0.71859
+          },
+          {
+            "tag": "transparent background",
+            "score": 0.70579
+          },
+          {
+            "tag": "2016",
+            "score": 0.70416
+          },
+          {
+            "tag": "cum covered",
+            "score": 0.69761
+          },
+          {
+            "tag": "open mouth",
+            "score": 0.69596
+          },
+          {
+            "tag": "digital art",
+            "score": 0.69596
+          },
+          {
+            "tag": "grey fur",
+            "score": 0.68257
+          },
+          {
+            "tag": "restraints",
+            "score": 0.68257
+          },
+          {
+            "tag": "hi res",
+            "score": 0.68173
+          },
+          {
+            "tag": "dark nipples",
+            "score": 0.68003
+          },
+          {
+            "tag": "black collar",
+            "score": 0.67747
+          },
+          {
+            "tag": "gynomorph",
+            "score": 0.67147
+          },
+          {
+            "tag": "open smile",
+            "score": 0.66888
+          },
+          {
+            "tag": "herm (lore)",
+            "score": 0.6593
+          },
+          {
+            "tag": "looking pleasured",
+            "score": 0.65578
+          },
+          {
+            "tag": "tuft",
+            "score": 0.65135
+          },
+          {
+            "tag": "lips",
+            "score": 0.64423
+          },
+          {
+            "tag": "inner ear fluff",
+            "score": 0.64423
+          },
+          {
+            "tag": "first person view",
+            "score": 0.64243
+          },
+          {
+            "tag": "shaded",
+            "score": 0.63522
+          },
+          {
+            "tag": "black areola",
+            "score": 0.63341
           }
         ]
       }
@@ -2625,8 +5745,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "0b237ee42fc1b4beb7ba4ad0786551ecbf266bb5ac09b78671916002e2c649d2",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -2788,6 +5908,246 @@
           {
             "tag": "white background",
             "score": 0.95976
+          },
+          {
+            "tag": "black balls",
+            "score": 0.95915
+          },
+          {
+            "tag": "foreskin",
+            "score": 0.95728
+          },
+          {
+            "tag": "tail tuft",
+            "score": 0.95663
+          },
+          {
+            "tag": "black spots",
+            "score": 0.95186
+          },
+          {
+            "tag": "grey fur",
+            "score": 0.94892
+          },
+          {
+            "tag": "multicolored tail",
+            "score": 0.94892
+          },
+          {
+            "tag": "tail anus",
+            "score": 0.93991
+          },
+          {
+            "tag": "long tail",
+            "score": 0.93629
+          },
+          {
+            "tag": "cheetah",
+            "score": 0.93535
+          },
+          {
+            "tag": "grey balls",
+            "score": 0.92736
+          },
+          {
+            "tag": "intersex",
+            "score": 0.9149
+          },
+          {
+            "tag": "ass up",
+            "score": 0.9149
+          },
+          {
+            "tag": "simple background",
+            "score": 0.91368
+          },
+          {
+            "tag": "1:1",
+            "score": 0.91368
+          },
+          {
+            "tag": "half-erect",
+            "score": 0.90991
+          },
+          {
+            "tag": "rear view",
+            "score": 0.90192
+          },
+          {
+            "tag": "erection",
+            "score": 0.89029
+          },
+          {
+            "tag": "bent over",
+            "score": 0.89029
+          },
+          {
+            "tag": "presenting hindquarters",
+            "score": 0.8808
+          },
+          {
+            "tag": "fur",
+            "score": 0.87748
+          },
+          {
+            "tag": "black glans",
+            "score": 0.87748
+          },
+          {
+            "tag": "anthro",
+            "score": 0.87408
+          },
+          {
+            "tag": "presenting anus",
+            "score": 0.87147
+          },
+          {
+            "tag": "faceless character",
+            "score": 0.86883
+          },
+          {
+            "tag": "black perineum",
+            "score": 0.86522
+          },
+          {
+            "tag": "cat tail",
+            "score": 0.85872
+          },
+          {
+            "tag": "black markings",
+            "score": 0.85681
+          },
+          {
+            "tag": "dark fur",
+            "score": 0.84997
+          },
+          {
+            "tag": "grey penis",
+            "score": 0.8439
+          },
+          {
+            "tag": "y anus",
+            "score": 0.83655
+          },
+          {
+            "tag": "presenting balls",
+            "score": 0.83114
+          },
+          {
+            "tag": "circumcised",
+            "score": 0.83004
+          },
+          {
+            "tag": "presenting penis",
+            "score": 0.81757
+          },
+          {
+            "tag": "hybrid",
+            "score": 0.80685
+          },
+          {
+            "tag": "femboy",
+            "score": 0.80563
+          },
+          {
+            "tag": "butt shot",
+            "score": 0.80069
+          },
+          {
+            "tag": "butt focus",
+            "score": 0.79819
+          },
+          {
+            "tag": "darkened genitalia",
+            "score": 0.78923
+          },
+          {
+            "tag": "black anus",
+            "score": 0.78662
+          },
+          {
+            "tag": "gynomorph",
+            "score": 0.77046
+          },
+          {
+            "tag": "hyena",
+            "score": 0.76629
+          },
+          {
+            "tag": "fur markings",
+            "score": 0.76489
+          },
+          {
+            "tag": "alpha channel",
+            "score": 0.75923
+          },
+          {
+            "tag": "retracted foreskin",
+            "score": 0.75636
+          },
+          {
+            "tag": "dark body",
+            "score": 0.74909
+          },
+          {
+            "tag": "black ears",
+            "score": 0.74466
+          },
+          {
+            "tag": "partially retracted foreskin",
+            "score": 0.74167
+          },
+          {
+            "tag": "thick penis",
+            "score": 0.73867
+          },
+          {
+            "tag": "grey tail",
+            "score": 0.73259
+          },
+          {
+            "tag": "thin tail",
+            "score": 0.72875
+          },
+          {
+            "tag": "transparent background",
+            "score": 0.72643
+          },
+          {
+            "tag": "shaded",
+            "score": 0.71938
+          },
+          {
+            "tag": "jaguar",
+            "score": 0.71542
+          },
+          {
+            "tag": "long penis",
+            "score": 0.70902
+          },
+          {
+            "tag": "vein",
+            "score": 0.70335
+          },
+          {
+            "tag": "veiny penis",
+            "score": 0.69925
+          },
+          {
+            "tag": "grey spots",
+            "score": 0.69596
+          },
+          {
+            "tag": "nude",
+            "score": 0.69098
+          },
+          {
+            "tag": "big penis",
+            "score": 0.68426
+          },
+          {
+            "tag": "crossgender",
+            "score": 0.68426
           }
         ]
       }
@@ -2824,8 +6184,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "56b63e4060679e75910ebd9d48458c2c38c622729cde2617d2bcfd48577fe376",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -2987,6 +6347,246 @@
           {
             "tag": "half-erect",
             "score": 0.97631
+          },
+          {
+            "tag": "after anal",
+            "score": 0.97482
+          },
+          {
+            "tag": "cum in ass",
+            "score": 0.97156
+          },
+          {
+            "tag": "felis",
+            "score": 0.96932
+          },
+          {
+            "tag": "cum on penis",
+            "score": 0.96838
+          },
+          {
+            "tag": "markings",
+            "score": 0.9679
+          },
+          {
+            "tag": "melanistic",
+            "score": 0.9679
+          },
+          {
+            "tag": "tail",
+            "score": 0.96741
+          },
+          {
+            "tag": "rear view",
+            "score": 0.96691
+          },
+          {
+            "tag": "penis backwards",
+            "score": 0.96538
+          },
+          {
+            "tag": "mammal",
+            "score": 0.96432
+          },
+          {
+            "tag": "cum on butt",
+            "score": 0.95532
+          },
+          {
+            "tag": "white background",
+            "score": 0.94251
+          },
+          {
+            "tag": "cheetah",
+            "score": 0.94251
+          },
+          {
+            "tag": "presenting",
+            "score": 0.94079
+          },
+          {
+            "tag": "tail markings",
+            "score": 0.93721
+          },
+          {
+            "tag": "grey body",
+            "score": 0.93245
+          },
+          {
+            "tag": "faceless character",
+            "score": 0.93146
+          },
+          {
+            "tag": "long tail",
+            "score": 0.92841
+          },
+          {
+            "tag": "black balls",
+            "score": 0.92841
+          },
+          {
+            "tag": "simple background",
+            "score": 0.92736
+          },
+          {
+            "tag": "tail tuft",
+            "score": 0.9263
+          },
+          {
+            "tag": "grey fur",
+            "score": 0.92304
+          },
+          {
+            "tag": "partially retracted foreskin",
+            "score": 0.92304
+          },
+          {
+            "tag": "multicolored tail",
+            "score": 0.91964
+          },
+          {
+            "tag": "bent over",
+            "score": 0.91368
+          },
+          {
+            "tag": "black spots",
+            "score": 0.90862
+          },
+          {
+            "tag": "1:1",
+            "score": 0.90465
+          },
+          {
+            "tag": "butt focus",
+            "score": 0.90465
+          },
+          {
+            "tag": "cum on balls",
+            "score": 0.90465
+          },
+          {
+            "tag": "anthro",
+            "score": 0.90329
+          },
+          {
+            "tag": "spotted markings",
+            "score": 0.90053
+          },
+          {
+            "tag": "cum on perineum",
+            "score": 0.89912
+          },
+          {
+            "tag": "presenting hindquarters",
+            "score": 0.89625
+          },
+          {
+            "tag": "ass up",
+            "score": 0.89479
+          },
+          {
+            "tag": "erection",
+            "score": 0.88563
+          },
+          {
+            "tag": "presenting anus",
+            "score": 0.88243
+          },
+          {
+            "tag": "transparent background",
+            "score": 0.87997
+          },
+          {
+            "tag": "fur",
+            "score": 0.87579
+          },
+          {
+            "tag": "butt shot",
+            "score": 0.87147
+          },
+          {
+            "tag": "black glans",
+            "score": 0.86883
+          },
+          {
+            "tag": "cum from ass",
+            "score": 0.86793
+          },
+          {
+            "tag": "cum on tail",
+            "score": 0.86154
+          },
+          {
+            "tag": "faceless male",
+            "score": 0.8606
+          },
+          {
+            "tag": "tail anus",
+            "score": 0.85872
+          },
+          {
+            "tag": "intersex",
+            "score": 0.85391
+          },
+          {
+            "tag": "black anus",
+            "score": 0.83973
+          },
+          {
+            "tag": "grey penis",
+            "score": 0.83441
+          },
+          {
+            "tag": "cumshot",
+            "score": 0.82783
+          },
+          {
+            "tag": "after anal penetration",
+            "score": 0.82559
+          },
+          {
+            "tag": "black perineum",
+            "score": 0.82559
+          },
+          {
+            "tag": "femboy",
+            "score": 0.82333
+          },
+          {
+            "tag": "presenting cum inside",
+            "score": 0.82333
+          },
+          {
+            "tag": "grey balls",
+            "score": 0.81168
+          },
+          {
+            "tag": "cum in pussy",
+            "score": 0.80563
+          },
+          {
+            "tag": "circumcised",
+            "score": 0.80563
+          },
+          {
+            "tag": "cat tail",
+            "score": 0.79944
+          },
+          {
+            "tag": "disembodied penis",
+            "score": 0.79944
+          },
+          {
+            "tag": "alpha channel",
+            "score": 0.79693
+          },
+          {
+            "tag": "cum on self",
+            "score": 0.77458
+          },
+          {
+            "tag": "precum drip",
+            "score": 0.77458
           }
         ]
       }
@@ -3023,8 +6623,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "d752843c636e9585150a2f3a992dba79b6fe705ad6bc39c099c8d50b0ccea8e3",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -3186,6 +6786,246 @@
           {
             "tag": "black body",
             "score": 0.89912
+          },
+          {
+            "tag": "cougar",
+            "score": 0.8977
+          },
+          {
+            "tag": "1:1",
+            "score": 0.89181
+          },
+          {
+            "tag": "grey fur",
+            "score": 0.89181
+          },
+          {
+            "tag": "anthro",
+            "score": 0.88876
+          },
+          {
+            "tag": "simple background",
+            "score": 0.88876
+          },
+          {
+            "tag": "penetration",
+            "score": 0.88876
+          },
+          {
+            "tag": "black nose",
+            "score": 0.8872
+          },
+          {
+            "tag": "leopard",
+            "score": 0.88563
+          },
+          {
+            "tag": "inner ear fluff",
+            "score": 0.87663
+          },
+          {
+            "tag": "felis",
+            "score": 0.87493
+          },
+          {
+            "tag": "portrait",
+            "score": 0.87408
+          },
+          {
+            "tag": "grey body",
+            "score": 0.87321
+          },
+          {
+            "tag": "vibrator",
+            "score": 0.87321
+          },
+          {
+            "tag": "seductive",
+            "score": 0.86431
+          },
+          {
+            "tag": "sex toy in mouth",
+            "score": 0.86431
+          },
+          {
+            "tag": "suggestive food",
+            "score": 0.86247
+          },
+          {
+            "tag": "highlights (coloring)",
+            "score": 0.86154
+          },
+          {
+            "tag": "beverage",
+            "score": 0.85872
+          },
+          {
+            "tag": "glistening eyes",
+            "score": 0.85585
+          },
+          {
+            "tag": "suggestive",
+            "score": 0.85488
+          },
+          {
+            "tag": "toy",
+            "score": 0.85096
+          },
+          {
+            "tag": "dripping",
+            "score": 0.84897
+          },
+          {
+            "tag": "eyebrow through hair",
+            "score": 0.84696
+          },
+          {
+            "tag": "white background",
+            "score": 0.84286
+          },
+          {
+            "tag": "domestic cat",
+            "score": 0.84183
+          },
+          {
+            "tag": "nonbinary (lore)",
+            "score": 0.84183
+          },
+          {
+            "tag": "cum in mouth",
+            "score": 0.84078
+          },
+          {
+            "tag": "fur",
+            "score": 0.83655
+          },
+          {
+            "tag": "black eyebrows",
+            "score": 0.82333
+          },
+          {
+            "tag": "headshot portrait",
+            "score": 0.81757
+          },
+          {
+            "tag": "saliva drip",
+            "score": 0.81523
+          },
+          {
+            "tag": "glistening",
+            "score": 0.81405
+          },
+          {
+            "tag": "two tone hair",
+            "score": 0.81168
+          },
+          {
+            "tag": "holding object",
+            "score": 0.80928
+          },
+          {
+            "tag": "dildo fellatio",
+            "score": 0.80441
+          },
+          {
+            "tag": "tongue",
+            "score": 0.79053
+          },
+          {
+            "tag": "drooling",
+            "score": 0.78923
+          },
+          {
+            "tag": "spot color",
+            "score": 0.78923
+          },
+          {
+            "tag": "blue eyes",
+            "score": 0.78793
+          },
+          {
+            "tag": "black ears",
+            "score": 0.78399
+          },
+          {
+            "tag": "pink eyes",
+            "score": 0.78266
+          },
+          {
+            "tag": "pupils",
+            "score": 0.78133
+          },
+          {
+            "tag": "holding sex toy",
+            "score": 0.77184
+          },
+          {
+            "tag": "hybrid",
+            "score": 0.75055
+          },
+          {
+            "tag": "lube drip",
+            "score": 0.74909
+          },
+          {
+            "tag": "digital art",
+            "score": 0.74167
+          },
+          {
+            "tag": "food",
+            "score": 0.74017
+          },
+          {
+            "tag": "black hair",
+            "score": 0.73259
+          },
+          {
+            "tag": "unusual pupils",
+            "score": 0.73259
+          },
+          {
+            "tag": "microsoft",
+            "score": 0.72017
+          },
+          {
+            "tag": "saliva string",
+            "score": 0.71383
+          },
+          {
+            "tag": "prehistoric species",
+            "score": 0.69513
+          },
+          {
+            "tag": "gynomorph (lore)",
+            "score": 0.68595
+          },
+          {
+            "tag": "2022",
+            "score": 0.68088
+          },
+          {
+            "tag": "lube bottle",
+            "score": 0.67833
+          },
+          {
+            "tag": "ahegao",
+            "score": 0.67747
+          },
+          {
+            "tag": "dildo in mouth",
+            "score": 0.66628
+          },
+          {
+            "tag": "eyelashes through hair",
+            "score": 0.66367
+          },
+          {
+            "tag": "holding bottle",
+            "score": 0.66105
+          },
+          {
+            "tag": "food play",
+            "score": 0.66017
           }
         ]
       }
@@ -3222,8 +7062,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "ea48cc8f5be92d9e156ce958000bbf73270c2f40eeb1618632deceec375f4b05",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -3385,6 +7225,234 @@
           {
             "tag": "highlights (coloring)",
             "score": 0.84797
+          },
+          {
+            "tag": "suggestive food",
+            "score": 0.84696
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.83868
+          },
+          {
+            "tag": "purple eyes",
+            "score": 0.83114
+          },
+          {
+            "tag": "eyelashes",
+            "score": 0.81168
+          },
+          {
+            "tag": "dildo fellatio",
+            "score": 0.80928
+          },
+          {
+            "tag": "pink eyes",
+            "score": 0.80563
+          },
+          {
+            "tag": "sex toy in mouth",
+            "score": 0.79819
+          },
+          {
+            "tag": "penetration",
+            "score": 0.79693
+          },
+          {
+            "tag": "translucent hair",
+            "score": 0.79566
+          },
+          {
+            "tag": "mind control",
+            "score": 0.78531
+          },
+          {
+            "tag": "hypnosis",
+            "score": 0.78531
+          },
+          {
+            "tag": "black nose",
+            "score": 0.77322
+          },
+          {
+            "tag": "simple background",
+            "score": 0.77184
+          },
+          {
+            "tag": "white background",
+            "score": 0.76908
+          },
+          {
+            "tag": "seductive",
+            "score": 0.76489
+          },
+          {
+            "tag": "microsoft",
+            "score": 0.73412
+          },
+          {
+            "tag": "portrait",
+            "score": 0.72952
+          },
+          {
+            "tag": "object in mouth",
+            "score": 0.72952
+          },
+          {
+            "tag": "2022",
+            "score": 0.72798
+          },
+          {
+            "tag": "blue eyes",
+            "score": 0.72409
+          },
+          {
+            "tag": "black hair",
+            "score": 0.72174
+          },
+          {
+            "tag": "heart eyes",
+            "score": 0.71622
+          },
+          {
+            "tag": "food in mouth",
+            "score": 0.7066
+          },
+          {
+            "tag": "mouth hold",
+            "score": 0.69925
+          },
+          {
+            "tag": "inner ear fluff",
+            "score": 0.6943
+          },
+          {
+            "tag": "holding object",
+            "score": 0.68847
+          },
+          {
+            "tag": "candy",
+            "score": 0.68173
+          },
+          {
+            "tag": "pupils",
+            "score": 0.67319
+          },
+          {
+            "tag": "two tone hair",
+            "score": 0.66888
+          },
+          {
+            "tag": "penetrable sex toy",
+            "score": 0.66017
+          },
+          {
+            "tag": "hybrid",
+            "score": 0.65047
+          },
+          {
+            "tag": "digital art",
+            "score": 0.64601
+          },
+          {
+            "tag": "grey hair",
+            "score": 0.64064
+          },
+          {
+            "tag": "eyebrow through hair",
+            "score": 0.6325
+          },
+          {
+            "tag": "long hair",
+            "score": 0.61092
+          },
+          {
+            "tag": "smug",
+            "score": 0.59784
+          },
+          {
+            "tag": "sex toy insertion",
+            "score": 0.59502
+          },
+          {
+            "tag": "black eyebrows",
+            "score": 0.58842
+          },
+          {
+            "tag": "drinking",
+            "score": 0.58558
+          },
+          {
+            "tag": "gradient hair",
+            "score": 0.58415
+          },
+          {
+            "tag": "dark body",
+            "score": 0.5813
+          },
+          {
+            "tag": "black ears",
+            "score": 0.57654
+          },
+          {
+            "tag": "nonbinary (lore)",
+            "score": 0.56194
+          },
+          {
+            "tag": "2021",
+            "score": 0.56073
+          },
+          {
+            "tag": "translucent",
+            "score": 0.55905
+          },
+          {
+            "tag": "gynomorph (lore)",
+            "score": 0.55326
+          },
+          {
+            "tag": "tagme",
+            "score": 0.55326
+          },
+          {
+            "tag": "humor",
+            "score": 0.55182
+          },
+          {
+            "tag": "trans woman (lore)",
+            "score": 0.54988
+          },
+          {
+            "tag": "dark fur",
+            "score": 0.5448
+          },
+          {
+            "tag": "thinking with portals",
+            "score": 0.54165
+          },
+          {
+            "tag": "2020",
+            "score": 0.52866
+          },
+          {
+            "tag": "facial markings",
+            "score": 0.52452
+          },
+          {
+            "tag": "2019",
+            "score": 0.51794
+          },
+          {
+            "tag": "toy",
+            "score": 0.5141
+          },
+          {
+            "tag": "food play",
+            "score": 0.51403
+          },
+          {
+            "tag": "popsicle",
+            "score": 0.51019
           }
         ]
       }
@@ -3421,8 +7489,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "72b2059d6d0941986053ccac16221ac1c33bf7bb1b62cc2617a58918d3f00ee7",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -3584,6 +7652,246 @@
           {
             "tag": "foreskin",
             "score": 0.9458
+          },
+          {
+            "tag": "femboy",
+            "score": 0.94499
+          },
+          {
+            "tag": "black anus",
+            "score": 0.9344
+          },
+          {
+            "tag": "tail",
+            "score": 0.93343
+          },
+          {
+            "tag": "darkened genitalia",
+            "score": 0.93046
+          },
+          {
+            "tag": "y anus",
+            "score": 0.92944
+          },
+          {
+            "tag": "white background",
+            "score": 0.9263
+          },
+          {
+            "tag": "faceless male",
+            "score": 0.92079
+          },
+          {
+            "tag": "grey balls",
+            "score": 0.9173
+          },
+          {
+            "tag": "presenting balls",
+            "score": 0.9149
+          },
+          {
+            "tag": "solo focus",
+            "score": 0.90862
+          },
+          {
+            "tag": "erection",
+            "score": 0.90599
+          },
+          {
+            "tag": "grey penis",
+            "score": 0.90465
+          },
+          {
+            "tag": "grope",
+            "score": 0.90192
+          },
+          {
+            "tag": "half-erect",
+            "score": 0.89912
+          },
+          {
+            "tag": "leopard",
+            "score": 0.89912
+          },
+          {
+            "tag": "spreading",
+            "score": 0.89181
+          },
+          {
+            "tag": "presenting hindquarters",
+            "score": 0.87997
+          },
+          {
+            "tag": "black glans",
+            "score": 0.87663
+          },
+          {
+            "tag": "1:1",
+            "score": 0.87147
+          },
+          {
+            "tag": "simple background",
+            "score": 0.8706
+          },
+          {
+            "tag": "veiny penis",
+            "score": 0.86704
+          },
+          {
+            "tag": "circumcised",
+            "score": 0.86431
+          },
+          {
+            "tag": "vein",
+            "score": 0.86154
+          },
+          {
+            "tag": "ass up",
+            "score": 0.85681
+          },
+          {
+            "tag": "flaccid",
+            "score": 0.84997
+          },
+          {
+            "tag": "penis tuck",
+            "score": 0.84696
+          },
+          {
+            "tag": "cat tail",
+            "score": 0.82894
+          },
+          {
+            "tag": "squish",
+            "score": 0.82894
+          },
+          {
+            "tag": "penis backwards",
+            "score": 0.82671
+          },
+          {
+            "tag": "rear view",
+            "score": 0.82446
+          },
+          {
+            "tag": "fur",
+            "score": 0.81405
+          },
+          {
+            "tag": "big penis",
+            "score": 0.81287
+          },
+          {
+            "tag": "big balls",
+            "score": 0.81048
+          },
+          {
+            "tag": "imminent sex",
+            "score": 0.80563
+          },
+          {
+            "tag": "bent over",
+            "score": 0.80194
+          },
+          {
+            "tag": "by anonymous artist",
+            "score": 0.78266
+          },
+          {
+            "tag": "glistening genitalia",
+            "score": 0.77999
+          },
+          {
+            "tag": "tail anus",
+            "score": 0.77865
+          },
+          {
+            "tag": "darkened penis",
+            "score": 0.77865
+          },
+          {
+            "tag": "butt focus",
+            "score": 0.77594
+          },
+          {
+            "tag": "gynomorph",
+            "score": 0.76629
+          },
+          {
+            "tag": "mammal",
+            "score": 0.76348
+          },
+          {
+            "tag": "darkened balls",
+            "score": 0.75636
+          },
+          {
+            "tag": "presenting penis",
+            "score": 0.75347
+          },
+          {
+            "tag": "darkened perineum",
+            "score": 0.75347
+          },
+          {
+            "tag": "anthro",
+            "score": 0.74167
+          },
+          {
+            "tag": "alpha channel",
+            "score": 0.74017
+          },
+          {
+            "tag": "faceless anthro",
+            "score": 0.73867
+          },
+          {
+            "tag": "imminent anal",
+            "score": 0.73716
+          },
+          {
+            "tag": "male/ambiguous",
+            "score": 0.72487
+          },
+          {
+            "tag": "hybrid",
+            "score": 0.72409
+          },
+          {
+            "tag": "black perineum",
+            "score": 0.72409
+          },
+          {
+            "tag": "herm",
+            "score": 0.71859
+          },
+          {
+            "tag": "humanoid",
+            "score": 0.69925
+          },
+          {
+            "tag": "intersex/male",
+            "score": 0.69843
+          },
+          {
+            "tag": "transparent background",
+            "score": 0.69761
+          },
+          {
+            "tag": "dark body",
+            "score": 0.68679
+          },
+          {
+            "tag": "trans (lore)",
+            "score": 0.68426
+          },
+          {
+            "tag": "xenomorph",
+            "score": 0.68426
+          },
+          {
+            "tag": "grey body",
+            "score": 0.68173
           }
         ]
       }
@@ -3620,8 +7928,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "9b000aee83fc4ba3be12f27f034c18f6bec19998acf843224e961052a8d88f06",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -3783,6 +8091,246 @@
           {
             "tag": "ambiguous species",
             "score": 0.92192
+          },
+          {
+            "tag": "humanoid genitalia",
+            "score": 0.92079
+          },
+          {
+            "tag": "glans",
+            "score": 0.91848
+          },
+          {
+            "tag": "tail",
+            "score": 0.9149
+          },
+          {
+            "tag": "cum in ass",
+            "score": 0.90991
+          },
+          {
+            "tag": "microsoft",
+            "score": 0.90862
+          },
+          {
+            "tag": "half-erect",
+            "score": 0.90053
+          },
+          {
+            "tag": "black tail",
+            "score": 0.8977
+          },
+          {
+            "tag": "1:1",
+            "score": 0.87997
+          },
+          {
+            "tag": "foreskin",
+            "score": 0.87915
+          },
+          {
+            "tag": "after anal",
+            "score": 0.87748
+          },
+          {
+            "tag": "presenting hindquarters",
+            "score": 0.87493
+          },
+          {
+            "tag": "flaccid",
+            "score": 0.87493
+          },
+          {
+            "tag": "cum on balls",
+            "score": 0.87493
+          },
+          {
+            "tag": "leaking cum",
+            "score": 0.87408
+          },
+          {
+            "tag": "penis backwards",
+            "score": 0.87235
+          },
+          {
+            "tag": "melanistic",
+            "score": 0.87235
+          },
+          {
+            "tag": "anthro",
+            "score": 0.86971
+          },
+          {
+            "tag": "presenting anus",
+            "score": 0.86522
+          },
+          {
+            "tag": "gaping anus",
+            "score": 0.86154
+          },
+          {
+            "tag": "white background",
+            "score": 0.8606
+          },
+          {
+            "tag": "transparent background",
+            "score": 0.85777
+          },
+          {
+            "tag": "grey penis",
+            "score": 0.85681
+          },
+          {
+            "tag": "simple background",
+            "score": 0.85585
+          },
+          {
+            "tag": "presenting balls",
+            "score": 0.85391
+          },
+          {
+            "tag": "penis tuck",
+            "score": 0.83762
+          },
+          {
+            "tag": "mammal",
+            "score": 0.83655
+          },
+          {
+            "tag": "by anonymous artist",
+            "score": 0.83004
+          },
+          {
+            "tag": "cum inside",
+            "score": 0.82446
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.82333
+          },
+          {
+            "tag": "grey balls",
+            "score": 0.82333
+          },
+          {
+            "tag": "butt focus",
+            "score": 0.82219
+          },
+          {
+            "tag": "alpha channel",
+            "score": 0.82104
+          },
+          {
+            "tag": "cum drip",
+            "score": 0.81989
+          },
+          {
+            "tag": "gaping",
+            "score": 0.79566
+          },
+          {
+            "tag": "spreading",
+            "score": 0.79053
+          },
+          {
+            "tag": "ass up",
+            "score": 0.76769
+          },
+          {
+            "tag": "dripping",
+            "score": 0.76065
+          },
+          {
+            "tag": "cum on butt",
+            "score": 0.75055
+          },
+          {
+            "tag": "humanoid",
+            "score": 0.74167
+          },
+          {
+            "tag": "darkened genitalia",
+            "score": 0.73106
+          },
+          {
+            "tag": "erection",
+            "score": 0.72798
+          },
+          {
+            "tag": "unknown species",
+            "score": 0.72331
+          },
+          {
+            "tag": "grey body",
+            "score": 0.72253
+          },
+          {
+            "tag": "male/male",
+            "score": 0.71701
+          },
+          {
+            "tag": "fur",
+            "score": 0.70902
+          },
+          {
+            "tag": "black anus",
+            "score": 0.7066
+          },
+          {
+            "tag": "rear view",
+            "score": 0.70416
+          },
+          {
+            "tag": "black outline",
+            "score": 0.70335
+          },
+          {
+            "tag": "ejaculation",
+            "score": 0.69596
+          },
+          {
+            "tag": "bent over",
+            "score": 0.69098
+          },
+          {
+            "tag": "grope",
+            "score": 0.68679
+          },
+          {
+            "tag": "2023",
+            "score": 0.68511
+          },
+          {
+            "tag": "squish",
+            "score": 0.68342
+          },
+          {
+            "tag": "anon",
+            "score": 0.68342
+          },
+          {
+            "tag": "cat tail",
+            "score": 0.67147
+          },
+          {
+            "tag": "darkened perineum",
+            "score": 0.66974
+          },
+          {
+            "tag": "lion",
+            "score": 0.66888
+          },
+          {
+            "tag": "cum on perineum",
+            "score": 0.6628
+          },
+          {
+            "tag": "big butt",
+            "score": 0.66105
+          },
+          {
+            "tag": "hybrid",
+            "score": 0.65401
           }
         ]
       }
@@ -3819,8 +8367,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "c52b2668965cb1094c9c6444dc49501e360b3956c8e3899fced9da1cba4d4973",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -3982,6 +8530,246 @@
           {
             "tag": "blue fur",
             "score": 0.97667
+          },
+          {
+            "tag": "intersex/female",
+            "score": 0.97631
+          },
+          {
+            "tag": "happy",
+            "score": 0.97595
+          },
+          {
+            "tag": "ahegao",
+            "score": 0.97482
+          },
+          {
+            "tag": "female",
+            "score": 0.97324
+          },
+          {
+            "tag": "bent over",
+            "score": 0.97324
+          },
+          {
+            "tag": "blue nipples",
+            "score": 0.97283
+          },
+          {
+            "tag": "blue body",
+            "score": 0.97241
+          },
+          {
+            "tag": "female penetrated",
+            "score": 0.97024
+          },
+          {
+            "tag": "gynomorph/male",
+            "score": 0.96932
+          },
+          {
+            "tag": "romantic",
+            "score": 0.96838
+          },
+          {
+            "tag": "romantic couple",
+            "score": 0.9679
+          },
+          {
+            "tag": "ych (character)",
+            "score": 0.96691
+          },
+          {
+            "tag": "nude",
+            "score": 0.96432
+          },
+          {
+            "tag": "heart (marking)",
+            "score": 0.96267
+          },
+          {
+            "tag": "markings",
+            "score": 0.96153
+          },
+          {
+            "tag": "three-quarter view",
+            "score": 0.96095
+          },
+          {
+            "tag": "female penetrating",
+            "score": 0.95976
+          },
+          {
+            "tag": "love",
+            "score": 0.95915
+          },
+          {
+            "tag": "black fur",
+            "score": 0.95854
+          },
+          {
+            "tag": "interspecies",
+            "score": 0.95791
+          },
+          {
+            "tag": "male penetrated",
+            "score": 0.95791
+          },
+          {
+            "tag": "humanoid hands",
+            "score": 0.95728
+          },
+          {
+            "tag": "submissive male",
+            "score": 0.95598
+          },
+          {
+            "tag": "all fours",
+            "score": 0.95532
+          },
+          {
+            "tag": "dominant",
+            "score": 0.95328
+          },
+          {
+            "tag": "heart eyes",
+            "score": 0.94738
+          },
+          {
+            "tag": "monotone body",
+            "score": 0.94738
+          },
+          {
+            "tag": "holding butt",
+            "score": 0.9466
+          },
+          {
+            "tag": "submissive",
+            "score": 0.94418
+          },
+          {
+            "tag": "looking at partner",
+            "score": 0.94418
+          },
+          {
+            "tag": "penis in ass",
+            "score": 0.94251
+          },
+          {
+            "tag": "nude anthro",
+            "score": 0.94165
+          },
+          {
+            "tag": "snow leopard",
+            "score": 0.93902
+          },
+          {
+            "tag": "dominant intersex",
+            "score": 0.93902
+          },
+          {
+            "tag": "fur",
+            "score": 0.93721
+          },
+          {
+            "tag": "black penis",
+            "score": 0.9344
+          },
+          {
+            "tag": "nipples",
+            "score": 0.93146
+          },
+          {
+            "tag": "breasts",
+            "score": 0.93046
+          },
+          {
+            "tag": "obscured penetration",
+            "score": 0.93046
+          },
+          {
+            "tag": "blue spots",
+            "score": 0.92944
+          },
+          {
+            "tag": "smaller male",
+            "score": 0.92841
+          },
+          {
+            "tag": "leaning forward",
+            "score": 0.92736
+          },
+          {
+            "tag": "blue tail",
+            "score": 0.92736
+          },
+          {
+            "tag": "anal penetration",
+            "score": 0.9263
+          },
+          {
+            "tag": "hip grab",
+            "score": 0.92523
+          },
+          {
+            "tag": "fur markings",
+            "score": 0.92079
+          },
+          {
+            "tag": "intersex penetrating female",
+            "score": 0.91848
+          },
+          {
+            "tag": "arched back",
+            "score": 0.9173
+          },
+          {
+            "tag": "eyes closed",
+            "score": 0.91368
+          },
+          {
+            "tag": "black areola",
+            "score": 0.91368
+          },
+          {
+            "tag": "size difference",
+            "score": 0.91244
+          },
+          {
+            "tag": "eyebrows",
+            "score": 0.91244
+          },
+          {
+            "tag": "hair",
+            "score": 0.90862
+          },
+          {
+            "tag": "smiling at partner",
+            "score": 0.90862
+          },
+          {
+            "tag": "russian",
+            "score": 0.90731
+          },
+          {
+            "tag": "tongue",
+            "score": 0.90599
+          },
+          {
+            "tag": "male penetrating",
+            "score": 0.90465
+          },
+          {
+            "tag": "raised eyebrows",
+            "score": 0.90329
+          },
+          {
+            "tag": "smile",
+            "score": 0.90053
+          },
+          {
+            "tag": "finger claws",
+            "score": 0.8977
           }
         ]
       }
@@ -4018,8 +8806,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "9c48937d47671c7571ba306fc015f9fb54b6ee46ce6b91c51621553a626d927e",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -4181,6 +8969,246 @@
           {
             "tag": "imminent sex",
             "score": 0.94418
+          },
+          {
+            "tag": "nipples",
+            "score": 0.94335
+          },
+          {
+            "tag": "male penetrating",
+            "score": 0.93812
+          },
+          {
+            "tag": "bite",
+            "score": 0.93535
+          },
+          {
+            "tag": "nude",
+            "score": 0.93343
+          },
+          {
+            "tag": "bent over",
+            "score": 0.93146
+          },
+          {
+            "tag": "interspecies",
+            "score": 0.92944
+          },
+          {
+            "tag": "black nose",
+            "score": 0.92841
+          },
+          {
+            "tag": "breasts",
+            "score": 0.92523
+          },
+          {
+            "tag": "looking at partner",
+            "score": 0.92523
+          },
+          {
+            "tag": "penetration",
+            "score": 0.92304
+          },
+          {
+            "tag": "grin",
+            "score": 0.92304
+          },
+          {
+            "tag": "black nipples",
+            "score": 0.91611
+          },
+          {
+            "tag": "eyebrows",
+            "score": 0.90991
+          },
+          {
+            "tag": "smile",
+            "score": 0.90599
+          },
+          {
+            "tag": "seductive",
+            "score": 0.90599
+          },
+          {
+            "tag": "anal penetration",
+            "score": 0.90192
+          },
+          {
+            "tag": "half-closed eyes",
+            "score": 0.8977
+          },
+          {
+            "tag": "gynomorph penetrated",
+            "score": 0.8977
+          },
+          {
+            "tag": "fur",
+            "score": 0.89625
+          },
+          {
+            "tag": "arm support",
+            "score": 0.8872
+          },
+          {
+            "tag": "looking back",
+            "score": 0.88243
+          },
+          {
+            "tag": "claws",
+            "score": 0.8808
+          },
+          {
+            "tag": "fluffy tail",
+            "score": 0.87997
+          },
+          {
+            "tag": "smug face",
+            "score": 0.87579
+          },
+          {
+            "tag": "erection",
+            "score": 0.87235
+          },
+          {
+            "tag": "ych (character)",
+            "score": 0.8706
+          },
+          {
+            "tag": "fingers",
+            "score": 0.86883
+          },
+          {
+            "tag": "humanoid hands",
+            "score": 0.86793
+          },
+          {
+            "tag": "feline",
+            "score": 0.86613
+          },
+          {
+            "tag": "markings",
+            "score": 0.86613
+          },
+          {
+            "tag": "grey body",
+            "score": 0.86522
+          },
+          {
+            "tag": "gynomorph",
+            "score": 0.86247
+          },
+          {
+            "tag": "snow leopard",
+            "score": 0.86154
+          },
+          {
+            "tag": "hip grab",
+            "score": 0.86154
+          },
+          {
+            "tag": "narrowed eyes",
+            "score": 0.85681
+          },
+          {
+            "tag": "5 fingers",
+            "score": 0.85585
+          },
+          {
+            "tag": "spotted fur",
+            "score": 0.85585
+          },
+          {
+            "tag": "nude anthro",
+            "score": 0.8439
+          },
+          {
+            "tag": "tail",
+            "score": 0.84078
+          },
+          {
+            "tag": "simple background",
+            "score": 0.83973
+          },
+          {
+            "tag": "2021",
+            "score": 0.83868
+          },
+          {
+            "tag": "wolf",
+            "score": 0.83548
+          },
+          {
+            "tag": "2023",
+            "score": 0.83332
+          },
+          {
+            "tag": "romantic",
+            "score": 0.82783
+          },
+          {
+            "tag": "self bite",
+            "score": 0.82671
+          },
+          {
+            "tag": "leaning forward",
+            "score": 0.82559
+          },
+          {
+            "tag": "intersex penetrated",
+            "score": 0.82446
+          },
+          {
+            "tag": "transparent background",
+            "score": 0.82219
+          },
+          {
+            "tag": "crossgender",
+            "score": 0.81874
+          },
+          {
+            "tag": "cheek tuft",
+            "score": 0.81757
+          },
+          {
+            "tag": "alpha channel",
+            "score": 0.81405
+          },
+          {
+            "tag": "humanoid genitalia",
+            "score": 0.81048
+          },
+          {
+            "tag": "grey fur",
+            "score": 0.80685
+          },
+          {
+            "tag": "biting own lip",
+            "score": 0.80563
+          },
+          {
+            "tag": "heart (marking)",
+            "score": 0.80317
+          },
+          {
+            "tag": "dominant male",
+            "score": 0.80069
+          },
+          {
+            "tag": "hair",
+            "score": 0.79311
+          },
+          {
+            "tag": "black tail",
+            "score": 0.78399
+          },
+          {
+            "tag": "eyelashes",
+            "score": 0.78266
+          },
+          {
+            "tag": "2019",
+            "score": 0.77999
           }
         ]
       }

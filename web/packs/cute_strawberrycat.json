@@ -38,8 +38,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "27076264a4b2c23fb8e784dc76b490f3bf1d870ba85c1185a31708acc68c8a2a",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -201,6 +201,222 @@
           {
             "tag": "smile",
             "score": 0.77046
+          },
+          {
+            "tag": "plant",
+            "score": 0.76908
+          },
+          {
+            "tag": "white tail",
+            "score": 0.76489
+          },
+          {
+            "tag": "animal ears",
+            "score": 0.76348
+          },
+          {
+            "tag": "standing",
+            "score": 0.75347
+          },
+          {
+            "tag": "white body",
+            "score": 0.74909
+          },
+          {
+            "tag": "featureless hands",
+            "score": 0.73029
+          },
+          {
+            "tag": "strawberry print",
+            "score": 0.72952
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.71938
+          },
+          {
+            "tag": "sketch",
+            "score": 0.71701
+          },
+          {
+            "tag": "pokemon (creature)",
+            "score": 0.71701
+          },
+          {
+            "tag": "facing viewer",
+            "score": 0.71622
+          },
+          {
+            "tag": "pink fur",
+            "score": 0.71463
+          },
+          {
+            "tag": "full body",
+            "score": 0.71143
+          },
+          {
+            "tag": "animal",
+            "score": 0.70902
+          },
+          {
+            "tag": "food creature",
+            "score": 0.69925
+          },
+          {
+            "tag": "low res",
+            "score": 0.69181
+          },
+          {
+            "tag": "white skin",
+            "score": 0.69098
+          },
+          {
+            "tag": "1:1",
+            "score": 0.68931
+          },
+          {
+            "tag": "3 fingers",
+            "score": 0.68342
+          },
+          {
+            "tag": "furry",
+            "score": 0.67833
+          },
+          {
+            "tag": "2017",
+            "score": 0.67747
+          },
+          {
+            "tag": "1other",
+            "score": 0.67576
+          },
+          {
+            "tag": "blush lines",
+            "score": 0.67405
+          },
+          {
+            "tag": "2016",
+            "score": 0.66192
+          },
+          {
+            "tag": "vertical bar eyes",
+            "score": 0.66017
+          },
+          {
+            "tag": "solo",
+            "score": 0.65666
+          },
+          {
+            "tag": "creature",
+            "score": 0.64423
+          },
+          {
+            "tag": "full-length portrait",
+            "score": 0.64064
+          },
+          {
+            "tag": "felid humanoid",
+            "score": 0.63341
+          },
+          {
+            "tag": "tail",
+            "score": 0.62886
+          },
+          {
+            "tag": "chibi only",
+            "score": 0.61185
+          },
+          {
+            "tag": "young",
+            "score": 0.61138
+          },
+          {
+            "tag": "raised arms",
+            "score": 0.6044
+          },
+          {
+            "tag": "pink body",
+            "score": 0.60393
+          },
+          {
+            "tag": "2018",
+            "score": 0.58889
+          },
+          {
+            "tag": "black outline",
+            "score": 0.58794
+          },
+          {
+            "tag": "meme",
+            "score": 0.57416
+          },
+          {
+            "tag": "arms up",
+            "score": 0.57224
+          },
+          {
+            "tag": "strawberry hair ornament",
+            "score": 0.56794
+          },
+          {
+            "tag": "capcom",
+            "score": 0.56025
+          },
+          {
+            "tag": "food print",
+            "score": 0.55495
+          },
+          {
+            "tag": "portrait",
+            "score": 0.55278
+          },
+          {
+            "tag": "featureless feet",
+            "score": 0.54988
+          },
+          {
+            "tag": "semi-anthro",
+            "score": 0.54892
+          },
+          {
+            "tag": "flora fauna",
+            "score": 0.54577
+          },
+          {
+            "tag": "female (lore)",
+            "score": 0.53388
+          },
+          {
+            "tag": "2020",
+            "score": 0.53218
+          },
+          {
+            "tag": "featureless crotch",
+            "score": 0.52452
+          },
+          {
+            "tag": "mostly nude",
+            "score": 0.51464
+          },
+          {
+            "tag": "kemono",
+            "score": 0.51355
+          },
+          {
+            "tag": "gesture",
+            "score": 0.51263
+          },
+          {
+            "tag": "furry female",
+            "score": 0.51117
+          },
+          {
+            "tag": "toony",
+            "score": 0.51111
+          },
+          {
+            "tag": "outline",
+            "score": 0.50607
           }
         ]
       }
@@ -237,8 +453,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "e8ed4ce92efe8370c2eb41b5e696adf78ffd0e3c1c64bda155752fbf85609339",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -400,6 +616,178 @@
           {
             "tag": "open smile",
             "score": 0.76348
+          },
+          {
+            "tag": "white fur",
+            "score": 0.76207
+          },
+          {
+            "tag": "on model",
+            "score": 0.76207
+          },
+          {
+            "tag": "low res",
+            "score": 0.75923
+          },
+          {
+            "tag": "semi-anthro",
+            "score": 0.75779
+          },
+          {
+            "tag": "meme",
+            "score": 0.75347
+          },
+          {
+            "tag": "box",
+            "score": 0.74614
+          },
+          {
+            "tag": "waddling head",
+            "score": 0.73867
+          },
+          {
+            "tag": "happy",
+            "score": 0.70982
+          },
+          {
+            "tag": "white body",
+            "score": 0.70497
+          },
+          {
+            "tag": "mahou shoujo madoka magica (anime)",
+            "score": 0.70416
+          },
+          {
+            "tag": "bow ribbon",
+            "score": 0.70089
+          },
+          {
+            "tag": "young",
+            "score": 0.68426
+          },
+          {
+            "tag": "kemono",
+            "score": 0.6593
+          },
+          {
+            "tag": "furgonomics",
+            "score": 0.65666
+          },
+          {
+            "tag": "animal",
+            "score": 0.62246
+          },
+          {
+            "tag": "neck bow",
+            "score": 0.61694
+          },
+          {
+            "tag": "mascot",
+            "score": 0.61463
+          },
+          {
+            "tag": "cat",
+            "score": 0.61045
+          },
+          {
+            "tag": "pink skin",
+            "score": 0.60113
+          },
+          {
+            "tag": "hands up",
+            "score": 0.59925
+          },
+          {
+            "tag": "costume",
+            "score": 0.58842
+          },
+          {
+            "tag": "bowtie",
+            "score": 0.58652
+          },
+          {
+            "tag": "sketch",
+            "score": 0.57368
+          },
+          {
+            "tag": "2018",
+            "score": 0.57081
+          },
+          {
+            "tag": "oversized food",
+            "score": 0.56937
+          },
+          {
+            "tag": "toony",
+            "score": 0.5641
+          },
+          {
+            "tag": "container",
+            "score": 0.56218
+          },
+          {
+            "tag": "headgear",
+            "score": 0.55905
+          },
+          {
+            "tag": "pink ears",
+            "score": 0.5564
+          },
+          {
+            "tag": "yellow bowtie",
+            "score": 0.55447
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.55447
+          },
+          {
+            "tag": "brown bow",
+            "score": 0.55206
+          },
+          {
+            "tag": "english commentary",
+            "score": 0.55085
+          },
+          {
+            "tag": "1other",
+            "score": 0.55085
+          },
+          {
+            "tag": "chibi only",
+            "score": 0.54601
+          },
+          {
+            "tag": "food costume",
+            "score": 0.53583
+          },
+          {
+            "tag": "fang",
+            "score": 0.53437
+          },
+          {
+            "tag": "felid humanoid",
+            "score": 0.52963
+          },
+          {
+            "tag": "white skin",
+            "score": 0.52464
+          },
+          {
+            "tag": "young anthro",
+            "score": 0.52403
+          },
+          {
+            "tag": "animal crossing",
+            "score": 0.50233
+          },
+          {
+            "tag": "full-length portrait",
+            "score": 0.50146
+          },
+          {
+            "tag": ":o",
+            "score": 0.50024
           }
         ]
       }
@@ -436,8 +824,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "7681b179c0199aa4f196df3bcc3cf6ffecc28060e8d010e8dc1973162aba88fa",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -599,6 +987,242 @@
           {
             "tag": "colored skin",
             "score": 0.85294
+          },
+          {
+            "tag": "hand up",
+            "score": 0.83868
+          },
+          {
+            "tag": "smile",
+            "score": 0.83224
+          },
+          {
+            "tag": "furry",
+            "score": 0.83004
+          },
+          {
+            "tag": "food-themed hair ornament",
+            "score": 0.82783
+          },
+          {
+            "tag": "pink fur",
+            "score": 0.82559
+          },
+          {
+            "tag": "looking at mirror",
+            "score": 0.82559
+          },
+          {
+            "tag": "felid",
+            "score": 0.81757
+          },
+          {
+            "tag": "white fur",
+            "score": 0.80069
+          },
+          {
+            "tag": "yellow flower",
+            "score": 0.79944
+          },
+          {
+            "tag": "cat humanoid",
+            "score": 0.79566
+          },
+          {
+            "tag": "hair ornament",
+            "score": 0.79438
+          },
+          {
+            "tag": "leaf",
+            "score": 0.79438
+          },
+          {
+            "tag": "mahou shoujo madoka magica (anime)",
+            "score": 0.79053
+          },
+          {
+            "tag": "holding food",
+            "score": 0.78793
+          },
+          {
+            "tag": "furry female",
+            "score": 0.77322
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.76908
+          },
+          {
+            "tag": ":d",
+            "score": 0.76769
+          },
+          {
+            "tag": "english commentary",
+            "score": 0.76629
+          },
+          {
+            "tag": "commentary",
+            "score": 0.72798
+          },
+          {
+            "tag": "flower hair accessory",
+            "score": 0.7178
+          },
+          {
+            "tag": "pawpads",
+            "score": 0.7066
+          },
+          {
+            "tag": "waving",
+            "score": 0.7066
+          },
+          {
+            "tag": "hair accessory",
+            "score": 0.6943
+          },
+          {
+            "tag": "red flower",
+            "score": 0.6943
+          },
+          {
+            "tag": "flower on head",
+            "score": 0.68931
+          },
+          {
+            "tag": "flat color",
+            "score": 0.68342
+          },
+          {
+            "tag": "daww",
+            "score": 0.67061
+          },
+          {
+            "tag": "mahou shoujo madoka magica",
+            "score": 0.65666
+          },
+          {
+            "tag": "white pupils",
+            "score": 0.65047
+          },
+          {
+            "tag": "onigiri",
+            "score": 0.64153
+          },
+          {
+            "tag": "omori",
+            "score": 0.6325
+          },
+          {
+            "tag": "white skin",
+            "score": 0.622
+          },
+          {
+            "tag": "strawberry hair ornament",
+            "score": 0.60627
+          },
+          {
+            "tag": "young",
+            "score": 0.58842
+          },
+          {
+            "tag": "bad source",
+            "score": 0.58558
+          },
+          {
+            "tag": "felid humanoid",
+            "score": 0.57988
+          },
+          {
+            "tag": "cosplay",
+            "score": 0.5794
+          },
+          {
+            "tag": "floral",
+            "score": 0.57845
+          },
+          {
+            "tag": "original",
+            "score": 0.56985
+          },
+          {
+            "tag": "solo",
+            "score": 0.56842
+          },
+          {
+            "tag": "holding mirror",
+            "score": 0.56746
+          },
+          {
+            "tag": "hat flower",
+            "score": 0.56001
+          },
+          {
+            "tag": "lowres",
+            "score": 0.55061
+          },
+          {
+            "tag": "2019",
+            "score": 0.54964
+          },
+          {
+            "tag": "hand behind head",
+            "score": 0.54795
+          },
+          {
+            "tag": "pink theme",
+            "score": 0.54504
+          },
+          {
+            "tag": "creature",
+            "score": 0.54456
+          },
+          {
+            "tag": "feline humanoid",
+            "score": 0.54262
+          },
+          {
+            "tag": "open mouth",
+            "score": 0.53704
+          },
+          {
+            "tag": "stool",
+            "score": 0.53558
+          },
+          {
+            "tag": "tail",
+            "score": 0.53413
+          },
+          {
+            "tag": "dot nose",
+            "score": 0.51916
+          },
+          {
+            "tag": "body fur",
+            "score": 0.51513
+          },
+          {
+            "tag": "closed mouth",
+            "score": 0.51385
+          },
+          {
+            "tag": "real life",
+            "score": 0.50928
+          },
+          {
+            "tag": "food creature",
+            "score": 0.50854
+          },
+          {
+            "tag": "cat boy",
+            "score": 0.50848
+          },
+          {
+            "tag": "flora fauna",
+            "score": 0.50537
+          },
+          {
+            "tag": "blush",
+            "score": 0.505
           }
         ]
       }
@@ -635,8 +1259,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "1e1b2b5a87b07b75104320ee242e0c7e8405fa39bd33509c1d0fac215ff3cdad",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -798,6 +1422,246 @@
           {
             "tag": "animal ears",
             "score": 0.83004
+          },
+          {
+            "tag": "english commentary",
+            "score": 0.82894
+          },
+          {
+            "tag": "cat tail",
+            "score": 0.82559
+          },
+          {
+            "tag": "melon",
+            "score": 0.82333
+          },
+          {
+            "tag": "dot eyes",
+            "score": 0.81874
+          },
+          {
+            "tag": "food-themed creature",
+            "score": 0.81757
+          },
+          {
+            "tag": ":<",
+            "score": 0.80685
+          },
+          {
+            "tag": "spread arms",
+            "score": 0.80441
+          },
+          {
+            "tag": "holding food",
+            "score": 0.77046
+          },
+          {
+            "tag": "angry",
+            "score": 0.76629
+          },
+          {
+            "tag": "motion lines",
+            "score": 0.76207
+          },
+          {
+            "tag": "cake",
+            "score": 0.75923
+          },
+          {
+            "tag": "commentary request",
+            "score": 0.75491
+          },
+          {
+            "tag": "artist request",
+            "score": 0.75201
+          },
+          {
+            "tag": "what",
+            "score": 0.74909
+          },
+          {
+            "tag": "oversized object",
+            "score": 0.74466
+          },
+          {
+            "tag": "lowres",
+            "score": 0.74017
+          },
+          {
+            "tag": "third-party source",
+            "score": 0.73867
+          },
+          {
+            "tag": "holding fruit",
+            "score": 0.73412
+          },
+          {
+            "tag": "oversized food",
+            "score": 0.73412
+          },
+          {
+            "tag": "blueberry",
+            "score": 0.73259
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.72565
+          },
+          {
+            "tag": "hands up",
+            "score": 0.72487
+          },
+          {
+            "tag": "food creature",
+            "score": 0.72096
+          },
+          {
+            "tag": "^^^",
+            "score": 0.71859
+          },
+          {
+            "tag": "outline",
+            "score": 0.71463
+          },
+          {
+            "tag": "kemonomimi mode",
+            "score": 0.71463
+          },
+          {
+            "tag": "food print",
+            "score": 0.71463
+          },
+          {
+            "tag": "tail",
+            "score": 0.71383
+          },
+          {
+            "tag": "official art",
+            "score": 0.70902
+          },
+          {
+            "tag": "purple eyes",
+            "score": 0.70089
+          },
+          {
+            "tag": ":o",
+            "score": 0.69761
+          },
+          {
+            "tag": "food-themed hair ornament",
+            "score": 0.69513
+          },
+          {
+            "tag": "on back",
+            "score": 0.69014
+          },
+          {
+            "tag": "commentary",
+            "score": 0.68679
+          },
+          {
+            "tag": "real life",
+            "score": 0.67918
+          },
+          {
+            "tag": "on model",
+            "score": 0.67747
+          },
+          {
+            "tag": "pun",
+            "score": 0.67491
+          },
+          {
+            "tag": "strawberry hair ornament",
+            "score": 0.67491
+          },
+          {
+            "tag": "solid oval eyes",
+            "score": 0.67405
+          },
+          {
+            "tag": "berry",
+            "score": 0.66715
+          },
+          {
+            "tag": "pink tail",
+            "score": 0.66454
+          },
+          {
+            "tag": "jumping",
+            "score": 0.66367
+          },
+          {
+            "tag": "blush stickers",
+            "score": 0.66017
+          },
+          {
+            "tag": "sketch",
+            "score": 0.65754
+          },
+          {
+            "tag": ". .",
+            "score": 0.65666
+          },
+          {
+            "tag": "bad source",
+            "score": 0.65224
+          },
+          {
+            "tag": "solo",
+            "score": 0.64958
+          },
+          {
+            "tag": "flat color",
+            "score": 0.64153
+          },
+          {
+            "tag": "buck teeth",
+            "score": 0.63432
+          },
+          {
+            "tag": "arm up",
+            "score": 0.63341
+          },
+          {
+            "tag": "\\o/",
+            "score": 0.62429
+          },
+          {
+            "tag": "0 0",
+            "score": 0.61324
+          },
+          {
+            "tag": "notice lines",
+            "score": 0.60393
+          },
+          {
+            "tag": "eating",
+            "score": 0.59878
+          },
+          {
+            "tag": "white eyes",
+            "score": 0.59737
+          },
+          {
+            "tag": "bad id",
+            "score": 0.59643
+          },
+          {
+            "tag": "> <",
+            "score": 0.59549
+          },
+          {
+            "tag": "whipped cream",
+            "score": 0.59408
+          },
+          {
+            "tag": "outstretched arm",
+            "score": 0.58558
+          },
+          {
+            "tag": "dessert",
+            "score": 0.57797
           }
         ]
       }
@@ -834,8 +1698,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "f2eedf46cc08ccd5e1492a7cc8af95f94b4f0aceddc288cc203ac918ce11713a",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -997,6 +1861,238 @@
           {
             "tag": "cat ears",
             "score": 0.81287
+          },
+          {
+            "tag": "oversized food",
+            "score": 0.81168
+          },
+          {
+            "tag": "cat",
+            "score": 0.80807
+          },
+          {
+            "tag": "plant",
+            "score": 0.79944
+          },
+          {
+            "tag": "= =",
+            "score": 0.79693
+          },
+          {
+            "tag": "mammal",
+            "score": 0.79566
+          },
+          {
+            "tag": "red fur",
+            "score": 0.79053
+          },
+          {
+            "tag": "2019",
+            "score": 0.78662
+          },
+          {
+            "tag": "holding fruit",
+            "score": 0.78399
+          },
+          {
+            "tag": ">o<",
+            "score": 0.77594
+          },
+          {
+            "tag": "tail",
+            "score": 0.77184
+          },
+          {
+            "tag": "sweat",
+            "score": 0.77046
+          },
+          {
+            "tag": "pokemon (creature)",
+            "score": 0.76769
+          },
+          {
+            "tag": "toony",
+            "score": 0.74909
+          },
+          {
+            "tag": "full body",
+            "score": 0.74762
+          },
+          {
+            "tag": "cat girl",
+            "score": 0.73867
+          },
+          {
+            "tag": "open smile",
+            "score": 0.73412
+          },
+          {
+            "tag": "laugh",
+            "score": 0.73029
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.70335
+          },
+          {
+            "tag": "standing",
+            "score": 0.69925
+          },
+          {
+            "tag": "dancing",
+            "score": 0.69596
+          },
+          {
+            "tag": "fangs",
+            "score": 0.69347
+          },
+          {
+            "tag": "felid humanoid",
+            "score": 0.68173
+          },
+          {
+            "tag": "2017",
+            "score": 0.67918
+          },
+          {
+            "tag": "what",
+            "score": 0.67405
+          },
+          {
+            "tag": "sweatdrop",
+            "score": 0.67319
+          },
+          {
+            "tag": "screaming",
+            "score": 0.67061
+          },
+          {
+            "tag": "white fur",
+            "score": 0.66541
+          },
+          {
+            "tag": "open :3",
+            "score": 0.6593
+          },
+          {
+            "tag": "x3",
+            "score": 0.65842
+          },
+          {
+            "tag": "d:",
+            "score": 0.65489
+          },
+          {
+            "tag": "jumping",
+            "score": 0.65401
+          },
+          {
+            "tag": ":o",
+            "score": 0.6478
+          },
+          {
+            "tag": "red body",
+            "score": 0.63793
+          },
+          {
+            "tag": "walking",
+            "score": 0.63522
+          },
+          {
+            "tag": "duo",
+            "score": 0.6325
+          },
+          {
+            "tag": "sketch",
+            "score": 0.62795
+          },
+          {
+            "tag": "tripping",
+            "score": 0.62429
+          },
+          {
+            "tag": "lowres",
+            "score": 0.62338
+          },
+          {
+            "tag": "falling",
+            "score": 0.61463
+          },
+          {
+            "tag": "standing on one leg",
+            "score": 0.61324
+          },
+          {
+            "tag": "young",
+            "score": 0.60487
+          },
+          {
+            "tag": "motion blur",
+            "score": 0.59925
+          },
+          {
+            "tag": "2018",
+            "score": 0.59502
+          },
+          {
+            "tag": "food print",
+            "score": 0.59314
+          },
+          {
+            "tag": "cute fangs",
+            "score": 0.58035
+          },
+          {
+            "tag": "kemono",
+            "score": 0.5775
+          },
+          {
+            "tag": "1:1",
+            "score": 0.57654
+          },
+          {
+            "tag": "holding food",
+            "score": 0.57033
+          },
+          {
+            "tag": "2016",
+            "score": 0.56266
+          },
+          {
+            "tag": "full-length portrait",
+            "score": 0.5494
+          },
+          {
+            "tag": "dot eyes",
+            "score": 0.52939
+          },
+          {
+            "tag": "white body",
+            "score": 0.51769
+          },
+          {
+            "tag": "1other",
+            "score": 0.51336
+          },
+          {
+            "tag": "carrying",
+            "score": 0.513
+          },
+          {
+            "tag": "commentary",
+            "score": 0.51159
+          },
+          {
+            "tag": "animal hands",
+            "score": 0.50989
+          },
+          {
+            "tag": "tears",
+            "score": 0.50629
+          },
+          {
+            "tag": "object on head",
+            "score": 0.50479
           }
         ]
       }
@@ -1033,8 +2129,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "eda3b1df685cecf8429de09ba444caf829e499d42328f96ac2cda19fb1eaae49",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -1196,6 +2292,246 @@
           {
             "tag": "angry",
             "score": 0.79182
+          },
+          {
+            "tag": "cosplay",
+            "score": 0.78662
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.78399
+          },
+          {
+            "tag": "2017",
+            "score": 0.78266
+          },
+          {
+            "tag": "playing",
+            "score": 0.78133
+          },
+          {
+            "tag": "animal hands",
+            "score": 0.7773
+          },
+          {
+            "tag": "digital drawing (artwork)",
+            "score": 0.76629
+          },
+          {
+            "tag": "blush stickers",
+            "score": 0.76065
+          },
+          {
+            "tag": "official art",
+            "score": 0.74466
+          },
+          {
+            "tag": "pink body",
+            "score": 0.73867
+          },
+          {
+            "tag": "eyes closed",
+            "score": 0.73106
+          },
+          {
+            "tag": "dot eyes",
+            "score": 0.72565
+          },
+          {
+            "tag": "felid humanoid",
+            "score": 0.72253
+          },
+          {
+            "tag": "paws",
+            "score": 0.71701
+          },
+          {
+            "tag": "running",
+            "score": 0.71701
+          },
+          {
+            "tag": "struggling",
+            "score": 0.71063
+          },
+          {
+            "tag": "young",
+            "score": 0.6943
+          },
+          {
+            "tag": "humor",
+            "score": 0.69264
+          },
+          {
+            "tag": "laughing",
+            "score": 0.69181
+          },
+          {
+            "tag": "on model",
+            "score": 0.69098
+          },
+          {
+            "tag": "pawpads",
+            "score": 0.68511
+          },
+          {
+            "tag": "2020",
+            "score": 0.68426
+          },
+          {
+            "tag": "leaf",
+            "score": 0.68088
+          },
+          {
+            "tag": ":3",
+            "score": 0.67491
+          },
+          {
+            "tag": "feline humanoid",
+            "score": 0.66888
+          },
+          {
+            "tag": "sanrio",
+            "score": 0.66541
+          },
+          {
+            "tag": "alien",
+            "score": 0.66367
+          },
+          {
+            "tag": "lying",
+            "score": 0.6593
+          },
+          {
+            "tag": "animal ears",
+            "score": 0.65754
+          },
+          {
+            "tag": "pink ears",
+            "score": 0.65401
+          },
+          {
+            "tag": "surprise",
+            "score": 0.65135
+          },
+          {
+            "tag": "dancing",
+            "score": 0.64869
+          },
+          {
+            "tag": "jumping",
+            "score": 0.64691
+          },
+          {
+            "tag": "2018",
+            "score": 0.64333
+          },
+          {
+            "tag": "female (lore)",
+            "score": 0.64153
+          },
+          {
+            "tag": "motion outline",
+            "score": 0.63522
+          },
+          {
+            "tag": "white body",
+            "score": 0.63432
+          },
+          {
+            "tag": "featureless crotch",
+            "score": 0.63341
+          },
+          {
+            "tag": "cat humanoid",
+            "score": 0.6325
+          },
+          {
+            "tag": ">o<",
+            "score": 0.6325
+          },
+          {
+            "tag": "crossover",
+            "score": 0.61185
+          },
+          {
+            "tag": "> <",
+            "score": 0.59925
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.59878
+          },
+          {
+            "tag": "closed eyes",
+            "score": 0.59502
+          },
+          {
+            "tag": "2022",
+            "score": 0.58842
+          },
+          {
+            "tag": "semi-anthro",
+            "score": 0.587
+          },
+          {
+            "tag": "pupils",
+            "score": 0.57607
+          },
+          {
+            "tag": "2024",
+            "score": 0.57463
+          },
+          {
+            "tag": "widescreen",
+            "score": 0.57368
+          },
+          {
+            "tag": "tongue",
+            "score": 0.57272
+          },
+          {
+            "tag": "chromatic aberration",
+            "score": 0.57177
+          },
+          {
+            "tag": "digital art",
+            "score": 0.56554
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.55664
+          },
+          {
+            "tag": "2021",
+            "score": 0.55133
+          },
+          {
+            "tag": "arms up",
+            "score": 0.55109
+          },
+          {
+            "tag": "emanata",
+            "score": 0.55085
+          },
+          {
+            "tag": "flying sweatdrops",
+            "score": 0.54722
+          },
+          {
+            "tag": "asian mythology",
+            "score": 0.53923
+          },
+          {
+            "tag": "cat day",
+            "score": 0.53072
+          },
+          {
+            "tag": "sad",
+            "score": 0.52561
+          },
+          {
+            "tag": "open smile",
+            "score": 0.52159
           }
         ]
       }
@@ -1232,8 +2568,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "ffdea85a7af3fc4693ac2e4f3fad5260acd6957eb99f4e94678d90bb18f85fb4",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -1395,6 +2731,246 @@
           {
             "tag": "cat girl",
             "score": 0.90862
+          },
+          {
+            "tag": "ribbon",
+            "score": 0.88876
+          },
+          {
+            "tag": "sanrio",
+            "score": 0.88404
+          },
+          {
+            "tag": "bow",
+            "score": 0.8808
+          },
+          {
+            "tag": "feral",
+            "score": 0.87997
+          },
+          {
+            "tag": "pink pawpads",
+            "score": 0.87147
+          },
+          {
+            "tag": "open mouth",
+            "score": 0.86154
+          },
+          {
+            "tag": "meme",
+            "score": 0.85777
+          },
+          {
+            "tag": "open smile",
+            "score": 0.84594
+          },
+          {
+            "tag": "chocolate",
+            "score": 0.84078
+          },
+          {
+            "tag": "english text",
+            "score": 0.83868
+          },
+          {
+            "tag": "pink body",
+            "score": 0.83441
+          },
+          {
+            "tag": "young",
+            "score": 0.83114
+          },
+          {
+            "tag": "hands up",
+            "score": 0.82894
+          },
+          {
+            "tag": "accessory",
+            "score": 0.82783
+          },
+          {
+            "tag": "open :3",
+            "score": 0.82446
+          },
+          {
+            "tag": "paw pose",
+            "score": 0.82104
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.81989
+          },
+          {
+            "tag": "container",
+            "score": 0.81641
+          },
+          {
+            "tag": "holidays",
+            "score": 0.81641
+          },
+          {
+            "tag": "bow accessory",
+            "score": 0.81641
+          },
+          {
+            "tag": "fangs",
+            "score": 0.80563
+          },
+          {
+            "tag": "spread arms",
+            "score": 0.79053
+          },
+          {
+            "tag": "cake",
+            "score": 0.78531
+          },
+          {
+            "tag": "animal ears",
+            "score": 0.78266
+          },
+          {
+            "tag": "gesture",
+            "score": 0.78266
+          },
+          {
+            "tag": "english commentary",
+            "score": 0.76908
+          },
+          {
+            "tag": "pink fur",
+            "score": 0.76489
+          },
+          {
+            "tag": "cat humanoid",
+            "score": 0.76207
+          },
+          {
+            "tag": "chibi only",
+            "score": 0.75491
+          },
+          {
+            "tag": "full body",
+            "score": 0.74909
+          },
+          {
+            "tag": "tail bow",
+            "score": 0.74909
+          },
+          {
+            "tag": "white cat",
+            "score": 0.74317
+          },
+          {
+            "tag": "child",
+            "score": 0.74167
+          },
+          {
+            "tag": "undertale",
+            "score": 0.73716
+          },
+          {
+            "tag": "waving",
+            "score": 0.73716
+          },
+          {
+            "tag": "muffin",
+            "score": 0.73259
+          },
+          {
+            "tag": "kemono",
+            "score": 0.72798
+          },
+          {
+            "tag": "candy",
+            "score": 0.72565
+          },
+          {
+            "tag": "white body",
+            "score": 0.71463
+          },
+          {
+            "tag": "yellow bow",
+            "score": 0.71143
+          },
+          {
+            "tag": "tail ornament",
+            "score": 0.71063
+          },
+          {
+            "tag": "raised arms",
+            "score": 0.70579
+          },
+          {
+            "tag": "felid humanoid",
+            "score": 0.70335
+          },
+          {
+            "tag": "low res",
+            "score": 0.70089
+          },
+          {
+            "tag": "tail ribbon",
+            "score": 0.70089
+          },
+          {
+            "tag": "big head",
+            "score": 0.69843
+          },
+          {
+            "tag": "smile",
+            "score": 0.66888
+          },
+          {
+            "tag": "nekomata",
+            "score": 0.66888
+          },
+          {
+            "tag": "solid oval eyes",
+            "score": 0.66192
+          },
+          {
+            "tag": "bow tie",
+            "score": 0.66105
+          },
+          {
+            "tag": "whiskers",
+            "score": 0.64958
+          },
+          {
+            "tag": "mammal",
+            "score": 0.6478
+          },
+          {
+            "tag": "young feral",
+            "score": 0.6478
+          },
+          {
+            "tag": "object on head",
+            "score": 0.63341
+          },
+          {
+            "tag": "valentine's day",
+            "score": 0.62795
+          },
+          {
+            "tag": "3 fingers",
+            "score": 0.61694
+          },
+          {
+            "tag": "2019",
+            "score": 0.61277
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.61231
+          },
+          {
+            "tag": "animalization",
+            "score": 0.60393
+          },
+          {
+            "tag": "commentary",
+            "score": 0.59502
           }
         ]
       }
@@ -1431,8 +3007,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "e5ba9b06c1dc9866d6cf351c7424b1f94e55c40ae9941e860f286c1e5da338ad",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -1594,6 +3170,222 @@
           {
             "tag": "strawberry hair ornament",
             "score": 0.81757
+          },
+          {
+            "tag": ":o",
+            "score": 0.81168
+          },
+          {
+            "tag": "commentary request",
+            "score": 0.78531
+          },
+          {
+            "tag": "happy",
+            "score": 0.76065
+          },
+          {
+            "tag": "commentary",
+            "score": 0.75201
+          },
+          {
+            "tag": "squeans",
+            "score": 0.73106
+          },
+          {
+            "tag": "imagining",
+            "score": 0.73106
+          },
+          {
+            "tag": "peach",
+            "score": 0.72331
+          },
+          {
+            "tag": ":3",
+            "score": 0.72174
+          },
+          {
+            "tag": "fetal position",
+            "score": 0.72174
+          },
+          {
+            "tag": "bad id",
+            "score": 0.71938
+          },
+          {
+            "tag": "bad twitter id",
+            "score": 0.71223
+          },
+          {
+            "tag": "food on head",
+            "score": 0.70579
+          },
+          {
+            "tag": "mouth drool",
+            "score": 0.70171
+          },
+          {
+            "tag": "solo",
+            "score": 0.68763
+          },
+          {
+            "tag": "vowelless sound effect",
+            "score": 0.68088
+          },
+          {
+            "tag": "squiggle",
+            "score": 0.67061
+          },
+          {
+            "tag": "1girl",
+            "score": 0.66888
+          },
+          {
+            "tag": "object on head",
+            "score": 0.66888
+          },
+          {
+            "tag": "u u",
+            "score": 0.66628
+          },
+          {
+            "tag": "open mouth",
+            "score": 0.66367
+          },
+          {
+            "tag": "holding fruit",
+            "score": 0.66367
+          },
+          {
+            "tag": "sanrio",
+            "score": 0.6628
+          },
+          {
+            "tag": "food-themed hair ornament",
+            "score": 0.65047
+          },
+          {
+            "tag": "daww",
+            "score": 0.63884
+          },
+          {
+            "tag": "sketch",
+            "score": 0.63341
+          },
+          {
+            "tag": "lowres",
+            "score": 0.63159
+          },
+          {
+            "tag": "white outline",
+            "score": 0.62704
+          },
+          {
+            "tag": "sad",
+            "score": 0.62338
+          },
+          {
+            "tag": "eyes closed",
+            "score": 0.61924
+          },
+          {
+            "tag": "falling",
+            "score": 0.5969
+          },
+          {
+            "tag": "profile",
+            "score": 0.59219
+          },
+          {
+            "tag": "flat color",
+            "score": 0.59031
+          },
+          {
+            "tag": "cat ears",
+            "score": 0.58368
+          },
+          {
+            "tag": "pink fur",
+            "score": 0.5813
+          },
+          {
+            "tag": "strawberry shortcake",
+            "score": 0.58083
+          },
+          {
+            "tag": "cat",
+            "score": 0.56889
+          },
+          {
+            "tag": "own hands together",
+            "score": 0.56794
+          },
+          {
+            "tag": "animal ears",
+            "score": 0.56698
+          },
+          {
+            "tag": "colored skin",
+            "score": 0.56698
+          },
+          {
+            "tag": "light blush",
+            "score": 0.56602
+          },
+          {
+            "tag": "strawberry slice",
+            "score": 0.55182
+          },
+          {
+            "tag": "= =",
+            "score": 0.54625
+          },
+          {
+            "tag": "close-up",
+            "score": 0.54165
+          },
+          {
+            "tag": "hugging object",
+            "score": 0.54141
+          },
+          {
+            "tag": "solid oval eyes",
+            "score": 0.525
+          },
+          {
+            "tag": "yawning",
+            "score": 0.52452
+          },
+          {
+            "tag": "saliva",
+            "score": 0.51794
+          },
+          {
+            "tag": "pink skin",
+            "score": 0.51611
+          },
+          {
+            "tag": "animalization",
+            "score": 0.51611
+          },
+          {
+            "tag": "dog",
+            "score": 0.51288
+          },
+          {
+            "tag": "motion lines",
+            "score": 0.50861
+          },
+          {
+            "tag": ":d",
+            "score": 0.50204
+          },
+          {
+            "tag": "pink outline",
+            "score": 0.5013
+          },
+          {
+            "tag": "meme",
+            "score": 0.5007
           }
         ]
       }
@@ -1630,8 +3422,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "818015c406542c5fd7571bbfd41d98876508ab3adeed2375811f7c327ea0fe2d",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -1793,6 +3585,194 @@
           {
             "tag": "food creature",
             "score": 0.81641
+          },
+          {
+            "tag": "fangs",
+            "score": 0.81523
+          },
+          {
+            "tag": "meme",
+            "score": 0.81523
+          },
+          {
+            "tag": "feline",
+            "score": 0.81048
+          },
+          {
+            "tag": "strawberry hair ornament",
+            "score": 0.80685
+          },
+          {
+            "tag": "sanrio",
+            "score": 0.80317
+          },
+          {
+            "tag": "pokemon (creature)",
+            "score": 0.79182
+          },
+          {
+            "tag": "plant",
+            "score": 0.78662
+          },
+          {
+            "tag": "felid",
+            "score": 0.77999
+          },
+          {
+            "tag": "= =",
+            "score": 0.77999
+          },
+          {
+            "tag": "head grab",
+            "score": 0.75347
+          },
+          {
+            "tag": "domestic cat",
+            "score": 0.75055
+          },
+          {
+            "tag": "felis",
+            "score": 0.73259
+          },
+          {
+            "tag": "duo",
+            "score": 0.7066
+          },
+          {
+            "tag": "feral",
+            "score": 0.6943
+          },
+          {
+            "tag": "quadruped",
+            "score": 0.69264
+          },
+          {
+            "tag": "food print",
+            "score": 0.68426
+          },
+          {
+            "tag": "animal ears",
+            "score": 0.68342
+          },
+          {
+            "tag": "sitting",
+            "score": 0.67576
+          },
+          {
+            "tag": "child",
+            "score": 0.66628
+          },
+          {
+            "tag": "young",
+            "score": 0.65842
+          },
+          {
+            "tag": "white fur",
+            "score": 0.64153
+          },
+          {
+            "tag": "food-themed hair ornament",
+            "score": 0.62612
+          },
+          {
+            "tag": "pink fur",
+            "score": 0.62429
+          },
+          {
+            "tag": "on model",
+            "score": 0.62154
+          },
+          {
+            "tag": "holding food",
+            "score": 0.61878
+          },
+          {
+            "tag": "dot nose",
+            "score": 0.60999
+          },
+          {
+            "tag": "mammal",
+            "score": 0.60859
+          },
+          {
+            "tag": "commentary",
+            "score": 0.60487
+          },
+          {
+            "tag": "blush",
+            "score": 0.6044
+          },
+          {
+            "tag": "holding fruit",
+            "score": 0.60206
+          },
+          {
+            "tag": "food on head",
+            "score": 0.5969
+          },
+          {
+            "tag": "creature",
+            "score": 0.59408
+          },
+          {
+            "tag": "facing viewer",
+            "score": 0.587
+          },
+          {
+            "tag": "mahou shoujo madoka magica (anime)",
+            "score": 0.58273
+          },
+          {
+            "tag": "feet",
+            "score": 0.57463
+          },
+          {
+            "tag": "leaf",
+            "score": 0.57463
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.56121
+          },
+          {
+            "tag": "artist request",
+            "score": 0.56121
+          },
+          {
+            "tag": "2019",
+            "score": 0.56073
+          },
+          {
+            "tag": "full-length portrait",
+            "score": 0.54916
+          },
+          {
+            "tag": "peach",
+            "score": 0.53121
+          },
+          {
+            "tag": "barefoot",
+            "score": 0.52841
+          },
+          {
+            "tag": "x3",
+            "score": 0.52829
+          },
+          {
+            "tag": "pawpads",
+            "score": 0.50638
+          },
+          {
+            "tag": "feral focus",
+            "score": 0.50525
+          },
+          {
+            "tag": "animalization",
+            "score": 0.50334
+          },
+          {
+            "tag": "hands",
+            "score": 0.50152
           }
         ]
       }
@@ -1829,8 +3809,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "0a6a4832d58e9d5abb64fffb1630dcb8c9ea3ac784733ca336ec49eb5f4409b2",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -1992,6 +3972,210 @@
           {
             "tag": "pokemon (creature)",
             "score": 0.77594
+          },
+          {
+            "tag": "creature",
+            "score": 0.77458
+          },
+          {
+            "tag": "pink theme",
+            "score": 0.75491
+          },
+          {
+            "tag": "berry",
+            "score": 0.75347
+          },
+          {
+            "tag": "sanrio",
+            "score": 0.75055
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.74762
+          },
+          {
+            "tag": ":t",
+            "score": 0.73867
+          },
+          {
+            "tag": "feline",
+            "score": 0.73716
+          },
+          {
+            "tag": "felid",
+            "score": 0.72798
+          },
+          {
+            "tag": "full body",
+            "score": 0.72174
+          },
+          {
+            "tag": "white body",
+            "score": 0.7178
+          },
+          {
+            "tag": "child",
+            "score": 0.71701
+          },
+          {
+            "tag": "cake",
+            "score": 0.71223
+          },
+          {
+            "tag": "2019",
+            "score": 0.71143
+          },
+          {
+            "tag": "pink body",
+            "score": 0.70008
+          },
+          {
+            "tag": "blush",
+            "score": 0.69925
+          },
+          {
+            "tag": ":<",
+            "score": 0.68173
+          },
+          {
+            "tag": "young",
+            "score": 0.67918
+          },
+          {
+            "tag": "solo",
+            "score": 0.66367
+          },
+          {
+            "tag": "happy",
+            "score": 0.65489
+          },
+          {
+            "tag": "cat ears",
+            "score": 0.65401
+          },
+          {
+            "tag": "chibi only",
+            "score": 0.65401
+          },
+          {
+            "tag": "eating food",
+            "score": 0.64333
+          },
+          {
+            "tag": "on model",
+            "score": 0.63884
+          },
+          {
+            "tag": "semi-anthro",
+            "score": 0.63793
+          },
+          {
+            "tag": "standing",
+            "score": 0.63703
+          },
+          {
+            "tag": "blueberry",
+            "score": 0.63522
+          },
+          {
+            "tag": "kemono",
+            "score": 0.62612
+          },
+          {
+            "tag": "commentary",
+            "score": 0.622
+          },
+          {
+            "tag": "english commentary",
+            "score": 0.61786
+          },
+          {
+            "tag": "hands up",
+            "score": 0.6174
+          },
+          {
+            "tag": "chewing",
+            "score": 0.61647
+          },
+          {
+            "tag": "1:1",
+            "score": 0.60393
+          },
+          {
+            "tag": "2016",
+            "score": 0.60066
+          },
+          {
+            "tag": "solid circle eyes",
+            "score": 0.58463
+          },
+          {
+            "tag": "bright pupils",
+            "score": 0.57845
+          },
+          {
+            "tag": "food on head",
+            "score": 0.57607
+          },
+          {
+            "tag": "o o",
+            "score": 0.57081
+          },
+          {
+            "tag": "sketch",
+            "score": 0.56985
+          },
+          {
+            "tag": "wavy mouth",
+            "score": 0.56746
+          },
+          {
+            "tag": "waving",
+            "score": 0.5665
+          },
+          {
+            "tag": "hand up",
+            "score": 0.56602
+          },
+          {
+            "tag": "toony",
+            "score": 0.56554
+          },
+          {
+            "tag": "mammal",
+            "score": 0.55302
+          },
+          {
+            "tag": "official art",
+            "score": 0.54916
+          },
+          {
+            "tag": "whipped cream",
+            "score": 0.54795
+          },
+          {
+            "tag": "2020",
+            "score": 0.52756
+          },
+          {
+            "tag": "featureless hands",
+            "score": 0.52318
+          },
+          {
+            "tag": "object on head",
+            "score": 0.52147
+          },
+          {
+            "tag": "alcremie",
+            "score": 0.5183
+          },
+          {
+            "tag": "frown",
+            "score": 0.50586
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.50421
           }
         ]
       }
@@ -2028,8 +4212,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "d0dc4b2e78f85fadf8ef867f6523b77a851af8537065a9d7761d4a1900bf916f",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -2191,6 +4375,238 @@
           {
             "tag": "clone",
             "score": 0.79693
+          },
+          {
+            "tag": "mouse ears",
+            "score": 0.78399
+          },
+          {
+            "tag": "solid circle eyes",
+            "score": 0.78399
+          },
+          {
+            "tag": "bad twitter id",
+            "score": 0.7773
+          },
+          {
+            "tag": "green shirt",
+            "score": 0.77322
+          },
+          {
+            "tag": "kyubey",
+            "score": 0.76769
+          },
+          {
+            "tag": "straight-on",
+            "score": 0.76629
+          },
+          {
+            "tag": "lowres",
+            "score": 0.75636
+          },
+          {
+            "tag": "commentary",
+            "score": 0.75201
+          },
+          {
+            "tag": "object on head",
+            "score": 0.75055
+          },
+          {
+            "tag": "crossover",
+            "score": 0.74614
+          },
+          {
+            "tag": "pink theme",
+            "score": 0.74614
+          },
+          {
+            "tag": "stuffed toy",
+            "score": 0.73716
+          },
+          {
+            "tag": "mahou shoujo madoka magica (anime)",
+            "score": 0.72875
+          },
+          {
+            "tag": ":<",
+            "score": 0.72487
+          },
+          {
+            "tag": "hands on own cheeks",
+            "score": 0.71542
+          },
+          {
+            "tag": "kirby",
+            "score": 0.71063
+          },
+          {
+            "tag": "big head",
+            "score": 0.68847
+          },
+          {
+            "tag": "animalization",
+            "score": 0.68511
+          },
+          {
+            "tag": "1girl",
+            "score": 0.68173
+          },
+          {
+            "tag": "lying",
+            "score": 0.67576
+          },
+          {
+            "tag": "dog ears",
+            "score": 0.67405
+          },
+          {
+            "tag": "expressions",
+            "score": 0.67405
+          },
+          {
+            "tag": "close-up",
+            "score": 0.67147
+          },
+          {
+            "tag": "> o",
+            "score": 0.66801
+          },
+          {
+            "tag": "too many",
+            "score": 0.66454
+          },
+          {
+            "tag": "artist request",
+            "score": 0.66192
+          },
+          {
+            "tag": "2others",
+            "score": 0.65754
+          },
+          {
+            "tag": "pink background",
+            "score": 0.65666
+          },
+          {
+            "tag": "bad pixiv id",
+            "score": 0.65401
+          },
+          {
+            "tag": ". .",
+            "score": 0.65313
+          },
+          {
+            "tag": "no nose",
+            "score": 0.65224
+          },
+          {
+            "tag": "green dress",
+            "score": 0.65135
+          },
+          {
+            "tag": "non-web source",
+            "score": 0.64064
+          },
+          {
+            "tag": "chibi only",
+            "score": 0.63703
+          },
+          {
+            "tag": "green skirt",
+            "score": 0.63522
+          },
+          {
+            "tag": "touhou",
+            "score": 0.61277
+          },
+          {
+            "tag": "colored skin",
+            "score": 0.59643
+          },
+          {
+            "tag": "mahou shoujo madoka magica",
+            "score": 0.59408
+          },
+          {
+            "tag": "on head",
+            "score": 0.58747
+          },
+          {
+            "tag": "green footwear",
+            "score": 0.58652
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.58368
+          },
+          {
+            "tag": ":>",
+            "score": 0.58273
+          },
+          {
+            "tag": "blush",
+            "score": 0.5665
+          },
+          {
+            "tag": "bad source",
+            "score": 0.56602
+          },
+          {
+            "tag": "wagashi",
+            "score": 0.5641
+          },
+          {
+            "tag": "jpeg artifacts",
+            "score": 0.56362
+          },
+          {
+            "tag": "dress",
+            "score": 0.55905
+          },
+          {
+            "tag": ":o",
+            "score": 0.55712
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.55399
+          },
+          {
+            "tag": "third-party source",
+            "score": 0.55254
+          },
+          {
+            "tag": "sisters",
+            "score": 0.54795
+          },
+          {
+            "tag": "rabbit",
+            "score": 0.54092
+          },
+          {
+            "tag": "dual persona",
+            "score": 0.5351
+          },
+          {
+            "tag": "laughing",
+            "score": 0.53097
+          },
+          {
+            "tag": "holding",
+            "score": 0.52841
+          },
+          {
+            "tag": "solid oval eyes",
+            "score": 0.52403
+          },
+          {
+            "tag": "0 0",
+            "score": 0.52159
+          },
+          {
+            "tag": "md5 mismatch",
+            "score": 0.51928
           }
         ]
       }
@@ -2227,8 +4643,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "1b97ac853ed3aea0d26323875d874592dd3d9565270f4a078e460c384ca80ec1",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -2390,6 +4806,246 @@
           {
             "tag": ":3",
             "score": 0.82219
+          },
+          {
+            "tag": "melon",
+            "score": 0.81989
+          },
+          {
+            "tag": "bandana",
+            "score": 0.80563
+          },
+          {
+            "tag": "yellow hairband",
+            "score": 0.79944
+          },
+          {
+            "tag": "street fighter",
+            "score": 0.79819
+          },
+          {
+            "tag": "original",
+            "score": 0.79053
+          },
+          {
+            "tag": "parody",
+            "score": 0.79053
+          },
+          {
+            "tag": "artist request",
+            "score": 0.78531
+          },
+          {
+            "tag": "copyright request",
+            "score": 0.78266
+          },
+          {
+            "tag": "cat tail",
+            "score": 0.78133
+          },
+          {
+            "tag": "yellow ribbon",
+            "score": 0.77999
+          },
+          {
+            "tag": "yellow headband",
+            "score": 0.77594
+          },
+          {
+            "tag": "pink fur",
+            "score": 0.77458
+          },
+          {
+            "tag": "solo",
+            "score": 0.77322
+          },
+          {
+            "tag": "hairband",
+            "score": 0.77322
+          },
+          {
+            "tag": "english commentary",
+            "score": 0.77322
+          },
+          {
+            "tag": "lowres",
+            "score": 0.77046
+          },
+          {
+            "tag": "sanrio",
+            "score": 0.77046
+          },
+          {
+            "tag": "outstretched arm",
+            "score": 0.75636
+          },
+          {
+            "tag": "kirby",
+            "score": 0.74762
+          },
+          {
+            "tag": "holding",
+            "score": 0.74614
+          },
+          {
+            "tag": "name connection",
+            "score": 0.74167
+          },
+          {
+            "tag": "white hairband",
+            "score": 0.73716
+          },
+          {
+            "tag": "colored skin",
+            "score": 0.73412
+          },
+          {
+            "tag": "ears through headwear",
+            "score": 0.72487
+          },
+          {
+            "tag": "1girl",
+            "score": 0.71938
+          },
+          {
+            "tag": "no nose",
+            "score": 0.7074
+          },
+          {
+            "tag": "animalization",
+            "score": 0.7074
+          },
+          {
+            "tag": "food-themed hair ornament",
+            "score": 0.70253
+          },
+          {
+            "tag": "honkai (series)",
+            "score": 0.69843
+          },
+          {
+            "tag": "cookie (touhou)",
+            "score": 0.69843
+          },
+          {
+            "tag": "kirby (series)",
+            "score": 0.69347
+          },
+          {
+            "tag": "what",
+            "score": 0.69264
+          },
+          {
+            "tag": "child",
+            "score": 0.68847
+          },
+          {
+            "tag": "fate/grand order",
+            "score": 0.68679
+          },
+          {
+            "tag": "flat chest",
+            "score": 0.68257
+          },
+          {
+            "tag": "bad twitter id",
+            "score": 0.68173
+          },
+          {
+            "tag": "outstretched arms",
+            "score": 0.68003
+          },
+          {
+            "tag": "triangle mouth",
+            "score": 0.67576
+          },
+          {
+            "tag": "ribbon",
+            "score": 0.67061
+          },
+          {
+            "tag": "oversized object",
+            "score": 0.67061
+          },
+          {
+            "tag": "kemonomimi mode",
+            "score": 0.65578
+          },
+          {
+            "tag": "male focus",
+            "score": 0.64601
+          },
+          {
+            "tag": "arm up",
+            "score": 0.63974
+          },
+          {
+            "tag": "red headband",
+            "score": 0.63974
+          },
+          {
+            "tag": "black outline",
+            "score": 0.63522
+          },
+          {
+            "tag": "commentary request",
+            "score": 0.63159
+          },
+          {
+            "tag": "bad link",
+            "score": 0.62521
+          },
+          {
+            "tag": "headgear",
+            "score": 0.62429
+          },
+          {
+            "tag": "solid circle eyes",
+            "score": 0.62062
+          },
+          {
+            "tag": "crossover",
+            "score": 0.6197
+          },
+          {
+            "tag": "personification",
+            "score": 0.61924
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.61878
+          },
+          {
+            "tag": "solid oval eyes",
+            "score": 0.61878
+          },
+          {
+            "tag": "white outline",
+            "score": 0.60999
+          },
+          {
+            "tag": "fire emblem",
+            "score": 0.60533
+          },
+          {
+            "tag": "running",
+            "score": 0.603
+          },
+          {
+            "tag": "yellow headwear",
+            "score": 0.59549
+          },
+          {
+            "tag": "cake",
+            "score": 0.59219
+          },
+          {
+            "tag": ":<",
+            "score": 0.587
+          },
+          {
+            "tag": "deformed",
+            "score": 0.58415
           }
         ]
       }
@@ -2426,8 +5082,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "465012dea16db264acd904a7dbae2f1fde3f1691762ba17be1acbec1e09c9983",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -2589,6 +5245,222 @@
           {
             "tag": "> <",
             "score": 0.80685
+          },
+          {
+            "tag": "asian mythology",
+            "score": 0.80194
+          },
+          {
+            "tag": ":3",
+            "score": 0.78923
+          },
+          {
+            "tag": "flora fauna",
+            "score": 0.77594
+          },
+          {
+            "tag": "pain",
+            "score": 0.77594
+          },
+          {
+            "tag": "front view",
+            "score": 0.77322
+          },
+          {
+            "tag": "bodily fluids",
+            "score": 0.77184
+          },
+          {
+            "tag": "cat",
+            "score": 0.77046
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.76908
+          },
+          {
+            "tag": "whipped cream",
+            "score": 0.75636
+          },
+          {
+            "tag": "mammal",
+            "score": 0.75055
+          },
+          {
+            "tag": "sanrio",
+            "score": 0.73412
+          },
+          {
+            "tag": "quadruped",
+            "score": 0.73029
+          },
+          {
+            "tag": "raised arm",
+            "score": 0.72875
+          },
+          {
+            "tag": "blueberry",
+            "score": 0.72565
+          },
+          {
+            "tag": "angry",
+            "score": 0.71383
+          },
+          {
+            "tag": "food-themed hair ornament",
+            "score": 0.71223
+          },
+          {
+            "tag": "animal",
+            "score": 0.70416
+          },
+          {
+            "tag": "solo",
+            "score": 0.69761
+          },
+          {
+            "tag": "streaming tears",
+            "score": 0.69513
+          },
+          {
+            "tag": "strawberry print",
+            "score": 0.68511
+          },
+          {
+            "tag": "raspberry",
+            "score": 0.68511
+          },
+          {
+            "tag": "2019",
+            "score": 0.68426
+          },
+          {
+            "tag": "animal hands",
+            "score": 0.68088
+          },
+          {
+            "tag": "1:1",
+            "score": 0.67918
+          },
+          {
+            "tag": "english text",
+            "score": 0.67576
+          },
+          {
+            "tag": "sleeping",
+            "score": 0.67233
+          },
+          {
+            "tag": "paw print",
+            "score": 0.65666
+          },
+          {
+            "tag": "2018",
+            "score": 0.65578
+          },
+          {
+            "tag": "crying with eyes open",
+            "score": 0.64512
+          },
+          {
+            "tag": "pink body",
+            "score": 0.63974
+          },
+          {
+            "tag": "red body",
+            "score": 0.63613
+          },
+          {
+            "tag": "closed eyes",
+            "score": 0.63522
+          },
+          {
+            "tag": "feral",
+            "score": 0.61878
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.6072
+          },
+          {
+            "tag": "pink paws",
+            "score": 0.58463
+          },
+          {
+            "tag": "footprint",
+            "score": 0.57988
+          },
+          {
+            "tag": "eating",
+            "score": 0.57177
+          },
+          {
+            "tag": "flat colors",
+            "score": 0.57129
+          },
+          {
+            "tag": "strawberry hair ornament",
+            "score": 0.57129
+          },
+          {
+            "tag": "noseless",
+            "score": 0.56842
+          },
+          {
+            "tag": "teary eyes",
+            "score": 0.55929
+          },
+          {
+            "tag": "portrait",
+            "score": 0.55326
+          },
+          {
+            "tag": "digital drawing (artwork)",
+            "score": 0.54722
+          },
+          {
+            "tag": "strawberry slice",
+            "score": 0.54456
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.53923
+          },
+          {
+            "tag": "comforting",
+            "score": 0.53121
+          },
+          {
+            "tag": "handpaw",
+            "score": 0.52232
+          },
+          {
+            "tag": "blush stickers",
+            "score": 0.52074
+          },
+          {
+            "tag": "pink fur",
+            "score": 0.51696
+          },
+          {
+            "tag": "single tear",
+            "score": 0.51525
+          },
+          {
+            "tag": "semi-anthro",
+            "score": 0.50705
+          },
+          {
+            "tag": "low res",
+            "score": 0.50265
+          },
+          {
+            "tag": "2020",
+            "score": 0.50211
+          },
+          {
+            "tag": "feet",
+            "score": 0.50055
           }
         ]
       }
@@ -2625,8 +5497,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "4c2f8c693397ed63a9ba4355d239267be0e572cc04e30c87e0079bd81e26df85",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -2788,6 +5660,246 @@
           {
             "tag": "portrait",
             "score": 0.88243
+          },
+          {
+            "tag": "toony",
+            "score": 0.87579
+          },
+          {
+            "tag": "full-length portrait",
+            "score": 0.87147
+          },
+          {
+            "tag": "white body",
+            "score": 0.86339
+          },
+          {
+            "tag": "dancing",
+            "score": 0.85294
+          },
+          {
+            "tag": "on model",
+            "score": 0.85294
+          },
+          {
+            "tag": "featureless hands",
+            "score": 0.84897
+          },
+          {
+            "tag": "white fur",
+            "score": 0.84286
+          },
+          {
+            "tag": "spoken musical note",
+            "score": 0.84183
+          },
+          {
+            "tag": "young",
+            "score": 0.83973
+          },
+          {
+            "tag": "digital drawing (artwork)",
+            "score": 0.82671
+          },
+          {
+            "tag": "hands up",
+            "score": 0.82333
+          },
+          {
+            "tag": "2018",
+            "score": 0.81874
+          },
+          {
+            "tag": "animal",
+            "score": 0.81757
+          },
+          {
+            "tag": "standing",
+            "score": 0.80441
+          },
+          {
+            "tag": "beamed sixteenth notes",
+            "score": 0.79311
+          },
+          {
+            "tag": "pink inner ear",
+            "score": 0.78923
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.78531
+          },
+          {
+            "tag": "pokemon (creature)",
+            "score": 0.7773
+          },
+          {
+            "tag": "compression artifacts",
+            "score": 0.7773
+          },
+          {
+            "tag": "2016",
+            "score": 0.75779
+          },
+          {
+            "tag": "kemono",
+            "score": 0.75779
+          },
+          {
+            "tag": "white pupils",
+            "score": 0.75636
+          },
+          {
+            "tag": "big eyes",
+            "score": 0.75347
+          },
+          {
+            "tag": "treble clef",
+            "score": 0.75201
+          },
+          {
+            "tag": "animal crossing",
+            "score": 0.74909
+          },
+          {
+            "tag": "2017",
+            "score": 0.74614
+          },
+          {
+            "tag": "white skin",
+            "score": 0.74614
+          },
+          {
+            "tag": "3 fingers",
+            "score": 0.74017
+          },
+          {
+            "tag": "hands together",
+            "score": 0.73412
+          },
+          {
+            "tag": "pink tongue",
+            "score": 0.73259
+          },
+          {
+            "tag": "quarter note",
+            "score": 0.72409
+          },
+          {
+            "tag": "child",
+            "score": 0.72096
+          },
+          {
+            "tag": "chibi only",
+            "score": 0.72017
+          },
+          {
+            "tag": "official art",
+            "score": 0.71383
+          },
+          {
+            "tag": "animal ears",
+            "score": 0.71303
+          },
+          {
+            "tag": "1:1",
+            "score": 0.70579
+          },
+          {
+            "tag": "blush",
+            "score": 0.68257
+          },
+          {
+            "tag": "food creature",
+            "score": 0.67833
+          },
+          {
+            "tag": "looking away",
+            "score": 0.67747
+          },
+          {
+            "tag": "open :3",
+            "score": 0.66715
+          },
+          {
+            "tag": "meme",
+            "score": 0.66454
+          },
+          {
+            "tag": "2021",
+            "score": 0.65135
+          },
+          {
+            "tag": "plant",
+            "score": 0.64512
+          },
+          {
+            "tag": "full body",
+            "score": 0.64153
+          },
+          {
+            "tag": "white tail",
+            "score": 0.64064
+          },
+          {
+            "tag": "tongue",
+            "score": 0.61786
+          },
+          {
+            "tag": "outline",
+            "score": 0.60159
+          },
+          {
+            "tag": "creature",
+            "score": 0.59361
+          },
+          {
+            "tag": "icon",
+            "score": 0.59172
+          },
+          {
+            "tag": "2020",
+            "score": 0.5851
+          },
+          {
+            "tag": "young anthro",
+            "score": 0.5813
+          },
+          {
+            "tag": "staff (music)",
+            "score": 0.58035
+          },
+          {
+            "tag": "sketch",
+            "score": 0.56602
+          },
+          {
+            "tag": "cat",
+            "score": 0.5617
+          },
+          {
+            "tag": "young ambiguous",
+            "score": 0.56146
+          },
+          {
+            "tag": "own hands together",
+            "score": 0.54795
+          },
+          {
+            "tag": "felid humanoid",
+            "score": 0.54698
+          },
+          {
+            "tag": "pink ears",
+            "score": 0.54214
+          },
+          {
+            "tag": "cat ears",
+            "score": 0.53607
+          },
+          {
+            "tag": "featureless feet",
+            "score": 0.53364
           }
         ]
       }
@@ -2824,8 +5936,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "3685f62dc7d37ffd50b2f78092898a65ba89ef65ffa9c64692feb76bef838788",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -2987,6 +6099,246 @@
           {
             "tag": "chibi",
             "score": 0.89912
+          },
+          {
+            "tag": "sunglasses only",
+            "score": 0.89912
+          },
+          {
+            "tag": "eating",
+            "score": 0.88876
+          },
+          {
+            "tag": "pink fur",
+            "score": 0.88563
+          },
+          {
+            "tag": "on model",
+            "score": 0.88404
+          },
+          {
+            "tag": "sitting on chair",
+            "score": 0.8808
+          },
+          {
+            "tag": "cat humanoid",
+            "score": 0.87663
+          },
+          {
+            "tag": "kemono",
+            "score": 0.87579
+          },
+          {
+            "tag": "object in mouth",
+            "score": 0.86971
+          },
+          {
+            "tag": "on back",
+            "score": 0.86793
+          },
+          {
+            "tag": "cat tail",
+            "score": 0.86339
+          },
+          {
+            "tag": "food print",
+            "score": 0.86247
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.85872
+          },
+          {
+            "tag": "pink pawpads",
+            "score": 0.85585
+          },
+          {
+            "tag": "white background",
+            "score": 0.84997
+          },
+          {
+            "tag": "cat ears",
+            "score": 0.83224
+          },
+          {
+            "tag": "leaf",
+            "score": 0.81641
+          },
+          {
+            "tag": "sunset",
+            "score": 0.81641
+          },
+          {
+            "tag": "feral",
+            "score": 0.81523
+          },
+          {
+            "tag": "what",
+            "score": 0.80685
+          },
+          {
+            "tag": "daww",
+            "score": 0.80563
+          },
+          {
+            "tag": "heart-shaped eyewear",
+            "score": 0.80563
+          },
+          {
+            "tag": "bendy straw",
+            "score": 0.80563
+          },
+          {
+            "tag": "felid humanoid",
+            "score": 0.79693
+          },
+          {
+            "tag": "paws",
+            "score": 0.79053
+          },
+          {
+            "tag": "2017",
+            "score": 0.78923
+          },
+          {
+            "tag": "feet",
+            "score": 0.77999
+          },
+          {
+            "tag": "pink nose",
+            "score": 0.77865
+          },
+          {
+            "tag": "drinking",
+            "score": 0.76629
+          },
+          {
+            "tag": "drinking straw in mouth",
+            "score": 0.76629
+          },
+          {
+            "tag": "konami",
+            "score": 0.75923
+          },
+          {
+            "tag": "flat chested",
+            "score": 0.73716
+          },
+          {
+            "tag": "feline humanoid",
+            "score": 0.72643
+          },
+          {
+            "tag": "2019",
+            "score": 0.72565
+          },
+          {
+            "tag": "seaside",
+            "score": 0.72096
+          },
+          {
+            "tag": "young",
+            "score": 0.72096
+          },
+          {
+            "tag": "2018",
+            "score": 0.71701
+          },
+          {
+            "tag": "headgear",
+            "score": 0.71622
+          },
+          {
+            "tag": "tinted eyewear",
+            "score": 0.71542
+          },
+          {
+            "tag": "holding object",
+            "score": 0.70497
+          },
+          {
+            "tag": "beverage",
+            "score": 0.68679
+          },
+          {
+            "tag": "simple background",
+            "score": 0.67576
+          },
+          {
+            "tag": "shadow",
+            "score": 0.66628
+          },
+          {
+            "tag": "food creature",
+            "score": 0.66192
+          },
+          {
+            "tag": "alien",
+            "score": 0.66105
+          },
+          {
+            "tag": "full-length portrait",
+            "score": 0.66017
+          },
+          {
+            "tag": "capcom",
+            "score": 0.6593
+          },
+          {
+            "tag": "swimwear",
+            "score": 0.65754
+          },
+          {
+            "tag": "relaxing",
+            "score": 0.65489
+          },
+          {
+            "tag": "featureless hands",
+            "score": 0.64869
+          },
+          {
+            "tag": "sanrio",
+            "score": 0.64601
+          },
+          {
+            "tag": "full moon",
+            "score": 0.63432
+          },
+          {
+            "tag": "1:1",
+            "score": 0.6325
+          },
+          {
+            "tag": "flora fauna",
+            "score": 0.62612
+          },
+          {
+            "tag": "suggestive",
+            "score": 0.62429
+          },
+          {
+            "tag": "female",
+            "score": 0.60673
+          },
+          {
+            "tag": "summer",
+            "score": 0.60159
+          },
+          {
+            "tag": "beach",
+            "score": 0.59878
+          },
+          {
+            "tag": "portrait",
+            "score": 0.59361
+          },
+          {
+            "tag": "table",
+            "score": 0.59078
+          },
+          {
+            "tag": "sun symbol",
+            "score": 0.58983
           }
         ]
       }
@@ -3023,8 +6375,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "8344612c9de207f258ca8f519031713b6e852f696103e1818285af63ed242df9",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -3186,6 +6538,126 @@
           {
             "tag": "mammal",
             "score": 0.69513
+          },
+          {
+            "tag": "english commentary",
+            "score": 0.69347
+          },
+          {
+            "tag": "transparent background",
+            "score": 0.69347
+          },
+          {
+            "tag": "feet",
+            "score": 0.68847
+          },
+          {
+            "tag": "what",
+            "score": 0.67918
+          },
+          {
+            "tag": "doorway",
+            "score": 0.67061
+          },
+          {
+            "tag": "hindpaw",
+            "score": 0.66974
+          },
+          {
+            "tag": "dessert",
+            "score": 0.66367
+          },
+          {
+            "tag": "full body",
+            "score": 0.65754
+          },
+          {
+            "tag": "low res",
+            "score": 0.65489
+          },
+          {
+            "tag": "dog",
+            "score": 0.64333
+          },
+          {
+            "tag": "white cat",
+            "score": 0.6325
+          },
+          {
+            "tag": "x anus",
+            "score": 0.62886
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.62429
+          },
+          {
+            "tag": "blush stickers",
+            "score": 0.62246
+          },
+          {
+            "tag": "strawberry hair ornament",
+            "score": 0.61786
+          },
+          {
+            "tag": "commentary",
+            "score": 0.60766
+          },
+          {
+            "tag": "paw print",
+            "score": 0.6072
+          },
+          {
+            "tag": "tail raised",
+            "score": 0.60206
+          },
+          {
+            "tag": "2019",
+            "score": 0.60066
+          },
+          {
+            "tag": "ass up",
+            "score": 0.59502
+          },
+          {
+            "tag": "animalization",
+            "score": 0.59502
+          },
+          {
+            "tag": "white fur",
+            "score": 0.58983
+          },
+          {
+            "tag": "food-themed creature",
+            "score": 0.58652
+          },
+          {
+            "tag": ":3",
+            "score": 0.56985
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.55012
+          },
+          {
+            "tag": "white tail",
+            "score": 0.53826
+          },
+          {
+            "tag": "pink fur",
+            "score": 0.5368
+          },
+          {
+            "tag": "lying",
+            "score": 0.52184
+          },
+          {
+            "tag": "pink body",
+            "score": 0.51794
+          },
+          {
+            "tag": "animal hands",
+            "score": 0.50421
           }
         ]
       }
@@ -3222,8 +6694,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "56b7e622d2fc06d4684959655411663043f2b36cd7eea10a3d51b3d7dfad77d1",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -3385,6 +6857,246 @@
           {
             "tag": "v",
             "score": 0.84492
+          },
+          {
+            "tag": "smile",
+            "score": 0.8439
+          },
+          {
+            "tag": "lowres",
+            "score": 0.81757
+          },
+          {
+            "tag": "\\m/",
+            "score": 0.81523
+          },
+          {
+            "tag": "original",
+            "score": 0.81405
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.80928
+          },
+          {
+            "tag": "animal",
+            "score": 0.80317
+          },
+          {
+            "tag": "cosplay",
+            "score": 0.79944
+          },
+          {
+            "tag": "bad twitter id",
+            "score": 0.79053
+          },
+          {
+            "tag": "meme",
+            "score": 0.78133
+          },
+          {
+            "tag": "1girl",
+            "score": 0.77046
+          },
+          {
+            "tag": ":>",
+            "score": 0.76769
+          },
+          {
+            "tag": "waving",
+            "score": 0.76629
+          },
+          {
+            "tag": "precure",
+            "score": 0.76207
+          },
+          {
+            "tag": "commentary",
+            "score": 0.75201
+          },
+          {
+            "tag": "blush",
+            "score": 0.75055
+          },
+          {
+            "tag": "by bkub",
+            "score": 0.74466
+          },
+          {
+            "tag": "multiple others",
+            "score": 0.74317
+          },
+          {
+            "tag": "crossover",
+            "score": 0.73564
+          },
+          {
+            "tag": "cat girl",
+            "score": 0.71622
+          },
+          {
+            "tag": "arm up",
+            "score": 0.71063
+          },
+          {
+            "tag": "beckoning",
+            "score": 0.70821
+          },
+          {
+            "tag": "bad id",
+            "score": 0.7066
+          },
+          {
+            "tag": "honkai (series)",
+            "score": 0.70497
+          },
+          {
+            "tag": "double v",
+            "score": 0.70171
+          },
+          {
+            "tag": "voicevox",
+            "score": 0.69678
+          },
+          {
+            "tag": "solid oval eyes",
+            "score": 0.69014
+          },
+          {
+            "tag": "english commentary",
+            "score": 0.68931
+          },
+          {
+            "tag": "open mouth",
+            "score": 0.68679
+          },
+          {
+            "tag": "index finger raised",
+            "score": 0.68173
+          },
+          {
+            "tag": "1boy",
+            "score": 0.67662
+          },
+          {
+            "tag": "middle finger",
+            "score": 0.67233
+          },
+          {
+            "tag": "dot nose",
+            "score": 0.66454
+          },
+          {
+            "tag": "heart",
+            "score": 0.6628
+          },
+          {
+            "tag": "third-party source",
+            "score": 0.65754
+          },
+          {
+            "tag": "mahou shoujo madoka magica",
+            "score": 0.65401
+          },
+          {
+            "tag": "facing viewer",
+            "score": 0.65135
+          },
+          {
+            "tag": "thumbs down",
+            "score": 0.65047
+          },
+          {
+            "tag": "hands",
+            "score": 0.64512
+          },
+          {
+            "tag": "artist request",
+            "score": 0.64423
+          },
+          {
+            "tag": "bad source",
+            "score": 0.64423
+          },
+          {
+            "tag": "upper body",
+            "score": 0.64153
+          },
+          {
+            "tag": "posing",
+            "score": 0.64153
+          },
+          {
+            "tag": "touhou",
+            "score": 0.63703
+          },
+          {
+            "tag": "indie virtual youtuber",
+            "score": 0.63613
+          },
+          {
+            "tag": "jpeg artifacts",
+            "score": 0.63613
+          },
+          {
+            "tag": "animalization",
+            "score": 0.62795
+          },
+          {
+            "tag": "double thumbs up",
+            "score": 0.62612
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.62429
+          },
+          {
+            "tag": "strawberry hair ornament",
+            "score": 0.61786
+          },
+          {
+            "tag": "object on head",
+            "score": 0.61601
+          },
+          {
+            "tag": "paw pose",
+            "score": 0.61277
+          },
+          {
+            "tag": "food on head",
+            "score": 0.59314
+          },
+          {
+            "tag": "disembodied hand",
+            "score": 0.58747
+          },
+          {
+            "tag": "food-themed hair ornament",
+            "score": 0.58605
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.58368
+          },
+          {
+            "tag": "furry",
+            "score": 0.58083
+          },
+          {
+            "tag": "reaching",
+            "score": 0.58083
+          },
+          {
+            "tag": "personification",
+            "score": 0.56458
+          },
+          {
+            "tag": "kemonomimi mode",
+            "score": 0.55977
+          },
+          {
+            "tag": "cat boy",
+            "score": 0.55447
           }
         ]
       }
@@ -3421,8 +7133,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "09f21c1b3ae5a844080053341be66a33cb79aa164bc6dac28ba29862e4aa5040",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -3584,6 +7296,94 @@
           {
             "tag": "closed mouth",
             "score": 0.68426
+          },
+          {
+            "tag": "heart eyes",
+            "score": 0.65666
+          },
+          {
+            "tag": "solo",
+            "score": 0.65047
+          },
+          {
+            "tag": "mammal",
+            "score": 0.64423
+          },
+          {
+            "tag": "food creature",
+            "score": 0.63793
+          },
+          {
+            "tag": "creature",
+            "score": 0.61924
+          },
+          {
+            "tag": "1:1",
+            "score": 0.59737
+          },
+          {
+            "tag": "white body",
+            "score": 0.58889
+          },
+          {
+            "tag": "holding",
+            "score": 0.58652
+          },
+          {
+            "tag": "heart in eye",
+            "score": 0.5832
+          },
+          {
+            "tag": "bad id",
+            "score": 0.57033
+          },
+          {
+            "tag": "commentary",
+            "score": 0.55326
+          },
+          {
+            "tag": "felid humanoid",
+            "score": 0.5385
+          },
+          {
+            "tag": "2016",
+            "score": 0.53704
+          },
+          {
+            "tag": "white cat",
+            "score": 0.53558
+          },
+          {
+            "tag": "2019",
+            "score": 0.53534
+          },
+          {
+            "tag": "cat humanoid",
+            "score": 0.52695
+          },
+          {
+            "tag": "hug",
+            "score": 0.5233
+          },
+          {
+            "tag": "pink fur",
+            "score": 0.5183
+          },
+          {
+            "tag": "toony",
+            "score": 0.51818
+          },
+          {
+            "tag": "mahou shoujo madoka magica (anime)",
+            "score": 0.51025
+          },
+          {
+            "tag": "symbol in eye",
+            "score": 0.50522
+          },
+          {
+            "tag": "commentary request",
+            "score": 0.50452
           }
         ]
       }
@@ -3621,8 +7421,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "27e37c1c3456b1692749bb5f4fb7ce7f0592ec1a47b35a69df0f09294b7ab3dc",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -3784,6 +7584,186 @@
           {
             "tag": "object on head",
             "score": 0.84492
+          },
+          {
+            "tag": "food on head",
+            "score": 0.83762
+          },
+          {
+            "tag": "closed mouth",
+            "score": 0.83441
+          },
+          {
+            "tag": "simple background",
+            "score": 0.82333
+          },
+          {
+            "tag": "mahou shoujo madoka magica",
+            "score": 0.82333
+          },
+          {
+            "tag": "animalization",
+            "score": 0.80685
+          },
+          {
+            "tag": "felis",
+            "score": 0.79182
+          },
+          {
+            "tag": "furry",
+            "score": 0.78923
+          },
+          {
+            "tag": "creature",
+            "score": 0.78923
+          },
+          {
+            "tag": "other focus",
+            "score": 0.76489
+          },
+          {
+            "tag": "commentary request",
+            "score": 0.76348
+          },
+          {
+            "tag": "single tear",
+            "score": 0.76065
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.74614
+          },
+          {
+            "tag": "streaming tears",
+            "score": 0.73867
+          },
+          {
+            "tag": "bad id",
+            "score": 0.73029
+          },
+          {
+            "tag": "snot",
+            "score": 0.70089
+          },
+          {
+            "tag": "outline",
+            "score": 0.69181
+          },
+          {
+            "tag": "1girl",
+            "score": 0.68679
+          },
+          {
+            "tag": "artist request",
+            "score": 0.67747
+          },
+          {
+            "tag": "pokemon (creature)",
+            "score": 0.67233
+          },
+          {
+            "tag": "> <",
+            "score": 0.66454
+          },
+          {
+            "tag": "no nose",
+            "score": 0.6628
+          },
+          {
+            "tag": "chinese commentary",
+            "score": 0.6593
+          },
+          {
+            "tag": "wavy mouth",
+            "score": 0.64512
+          },
+          {
+            "tag": "1other",
+            "score": 0.64423
+          },
+          {
+            "tag": "original",
+            "score": 0.63522
+          },
+          {
+            "tag": "commentary",
+            "score": 0.63432
+          },
+          {
+            "tag": "dot nose",
+            "score": 0.63068
+          },
+          {
+            "tag": "bad link",
+            "score": 0.61045
+          },
+          {
+            "tag": "wavy eyes",
+            "score": 0.60952
+          },
+          {
+            "tag": "wind",
+            "score": 0.58747
+          },
+          {
+            "tag": "furrowed brow",
+            "score": 0.5851
+          },
+          {
+            "tag": "blush",
+            "score": 0.57511
+          },
+          {
+            "tag": "vines",
+            "score": 0.57511
+          },
+          {
+            "tag": "inubashiri momiji",
+            "score": 0.57081
+          },
+          {
+            "tag": "solo",
+            "score": 0.56698
+          },
+          {
+            "tag": "furry female",
+            "score": 0.56602
+          },
+          {
+            "tag": "flat chest",
+            "score": 0.54843
+          },
+          {
+            "tag": "english commentary",
+            "score": 0.54601
+          },
+          {
+            "tag": "feline",
+            "score": 0.54238
+          },
+          {
+            "tag": "red eyes",
+            "score": 0.52841
+          },
+          {
+            "tag": "solid circle eyes",
+            "score": 0.52841
+          },
+          {
+            "tag": "strawberry hair ornament",
+            "score": 0.51513
+          },
+          {
+            "tag": "grapes",
+            "score": 0.51324
+          },
+          {
+            "tag": "official style",
+            "score": 0.5097
+          },
+          {
+            "tag": "expressionless",
+            "score": 0.50818
           }
         ]
       }
@@ -3820,8 +7800,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "0f733f1e1a2014453bfdddcf988fb5eb5c73bc7603afc0b400a4f915854c641e",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -3983,6 +7963,118 @@
           {
             "tag": "object on head",
             "score": 0.68931
+          },
+          {
+            "tag": ":t",
+            "score": 0.68763
+          },
+          {
+            "tag": "character name",
+            "score": 0.68342
+          },
+          {
+            "tag": "child",
+            "score": 0.67918
+          },
+          {
+            "tag": "happy",
+            "score": 0.67405
+          },
+          {
+            "tag": "mahou shoujo madoka magica (anime)",
+            "score": 0.65135
+          },
+          {
+            "tag": "original",
+            "score": 0.6478
+          },
+          {
+            "tag": "o3o",
+            "score": 0.64243
+          },
+          {
+            "tag": "lowres",
+            "score": 0.63884
+          },
+          {
+            "tag": "domestic cat",
+            "score": 0.63432
+          },
+          {
+            "tag": "heart-shaped pupils",
+            "score": 0.62704
+          },
+          {
+            "tag": "furry female",
+            "score": 0.61786
+          },
+          {
+            "tag": "dessert",
+            "score": 0.61694
+          },
+          {
+            "tag": "food creature",
+            "score": 0.60813
+          },
+          {
+            "tag": "holding fruit",
+            "score": 0.60487
+          },
+          {
+            "tag": "1girl",
+            "score": 0.59031
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.58558
+          },
+          {
+            "tag": "strawberry hair ornament",
+            "score": 0.58178
+          },
+          {
+            "tag": "animal hands",
+            "score": 0.58083
+          },
+          {
+            "tag": "real life",
+            "score": 0.56362
+          },
+          {
+            "tag": "closed mouth",
+            "score": 0.5617
+          },
+          {
+            "tag": "pink fur",
+            "score": 0.55881
+          },
+          {
+            "tag": "bad id",
+            "score": 0.54771
+          },
+          {
+            "tag": "bad link",
+            "score": 0.54335
+          },
+          {
+            "tag": "hands on own face",
+            "score": 0.54214
+          },
+          {
+            "tag": "white pupils",
+            "score": 0.5334
+          },
+          {
+            "tag": "artist request",
+            "score": 0.52695
+          },
+          {
+            "tag": "raspberry",
+            "score": 0.50995
+          },
+          {
+            "tag": "pink eyes",
+            "score": 0.50546
           }
         ]
       }
@@ -4019,8 +8111,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "38b45424cfd69f702c49316c4f7ae800916cb555e16445fcef51685e884188d7",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -4182,6 +8274,246 @@
           {
             "tag": "pink theme",
             "score": 0.88563
+          },
+          {
+            "tag": "food-themed hair ornament",
+            "score": 0.88404
+          },
+          {
+            "tag": "white cat",
+            "score": 0.87915
+          },
+          {
+            "tag": "animalization",
+            "score": 0.87408
+          },
+          {
+            "tag": "holding food",
+            "score": 0.86339
+          },
+          {
+            "tag": "full body",
+            "score": 0.85966
+          },
+          {
+            "tag": "wavy mouth",
+            "score": 0.85488
+          },
+          {
+            "tag": "leaf",
+            "score": 0.84797
+          },
+          {
+            "tag": "animal focus",
+            "score": 0.84492
+          },
+          {
+            "tag": "facing viewer",
+            "score": 0.83868
+          },
+          {
+            "tag": "food on head",
+            "score": 0.83548
+          },
+          {
+            "tag": "simple background",
+            "score": 0.83441
+          },
+          {
+            "tag": "bad twitter id",
+            "score": 0.83332
+          },
+          {
+            "tag": "meme",
+            "score": 0.83332
+          },
+          {
+            "tag": "arm up",
+            "score": 0.83114
+          },
+          {
+            "tag": "kemonomimi mode",
+            "score": 0.82894
+          },
+          {
+            "tag": "food print",
+            "score": 0.82559
+          },
+          {
+            "tag": "commentary",
+            "score": 0.81641
+          },
+          {
+            "tag": "cherry blossoms",
+            "score": 0.81405
+          },
+          {
+            "tag": "colored skin",
+            "score": 0.80928
+          },
+          {
+            "tag": "tail",
+            "score": 0.80317
+          },
+          {
+            "tag": "no nose",
+            "score": 0.79819
+          },
+          {
+            "tag": "strawberry print",
+            "score": 0.79693
+          },
+          {
+            "tag": "hand up",
+            "score": 0.78662
+          },
+          {
+            "tag": ":o",
+            "score": 0.78399
+          },
+          {
+            "tag": "artist request",
+            "score": 0.78399
+          },
+          {
+            "tag": "holding fruit",
+            "score": 0.77046
+          },
+          {
+            "tag": "hand to own mouth",
+            "score": 0.76908
+          },
+          {
+            "tag": "commentary request",
+            "score": 0.76348
+          },
+          {
+            "tag": "angry",
+            "score": 0.76348
+          },
+          {
+            "tag": "original",
+            "score": 0.75779
+          },
+          {
+            "tag": "skin fang",
+            "score": 0.75201
+          },
+          {
+            "tag": "> o",
+            "score": 0.75201
+          },
+          {
+            "tag": "0 0",
+            "score": 0.74614
+          },
+          {
+            "tag": "exclamation point",
+            "score": 0.74317
+          },
+          {
+            "tag": "blank eyes",
+            "score": 0.74017
+          },
+          {
+            "tag": "bad id",
+            "score": 0.73412
+          },
+          {
+            "tag": "tail raised",
+            "score": 0.72253
+          },
+          {
+            "tag": "english commentary",
+            "score": 0.72174
+          },
+          {
+            "tag": "white skin",
+            "score": 0.71143
+          },
+          {
+            "tag": "third-party source",
+            "score": 0.7074
+          },
+          {
+            "tag": "^ ^",
+            "score": 0.70335
+          },
+          {
+            "tag": "strawberry hair ornament",
+            "score": 0.69843
+          },
+          {
+            "tag": "xd",
+            "score": 0.67147
+          },
+          {
+            "tag": "dot nose",
+            "score": 0.67061
+          },
+          {
+            "tag": ". .",
+            "score": 0.66715
+          },
+          {
+            "tag": "happy",
+            "score": 0.66105
+          },
+          {
+            "tag": "crossover",
+            "score": 0.65135
+          },
+          {
+            "tag": "watermelon",
+            "score": 0.64691
+          },
+          {
+            "tag": "outline",
+            "score": 0.64601
+          },
+          {
+            "tag": "emphasis lines",
+            "score": 0.64512
+          },
+          {
+            "tag": "strawberry shortcake",
+            "score": 0.63341
+          },
+          {
+            "tag": "clenched hand",
+            "score": 0.62977
+          },
+          {
+            "tag": "wide-eyed",
+            "score": 0.62795
+          },
+          {
+            "tag": "spoken interrobang",
+            "score": 0.6197
+          },
+          {
+            "tag": "nose blush",
+            "score": 0.61601
+          },
+          {
+            "tag": "bush",
+            "score": 0.60952
+          },
+          {
+            "tag": "fangs",
+            "score": 0.60627
+          },
+          {
+            "tag": "hand on own chest",
+            "score": 0.6044
+          },
+          {
+            "tag": "object on head",
+            "score": 0.60159
+          },
+          {
+            "tag": "bad link",
+            "score": 0.59878
           }
         ]
       }
@@ -4218,8 +8550,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "d135576ae0f710f69d91778cd0a5cd721c53764f5abaf3d498568530d3bd46c6",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -4381,6 +8713,246 @@
           {
             "tag": "black eyes",
             "score": 0.90053
+          },
+          {
+            "tag": "flora fauna",
+            "score": 0.8808
+          },
+          {
+            "tag": "wand",
+            "score": 0.87997
+          },
+          {
+            "tag": "text",
+            "score": 0.87493
+          },
+          {
+            "tag": "white body",
+            "score": 0.87493
+          },
+          {
+            "tag": "blush",
+            "score": 0.87147
+          },
+          {
+            "tag": "2019",
+            "score": 0.86793
+          },
+          {
+            "tag": "2018",
+            "score": 0.86704
+          },
+          {
+            "tag": "sparkle",
+            "score": 0.86522
+          },
+          {
+            "tag": "tongue",
+            "score": 0.84492
+          },
+          {
+            "tag": "open smile",
+            "score": 0.83973
+          },
+          {
+            "tag": "teeth",
+            "score": 0.83762
+          },
+          {
+            "tag": "1:1",
+            "score": 0.83441
+          },
+          {
+            "tag": "raised arm",
+            "score": 0.82559
+          },
+          {
+            "tag": "young anthro",
+            "score": 0.81641
+          },
+          {
+            "tag": ":3",
+            "score": 0.81048
+          },
+          {
+            "tag": "low res",
+            "score": 0.80194
+          },
+          {
+            "tag": "happy",
+            "score": 0.79438
+          },
+          {
+            "tag": "gesture",
+            "score": 0.78923
+          },
+          {
+            "tag": "2017",
+            "score": 0.78793
+          },
+          {
+            "tag": "cute fangs",
+            "score": 0.78399
+          },
+          {
+            "tag": "full-length portrait",
+            "score": 0.77594
+          },
+          {
+            "tag": "solo",
+            "score": 0.76769
+          },
+          {
+            "tag": "2020",
+            "score": 0.76769
+          },
+          {
+            "tag": "cat tail",
+            "score": 0.76629
+          },
+          {
+            "tag": "pink fur",
+            "score": 0.76348
+          },
+          {
+            "tag": "elemental creature",
+            "score": 0.76348
+          },
+          {
+            "tag": "2015",
+            "score": 0.74909
+          },
+          {
+            "tag": "beady eyes",
+            "score": 0.73564
+          },
+          {
+            "tag": "english text",
+            "score": 0.73412
+          },
+          {
+            "tag": "digital drawing (artwork)",
+            "score": 0.72643
+          },
+          {
+            "tag": "felid humanoid",
+            "score": 0.72409
+          },
+          {
+            "tag": "suggestive",
+            "score": 0.71542
+          },
+          {
+            "tag": "featureless hands",
+            "score": 0.71063
+          },
+          {
+            "tag": "capcom",
+            "score": 0.67576
+          },
+          {
+            "tag": "holidays",
+            "score": 0.66192
+          },
+          {
+            "tag": "magic wand",
+            "score": 0.66017
+          },
+          {
+            "tag": "pink inner ear",
+            "score": 0.64333
+          },
+          {
+            "tag": "official art",
+            "score": 0.64153
+          },
+          {
+            "tag": "pink tongue",
+            "score": 0.63793
+          },
+          {
+            "tag": "sketch",
+            "score": 0.63522
+          },
+          {
+            "tag": "big eyes",
+            "score": 0.62977
+          },
+          {
+            "tag": "anthro",
+            "score": 0.62429
+          },
+          {
+            "tag": "featureless crotch",
+            "score": 0.6137
+          },
+          {
+            "tag": "fur",
+            "score": 0.60533
+          },
+          {
+            "tag": "standing",
+            "score": 0.60253
+          },
+          {
+            "tag": "holding candy",
+            "score": 0.59878
+          },
+          {
+            "tag": ":d",
+            "score": 0.59267
+          },
+          {
+            "tag": "licking",
+            "score": 0.59219
+          },
+          {
+            "tag": "front view",
+            "score": 0.58083
+          },
+          {
+            "tag": "dot eyes",
+            "score": 0.58083
+          },
+          {
+            "tag": "portrait",
+            "score": 0.56746
+          },
+          {
+            "tag": "on model",
+            "score": 0.55447
+          },
+          {
+            "tag": "young male",
+            "score": 0.55206
+          },
+          {
+            "tag": "food hair",
+            "score": 0.54311
+          },
+          {
+            "tag": "monster hunter",
+            "score": 0.54262
+          },
+          {
+            "tag": "feral",
+            "score": 0.53461
+          },
+          {
+            "tag": "bow tie",
+            "score": 0.53267
+          },
+          {
+            "tag": "young ambiguous",
+            "score": 0.53267
+          },
+          {
+            "tag": "pose",
+            "score": 0.53024
+          },
+          {
+            "tag": "child",
+            "score": 0.52878
           }
         ]
       }
@@ -4417,8 +8989,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "c695c2b2cae7433aaaed8fc7e9f00e59c28a483b550e33c91bb468549e33b470",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -4580,6 +9152,246 @@
           {
             "tag": "holding",
             "score": 0.79944
+          },
+          {
+            "tag": "waving",
+            "score": 0.79944
+          },
+          {
+            "tag": "original",
+            "score": 0.79819
+          },
+          {
+            "tag": "bright pupils",
+            "score": 0.79819
+          },
+          {
+            "tag": "animalization",
+            "score": 0.79566
+          },
+          {
+            "tag": "food-themed hair ornament",
+            "score": 0.79438
+          },
+          {
+            "tag": "strawberry shortcake",
+            "score": 0.77865
+          },
+          {
+            "tag": "commentary request",
+            "score": 0.77458
+          },
+          {
+            "tag": "feline",
+            "score": 0.76908
+          },
+          {
+            "tag": "domestic cat",
+            "score": 0.76629
+          },
+          {
+            "tag": "standing on one leg",
+            "score": 0.76065
+          },
+          {
+            "tag": "hand up",
+            "score": 0.75201
+          },
+          {
+            "tag": "barefoot",
+            "score": 0.74167
+          },
+          {
+            "tag": "leaf",
+            "score": 0.74167
+          },
+          {
+            "tag": "artist request",
+            "score": 0.73259
+          },
+          {
+            "tag": "lowres",
+            "score": 0.72017
+          },
+          {
+            "tag": "dessert",
+            "score": 0.71143
+          },
+          {
+            "tag": "cat girl",
+            "score": 0.70497
+          },
+          {
+            "tag": "white cat",
+            "score": 0.69925
+          },
+          {
+            "tag": "food-themed clothes",
+            "score": 0.69843
+          },
+          {
+            "tag": "commentary",
+            "score": 0.69761
+          },
+          {
+            "tag": "strawberry hair ornament",
+            "score": 0.69678
+          },
+          {
+            "tag": "on food",
+            "score": 0.69596
+          },
+          {
+            "tag": "english commentary",
+            "score": 0.69098
+          },
+          {
+            "tag": "clothed animal",
+            "score": 0.68257
+          },
+          {
+            "tag": "animal hands",
+            "score": 0.66454
+          },
+          {
+            "tag": "male focus",
+            "score": 0.6628
+          },
+          {
+            "tag": "bad twitter id",
+            "score": 0.66192
+          },
+          {
+            "tag": "looking to the side",
+            "score": 0.65842
+          },
+          {
+            "tag": "hands up",
+            "score": 0.65047
+          },
+          {
+            "tag": "oversized object",
+            "score": 0.64691
+          },
+          {
+            "tag": "1girl",
+            "score": 0.64601
+          },
+          {
+            "tag": "dot nose",
+            "score": 0.63613
+          },
+          {
+            "tag": "child",
+            "score": 0.63613
+          },
+          {
+            "tag": "eating",
+            "score": 0.63341
+          },
+          {
+            "tag": "sanrio",
+            "score": 0.6325
+          },
+          {
+            "tag": "whipped cream",
+            "score": 0.63068
+          },
+          {
+            "tag": "oversized food",
+            "score": 0.63068
+          },
+          {
+            "tag": "holding fruit",
+            "score": 0.62108
+          },
+          {
+            "tag": "tail",
+            "score": 0.6174
+          },
+          {
+            "tag": "food on face",
+            "score": 0.60999
+          },
+          {
+            "tag": "v-shaped eyebrows",
+            "score": 0.60859
+          },
+          {
+            "tag": "cream",
+            "score": 0.59737
+          },
+          {
+            "tag": "in food",
+            "score": 0.58463
+          },
+          {
+            "tag": "leg up",
+            "score": 0.57892
+          },
+          {
+            "tag": "official art",
+            "score": 0.57416
+          },
+          {
+            "tag": "smile",
+            "score": 0.57177
+          },
+          {
+            "tag": "other focus",
+            "score": 0.57033
+          },
+          {
+            "tag": "no shoes",
+            "score": 0.56937
+          },
+          {
+            "tag": "strawberry slice",
+            "score": 0.56554
+          },
+          {
+            "tag": "real life",
+            "score": 0.5617
+          },
+          {
+            "tag": "light blush",
+            "score": 0.55905
+          },
+          {
+            "tag": "personification",
+            "score": 0.55471
+          },
+          {
+            "tag": "white pupils",
+            "score": 0.55399
+          },
+          {
+            "tag": "indie virtual youtuber",
+            "score": 0.55351
+          },
+          {
+            "tag": "outstretched arms",
+            "score": 0.55302
+          },
+          {
+            "tag": "running",
+            "score": 0.55302
+          },
+          {
+            "tag": "jpeg artifacts",
+            "score": 0.54601
+          },
+          {
+            "tag": "chinese commentary",
+            "score": 0.54432
+          },
+          {
+            "tag": ":o",
+            "score": 0.54238
+          },
+          {
+            "tag": "felis",
+            "score": 0.53923
           }
         ]
       }

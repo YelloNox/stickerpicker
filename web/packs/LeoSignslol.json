@@ -32,8 +32,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "3ac21c3faf52d0ac2f80165e3904c7946e5288095aa53a866da043cc678e9493",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -195,6 +195,246 @@
           {
             "tag": "anthro",
             "score": 0.81523
+          },
+          {
+            "tag": "holding object",
+            "score": 0.81168
+          },
+          {
+            "tag": "lol comments",
+            "score": 0.80441
+          },
+          {
+            "tag": "cartoon network",
+            "score": 0.79438
+          },
+          {
+            "tag": "tuft",
+            "score": 0.79311
+          },
+          {
+            "tag": "unicorn horn",
+            "score": 0.79053
+          },
+          {
+            "tag": "alpha channel",
+            "score": 0.78793
+          },
+          {
+            "tag": "simple background",
+            "score": 0.76908
+          },
+          {
+            "tag": "arms above head",
+            "score": 0.76065
+          },
+          {
+            "tag": "dogshaming",
+            "score": 0.75636
+          },
+          {
+            "tag": "male",
+            "score": 0.74167
+          },
+          {
+            "tag": "prequel adventure",
+            "score": 0.74167
+          },
+          {
+            "tag": "head tuft",
+            "score": 0.73564
+          },
+          {
+            "tag": "parody",
+            "score": 0.73259
+          },
+          {
+            "tag": "feral",
+            "score": 0.73106
+          },
+          {
+            "tag": "the truth",
+            "score": 0.72331
+          },
+          {
+            "tag": "image macro",
+            "score": 0.72331
+          },
+          {
+            "tag": "simple coloring",
+            "score": 0.72096
+          },
+          {
+            "tag": "suggestive",
+            "score": 0.72017
+          },
+          {
+            "tag": "fur",
+            "score": 0.7178
+          },
+          {
+            "tag": "front view",
+            "score": 0.71542
+          },
+          {
+            "tag": "pink nose",
+            "score": 0.70253
+          },
+          {
+            "tag": "conversational sign",
+            "score": 0.70171
+          },
+          {
+            "tag": "mythological creature",
+            "score": 0.68003
+          },
+          {
+            "tag": "caprine",
+            "score": 0.67662
+          },
+          {
+            "tag": "silly",
+            "score": 0.67662
+          },
+          {
+            "tag": "chibi",
+            "score": 0.67233
+          },
+          {
+            "tag": "broken horn",
+            "score": 0.67147
+          },
+          {
+            "tag": "sticker",
+            "score": 0.66628
+          },
+          {
+            "tag": "male (lore)",
+            "score": 0.64423
+          },
+          {
+            "tag": "chest tuft",
+            "score": 0.64153
+          },
+          {
+            "tag": "2 horns",
+            "score": 0.63703
+          },
+          {
+            "tag": "redraw",
+            "score": 0.63703
+          },
+          {
+            "tag": "digital art",
+            "score": 0.63613
+          },
+          {
+            "tag": "orange body",
+            "score": 0.63159
+          },
+          {
+            "tag": "pun",
+            "score": 0.62338
+          },
+          {
+            "tag": "cover",
+            "score": 0.61463
+          },
+          {
+            "tag": "young",
+            "score": 0.60813
+          },
+          {
+            "tag": "lego",
+            "score": 0.60673
+          },
+          {
+            "tag": "flat colors",
+            "score": 0.60533
+          },
+          {
+            "tag": "toony",
+            "score": 0.59831
+          },
+          {
+            "tag": "the simpsons",
+            "score": 0.59502
+          },
+          {
+            "tag": "hybrid",
+            "score": 0.59078
+          },
+          {
+            "tag": "cheek tuft",
+            "score": 0.587
+          },
+          {
+            "tag": "adventure time",
+            "score": 0.58178
+          },
+          {
+            "tag": "outline",
+            "score": 0.5813
+          },
+          {
+            "tag": "transparent background",
+            "score": 0.5794
+          },
+          {
+            "tag": "what",
+            "score": 0.57511
+          },
+          {
+            "tag": "simple eyes",
+            "score": 0.56937
+          },
+          {
+            "tag": "orange fur",
+            "score": 0.56602
+          },
+          {
+            "tag": "derp eyes",
+            "score": 0.56362
+          },
+          {
+            "tag": "text on body",
+            "score": 0.5617
+          },
+          {
+            "tag": "by anonymous artist",
+            "score": 0.55881
+          },
+          {
+            "tag": "brown mane",
+            "score": 0.55568
+          },
+          {
+            "tag": "monster",
+            "score": 0.55423
+          },
+          {
+            "tag": "crown",
+            "score": 0.55133
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.54407
+          },
+          {
+            "tag": "hair",
+            "score": 0.53753
+          },
+          {
+            "tag": "hand gesture",
+            "score": 0.53583
+          },
+          {
+            "tag": "mythology",
+            "score": 0.53558
+          },
+          {
+            "tag": "casual nudity",
+            "score": 0.52805
           }
         ]
       }
@@ -225,8 +465,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "a91f257490f91cae883aded0d676cd7a1bb7c0a8f516e68c8441829ac68157dd",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -388,6 +628,246 @@
           {
             "tag": "fur",
             "score": 0.81048
+          },
+          {
+            "tag": "male (lore)",
+            "score": 0.80685
+          },
+          {
+            "tag": "anthro",
+            "score": 0.78266
+          },
+          {
+            "tag": "head tuft",
+            "score": 0.77458
+          },
+          {
+            "tag": "crossover",
+            "score": 0.77046
+          },
+          {
+            "tag": "the truth",
+            "score": 0.76908
+          },
+          {
+            "tag": "orange body",
+            "score": 0.76769
+          },
+          {
+            "tag": "microsoft",
+            "score": 0.76207
+          },
+          {
+            "tag": "toony",
+            "score": 0.76207
+          },
+          {
+            "tag": "black fur",
+            "score": 0.75347
+          },
+          {
+            "tag": "2024",
+            "score": 0.73564
+          },
+          {
+            "tag": "pantherine",
+            "score": 0.73412
+          },
+          {
+            "tag": "parody",
+            "score": 0.73106
+          },
+          {
+            "tag": "male",
+            "score": 0.72253
+          },
+          {
+            "tag": "hybrid",
+            "score": 0.72253
+          },
+          {
+            "tag": "orange fur",
+            "score": 0.70089
+          },
+          {
+            "tag": "front view",
+            "score": 0.70008
+          },
+          {
+            "tag": "katia managan",
+            "score": 0.69925
+          },
+          {
+            "tag": "english text",
+            "score": 0.69181
+          },
+          {
+            "tag": "highlights (coloring)",
+            "score": 0.69181
+          },
+          {
+            "tag": "digital art",
+            "score": 0.68595
+          },
+          {
+            "tag": "the simpsons",
+            "score": 0.68257
+          },
+          {
+            "tag": "sticker",
+            "score": 0.67747
+          },
+          {
+            "tag": "cat humanoid",
+            "score": 0.67233
+          },
+          {
+            "tag": "flat colors",
+            "score": 0.67233
+          },
+          {
+            "tag": "arms above head",
+            "score": 0.67233
+          },
+          {
+            "tag": "casual nudity",
+            "score": 0.66715
+          },
+          {
+            "tag": "what",
+            "score": 0.6628
+          },
+          {
+            "tag": "gesture",
+            "score": 0.65047
+          },
+          {
+            "tag": "derp eyes",
+            "score": 0.65047
+          },
+          {
+            "tag": "cheek tuft",
+            "score": 0.63703
+          },
+          {
+            "tag": "young",
+            "score": 0.63613
+          },
+          {
+            "tag": "chest tuft",
+            "score": 0.63341
+          },
+          {
+            "tag": "conversational sign",
+            "score": 0.63341
+          },
+          {
+            "tag": "felid humanoid",
+            "score": 0.63068
+          },
+          {
+            "tag": "black mane",
+            "score": 0.62886
+          },
+          {
+            "tag": "spikes",
+            "score": 0.62704
+          },
+          {
+            "tag": "brown mane",
+            "score": 0.62612
+          },
+          {
+            "tag": "black text",
+            "score": 0.62108
+          },
+          {
+            "tag": "cross-eyed",
+            "score": 0.6197
+          },
+          {
+            "tag": "uwu",
+            "score": 0.61832
+          },
+          {
+            "tag": "redraw",
+            "score": 0.61786
+          },
+          {
+            "tag": "two tone hair",
+            "score": 0.61138
+          },
+          {
+            "tag": "generation 1 pokemon",
+            "score": 0.5969
+          },
+          {
+            "tag": "crown",
+            "score": 0.58747
+          },
+          {
+            "tag": "widescreen",
+            "score": 0.58605
+          },
+          {
+            "tag": "asian mythology",
+            "score": 0.58558
+          },
+          {
+            "tag": "black markings",
+            "score": 0.55664
+          },
+          {
+            "tag": "silly",
+            "score": 0.55037
+          },
+          {
+            "tag": "outline",
+            "score": 0.54843
+          },
+          {
+            "tag": "by anonymous artist",
+            "score": 0.54698
+          },
+          {
+            "tag": "2023",
+            "score": 0.54625
+          },
+          {
+            "tag": "simple coloring",
+            "score": 0.54335
+          },
+          {
+            "tag": "lol comments",
+            "score": 0.54214
+          },
+          {
+            "tag": "facial tuft",
+            "score": 0.54141
+          },
+          {
+            "tag": "nintendo",
+            "score": 0.53826
+          },
+          {
+            "tag": "hands behind head",
+            "score": 0.53534
+          },
+          {
+            "tag": "royalty",
+            "score": 0.53388
+          },
+          {
+            "tag": "black body",
+            "score": 0.53243
+          },
+          {
+            "tag": "simple eyes",
+            "score": 0.53218
+          },
+          {
+            "tag": "open smile",
+            "score": 0.52768
           }
         ]
       }
@@ -418,8 +898,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "a24b7ff2dd43e98d82db0efe10c9e7242db2ff392b8eefcbee14096a7fb1e40d",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -581,6 +1061,182 @@
           {
             "tag": "anthro",
             "score": 0.79566
+          },
+          {
+            "tag": "orange body",
+            "score": 0.79311
+          },
+          {
+            "tag": "toony",
+            "score": 0.77322
+          },
+          {
+            "tag": "horn",
+            "score": 0.77046
+          },
+          {
+            "tag": "microsoft",
+            "score": 0.75923
+          },
+          {
+            "tag": "digital drawing (artwork)",
+            "score": 0.72875
+          },
+          {
+            "tag": "khajiit",
+            "score": 0.6943
+          },
+          {
+            "tag": "orange fur",
+            "score": 0.69347
+          },
+          {
+            "tag": "arms above head",
+            "score": 0.69014
+          },
+          {
+            "tag": "flat colors",
+            "score": 0.67147
+          },
+          {
+            "tag": "digital art",
+            "score": 0.67061
+          },
+          {
+            "tag": "chest tuft",
+            "score": 0.67061
+          },
+          {
+            "tag": "conversational sign",
+            "score": 0.66628
+          },
+          {
+            "tag": "gesture",
+            "score": 0.66454
+          },
+          {
+            "tag": "parody",
+            "score": 0.65754
+          },
+          {
+            "tag": "pun",
+            "score": 0.65224
+          },
+          {
+            "tag": "head tuft",
+            "score": 0.64869
+          },
+          {
+            "tag": "black fur",
+            "score": 0.64601
+          },
+          {
+            "tag": "casual nudity",
+            "score": 0.64601
+          },
+          {
+            "tag": "prequel adventure",
+            "score": 0.64423
+          },
+          {
+            "tag": "sticker",
+            "score": 0.63974
+          },
+          {
+            "tag": "lol comments",
+            "score": 0.63522
+          },
+          {
+            "tag": "what",
+            "score": 0.6325
+          },
+          {
+            "tag": "dogshaming",
+            "score": 0.62977
+          },
+          {
+            "tag": "royalty",
+            "score": 0.62795
+          },
+          {
+            "tag": "hair",
+            "score": 0.62246
+          },
+          {
+            "tag": "holidays",
+            "score": 0.622
+          },
+          {
+            "tag": "derp eyes",
+            "score": 0.60253
+          },
+          {
+            "tag": "silly",
+            "score": 0.60019
+          },
+          {
+            "tag": "young",
+            "score": 0.58035
+          },
+          {
+            "tag": "black hair",
+            "score": 0.57129
+          },
+          {
+            "tag": "simple eyes",
+            "score": 0.56937
+          },
+          {
+            "tag": "brown mane",
+            "score": 0.56458
+          },
+          {
+            "tag": "simple coloring",
+            "score": 0.55206
+          },
+          {
+            "tag": "suggestive",
+            "score": 0.55109
+          },
+          {
+            "tag": "crossover",
+            "score": 0.53656
+          },
+          {
+            "tag": "image macro",
+            "score": 0.52659
+          },
+          {
+            "tag": "nude",
+            "score": 0.5222
+          },
+          {
+            "tag": "cheek tuft",
+            "score": 0.52147
+          },
+          {
+            "tag": "2024",
+            "score": 0.51818
+          },
+          {
+            "tag": "hands behind head",
+            "score": 0.51684
+          },
+          {
+            "tag": "happy",
+            "score": 0.50531
+          },
+          {
+            "tag": "redraw",
+            "score": 0.50333
+          },
+          {
+            "tag": "crown",
+            "score": 0.5015
+          },
+          {
+            "tag": "pony",
+            "score": 0.50108
           }
         ]
       }
@@ -611,8 +1267,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "ef84ca74327ca2774ed1965e2733f2640cdb1d2848f6eef6d10005c35ea3fb77",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -774,6 +1430,238 @@
           {
             "tag": "simple background",
             "score": 0.80317
+          },
+          {
+            "tag": "toony",
+            "score": 0.80317
+          },
+          {
+            "tag": "fur",
+            "score": 0.78793
+          },
+          {
+            "tag": "placard",
+            "score": 0.78399
+          },
+          {
+            "tag": "digital drawing (artwork)",
+            "score": 0.75779
+          },
+          {
+            "tag": "head tuft",
+            "score": 0.75491
+          },
+          {
+            "tag": "image macro",
+            "score": 0.72643
+          },
+          {
+            "tag": "orange fur",
+            "score": 0.72331
+          },
+          {
+            "tag": "lol comments",
+            "score": 0.72096
+          },
+          {
+            "tag": "microsoft",
+            "score": 0.71938
+          },
+          {
+            "tag": "flat colors",
+            "score": 0.71622
+          },
+          {
+            "tag": "hand gesture",
+            "score": 0.71463
+          },
+          {
+            "tag": "silly",
+            "score": 0.71463
+          },
+          {
+            "tag": "what",
+            "score": 0.71143
+          },
+          {
+            "tag": "parody",
+            "score": 0.71063
+          },
+          {
+            "tag": "derp eyes",
+            "score": 0.70579
+          },
+          {
+            "tag": "young",
+            "score": 0.6943
+          },
+          {
+            "tag": "casual nudity",
+            "score": 0.69264
+          },
+          {
+            "tag": "black fur",
+            "score": 0.69181
+          },
+          {
+            "tag": "khajiit",
+            "score": 0.68426
+          },
+          {
+            "tag": "widescreen",
+            "score": 0.68088
+          },
+          {
+            "tag": "digital art",
+            "score": 0.67918
+          },
+          {
+            "tag": "hair",
+            "score": 0.67576
+          },
+          {
+            "tag": "arms above head",
+            "score": 0.66105
+          },
+          {
+            "tag": "pun",
+            "score": 0.65842
+          },
+          {
+            "tag": "simple coloring",
+            "score": 0.65135
+          },
+          {
+            "tag": "crossover",
+            "score": 0.6478
+          },
+          {
+            "tag": "prequel adventure",
+            "score": 0.64333
+          },
+          {
+            "tag": "sticker",
+            "score": 0.6197
+          },
+          {
+            "tag": "chest tuft",
+            "score": 0.61878
+          },
+          {
+            "tag": "conversational sign",
+            "score": 0.61878
+          },
+          {
+            "tag": "redraw",
+            "score": 0.61416
+          },
+          {
+            "tag": "simple eyes",
+            "score": 0.60346
+          },
+          {
+            "tag": "crown",
+            "score": 0.59643
+          },
+          {
+            "tag": "brown mane",
+            "score": 0.59408
+          },
+          {
+            "tag": "thick eyebrows",
+            "score": 0.59172
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.58983
+          },
+          {
+            "tag": "cat humanoid",
+            "score": 0.58842
+          },
+          {
+            "tag": "suggestive",
+            "score": 0.58558
+          },
+          {
+            "tag": "source request",
+            "score": 0.58368
+          },
+          {
+            "tag": "alpha channel",
+            "score": 0.57988
+          },
+          {
+            "tag": "2024",
+            "score": 0.57845
+          },
+          {
+            "tag": "royalty",
+            "score": 0.57607
+          },
+          {
+            "tag": "the simpsons",
+            "score": 0.57177
+          },
+          {
+            "tag": "low res",
+            "score": 0.56698
+          },
+          {
+            "tag": "young anthro",
+            "score": 0.56001
+          },
+          {
+            "tag": "pantherine",
+            "score": 0.55664
+          },
+          {
+            "tag": "pony",
+            "score": 0.55182
+          },
+          {
+            "tag": "beard",
+            "score": 0.55085
+          },
+          {
+            "tag": "hands behind head",
+            "score": 0.5494
+          },
+          {
+            "tag": "generation 1 pokemon",
+            "score": 0.54577
+          },
+          {
+            "tag": "black hair",
+            "score": 0.54189
+          },
+          {
+            "tag": "highlights (coloring)",
+            "score": 0.53898
+          },
+          {
+            "tag": "open smile",
+            "score": 0.53218
+          },
+          {
+            "tag": "black mane",
+            "score": 0.52537
+          },
+          {
+            "tag": "horn",
+            "score": 0.52257
+          },
+          {
+            "tag": "by anonymous artist",
+            "score": 0.51056
+          },
+          {
+            "tag": "female (lore)",
+            "score": 0.5065
+          },
+          {
+            "tag": "felid humanoid",
+            "score": 0.50442
           }
         ]
       }
@@ -804,8 +1692,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "fdb39cde5a02c65fae88d87cea306e9aaeb2f743f3b3d37f11b0b6fa1f4ffdaa",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -967,6 +1855,246 @@
           {
             "tag": "digital drawing (artwork)",
             "score": 0.82446
+          },
+          {
+            "tag": "gesture",
+            "score": 0.81168
+          },
+          {
+            "tag": "anthro",
+            "score": 0.81048
+          },
+          {
+            "tag": "placard",
+            "score": 0.80563
+          },
+          {
+            "tag": "head tuft",
+            "score": 0.80069
+          },
+          {
+            "tag": "fur",
+            "score": 0.79944
+          },
+          {
+            "tag": "crossover",
+            "score": 0.79693
+          },
+          {
+            "tag": "horn",
+            "score": 0.79438
+          },
+          {
+            "tag": "young",
+            "score": 0.79182
+          },
+          {
+            "tag": "parody",
+            "score": 0.78923
+          },
+          {
+            "tag": "arms above head",
+            "score": 0.77999
+          },
+          {
+            "tag": "pantherine",
+            "score": 0.77865
+          },
+          {
+            "tag": "sticker",
+            "score": 0.7773
+          },
+          {
+            "tag": "derp eyes",
+            "score": 0.76348
+          },
+          {
+            "tag": "simple background",
+            "score": 0.76065
+          },
+          {
+            "tag": "pink nose",
+            "score": 0.75491
+          },
+          {
+            "tag": "the truth",
+            "score": 0.75055
+          },
+          {
+            "tag": "simple coloring",
+            "score": 0.74762
+          },
+          {
+            "tag": "katia managan",
+            "score": 0.74466
+          },
+          {
+            "tag": "orange fur",
+            "score": 0.74317
+          },
+          {
+            "tag": "uwu",
+            "score": 0.74017
+          },
+          {
+            "tag": "silly",
+            "score": 0.73259
+          },
+          {
+            "tag": "cat humanoid",
+            "score": 0.72565
+          },
+          {
+            "tag": "simple eyes",
+            "score": 0.72487
+          },
+          {
+            "tag": "felid humanoid",
+            "score": 0.71463
+          },
+          {
+            "tag": "digital art",
+            "score": 0.70821
+          },
+          {
+            "tag": "open smile",
+            "score": 0.70253
+          },
+          {
+            "tag": "crown",
+            "score": 0.69347
+          },
+          {
+            "tag": "casual nudity",
+            "score": 0.69181
+          },
+          {
+            "tag": "the simpsons",
+            "score": 0.67918
+          },
+          {
+            "tag": "what",
+            "score": 0.67405
+          },
+          {
+            "tag": "hybrid",
+            "score": 0.66017
+          },
+          {
+            "tag": "royalty",
+            "score": 0.65313
+          },
+          {
+            "tag": "english text",
+            "score": 0.64958
+          },
+          {
+            "tag": "happy",
+            "score": 0.64243
+          },
+          {
+            "tag": "young anthro",
+            "score": 0.63793
+          },
+          {
+            "tag": "chest tuft",
+            "score": 0.62886
+          },
+          {
+            "tag": "lol comments",
+            "score": 0.62521
+          },
+          {
+            "tag": "flat colors",
+            "score": 0.62429
+          },
+          {
+            "tag": "pun",
+            "score": 0.62246
+          },
+          {
+            "tag": "hands behind head",
+            "score": 0.61509
+          },
+          {
+            "tag": "black text",
+            "score": 0.60673
+          },
+          {
+            "tag": "hair",
+            "score": 0.60487
+          },
+          {
+            "tag": "2024",
+            "score": 0.59549
+          },
+          {
+            "tag": "cheek tuft",
+            "score": 0.59172
+          },
+          {
+            "tag": "redraw",
+            "score": 0.58983
+          },
+          {
+            "tag": "front view",
+            "score": 0.58652
+          },
+          {
+            "tag": "thick eyebrows",
+            "score": 0.58558
+          },
+          {
+            "tag": "brown mane",
+            "score": 0.5851
+          },
+          {
+            "tag": "asian mythology",
+            "score": 0.5775
+          },
+          {
+            "tag": "black fur",
+            "score": 0.57416
+          },
+          {
+            "tag": "widescreen",
+            "score": 0.56985
+          },
+          {
+            "tag": "outline",
+            "score": 0.56889
+          },
+          {
+            "tag": "extended arms",
+            "score": 0.56889
+          },
+          {
+            "tag": "generation 1 pokemon",
+            "score": 0.55785
+          },
+          {
+            "tag": "anthrofied",
+            "score": 0.55399
+          },
+          {
+            "tag": "source request",
+            "score": 0.55302
+          },
+          {
+            "tag": "image macro",
+            "score": 0.54262
+          },
+          {
+            "tag": "simple face",
+            "score": 0.54238
+          },
+          {
+            "tag": "eyebrows",
+            "score": 0.53145
+          },
+          {
+            "tag": "suggestive",
+            "score": 0.53109
           }
         ]
       }
@@ -997,8 +2125,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "bac3917596a7edb4442b4d0a7f4d8d6ec6f1e2eb9662613da13ed7e5e5f58598",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -1160,6 +2288,222 @@
           {
             "tag": "casual nudity",
             "score": 0.79053
+          },
+          {
+            "tag": "fur",
+            "score": 0.78793
+          },
+          {
+            "tag": "digital drawing (artwork)",
+            "score": 0.77322
+          },
+          {
+            "tag": "english text",
+            "score": 0.77046
+          },
+          {
+            "tag": "khajiit",
+            "score": 0.77046
+          },
+          {
+            "tag": "placard",
+            "score": 0.75636
+          },
+          {
+            "tag": "anthro",
+            "score": 0.75491
+          },
+          {
+            "tag": "prequel adventure",
+            "score": 0.75347
+          },
+          {
+            "tag": "simple coloring",
+            "score": 0.71859
+          },
+          {
+            "tag": "flat colors",
+            "score": 0.71383
+          },
+          {
+            "tag": "young",
+            "score": 0.7074
+          },
+          {
+            "tag": "sticker",
+            "score": 0.70579
+          },
+          {
+            "tag": "head tuft",
+            "score": 0.70497
+          },
+          {
+            "tag": "brown mane",
+            "score": 0.69761
+          },
+          {
+            "tag": "generation 1 pokemon",
+            "score": 0.69596
+          },
+          {
+            "tag": "digital art",
+            "score": 0.68595
+          },
+          {
+            "tag": "horn",
+            "score": 0.67747
+          },
+          {
+            "tag": "microsoft",
+            "score": 0.67747
+          },
+          {
+            "tag": "arms above head",
+            "score": 0.67319
+          },
+          {
+            "tag": "simple eyes",
+            "score": 0.67319
+          },
+          {
+            "tag": "chest tuft",
+            "score": 0.66801
+          },
+          {
+            "tag": "gesture",
+            "score": 0.66541
+          },
+          {
+            "tag": "2024",
+            "score": 0.65754
+          },
+          {
+            "tag": "katia managan",
+            "score": 0.64691
+          },
+          {
+            "tag": "crossover",
+            "score": 0.64512
+          },
+          {
+            "tag": "orange fur",
+            "score": 0.63884
+          },
+          {
+            "tag": "royalty",
+            "score": 0.63793
+          },
+          {
+            "tag": "parody",
+            "score": 0.62886
+          },
+          {
+            "tag": "derp eyes",
+            "score": 0.62704
+          },
+          {
+            "tag": "pantherine",
+            "score": 0.62521
+          },
+          {
+            "tag": "hair",
+            "score": 0.62338
+          },
+          {
+            "tag": "outline",
+            "score": 0.6174
+          },
+          {
+            "tag": "silly",
+            "score": 0.6137
+          },
+          {
+            "tag": "uwu",
+            "score": 0.60813
+          },
+          {
+            "tag": "what",
+            "score": 0.60113
+          },
+          {
+            "tag": "cat humanoid",
+            "score": 0.58842
+          },
+          {
+            "tag": "highlights (coloring)",
+            "score": 0.57224
+          },
+          {
+            "tag": "felid humanoid",
+            "score": 0.56937
+          },
+          {
+            "tag": "open smile",
+            "score": 0.56842
+          },
+          {
+            "tag": "conversational sign",
+            "score": 0.55833
+          },
+          {
+            "tag": "black fur",
+            "score": 0.55495
+          },
+          {
+            "tag": "front view",
+            "score": 0.55085
+          },
+          {
+            "tag": "black text",
+            "score": 0.54916
+          },
+          {
+            "tag": "lol comments",
+            "score": 0.54795
+          },
+          {
+            "tag": "eyebrows",
+            "score": 0.53486
+          },
+          {
+            "tag": "holidays",
+            "score": 0.53048
+          },
+          {
+            "tag": "female (lore)",
+            "score": 0.52634
+          },
+          {
+            "tag": "cheek tuft",
+            "score": 0.52488
+          },
+          {
+            "tag": "the simpsons",
+            "score": 0.5233
+          },
+          {
+            "tag": "pink nose",
+            "score": 0.52232
+          },
+          {
+            "tag": "young anthro",
+            "score": 0.52196
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.51952
+          },
+          {
+            "tag": "yellow skin",
+            "score": 0.51623
+          },
+          {
+            "tag": "black mane",
+            "score": 0.51001
+          },
+          {
+            "tag": "pun",
+            "score": 0.50152
           }
         ]
       }
@@ -1190,8 +2534,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "7fbd4af962d3aa2853ca08cf59c951baa3340a26b3f5acac20bf15270e14a716",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -1353,6 +2697,202 @@
           {
             "tag": "holding object",
             "score": 0.77046
+          },
+          {
+            "tag": "sticker",
+            "score": 0.75055
+          },
+          {
+            "tag": "orange body",
+            "score": 0.74614
+          },
+          {
+            "tag": "fur",
+            "score": 0.73259
+          },
+          {
+            "tag": "flat colors",
+            "score": 0.73029
+          },
+          {
+            "tag": "toony",
+            "score": 0.72253
+          },
+          {
+            "tag": "digital drawing (artwork)",
+            "score": 0.70416
+          },
+          {
+            "tag": "chest tuft",
+            "score": 0.70335
+          },
+          {
+            "tag": "pantherine",
+            "score": 0.70008
+          },
+          {
+            "tag": "digital art",
+            "score": 0.69264
+          },
+          {
+            "tag": "crown",
+            "score": 0.68342
+          },
+          {
+            "tag": "simple coloring",
+            "score": 0.68088
+          },
+          {
+            "tag": "young",
+            "score": 0.67662
+          },
+          {
+            "tag": "uwu",
+            "score": 0.66801
+          },
+          {
+            "tag": "prequel adventure",
+            "score": 0.66367
+          },
+          {
+            "tag": "conversational sign",
+            "score": 0.6628
+          },
+          {
+            "tag": "casual nudity",
+            "score": 0.65754
+          },
+          {
+            "tag": "microsoft",
+            "score": 0.65666
+          },
+          {
+            "tag": "royalty",
+            "score": 0.64869
+          },
+          {
+            "tag": "arms above head",
+            "score": 0.63068
+          },
+          {
+            "tag": "beard",
+            "score": 0.62795
+          },
+          {
+            "tag": "brown mane",
+            "score": 0.61878
+          },
+          {
+            "tag": "khajiit",
+            "score": 0.61601
+          },
+          {
+            "tag": "asian mythology",
+            "score": 0.61185
+          },
+          {
+            "tag": "gesture",
+            "score": 0.61045
+          },
+          {
+            "tag": "simple eyes",
+            "score": 0.61045
+          },
+          {
+            "tag": "orange fur",
+            "score": 0.59737
+          },
+          {
+            "tag": "what",
+            "score": 0.59078
+          },
+          {
+            "tag": "the simpsons",
+            "score": 0.58936
+          },
+          {
+            "tag": "facial hair",
+            "score": 0.57845
+          },
+          {
+            "tag": "suggestive",
+            "score": 0.56937
+          },
+          {
+            "tag": "head tuft",
+            "score": 0.56554
+          },
+          {
+            "tag": "parody",
+            "score": 0.56506
+          },
+          {
+            "tag": "outline",
+            "score": 0.5576
+          },
+          {
+            "tag": "derp eyes",
+            "score": 0.55447
+          },
+          {
+            "tag": "cover",
+            "score": 0.5494
+          },
+          {
+            "tag": "hair",
+            "score": 0.54504
+          },
+          {
+            "tag": "mythological equine",
+            "score": 0.54165
+          },
+          {
+            "tag": "hands behind head",
+            "score": 0.54068
+          },
+          {
+            "tag": "dogshaming",
+            "score": 0.53728
+          },
+          {
+            "tag": "katia managan",
+            "score": 0.53631
+          },
+          {
+            "tag": "widescreen",
+            "score": 0.52805
+          },
+          {
+            "tag": "pink nose",
+            "score": 0.5278
+          },
+          {
+            "tag": "crossover",
+            "score": 0.52671
+          },
+          {
+            "tag": "nude",
+            "score": 0.52403
+          },
+          {
+            "tag": "silly",
+            "score": 0.52171
+          },
+          {
+            "tag": "hybrid",
+            "score": 0.52098
+          },
+          {
+            "tag": "source request",
+            "score": 0.51855
+          },
+          {
+            "tag": "black mane",
+            "score": 0.50995
+          },
+          {
+            "tag": "cheek tuft",
+            "score": 0.50464
           }
         ]
       }
@@ -1389,8 +2929,8 @@
         "model": "lodestones/taggerine",
         "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
         "image_sha256": "067ffb7f55e14654f5428dd17477660ed31491b6174baa354f9ec17ead52d7fa",
-        "threshold": 0.35,
-        "max_tags": 40,
+        "threshold": 0.5,
+        "max_tags": 100,
         "preprocessing": "white-background-512-v1",
         "tags": [
           {
@@ -1552,6 +3092,222 @@
           {
             "tag": "simple background",
             "score": 0.82783
+          },
+          {
+            "tag": "unicorn horn",
+            "score": 0.81874
+          },
+          {
+            "tag": "facial hair",
+            "score": 0.81523
+          },
+          {
+            "tag": "beard",
+            "score": 0.81523
+          },
+          {
+            "tag": "holding object",
+            "score": 0.79182
+          },
+          {
+            "tag": "lego",
+            "score": 0.76908
+          },
+          {
+            "tag": "placard",
+            "score": 0.76348
+          },
+          {
+            "tag": "tuft",
+            "score": 0.75347
+          },
+          {
+            "tag": "caprine",
+            "score": 0.75201
+          },
+          {
+            "tag": "shitpost",
+            "score": 0.74167
+          },
+          {
+            "tag": "orange body",
+            "score": 0.73412
+          },
+          {
+            "tag": "uwu",
+            "score": 0.72331
+          },
+          {
+            "tag": "microsoft",
+            "score": 0.72174
+          },
+          {
+            "tag": "pink nose",
+            "score": 0.70171
+          },
+          {
+            "tag": "mythological creature",
+            "score": 0.70089
+          },
+          {
+            "tag": "lol comments",
+            "score": 0.68931
+          },
+          {
+            "tag": "toony",
+            "score": 0.68847
+          },
+          {
+            "tag": "fur",
+            "score": 0.68003
+          },
+          {
+            "tag": "mythology",
+            "score": 0.67147
+          },
+          {
+            "tag": "head tuft",
+            "score": 0.66888
+          },
+          {
+            "tag": "broken horn",
+            "score": 0.66541
+          },
+          {
+            "tag": "male (lore)",
+            "score": 0.65313
+          },
+          {
+            "tag": "front view",
+            "score": 0.65047
+          },
+          {
+            "tag": "brown mane",
+            "score": 0.64869
+          },
+          {
+            "tag": "sticker",
+            "score": 0.64601
+          },
+          {
+            "tag": "khajiit",
+            "score": 0.64512
+          },
+          {
+            "tag": "pun",
+            "score": 0.64333
+          },
+          {
+            "tag": "adventure time",
+            "score": 0.64064
+          },
+          {
+            "tag": "orange fur",
+            "score": 0.6325
+          },
+          {
+            "tag": "hybrid",
+            "score": 0.63159
+          },
+          {
+            "tag": "heart (marking)",
+            "score": 0.62795
+          },
+          {
+            "tag": "chest tuft",
+            "score": 0.62154
+          },
+          {
+            "tag": "hand gesture",
+            "score": 0.61924
+          },
+          {
+            "tag": "conversational sign",
+            "score": 0.60952
+          },
+          {
+            "tag": "silly",
+            "score": 0.60813
+          },
+          {
+            "tag": "dogshaming",
+            "score": 0.6044
+          },
+          {
+            "tag": "outline",
+            "score": 0.5969
+          },
+          {
+            "tag": "derp eyes",
+            "score": 0.59078
+          },
+          {
+            "tag": "hi res",
+            "score": 0.58936
+          },
+          {
+            "tag": "feral",
+            "score": 0.5813
+          },
+          {
+            "tag": "flat colors",
+            "score": 0.57988
+          },
+          {
+            "tag": "2 horns",
+            "score": 0.57463
+          },
+          {
+            "tag": "digital art",
+            "score": 0.55929
+          },
+          {
+            "tag": "equine",
+            "score": 0.55809
+          },
+          {
+            "tag": "hair",
+            "score": 0.55447
+          },
+          {
+            "tag": "monster",
+            "score": 0.55037
+          },
+          {
+            "tag": "by anonymous artist",
+            "score": 0.55012
+          },
+          {
+            "tag": "what",
+            "score": 0.54988
+          },
+          {
+            "tag": "prequel adventure",
+            "score": 0.54771
+          },
+          {
+            "tag": "arms above head",
+            "score": 0.54286
+          },
+          {
+            "tag": "black text",
+            "score": 0.54238
+          },
+          {
+            "tag": "equid",
+            "score": 0.53971
+          },
+          {
+            "tag": "the truth",
+            "score": 0.53947
+          },
+          {
+            "tag": "shy",
+            "score": 0.51019
+          },
+          {
+            "tag": "nonbinary (lore)",
+            "score": 0.50519
           }
         ]
       }
