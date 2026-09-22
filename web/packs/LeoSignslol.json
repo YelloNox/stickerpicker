@@ -1,1 +1,1560 @@
-{"title": "LeoSigns", "id": "tg-4710092360652947479", "net.maunium.telegram.pack": {"short_name": "LeoSignslol", "hash": "-211614614"}, "stickers": [{"body": "🤓", "url": "mxc://matrix.yello.page/KWIPSqVSKzljVLohuvXDMJkJ", "info": {"w": 256, "h": 256, "size": 109036, "mimetype": "image/png", "thumbnail_url": "mxc://matrix.yello.page/KWIPSqVSKzljVLohuvXDMJkJ", "thumbnail_info": {"w": 256, "h": 256, "size": 109036, "mimetype": "image/png"}}, "msgtype": "m.sticker", "net.maunium.telegram.sticker": {"emoticons": ["🤓"]}}, {"body": "🫥", "url": "mxc://matrix.yello.page/wodhbGDazocanlJuiVVLjxAH", "info": {"w": 256, "h": 256, "size": 133395, "mimetype": "image/png", "thumbnail_url": "mxc://matrix.yello.page/wodhbGDazocanlJuiVVLjxAH", "thumbnail_info": {"w": 256, "h": 256, "size": 133395, "mimetype": "image/png"}}, "msgtype": "m.sticker", "net.maunium.telegram.sticker": {"emoticons": ["🫥"]}}, {"body": "🫥", "url": "mxc://matrix.yello.page/fNxetGNOArWeMIyjmGTgAcMH", "info": {"w": 256, "h": 256, "size": 107094, "mimetype": "image/png", "thumbnail_url": "mxc://matrix.yello.page/fNxetGNOArWeMIyjmGTgAcMH", "thumbnail_info": {"w": 256, "h": 256, "size": 107094, "mimetype": "image/png"}}, "msgtype": "m.sticker", "net.maunium.telegram.sticker": {"emoticons": ["🫥"]}}, {"body": "🫥", "url": "mxc://matrix.yello.page/HiapbwTddvxEfzllrqTIAvFT", "info": {"w": 256, "h": 256, "size": 102767, "mimetype": "image/png", "thumbnail_url": "mxc://matrix.yello.page/HiapbwTddvxEfzllrqTIAvFT", "thumbnail_info": {"w": 256, "h": 256, "size": 102767, "mimetype": "image/png"}}, "msgtype": "m.sticker", "net.maunium.telegram.sticker": {"emoticons": ["🫥"]}}, {"body": "🫥", "url": "mxc://matrix.yello.page/eabRnZhiAeRrrMcKTGvjIZUL", "info": {"w": 256, "h": 256, "size": 109458, "mimetype": "image/png", "thumbnail_url": "mxc://matrix.yello.page/eabRnZhiAeRrrMcKTGvjIZUL", "thumbnail_info": {"w": 256, "h": 256, "size": 109458, "mimetype": "image/png"}}, "msgtype": "m.sticker", "net.maunium.telegram.sticker": {"emoticons": ["🫥"]}}, {"body": "🫥", "url": "mxc://matrix.yello.page/TXFJZVfxiigJTnYrMKGeaEyi", "info": {"w": 256, "h": 256, "size": 112561, "mimetype": "image/png", "thumbnail_url": "mxc://matrix.yello.page/TXFJZVfxiigJTnYrMKGeaEyi", "thumbnail_info": {"w": 256, "h": 256, "size": 112561, "mimetype": "image/png"}}, "msgtype": "m.sticker", "net.maunium.telegram.sticker": {"emoticons": ["🫥"]}}, {"body": "🫥", "url": "mxc://matrix.yello.page/RKJtxkXYvyIhKxtAfcQqdtTF", "info": {"w": 256, "h": 256, "size": 122974, "mimetype": "image/png", "thumbnail_url": "mxc://matrix.yello.page/RKJtxkXYvyIhKxtAfcQqdtTF", "thumbnail_info": {"w": 256, "h": 256, "size": 122974, "mimetype": "image/png"}}, "msgtype": "m.sticker", "net.maunium.telegram.sticker": {"emoticons": ["🫥"]}}, {"body": "👍", "url": "mxc://matrix.yello.page/FeXrlPlpkkkZRKWrsvtnSdaG", "info": {"w": 256, "h": 256, "size": 107345, "mimetype": "image/png", "thumbnail_url": "mxc://matrix.yello.page/FeXrlPlpkkkZRKWrsvtnSdaG", "thumbnail_info": {"w": 256, "h": 256, "size": 107345, "mimetype": "image/png"}}, "msgtype": "m.sticker", "id": "tg-5024248860210365474", "net.maunium.telegram.sticker": {"pack": {"id": "4710092360652947479", "short_name": "LeoSignslol"}, "id": "5024248860210365474", "emoticons": ["👍"]}}]}
+{
+  "title": "LeoSigns",
+  "id": "tg-4710092360652947479",
+  "net.maunium.telegram.pack": {
+    "short_name": "LeoSignslol",
+    "hash": "-211614614"
+  },
+  "stickers": [
+    {
+      "body": "🤓",
+      "url": "mxc://matrix.yello.page/KWIPSqVSKzljVLohuvXDMJkJ",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 109036,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.yello.page/KWIPSqVSKzljVLohuvXDMJkJ",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 109036,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "net.maunium.telegram.sticker": {
+        "emoticons": [
+          "🤓"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "3ac21c3faf52d0ac2f80165e3904c7946e5288095aa53a866da043cc678e9493",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "sign",
+            "score": 0.99937
+          },
+          {
+            "tag": "holding sign",
+            "score": 0.999
+          },
+          {
+            "tag": "meme",
+            "score": 0.99876
+          },
+          {
+            "tag": "felid",
+            "score": 0.99854
+          },
+          {
+            "tag": "feline",
+            "score": 0.99629
+          },
+          {
+            "tag": "horn",
+            "score": 0.99618
+          },
+          {
+            "tag": "humor",
+            "score": 0.99462
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.98718
+          },
+          {
+            "tag": "domestic cat",
+            "score": 0.98594
+          },
+          {
+            "tag": "mane",
+            "score": 0.98145
+          },
+          {
+            "tag": "felis",
+            "score": 0.97771
+          },
+          {
+            "tag": "text",
+            "score": 0.97199
+          },
+          {
+            "tag": "the elder scrolls",
+            "score": 0.96486
+          },
+          {
+            "tag": "looking up",
+            "score": 0.96211
+          },
+          {
+            "tag": "yellow body",
+            "score": 0.96036
+          },
+          {
+            "tag": "mammal",
+            "score": 0.95791
+          },
+          {
+            "tag": "solo",
+            "score": 0.95465
+          },
+          {
+            "tag": "mythological equine",
+            "score": 0.9458
+          },
+          {
+            "tag": "big eyes",
+            "score": 0.9458
+          },
+          {
+            "tag": "unicorn",
+            "score": 0.94418
+          },
+          {
+            "tag": "white background",
+            "score": 0.94079
+          },
+          {
+            "tag": "yellow fur",
+            "score": 0.93991
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.93812
+          },
+          {
+            "tag": "shitpost",
+            "score": 0.93812
+          },
+          {
+            "tag": "1:1",
+            "score": 0.93721
+          },
+          {
+            "tag": "raised arms",
+            "score": 0.92841
+          },
+          {
+            "tag": "fan character",
+            "score": 0.92304
+          },
+          {
+            "tag": "lion",
+            "score": 0.90053
+          },
+          {
+            "tag": "gesture",
+            "score": 0.89912
+          },
+          {
+            "tag": "english text",
+            "score": 0.89625
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.87915
+          },
+          {
+            "tag": "colored",
+            "score": 0.87493
+          },
+          {
+            "tag": "raised arm",
+            "score": 0.87147
+          },
+          {
+            "tag": "digital drawing (artwork)",
+            "score": 0.8606
+          },
+          {
+            "tag": "placard",
+            "score": 0.84696
+          },
+          {
+            "tag": "microsoft",
+            "score": 0.83655
+          },
+          {
+            "tag": "white horn",
+            "score": 0.82783
+          },
+          {
+            "tag": "khajiit",
+            "score": 0.81989
+          },
+          {
+            "tag": "uwu",
+            "score": 0.81989
+          },
+          {
+            "tag": "anthro",
+            "score": 0.81523
+          }
+        ]
+      }
+    },
+    {
+      "body": "🫥",
+      "url": "mxc://matrix.yello.page/wodhbGDazocanlJuiVVLjxAH",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 133395,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.yello.page/wodhbGDazocanlJuiVVLjxAH",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 133395,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "net.maunium.telegram.sticker": {
+        "emoticons": [
+          "🫥"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "a91f257490f91cae883aded0d676cd7a1bb7c0a8f516e68c8441829ac68157dd",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "felid",
+            "score": 0.99948
+          },
+          {
+            "tag": "feline",
+            "score": 0.99819
+          },
+          {
+            "tag": "sign",
+            "score": 0.99753
+          },
+          {
+            "tag": "meme",
+            "score": 0.99729
+          },
+          {
+            "tag": "holding sign",
+            "score": 0.99711
+          },
+          {
+            "tag": "felis",
+            "score": 0.9939
+          },
+          {
+            "tag": "domestic cat",
+            "score": 0.9931
+          },
+          {
+            "tag": "mane",
+            "score": 0.99194
+          },
+          {
+            "tag": "humor",
+            "score": 0.98967
+          },
+          {
+            "tag": "yellow body",
+            "score": 0.98117
+          },
+          {
+            "tag": "yellow fur",
+            "score": 0.97737
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.97631
+          },
+          {
+            "tag": "big eyes",
+            "score": 0.9752
+          },
+          {
+            "tag": "fan character",
+            "score": 0.96838
+          },
+          {
+            "tag": "white background",
+            "score": 0.96036
+          },
+          {
+            "tag": "the elder scrolls",
+            "score": 0.95257
+          },
+          {
+            "tag": "looking up",
+            "score": 0.94967
+          },
+          {
+            "tag": "text",
+            "score": 0.9458
+          },
+          {
+            "tag": "raised arms",
+            "score": 0.94335
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.93812
+          },
+          {
+            "tag": "feral",
+            "score": 0.93535
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.92841
+          },
+          {
+            "tag": "mammal",
+            "score": 0.9263
+          },
+          {
+            "tag": "solo",
+            "score": 0.91848
+          },
+          {
+            "tag": "colored",
+            "score": 0.9173
+          },
+          {
+            "tag": "cartoon network",
+            "score": 0.91368
+          },
+          {
+            "tag": "lion",
+            "score": 0.90053
+          },
+          {
+            "tag": "tuft",
+            "score": 0.8977
+          },
+          {
+            "tag": "raised arm",
+            "score": 0.8872
+          },
+          {
+            "tag": "horn",
+            "score": 0.87831
+          },
+          {
+            "tag": "prequel adventure",
+            "score": 0.86339
+          },
+          {
+            "tag": "1:1",
+            "score": 0.85872
+          },
+          {
+            "tag": "pink nose",
+            "score": 0.85681
+          },
+          {
+            "tag": "shitpost",
+            "score": 0.84997
+          },
+          {
+            "tag": "khajiit",
+            "score": 0.84594
+          },
+          {
+            "tag": "placard",
+            "score": 0.83655
+          },
+          {
+            "tag": "digital drawing (artwork)",
+            "score": 0.82559
+          },
+          {
+            "tag": "holding object",
+            "score": 0.82446
+          },
+          {
+            "tag": "simple background",
+            "score": 0.81287
+          },
+          {
+            "tag": "fur",
+            "score": 0.81048
+          }
+        ]
+      }
+    },
+    {
+      "body": "🫥",
+      "url": "mxc://matrix.yello.page/fNxetGNOArWeMIyjmGTgAcMH",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 107094,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.yello.page/fNxetGNOArWeMIyjmGTgAcMH",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 107094,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "net.maunium.telegram.sticker": {
+        "emoticons": [
+          "🫥"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "a24b7ff2dd43e98d82db0efe10c9e7242db2ff392b8eefcbee14096a7fb1e40d",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "felid",
+            "score": 0.99903
+          },
+          {
+            "tag": "meme",
+            "score": 0.99845
+          },
+          {
+            "tag": "sign",
+            "score": 0.99807
+          },
+          {
+            "tag": "holding sign",
+            "score": 0.99652
+          },
+          {
+            "tag": "humor",
+            "score": 0.99629
+          },
+          {
+            "tag": "feline",
+            "score": 0.99605
+          },
+          {
+            "tag": "felis",
+            "score": 0.98967
+          },
+          {
+            "tag": "domestic cat",
+            "score": 0.98867
+          },
+          {
+            "tag": "mane",
+            "score": 0.98678
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.97113
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.96741
+          },
+          {
+            "tag": "text",
+            "score": 0.96641
+          },
+          {
+            "tag": "white background",
+            "score": 0.96153
+          },
+          {
+            "tag": "yellow fur",
+            "score": 0.95186
+          },
+          {
+            "tag": "yellow body",
+            "score": 0.94967
+          },
+          {
+            "tag": "big eyes",
+            "score": 0.94418
+          },
+          {
+            "tag": "fan character",
+            "score": 0.94251
+          },
+          {
+            "tag": "the elder scrolls",
+            "score": 0.94251
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.94165
+          },
+          {
+            "tag": "mammal",
+            "score": 0.93902
+          },
+          {
+            "tag": "solo",
+            "score": 0.9344
+          },
+          {
+            "tag": "feral",
+            "score": 0.92523
+          },
+          {
+            "tag": "1:1",
+            "score": 0.91368
+          },
+          {
+            "tag": "shitpost",
+            "score": 0.90599
+          },
+          {
+            "tag": "looking up",
+            "score": 0.90465
+          },
+          {
+            "tag": "colored",
+            "score": 0.90329
+          },
+          {
+            "tag": "the truth",
+            "score": 0.89625
+          },
+          {
+            "tag": "placard",
+            "score": 0.87748
+          },
+          {
+            "tag": "english text",
+            "score": 0.86883
+          },
+          {
+            "tag": "raised arms",
+            "score": 0.86522
+          },
+          {
+            "tag": "male",
+            "score": 0.8606
+          },
+          {
+            "tag": "holding object",
+            "score": 0.85966
+          },
+          {
+            "tag": "tuft",
+            "score": 0.85294
+          },
+          {
+            "tag": "cartoon network",
+            "score": 0.83655
+          },
+          {
+            "tag": "male (lore)",
+            "score": 0.83224
+          },
+          {
+            "tag": "raised arm",
+            "score": 0.81405
+          },
+          {
+            "tag": "simple background",
+            "score": 0.80194
+          },
+          {
+            "tag": "lion",
+            "score": 0.80194
+          },
+          {
+            "tag": "fur",
+            "score": 0.80069
+          },
+          {
+            "tag": "anthro",
+            "score": 0.79566
+          }
+        ]
+      }
+    },
+    {
+      "body": "🫥",
+      "url": "mxc://matrix.yello.page/HiapbwTddvxEfzllrqTIAvFT",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 102767,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.yello.page/HiapbwTddvxEfzllrqTIAvFT",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 102767,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "net.maunium.telegram.sticker": {
+        "emoticons": [
+          "🫥"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "ef84ca74327ca2774ed1965e2733f2640cdb1d2848f6eef6d10005c35ea3fb77",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "felid",
+            "score": 0.99917
+          },
+          {
+            "tag": "meme",
+            "score": 0.9984
+          },
+          {
+            "tag": "feline",
+            "score": 0.9972
+          },
+          {
+            "tag": "sign",
+            "score": 0.9958
+          },
+          {
+            "tag": "humor",
+            "score": 0.99539
+          },
+          {
+            "tag": "holding sign",
+            "score": 0.99445
+          },
+          {
+            "tag": "felis",
+            "score": 0.99265
+          },
+          {
+            "tag": "domestic cat",
+            "score": 0.99242
+          },
+          {
+            "tag": "mane",
+            "score": 0.98678
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.98636
+          },
+          {
+            "tag": "big eyes",
+            "score": 0.96641
+          },
+          {
+            "tag": "solo",
+            "score": 0.96538
+          },
+          {
+            "tag": "white background",
+            "score": 0.95976
+          },
+          {
+            "tag": "shitpost",
+            "score": 0.95598
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.95465
+          },
+          {
+            "tag": "text",
+            "score": 0.95328
+          },
+          {
+            "tag": "yellow body",
+            "score": 0.95041
+          },
+          {
+            "tag": "mammal",
+            "score": 0.94892
+          },
+          {
+            "tag": "yellow fur",
+            "score": 0.9344
+          },
+          {
+            "tag": "fan character",
+            "score": 0.93245
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.93146
+          },
+          {
+            "tag": "raised arms",
+            "score": 0.91244
+          },
+          {
+            "tag": "the elder scrolls",
+            "score": 0.90329
+          },
+          {
+            "tag": "1:1",
+            "score": 0.90192
+          },
+          {
+            "tag": "feral",
+            "score": 0.89181
+          },
+          {
+            "tag": "colored",
+            "score": 0.8872
+          },
+          {
+            "tag": "male",
+            "score": 0.87663
+          },
+          {
+            "tag": "cartoon network",
+            "score": 0.87493
+          },
+          {
+            "tag": "raised arm",
+            "score": 0.87235
+          },
+          {
+            "tag": "looking up",
+            "score": 0.86247
+          },
+          {
+            "tag": "tuft",
+            "score": 0.85966
+          },
+          {
+            "tag": "the truth",
+            "score": 0.85872
+          },
+          {
+            "tag": "holding object",
+            "score": 0.85294
+          },
+          {
+            "tag": "lion",
+            "score": 0.83655
+          },
+          {
+            "tag": "orange body",
+            "score": 0.83114
+          },
+          {
+            "tag": "gesture",
+            "score": 0.82671
+          },
+          {
+            "tag": "male (lore)",
+            "score": 0.82104
+          },
+          {
+            "tag": "english text",
+            "score": 0.81168
+          },
+          {
+            "tag": "anthro",
+            "score": 0.80441
+          },
+          {
+            "tag": "simple background",
+            "score": 0.80317
+          }
+        ]
+      }
+    },
+    {
+      "body": "🫥",
+      "url": "mxc://matrix.yello.page/eabRnZhiAeRrrMcKTGvjIZUL",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 109458,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.yello.page/eabRnZhiAeRrrMcKTGvjIZUL",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 109458,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "net.maunium.telegram.sticker": {
+        "emoticons": [
+          "🫥"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "fdb39cde5a02c65fae88d87cea306e9aaeb2f743f3b3d37f11b0b6fa1f4ffdaa",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "felid",
+            "score": 0.99974
+          },
+          {
+            "tag": "feline",
+            "score": 0.99909
+          },
+          {
+            "tag": "meme",
+            "score": 0.99807
+          },
+          {
+            "tag": "felis",
+            "score": 0.99683
+          },
+          {
+            "tag": "domestic cat",
+            "score": 0.99673
+          },
+          {
+            "tag": "humor",
+            "score": 0.99593
+          },
+          {
+            "tag": "sign",
+            "score": 0.99445
+          },
+          {
+            "tag": "holding sign",
+            "score": 0.98504
+          },
+          {
+            "tag": "mane",
+            "score": 0.98458
+          },
+          {
+            "tag": "big eyes",
+            "score": 0.9836
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.97324
+          },
+          {
+            "tag": "yellow body",
+            "score": 0.97113
+          },
+          {
+            "tag": "the elder scrolls",
+            "score": 0.97024
+          },
+          {
+            "tag": "text",
+            "score": 0.96432
+          },
+          {
+            "tag": "white background",
+            "score": 0.96323
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.96323
+          },
+          {
+            "tag": "fan character",
+            "score": 0.95532
+          },
+          {
+            "tag": "mammal",
+            "score": 0.95397
+          },
+          {
+            "tag": "lion",
+            "score": 0.95328
+          },
+          {
+            "tag": "solo",
+            "score": 0.95041
+          },
+          {
+            "tag": "yellow fur",
+            "score": 0.95041
+          },
+          {
+            "tag": "raised arms",
+            "score": 0.9458
+          },
+          {
+            "tag": "shitpost",
+            "score": 0.94418
+          },
+          {
+            "tag": "looking up",
+            "score": 0.93629
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.93535
+          },
+          {
+            "tag": "feral",
+            "score": 0.92841
+          },
+          {
+            "tag": "colored",
+            "score": 0.91848
+          },
+          {
+            "tag": "tuft",
+            "score": 0.91118
+          },
+          {
+            "tag": "cartoon network",
+            "score": 0.90862
+          },
+          {
+            "tag": "1:1",
+            "score": 0.90465
+          },
+          {
+            "tag": "prequel adventure",
+            "score": 0.89625
+          },
+          {
+            "tag": "microsoft",
+            "score": 0.89331
+          },
+          {
+            "tag": "raised arm",
+            "score": 0.89029
+          },
+          {
+            "tag": "khajiit",
+            "score": 0.88876
+          },
+          {
+            "tag": "male (lore)",
+            "score": 0.8606
+          },
+          {
+            "tag": "toony",
+            "score": 0.85681
+          },
+          {
+            "tag": "orange body",
+            "score": 0.85585
+          },
+          {
+            "tag": "male",
+            "score": 0.84897
+          },
+          {
+            "tag": "holding object",
+            "score": 0.82783
+          },
+          {
+            "tag": "digital drawing (artwork)",
+            "score": 0.82446
+          }
+        ]
+      }
+    },
+    {
+      "body": "🫥",
+      "url": "mxc://matrix.yello.page/TXFJZVfxiigJTnYrMKGeaEyi",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 112561,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.yello.page/TXFJZVfxiigJTnYrMKGeaEyi",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 112561,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "net.maunium.telegram.sticker": {
+        "emoticons": [
+          "🫥"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "bac3917596a7edb4442b4d0a7f4d8d6ec6f1e2eb9662613da13ed7e5e5f58598",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "felid",
+            "score": 0.9992
+          },
+          {
+            "tag": "meme",
+            "score": 0.99737
+          },
+          {
+            "tag": "feline",
+            "score": 0.99702
+          },
+          {
+            "tag": "sign",
+            "score": 0.99539
+          },
+          {
+            "tag": "mane",
+            "score": 0.99427
+          },
+          {
+            "tag": "felis",
+            "score": 0.9939
+          },
+          {
+            "tag": "humor",
+            "score": 0.99288
+          },
+          {
+            "tag": "domestic cat",
+            "score": 0.99142
+          },
+          {
+            "tag": "holding sign",
+            "score": 0.99059
+          },
+          {
+            "tag": "big eyes",
+            "score": 0.97113
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.9679
+          },
+          {
+            "tag": "yellow body",
+            "score": 0.95915
+          },
+          {
+            "tag": "white background",
+            "score": 0.95854
+          },
+          {
+            "tag": "solo",
+            "score": 0.95663
+          },
+          {
+            "tag": "yellow fur",
+            "score": 0.95465
+          },
+          {
+            "tag": "text",
+            "score": 0.95397
+          },
+          {
+            "tag": "the elder scrolls",
+            "score": 0.95186
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.94967
+          },
+          {
+            "tag": "looking up",
+            "score": 0.94815
+          },
+          {
+            "tag": "fan character",
+            "score": 0.9466
+          },
+          {
+            "tag": "raised arms",
+            "score": 0.94079
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.92523
+          },
+          {
+            "tag": "lion",
+            "score": 0.90991
+          },
+          {
+            "tag": "feral",
+            "score": 0.90862
+          },
+          {
+            "tag": "mammal",
+            "score": 0.90465
+          },
+          {
+            "tag": "shitpost",
+            "score": 0.89479
+          },
+          {
+            "tag": "tuft",
+            "score": 0.88563
+          },
+          {
+            "tag": "cartoon network",
+            "score": 0.88563
+          },
+          {
+            "tag": "1:1",
+            "score": 0.88243
+          },
+          {
+            "tag": "raised arm",
+            "score": 0.87147
+          },
+          {
+            "tag": "colored",
+            "score": 0.85488
+          },
+          {
+            "tag": "holding object",
+            "score": 0.85096
+          },
+          {
+            "tag": "the truth",
+            "score": 0.82104
+          },
+          {
+            "tag": "male (lore)",
+            "score": 0.81523
+          },
+          {
+            "tag": "simple background",
+            "score": 0.81048
+          },
+          {
+            "tag": "male",
+            "score": 0.80317
+          },
+          {
+            "tag": "crown",
+            "score": 0.79944
+          },
+          {
+            "tag": "toony",
+            "score": 0.79944
+          },
+          {
+            "tag": "orange body",
+            "score": 0.79311
+          },
+          {
+            "tag": "casual nudity",
+            "score": 0.79053
+          }
+        ]
+      }
+    },
+    {
+      "body": "🫥",
+      "url": "mxc://matrix.yello.page/RKJtxkXYvyIhKxtAfcQqdtTF",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 122974,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.yello.page/RKJtxkXYvyIhKxtAfcQqdtTF",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 122974,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "net.maunium.telegram.sticker": {
+        "emoticons": [
+          "🫥"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "7fbd4af962d3aa2853ca08cf59c951baa3340a26b3f5acac20bf15270e14a716",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "sign",
+            "score": 0.99879
+          },
+          {
+            "tag": "felid",
+            "score": 0.99854
+          },
+          {
+            "tag": "meme",
+            "score": 0.99683
+          },
+          {
+            "tag": "holding sign",
+            "score": 0.99618
+          },
+          {
+            "tag": "feline",
+            "score": 0.99567
+          },
+          {
+            "tag": "mane",
+            "score": 0.99194
+          },
+          {
+            "tag": "humor",
+            "score": 0.98999
+          },
+          {
+            "tag": "felis",
+            "score": 0.98901
+          },
+          {
+            "tag": "domestic cat",
+            "score": 0.9836
+          },
+          {
+            "tag": "yellow body",
+            "score": 0.96538
+          },
+          {
+            "tag": "yellow fur",
+            "score": 0.95598
+          },
+          {
+            "tag": "fan character",
+            "score": 0.95465
+          },
+          {
+            "tag": "big eyes",
+            "score": 0.95328
+          },
+          {
+            "tag": "text",
+            "score": 0.95257
+          },
+          {
+            "tag": "white background",
+            "score": 0.95257
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.94335
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.94079
+          },
+          {
+            "tag": "solo",
+            "score": 0.9344
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.93046
+          },
+          {
+            "tag": "looking up",
+            "score": 0.92841
+          },
+          {
+            "tag": "lion",
+            "score": 0.92841
+          },
+          {
+            "tag": "1:1",
+            "score": 0.9263
+          },
+          {
+            "tag": "the elder scrolls",
+            "score": 0.92414
+          },
+          {
+            "tag": "raised arms",
+            "score": 0.92079
+          },
+          {
+            "tag": "mammal",
+            "score": 0.88876
+          },
+          {
+            "tag": "raised arm",
+            "score": 0.88404
+          },
+          {
+            "tag": "shitpost",
+            "score": 0.87663
+          },
+          {
+            "tag": "placard",
+            "score": 0.87321
+          },
+          {
+            "tag": "male",
+            "score": 0.86883
+          },
+          {
+            "tag": "horn",
+            "score": 0.86883
+          },
+          {
+            "tag": "tuft",
+            "score": 0.84997
+          },
+          {
+            "tag": "feral",
+            "score": 0.83441
+          },
+          {
+            "tag": "colored",
+            "score": 0.83441
+          },
+          {
+            "tag": "the truth",
+            "score": 0.82104
+          },
+          {
+            "tag": "male (lore)",
+            "score": 0.81287
+          },
+          {
+            "tag": "simple background",
+            "score": 0.79438
+          },
+          {
+            "tag": "anthro",
+            "score": 0.78133
+          },
+          {
+            "tag": "cartoon network",
+            "score": 0.77865
+          },
+          {
+            "tag": "english text",
+            "score": 0.77458
+          },
+          {
+            "tag": "holding object",
+            "score": 0.77046
+          }
+        ]
+      }
+    },
+    {
+      "body": "👍",
+      "url": "mxc://matrix.yello.page/FeXrlPlpkkkZRKWrsvtnSdaG",
+      "info": {
+        "w": 256,
+        "h": 256,
+        "size": 107345,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.yello.page/FeXrlPlpkkkZRKWrsvtnSdaG",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 256,
+          "size": 107345,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "tg-5024248860210365474",
+      "net.maunium.telegram.sticker": {
+        "pack": {
+          "id": "4710092360652947479",
+          "short_name": "LeoSignslol"
+        },
+        "id": "5024248860210365474",
+        "emoticons": [
+          "👍"
+        ]
+      },
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "067ffb7f55e14654f5428dd17477660ed31491b6174baa354f9ec17ead52d7fa",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "sign",
+            "score": 0.99917
+          },
+          {
+            "tag": "holding sign",
+            "score": 0.99854
+          },
+          {
+            "tag": "felid",
+            "score": 0.99775
+          },
+          {
+            "tag": "horn",
+            "score": 0.99605
+          },
+          {
+            "tag": "meme",
+            "score": 0.99605
+          },
+          {
+            "tag": "feline",
+            "score": 0.99371
+          },
+          {
+            "tag": "mane",
+            "score": 0.99029
+          },
+          {
+            "tag": "humor",
+            "score": 0.98117
+          },
+          {
+            "tag": "domestic cat",
+            "score": 0.97667
+          },
+          {
+            "tag": "felis",
+            "score": 0.96641
+          },
+          {
+            "tag": "text",
+            "score": 0.96095
+          },
+          {
+            "tag": "mammal",
+            "score": 0.95532
+          },
+          {
+            "tag": "reaction image",
+            "score": 0.95257
+          },
+          {
+            "tag": "solo",
+            "score": 0.95186
+          },
+          {
+            "tag": "yellow body",
+            "score": 0.95186
+          },
+          {
+            "tag": "unicorn",
+            "score": 0.95186
+          },
+          {
+            "tag": "1:1",
+            "score": 0.95041
+          },
+          {
+            "tag": "mythological equine",
+            "score": 0.94738
+          },
+          {
+            "tag": "the elder scrolls",
+            "score": 0.94251
+          },
+          {
+            "tag": "looking up",
+            "score": 0.93535
+          },
+          {
+            "tag": "gesture",
+            "score": 0.9344
+          },
+          {
+            "tag": "yellow fur",
+            "score": 0.93343
+          },
+          {
+            "tag": "big eyes",
+            "score": 0.93146
+          },
+          {
+            "tag": "white background",
+            "score": 0.92414
+          },
+          {
+            "tag": "heart symbol",
+            "score": 0.9173
+          },
+          {
+            "tag": "lion",
+            "score": 0.90991
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.90053
+          },
+          {
+            "tag": "raised arms",
+            "score": 0.89912
+          },
+          {
+            "tag": "english text",
+            "score": 0.89479
+          },
+          {
+            "tag": "ambiguous gender",
+            "score": 0.89331
+          },
+          {
+            "tag": "fan character",
+            "score": 0.87408
+          },
+          {
+            "tag": "colored",
+            "score": 0.87235
+          },
+          {
+            "tag": "raised arm",
+            "score": 0.86971
+          },
+          {
+            "tag": "male",
+            "score": 0.86522
+          },
+          {
+            "tag": "cartoon network",
+            "score": 0.85872
+          },
+          {
+            "tag": "anthro",
+            "score": 0.84183
+          },
+          {
+            "tag": "digital drawing (artwork)",
+            "score": 0.84183
+          },
+          {
+            "tag": "suggestive",
+            "score": 0.83114
+          },
+          {
+            "tag": "white horn",
+            "score": 0.83004
+          },
+          {
+            "tag": "simple background",
+            "score": 0.82783
+          }
+        ]
+      }
+    }
+  ]
+}

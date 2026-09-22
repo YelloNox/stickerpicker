@@ -1,1 +1,1140 @@
-{"title": "emotes", "id": "emotes", "stickers": [{"body": "neko-0150", "url": "mxc://matrix.yello.page/eQQuLMdHAreSkvsQaIPvRGTh", "info": {"w": 176, "h": 256, "size": 551878, "mimetype": "image/png", "thumbnail_url": "mxc://matrix.yello.page/eQQuLMdHAreSkvsQaIPvRGTh", "thumbnail_info": {"w": 176, "h": 256, "size": 551878, "mimetype": "image/png"}}, "msgtype": "m.sticker", "id": "sha256:83bd471e4c91688f8550218ec41c45607618cc0b807d9ddcf1b86401c6ae1be0"}, {"body": "neko-0243", "url": "mxc://matrix.yello.page/YQFSNxwrOdcodAvVaIdeyLHI", "info": {"w": 152, "h": 256, "size": 430397, "mimetype": "image/png", "thumbnail_url": "mxc://matrix.yello.page/YQFSNxwrOdcodAvVaIdeyLHI", "thumbnail_info": {"w": 152, "h": 256, "size": 430397, "mimetype": "image/png"}}, "msgtype": "m.sticker", "id": "sha256:dae2932f7c005893490ed2dc4d63917da53d41af3c83a73755063ddb69b23a4d"}, {"body": "neko-0347", "url": "mxc://matrix.yello.page/MmitfAWtRAvHISTeHszgfGtV", "info": {"w": 90, "h": 256, "size": 842340, "mimetype": "image/png", "thumbnail_url": "mxc://matrix.yello.page/MmitfAWtRAvHISTeHszgfGtV", "thumbnail_info": {"w": 90, "h": 256, "size": 842340, "mimetype": "image/png"}}, "msgtype": "m.sticker", "id": "sha256:51c82f0b006f38064756cb5277ff7784df8f636bf95bb24e6ece46cc3ea063c3"}, {"body": "pat-0337", "url": "mxc://matrix.yello.page/gnGXmuHRdGbQVGjqugcBirbO", "info": {"w": 256, "h": 199, "size": 256216, "mimetype": "image/png", "thumbnail_url": "mxc://matrix.yello.page/gnGXmuHRdGbQVGjqugcBirbO", "thumbnail_info": {"w": 256, "h": 199, "size": 256216, "mimetype": "image/png"}}, "msgtype": "m.sticker", "id": "sha256:d0a7c3bef27d1bb1324f098e1e62c0a78b7ab6e6cd69df319303bbb6273a6262"}, {"body": "slap-0000", "url": "mxc://matrix.yello.page/zoGTjLBXQckBzDDisMbembvR", "info": {"w": 256, "h": 125, "size": 136900, "mimetype": "image/png", "thumbnail_url": "mxc://matrix.yello.page/zoGTjLBXQckBzDDisMbembvR", "thumbnail_info": {"w": 256, "h": 125, "size": 136900, "mimetype": "image/png"}}, "msgtype": "m.sticker", "id": "sha256:84aa45260499e855ae335ab0fa6060cdc3a94b67029d02d0e5caf2f545eacd2d"}, {"body": "slap-0011", "url": "mxc://matrix.yello.page/lcenKqMkgfWoudaJacLIocNs", "info": {"w": 256, "h": 143, "size": 131583, "mimetype": "image/png", "thumbnail_url": "mxc://matrix.yello.page/lcenKqMkgfWoudaJacLIocNs", "thumbnail_info": {"w": 256, "h": 143, "size": 131583, "mimetype": "image/png"}}, "msgtype": "m.sticker", "id": "sha256:d3b11c3bb9a9028e157cad622a2630ab52cc341536f8e1d20bf13d85f1abf661"}]}
+{
+  "title": "emotes",
+  "id": "emotes",
+  "stickers": [
+    {
+      "body": "neko-0150",
+      "url": "mxc://matrix.yello.page/eQQuLMdHAreSkvsQaIPvRGTh",
+      "info": {
+        "w": 176,
+        "h": 256,
+        "size": 551878,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.yello.page/eQQuLMdHAreSkvsQaIPvRGTh",
+        "thumbnail_info": {
+          "w": 176,
+          "h": 256,
+          "size": 551878,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "sha256:83bd471e4c91688f8550218ec41c45607618cc0b807d9ddcf1b86401c6ae1be0",
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "b6819da8346ee74a6ac89a0f8a89ca28135332264375be93638676cbf383ac33",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "1girl",
+            "score": 0.9972
+          },
+          {
+            "tag": "by lpip",
+            "score": 0.9958
+          },
+          {
+            "tag": "animal ears",
+            "score": 0.99218
+          },
+          {
+            "tag": "white dress",
+            "score": 0.99059
+          },
+          {
+            "tag": "turtleneck",
+            "score": 0.99059
+          },
+          {
+            "tag": "sweater",
+            "score": 0.98935
+          },
+          {
+            "tag": "cleavage cutout",
+            "score": 0.98901
+          },
+          {
+            "tag": "solo",
+            "score": 0.98757
+          },
+          {
+            "tag": "knees together feet apart",
+            "score": 0.98678
+          },
+          {
+            "tag": "long hair",
+            "score": 0.98504
+          },
+          {
+            "tag": "white sweater",
+            "score": 0.98409
+          },
+          {
+            "tag": "detached sleeves",
+            "score": 0.98088
+          },
+          {
+            "tag": "cat ears",
+            "score": 0.97404
+          },
+          {
+            "tag": "sitting",
+            "score": 0.97283
+          },
+          {
+            "tag": "brown eyes",
+            "score": 0.97024
+          },
+          {
+            "tag": "crossed legs",
+            "score": 0.96886
+          },
+          {
+            "tag": "short dress",
+            "score": 0.9679
+          },
+          {
+            "tag": "highres",
+            "score": 0.96211
+          },
+          {
+            "tag": "expressionless",
+            "score": 0.95915
+          },
+          {
+            "tag": "clothing cutout",
+            "score": 0.95791
+          },
+          {
+            "tag": "grey hair",
+            "score": 0.95728
+          },
+          {
+            "tag": "photoshop (medium)",
+            "score": 0.95663
+          },
+          {
+            "tag": "white footwear",
+            "score": 0.95465
+          },
+          {
+            "tag": "dress",
+            "score": 0.95114
+          },
+          {
+            "tag": "closed mouth",
+            "score": 0.94967
+          },
+          {
+            "tag": "sleeves past wrists",
+            "score": 0.94418
+          },
+          {
+            "tag": "sweater dress",
+            "score": 0.94165
+          },
+          {
+            "tag": "ribbed sweater",
+            "score": 0.94079
+          },
+          {
+            "tag": "medium breasts",
+            "score": 0.93629
+          },
+          {
+            "tag": "boots",
+            "score": 0.92736
+          },
+          {
+            "tag": "elbow gloves",
+            "score": 0.92414
+          },
+          {
+            "tag": "light particles",
+            "score": 0.92414
+          },
+          {
+            "tag": "window",
+            "score": 0.92079
+          },
+          {
+            "tag": "indoors",
+            "score": 0.91848
+          },
+          {
+            "tag": "bare shoulders",
+            "score": 0.91611
+          },
+          {
+            "tag": "kneehighs",
+            "score": 0.90991
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.90862
+          },
+          {
+            "tag": "legs",
+            "score": 0.90731
+          },
+          {
+            "tag": "hand up",
+            "score": 0.90329
+          },
+          {
+            "tag": "hair between eyes",
+            "score": 0.89912
+          }
+        ]
+      }
+    },
+    {
+      "body": "neko-0243",
+      "url": "mxc://matrix.yello.page/YQFSNxwrOdcodAvVaIdeyLHI",
+      "info": {
+        "w": 152,
+        "h": 256,
+        "size": 430397,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.yello.page/YQFSNxwrOdcodAvVaIdeyLHI",
+        "thumbnail_info": {
+          "w": 152,
+          "h": 256,
+          "size": 430397,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "sha256:dae2932f7c005893490ed2dc4d63917da53d41af3c83a73755063ddb69b23a4d",
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "3b415082575596ef2a71e0f933c6fcce2a874f807f70be667823c21774c886ef",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "cat tail",
+            "score": 0.99974
+          },
+          {
+            "tag": "cat ears",
+            "score": 0.99729
+          },
+          {
+            "tag": "denim",
+            "score": 0.99409
+          },
+          {
+            "tag": "blue shorts",
+            "score": 0.99371
+          },
+          {
+            "tag": "short shorts",
+            "score": 0.9931
+          },
+          {
+            "tag": "hands in pockets",
+            "score": 0.99242
+          },
+          {
+            "tag": "tail",
+            "score": 0.99115
+          },
+          {
+            "tag": "denim shorts",
+            "score": 0.99059
+          },
+          {
+            "tag": "shorts",
+            "score": 0.98967
+          },
+          {
+            "tag": "bad twitter id",
+            "score": 0.98935
+          },
+          {
+            "tag": "white background",
+            "score": 0.98901
+          },
+          {
+            "tag": "1girl",
+            "score": 0.98795
+          },
+          {
+            "tag": "animal ears",
+            "score": 0.98409
+          },
+          {
+            "tag": "from side",
+            "score": 0.98256
+          },
+          {
+            "tag": "hoodie",
+            "score": 0.97904
+          },
+          {
+            "tag": "highres",
+            "score": 0.9752
+          },
+          {
+            "tag": "expressionless",
+            "score": 0.97443
+          },
+          {
+            "tag": "hood",
+            "score": 0.97283
+          },
+          {
+            "tag": "cropped legs",
+            "score": 0.97199
+          },
+          {
+            "tag": "simple background",
+            "score": 0.96979
+          },
+          {
+            "tag": "brown eyes",
+            "score": 0.96932
+          },
+          {
+            "tag": "from behind",
+            "score": 0.96932
+          },
+          {
+            "tag": "hand in pocket",
+            "score": 0.96838
+          },
+          {
+            "tag": "cutoffs",
+            "score": 0.96741
+          },
+          {
+            "tag": "solo",
+            "score": 0.96036
+          },
+          {
+            "tag": "looking back",
+            "score": 0.96036
+          },
+          {
+            "tag": "mole",
+            "score": 0.96036
+          },
+          {
+            "tag": "mole under eye",
+            "score": 0.95598
+          },
+          {
+            "tag": "looking at viewer",
+            "score": 0.95532
+          },
+          {
+            "tag": "sleeves past wrists",
+            "score": 0.95397
+          },
+          {
+            "tag": "torn clothes",
+            "score": 0.95328
+          },
+          {
+            "tag": "cat girl",
+            "score": 0.95186
+          },
+          {
+            "tag": "hood down",
+            "score": 0.95186
+          },
+          {
+            "tag": "blonde hair",
+            "score": 0.94499
+          },
+          {
+            "tag": "official art",
+            "score": 0.9344
+          },
+          {
+            "tag": "brown hair",
+            "score": 0.93245
+          },
+          {
+            "tag": "jacket",
+            "score": 0.93046
+          },
+          {
+            "tag": "kemonomimi mode",
+            "score": 0.93046
+          },
+          {
+            "tag": "cowboy shot",
+            "score": 0.92841
+          },
+          {
+            "tag": "symbol-only commentary",
+            "score": 0.92736
+          }
+        ]
+      }
+    },
+    {
+      "body": "neko-0347",
+      "url": "mxc://matrix.yello.page/MmitfAWtRAvHISTeHszgfGtV",
+      "info": {
+        "w": 90,
+        "h": 256,
+        "size": 842340,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.yello.page/MmitfAWtRAvHISTeHszgfGtV",
+        "thumbnail_info": {
+          "w": 90,
+          "h": 256,
+          "size": 842340,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "sha256:51c82f0b006f38064756cb5277ff7784df8f636bf95bb24e6ece46cc3ea063c3",
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "19020f8b6ab22a87132eccffa2897b28e905025ac5a2b3b03dfd429ccc199993",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "highres",
+            "score": 0.99998
+          },
+          {
+            "tag": "purple dress",
+            "score": 0.99935
+          },
+          {
+            "tag": "blonde hair",
+            "score": 0.99867
+          },
+          {
+            "tag": "dress",
+            "score": 0.99768
+          },
+          {
+            "tag": "cat girl",
+            "score": 0.9958
+          },
+          {
+            "tag": "sleeveless dress",
+            "score": 0.99331
+          },
+          {
+            "tag": "light brown hair",
+            "score": 0.9931
+          },
+          {
+            "tag": "cat ears",
+            "score": 0.99168
+          },
+          {
+            "tag": "short dress",
+            "score": 0.98867
+          },
+          {
+            "tag": "1girl",
+            "score": 0.98594
+          },
+          {
+            "tag": "frills",
+            "score": 0.98594
+          },
+          {
+            "tag": "absurdres",
+            "score": 0.98309
+          },
+          {
+            "tag": "white dress",
+            "score": 0.97595
+          },
+          {
+            "tag": "cat tail",
+            "score": 0.97595
+          },
+          {
+            "tag": "frilled dress",
+            "score": 0.97443
+          },
+          {
+            "tag": "animal ears",
+            "score": 0.96378
+          },
+          {
+            "tag": "long sleeves",
+            "score": 0.96323
+          },
+          {
+            "tag": "medium breasts",
+            "score": 0.95663
+          },
+          {
+            "tag": "medium hair",
+            "score": 0.95328
+          },
+          {
+            "tag": "purple shirt",
+            "score": 0.95041
+          },
+          {
+            "tag": "spaghetti strap",
+            "score": 0.93812
+          },
+          {
+            "tag": "looking to the side",
+            "score": 0.93146
+          },
+          {
+            "tag": "white background",
+            "score": 0.92841
+          },
+          {
+            "tag": "bare legs",
+            "score": 0.92841
+          },
+          {
+            "tag": "fate/stay night",
+            "score": 0.92079
+          },
+          {
+            "tag": "kneeling",
+            "score": 0.91611
+          },
+          {
+            "tag": "pinafore dress",
+            "score": 0.91611
+          },
+          {
+            "tag": "nightgown",
+            "score": 0.91118
+          },
+          {
+            "tag": "fox girl",
+            "score": 0.90991
+          },
+          {
+            "tag": "breasts",
+            "score": 0.89912
+          },
+          {
+            "tag": "camisole",
+            "score": 0.89912
+          },
+          {
+            "tag": "yellow eyes",
+            "score": 0.89331
+          },
+          {
+            "tag": "fox ears",
+            "score": 0.89029
+          },
+          {
+            "tag": "cleavage",
+            "score": 0.87493
+          },
+          {
+            "tag": "pink shirt",
+            "score": 0.87408
+          },
+          {
+            "tag": "simple background",
+            "score": 0.87147
+          },
+          {
+            "tag": "looking away",
+            "score": 0.86613
+          },
+          {
+            "tag": "babydoll",
+            "score": 0.86613
+          },
+          {
+            "tag": "thighs",
+            "score": 0.86339
+          },
+          {
+            "tag": "frilled sleeves",
+            "score": 0.86247
+          }
+        ]
+      }
+    },
+    {
+      "body": "pat-0337",
+      "url": "mxc://matrix.yello.page/gnGXmuHRdGbQVGjqugcBirbO",
+      "info": {
+        "w": 256,
+        "h": 199,
+        "size": 256216,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.yello.page/gnGXmuHRdGbQVGjqugcBirbO",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 199,
+          "size": 256216,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "sha256:d0a7c3bef27d1bb1324f098e1e62c0a78b7ab6e6cd69df319303bbb6273a6262",
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "c53f33243e7bd9744d105b7189ba8f0acfea7dec6612e69057a2d8139084943d",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "multiple girls",
+            "score": 0.99953
+          },
+          {
+            "tag": "high ponytail",
+            "score": 0.99909
+          },
+          {
+            "tag": "ponytail",
+            "score": 0.99788
+          },
+          {
+            "tag": "hand on another's head",
+            "score": 0.99729
+          },
+          {
+            "tag": "official art",
+            "score": 0.99641
+          },
+          {
+            "tag": "2girls",
+            "score": 0.99494
+          },
+          {
+            "tag": "black eyes",
+            "score": 0.99194
+          },
+          {
+            "tag": "glasses",
+            "score": 0.98901
+          },
+          {
+            "tag": "frown",
+            "score": 0.98678
+          },
+          {
+            "tag": "artist request",
+            "score": 0.9855
+          },
+          {
+            "tag": "indoors",
+            "score": 0.9836
+          },
+          {
+            "tag": "window",
+            "score": 0.98174
+          },
+          {
+            "tag": "3girls",
+            "score": 0.98058
+          },
+          {
+            "tag": "jitome",
+            "score": 0.97404
+          },
+          {
+            "tag": "night",
+            "score": 0.96979
+          },
+          {
+            "tag": "blonde hair",
+            "score": 0.95915
+          },
+          {
+            "tag": "third-party source",
+            "score": 0.95791
+          },
+          {
+            "tag": "couch",
+            "score": 0.95598
+          },
+          {
+            "tag": "expressionless",
+            "score": 0.95257
+          },
+          {
+            "tag": "solo focus",
+            "score": 0.95186
+          },
+          {
+            "tag": "sidelocks",
+            "score": 0.94738
+          },
+          {
+            "tag": "side ponytail",
+            "score": 0.94418
+          },
+          {
+            "tag": "mother and daughter",
+            "score": 0.94165
+          },
+          {
+            "tag": "parody",
+            "score": 0.93629
+          },
+          {
+            "tag": "hair up",
+            "score": 0.93629
+          },
+          {
+            "tag": "style parody",
+            "score": 0.9344
+          },
+          {
+            "tag": "headpat",
+            "score": 0.93146
+          },
+          {
+            "tag": "watermark",
+            "score": 0.92736
+          },
+          {
+            "tag": "game cg",
+            "score": 0.9263
+          },
+          {
+            "tag": "siblings",
+            "score": 0.92414
+          },
+          {
+            "tag": "non-web source",
+            "score": 0.92414
+          },
+          {
+            "tag": "closed mouth",
+            "score": 0.92304
+          },
+          {
+            "tag": "drill hair",
+            "score": 0.91848
+          },
+          {
+            "tag": "v-shaped eyebrows",
+            "score": 0.9173
+          },
+          {
+            "tag": "shaded face",
+            "score": 0.9173
+          },
+          {
+            "tag": "night sky",
+            "score": 0.9149
+          },
+          {
+            "tag": "source request",
+            "score": 0.91244
+          },
+          {
+            "tag": "purple hair",
+            "score": 0.90731
+          },
+          {
+            "tag": "pout",
+            "score": 0.90599
+          },
+          {
+            "tag": "blunt bangs",
+            "score": 0.90465
+          }
+        ]
+      }
+    },
+    {
+      "body": "slap-0000",
+      "url": "mxc://matrix.yello.page/zoGTjLBXQckBzDDisMbembvR",
+      "info": {
+        "w": 256,
+        "h": 125,
+        "size": 136900,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.yello.page/zoGTjLBXQckBzDDisMbembvR",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 125,
+          "size": 136900,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "sha256:84aa45260499e855ae335ab0fa6060cdc3a94b67029d02d0e5caf2f545eacd2d",
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "72c60fec131d334a134e56cc39bf9e169fba29dc5a5bf541847110c90bc86aa7",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "butterfly",
+            "score": 0.99876
+          },
+          {
+            "tag": "bug",
+            "score": 0.9976
+          },
+          {
+            "tag": "horse ears",
+            "score": 0.99629
+          },
+          {
+            "tag": "butterfly hair ornament",
+            "score": 0.99445
+          },
+          {
+            "tag": "widescreen",
+            "score": 0.99409
+          },
+          {
+            "tag": "black ribbon",
+            "score": 0.9939
+          },
+          {
+            "tag": "blonde hair",
+            "score": 0.99371
+          },
+          {
+            "tag": "profile",
+            "score": 0.9931
+          },
+          {
+            "tag": "black bow",
+            "score": 0.99142
+          },
+          {
+            "tag": "from side",
+            "score": 0.98867
+          },
+          {
+            "tag": "game cg",
+            "score": 0.98256
+          },
+          {
+            "tag": "surprised",
+            "score": 0.97998
+          },
+          {
+            "tag": "derivative work",
+            "score": 0.97838
+          },
+          {
+            "tag": "black necktie",
+            "score": 0.97595
+          },
+          {
+            "tag": "dress shirt",
+            "score": 0.97283
+          },
+          {
+            "tag": "black bowtie",
+            "score": 0.97283
+          },
+          {
+            "tag": "scene reference",
+            "score": 0.96932
+          },
+          {
+            "tag": "horse girl",
+            "score": 0.96838
+          },
+          {
+            "tag": "animal",
+            "score": 0.96641
+          },
+          {
+            "tag": "parody",
+            "score": 0.96486
+          },
+          {
+            "tag": "crossover",
+            "score": 0.96267
+          },
+          {
+            "tag": "collared shirt",
+            "score": 0.95328
+          },
+          {
+            "tag": "1girl",
+            "score": 0.94738
+          },
+          {
+            "tag": "blue eyes",
+            "score": 0.9466
+          },
+          {
+            "tag": "wide-eyed",
+            "score": 0.94165
+          },
+          {
+            "tag": "against wall",
+            "score": 0.94079
+          },
+          {
+            "tag": "non-web source",
+            "score": 0.93812
+          },
+          {
+            "tag": "official art",
+            "score": 0.93629
+          },
+          {
+            "tag": "anime screenshot",
+            "score": 0.93629
+          },
+          {
+            "tag": "eye contact",
+            "score": 0.9344
+          },
+          {
+            "tag": "bowtie",
+            "score": 0.93343
+          },
+          {
+            "tag": "white shirt",
+            "score": 0.92944
+          },
+          {
+            "tag": "necktie",
+            "score": 0.92841
+          },
+          {
+            "tag": "looking at another",
+            "score": 0.9263
+          },
+          {
+            "tag": "horse",
+            "score": 0.9263
+          },
+          {
+            "tag": "long hair",
+            "score": 0.92414
+          },
+          {
+            "tag": "umamusume",
+            "score": 0.91848
+          },
+          {
+            "tag": "animal print",
+            "score": 0.9173
+          },
+          {
+            "tag": "boku wa tomodachi ga sukunai",
+            "score": 0.90599
+          },
+          {
+            "tag": "artist request",
+            "score": 0.89912
+          }
+        ]
+      }
+    },
+    {
+      "body": "slap-0011",
+      "url": "mxc://matrix.yello.page/lcenKqMkgfWoudaJacLIocNs",
+      "info": {
+        "w": 256,
+        "h": 143,
+        "size": 131583,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.yello.page/lcenKqMkgfWoudaJacLIocNs",
+        "thumbnail_info": {
+          "w": 256,
+          "h": 143,
+          "size": 131583,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "sha256:d3b11c3bb9a9028e157cad622a2630ab52cc341536f8e1d20bf13d85f1abf661",
+      "auto_tags": {
+        "model": "lodestones/taggerine",
+        "revision": "ba76a13a17a9d1844298a68c142c5aae6191505d",
+        "image_sha256": "cb4172dd8bfbc201f42beed913117c488a2cb80958c1e62a96dfe1e9abb75028",
+        "threshold": 0.35,
+        "max_tags": 40,
+        "preprocessing": "white-background-512-v1",
+        "tags": [
+          {
+            "tag": "emphasis lines",
+            "score": 0.99894
+          },
+          {
+            "tag": "ahoge",
+            "score": 0.99813
+          },
+          {
+            "tag": "game cg",
+            "score": 0.99737
+          },
+          {
+            "tag": "motion blur",
+            "score": 0.99629
+          },
+          {
+            "tag": "scrunchie",
+            "score": 0.9958
+          },
+          {
+            "tag": "school uniform",
+            "score": 0.9939
+          },
+          {
+            "tag": "tsukihime",
+            "score": 0.99242
+          },
+          {
+            "tag": "blood",
+            "score": 0.99168
+          },
+          {
+            "tag": "black jacket",
+            "score": 0.99029
+          },
+          {
+            "tag": "running",
+            "score": 0.98678
+          },
+          {
+            "tag": "necktie",
+            "score": 0.98594
+          },
+          {
+            "tag": "black dress",
+            "score": 0.98409
+          },
+          {
+            "tag": "speed lines",
+            "score": 0.98409
+          },
+          {
+            "tag": "suit",
+            "score": 0.98309
+          },
+          {
+            "tag": "surprised",
+            "score": 0.98256
+          },
+          {
+            "tag": "hair scrunchie",
+            "score": 0.98256
+          },
+          {
+            "tag": "slapping",
+            "score": 0.98174
+          },
+          {
+            "tag": "juliet sleeves",
+            "score": 0.97702
+          },
+          {
+            "tag": "1boy",
+            "score": 0.97667
+          },
+          {
+            "tag": "parody",
+            "score": 0.97595
+          },
+          {
+            "tag": "1girl",
+            "score": 0.97364
+          },
+          {
+            "tag": "black coat",
+            "score": 0.96979
+          },
+          {
+            "tag": "long sleeves",
+            "score": 0.96886
+          },
+          {
+            "tag": "foreshortening",
+            "score": 0.96838
+          },
+          {
+            "tag": "pink hair",
+            "score": 0.9679
+          },
+          {
+            "tag": "antenna hair",
+            "score": 0.96486
+          },
+          {
+            "tag": "red hair",
+            "score": 0.96323
+          },
+          {
+            "tag": "wide-eyed",
+            "score": 0.96323
+          },
+          {
+            "tag": "screaming",
+            "score": 0.95915
+          },
+          {
+            "tag": "glowing",
+            "score": 0.95598
+          },
+          {
+            "tag": "outstretched arm",
+            "score": 0.95598
+          },
+          {
+            "tag": "meme",
+            "score": 0.95186
+          },
+          {
+            "tag": "clenched hand",
+            "score": 0.95186
+          },
+          {
+            "tag": "shaded face",
+            "score": 0.95186
+          },
+          {
+            "tag": "angry",
+            "score": 0.94815
+          },
+          {
+            "tag": "v-shaped eyebrows",
+            "score": 0.9458
+          },
+          {
+            "tag": "twintails",
+            "score": 0.94499
+          },
+          {
+            "tag": "black shirt",
+            "score": 0.94335
+          },
+          {
+            "tag": "double bun",
+            "score": 0.94079
+          },
+          {
+            "tag": "yellow ribbon",
+            "score": 0.93902
+          }
+        ]
+      }
+    }
+  ]
+}
