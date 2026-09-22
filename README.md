@@ -1,3 +1,19 @@
+# No longer maintained
+[MSC2545](https://github.com/matrix-org/matrix-spec-proposals/pull/2545) has
+been accepted into the Matrix spec and most clients already implemented it long
+ago.
+
+Importing packs from Telegram is built into the Telegram bridge now, just use
+the command, e.g. `!tg import-image-pack https://t.me/addstickers/pusheen02`
+(Signal, WhatsApp and Slack also support importing packs). The giphy/klipy proxy
+will be maintained as a separate project for gomuks at <https://github.com/gomuks/gifproxy>.
+
+The wiki also has a command to convert existing packs to the MSC2545 format:
+<https://github.com/maunium/stickerpicker/wiki/Creating-packs#converting-packs-to-msc2545-format>.
+
+This project still works fine for users who are stuck on Element, but it's
+better to use clients that support native Matrix sticker packs.
+
 # Maunium sticker picker
 A fast and simple Matrix sticker picker widget. Tested on Element Web, Android & iOS.
 
