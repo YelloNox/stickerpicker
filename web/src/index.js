@@ -102,7 +102,7 @@ class App extends Component {
 	}
 
 	searchStickers(e) {
-		const sanitizeString = s => s.toLowerCase().trim()
+		const sanitizeString = s => String(s ?? "").toLowerCase().trim()
 		const searchTerm = sanitizeString(e.target.value)
 
 		const allPacks = [this.state.frequentlyUsed, ...this.state.packs]
