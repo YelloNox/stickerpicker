@@ -17,6 +17,11 @@
 *
   font-family: sans-serif
 
+html, body
+  height: 100%
+  overflow: hidden
+  overscroll-behavior: none
+
 body
   margin: 0
 
@@ -57,7 +62,8 @@ main
     right: 0
     bottom: 0
     display: grid
-    grid-template-rows: $nav-height min-content auto
+    grid-template-rows: $nav-height min-content minmax(0, 1fr)
+    overflow: hidden
 
 main.theme-light
   --highlight-color: #eee
@@ -113,6 +119,9 @@ div.powered-by-giphy
 nav
   display: flex
   overflow-x: auto
+  overflow-y: hidden
+  overscroll-behavior: none
+  min-height: 0
 
   > a
     border-bottom: $nav-bottom-highlight solid transparent
@@ -132,6 +141,9 @@ div.pack-list, nav
 
 div.pack-list
   overflow-y: auto
+  overflow-x: hidden
+  overscroll-behavior: none
+  min-height: 0
 
 div.pack-list.ios-safari-hack
   position: fixed

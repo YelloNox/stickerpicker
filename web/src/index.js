@@ -271,7 +271,10 @@ class App extends Component {
 	}
 
 	navScroll(evt) {
-		this.navRef.scrollLeft += evt.deltaY
+		if (evt.ctrlKey) return
+		evt.preventDefault()
+		const unit = evt.deltaMode === 1 ? 16 : evt.deltaMode === 2 ? this.navRef.clientWidth : 1
+		this.navRef.scrollLeft += (evt.deltaX || evt.deltaY) * unit
 	}
 
 	render() {
