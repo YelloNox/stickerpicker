@@ -12,3 +12,13 @@ web/lib/import-map.json
 *.session
 /*.json
 *.bak
+
+# Local automatic tagging environment and model artifacts
+/.venv-tagger/
+/.cache/
+/models/
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.onnx

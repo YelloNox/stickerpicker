@@ -1,0 +1,5 @@
+# PyTorch/torchvision are installed separately for the selected GPU backend.
+huggingface-hub>=0.27,<2
+safetensors>=0.5,<1
+Pillow>=10,<13
+requests>=2.32,<3

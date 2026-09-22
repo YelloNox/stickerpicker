@@ -16,6 +16,7 @@
 import {html, render, Component} from "../lib/htm/preact.js"
 import {Spinner} from "./spinner.js"
 import {SearchBox} from "./search-box.js"
+import {stickerMatches} from "./search.js"
 import {giphyIsEnabled, GiphySearchTab, setGiphyAPIKey} from "./giphy.js"
 import * as widgetAPI from "./widget-api.js"
 import * as frequent from "./frequently-used.js"
@@ -102,15 +103,13 @@ class App extends Component {
 	}
 
 	searchStickers(e) {
-		const sanitizeString = s => String(s ?? "").toLowerCase().trim()
-		const searchTerm = sanitizeString(e.target.value)
+		const searchTerm = e.target.value
 
 		const allPacks = [this.state.frequentlyUsed, ...this.state.packs]
 		const packsWithFilteredStickers = allPacks.map(pack => ({
 			...pack,
 			stickers: pack.stickers.filter(sticker =>
-				sanitizeString(sticker.body).includes(searchTerm) ||
-				sanitizeString(sticker.id).includes(searchTerm)
+				stickerMatches(sticker, pack, searchTerm)
 			),
 		}))
 
@@ -272,7 +271,7 @@ class App extends Component {
 
 	render() {
 		const theme = `theme-${this.state.theme}`
-		const filterActive = !!this.state.filtering.searchTerm
+		const filterActive = !!this.state.filtering.searchTerm.trim()
 		const packs = filterActive
 			? this.state.filtering.packs
 			: [this.state.frequentlyUsed, ...this.state.packs]
