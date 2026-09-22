@@ -20,20 +20,52 @@ import os.path
 import json
 import re
 
+from PIL import UnidentifiedImageError
+
 from telethon import TelegramClient
 from telethon.tl.functions.messages import GetAllStickersRequest, GetStickerSetRequest
 from telethon.tl.types.messages import AllStickers
-from telethon.tl.types import InputStickerSetShortName, Document, DocumentAttributeSticker
+from telethon.tl.types import (InputStickerSetShortName, Document, DocumentAttributeSticker,
+                               PhotoSize, PhotoCachedSize, PhotoStrippedSize, PhotoSizeProgressive)
 from telethon.tl.types.messages import StickerSet as StickerSetFull
 
 from .lib import matrix, util
 
 
+async def download_image(client: TelegramClient, document: Document) -> Tuple[bytes, int, int]:
+    data = await client.download_media(document, file=bytes)
+    if data:
+        try:
+            return util.convert_image(data)
+        except UnidentifiedImageError:
+            pass
+
+    # Animated/video stickers cannot be decoded by Pillow. Use a Telegram
+    # still preview. Telethon filters SVG outlines and reorders thumbnails,
+    # so select by type rather than an index into the original list.
+    previews = [thumb for thumb in (document.thumbs or [])
+                if isinstance(thumb, (PhotoSize, PhotoCachedSize,
+                                      PhotoStrippedSize, PhotoSizeProgressive))]
+    previews.sort(key=lambda thumb: getattr(thumb, "w", 0) * getattr(thumb, "h", 0),
+                  reverse=True)
+    for thumb in previews:
+        preview = await client.download_media(document, file=bytes, thumb=thumb.type)
+        if not preview:
+            continue
+        try:
+            result = util.convert_image(preview)
+        except UnidentifiedImageError:
+            continue
+        print(f" Using still preview for {document.id} ({document.mime_type}).")
+        return result
+    raise UnidentifiedImageError(
+        f"Sticker {document.id} ({document.mime_type}) has no decodable image or still preview"
+    )
+
+
 async def reupload_document(client: TelegramClient, document: Document) -> Tuple[matrix.StickerInfo, bytes]:
     print(f"Reuploading {document.id}", end="", flush=True)
-    data = await client.download_media(document, file=bytes)
-    print(".", end="", flush=True)
-    data, width, height = util.convert_image(data)
+    data, width, height = await download_image(client, document)
     print(".", end="", flush=True)
     mxc = await matrix.upload(data, "image/png", f"{document.id}.png")
     print(".", flush=True)
@@ -77,21 +109,36 @@ async def reupload_pack(client: TelegramClient, pack: StickerSetFull, output_dir
 
     stickers_data: Dict[str, bytes] = {}
     reuploaded_documents: Dict[int, matrix.StickerInfo] = {}
+    skipped = 0
     for document in pack.documents:
-        try:
-            reuploaded_documents[document.id] = already_uploaded[document.id]
+        if document.id in already_uploaded:
+            info = already_uploaded[document.id]
             print(f"Skipped reuploading {document.id}")
-        except KeyError:
-            reuploaded_documents[document.id], data = await reupload_document(client, document)
+        else:
+            try:
+                info, data = await reupload_document(client, document)
+            except UnidentifiedImageError as error:
+                print(f"\nSkipping: {error}")
+                skipped += 1
+                continue
+            stickers_data[info["url"]] = data
+        reuploaded_documents[document.id] = info
         # Always ensure the body and telegram metadata is correct
-        add_meta(document, reuploaded_documents[document.id], pack)
-        stickers_data[reuploaded_documents[document.id]["url"]] = data
+        add_meta(document, info, pack)
+
+    if not reuploaded_documents:
+        print("No readable stickers found; no pack was written.")
+        return
+    if skipped:
+        print(f"Skipped {skipped} unreadable sticker(s).")
 
     for sticker in pack.packs:
         if not sticker.emoticon:
             continue
         for document_id in sticker.documents:
-            doc = reuploaded_documents[document_id]
+            doc = reuploaded_documents.get(document_id)
+            if doc is None:
+                continue
             # If there was no sticker metadata, use the first emoji we find
             if doc["body"] == "":
                 doc["body"] = sticker.emoticon
@@ -109,7 +156,8 @@ async def reupload_pack(client: TelegramClient, pack: StickerSetFull, output_dir
         }, pack_file, ensure_ascii=False)
     print(f"Saved {pack.set.title} as {pack.set.short_name}.json")
 
-    util.add_thumbnails(list(reuploaded_documents.values()), stickers_data, output_dir)
+    util.add_thumbnails([info for info in reuploaded_documents.values()
+                         if info["url"] in stickers_data], stickers_data, output_dir)
     util.add_to_index(os.path.basename(pack_path), output_dir)
 
 
