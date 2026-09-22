@@ -1,30 +1,28 @@
 {
   "packs": [
     "Hedgehogs_Stickers.json",
+    "capibarrra.json",
+    "CvpyBvrv.json",
+    "OttersGottaOtt2.json",
+    "uniposting.json",
     "mykiro.json",
     "SurplusOStickers.json",
+    "Leo2_0_by_fStikBot.json",
+    "sp519a082666b43af388b3a1e8ac65925b_by_stckrRobot.json",
+    "Twist39902NaL.json",
     "Hushpuppack.json",
     "Pguliptpvrbeng.json",
-    "OttersGottaOtt2.json",
     "verystupidsillycats.json",
     "kefir_vk.json",
     "Blahaj.json",
-    "capibarrra.json",
     "furry002_by_fStikBot.json",
     "FurriFemboi.json",
-    "EbonyLygon.json",
-    "emotes.json",
     "LeoSignslol.json",
-    "cute_strawberrycat.json",
     "iaminyourwalls.json",
-    "Twist39902NaL.json",
-    "uniposting.json",
-    "Leo2_0_by_fStikBot.json",
-    "sp519a082666b43af388b3a1e8ac65925b_by_stckrRobot.json",
     "Protogenerator_by_fStikBot.json",
     "FavoriteBoykisser_by_fStikBot.json",
     "furrymurry.json",
-    "CvpyBvrv.json"
+    "emotes.json"
   ],
   "homeserver_url": "https://matrix.yello.page"
 }
