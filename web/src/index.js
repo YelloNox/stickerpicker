@@ -17,6 +17,7 @@ import {html, render, Component} from "../lib/htm/preact.js"
 import {Spinner} from "./spinner.js"
 import {SearchBox} from "./search-box.js"
 import {stickerMatches} from "./search.js"
+import {fetchJSON} from "./pack-loader.js"
 import {giphyIsEnabled, GiphySearchTab, setGiphyAPIKey} from "./giphy.js"
 import * as widgetAPI from "./widget-api.js"
 import * as frequent from "./frequently-used.js"
@@ -151,39 +152,41 @@ class App extends Component {
 		this._loadPacks(true)
 	}
 
-	_loadPacks(disableCache = false) {
+	async _loadPacks(disableCache = false) {
 		const cache = disableCache ? "no-cache" : undefined
-		fetch(INDEX, {cache}).then(async indexRes => {
-			if (indexRes.status >= 400) {
-				this.setState({
-					loading: false,
-					error: indexRes.status !== 404 ? indexRes.statusText : null,
-				})
-				return
+		this.setState({loading: true, error: null})
+		try {
+			const indexData = await fetchJSON(INDEX, cache)
+			if (!Array.isArray(indexData?.packs)) {
+				throw new Error(`Invalid pack index: ${INDEX}`)
 			}
-			const indexData = await indexRes.json()
 			if (indexData.giphy_api_key !== undefined) {
 				setGiphyAPIKey(indexData.giphy_api_key, indexData.giphy_mxc_prefix)
 			}
-			// TODO only load pack metadata when scrolled into view?
 			for (const packFile of indexData.packs) {
-				let packRes
-				if (packFile.startsWith("https://") || packFile.startsWith("http://")) {
-					packRes = await fetch(packFile, {cache})
-				} else {
-					packRes = await fetch(`${PACKS_BASE_URL}/${packFile}`, {cache})
+				if (typeof packFile !== "string") {
+					throw new Error(`Invalid pack filename in ${INDEX}`)
 				}
-				const packData = await packRes.json()
+				const url = /^https?:\/\//.test(packFile) ? packFile : `${PACKS_BASE_URL}/${packFile}`
+				const packData = await fetchJSON(url, cache)
+				if (!Array.isArray(packData?.stickers) || packData.stickers.some(sticker =>
+					!sticker || typeof sticker.url !== "string")) {
+					throw new Error(`Invalid sticker pack: ${url}`)
+				}
+				// An empty pack has no thumbnail for the navigation bar.
+				if (packData.stickers.length === 0) continue
 				for (const sticker of packData.stickers) {
 					this.stickersByID.set(sticker.id, sticker)
 				}
-				this.setState({
-					packs: [...this.state.packs, packData],
-					loading: false,
-				})
+				this.setState(previous => ({packs: [...previous.packs, packData], loading: false}))
 			}
 			this.updateFrequentlyUsed()
-		}, error => this.setState({loading: false, error}))
+		} catch (error) {
+			console.error("Sticker pack loading failed", error)
+			this.setState({error: error.message || String(error)})
+		} finally {
+			this.setState({loading: false})
+		}
 	}
 
 	componentDidMount() {
@@ -287,6 +290,7 @@ class App extends Component {
 				<main class="error ${theme}">
 					<h1>Failed to load packs</h1>
 					<p>${this.state.error}</p>
+					<button onClick=${this.reloadPacks}>Retry loading</button>
 				</main>
 			`
 		} else if (this.state.packs.length === 0) {
