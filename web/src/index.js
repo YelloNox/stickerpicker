@@ -212,8 +212,9 @@ class App extends Component {
 	}
 
 	observeSectionIntersections(intersections) {
-		const navWidth = this.navRef.getBoundingClientRect().width
-		let minX = 0, maxX = navWidth
+		if (!this.navRef) return
+		const navBounds = this.navRef.getBoundingClientRect()
+		let minX = navBounds.left, maxX = navBounds.right
 		let minXElem = null
 		let maxXElem = null
 		for (const entry of intersections) {
@@ -222,6 +223,7 @@ class App extends Component {
 				continue
 			}
 			const navElement = document.getElementById(`nav-${packID}`)
+			if (!navElement) continue
 			if (entry.isIntersecting) {
 				navElement.classList.add("visible")
 				const bb = navElement.getBoundingClientRect()
@@ -237,9 +239,9 @@ class App extends Component {
 			}
 		}
 		if (minXElem !== null) {
-			minXElem.scrollIntoView({inline: "start"})
+			this.navRef.scrollLeft += minX - navBounds.left
 		} else if (maxXElem !== null) {
-			maxXElem.scrollIntoView({inline: "end"})
+			this.navRef.scrollLeft += maxX - navBounds.right
 		}
 	}
 
@@ -359,19 +361,19 @@ const Settings = ({app}) => html`
 	</section>
 `
 
-// By default we just let the browser handle scrolling to sections, but webviews on Element iOS
-// open the link in the browser instead of just scrolling there, so we need to scroll manually:
+// Scroll only the sticker list: scrolling ancestors can move the embedding Element UI.
 const scrollToSection = (evt, id) => {
 	const pack = document.getElementById(`pack-${id}`)
-	if (pack) {
-		pack.scrollIntoView({block: "start", behavior: "instant"})
+	const list = pack?.closest(".pack-list")
+	if (list) {
+		list.scrollTop += pack.getBoundingClientRect().top - list.getBoundingClientRect().top - list.clientTop
 	}
 	evt?.preventDefault()
 }
 
 const NavBarItem = ({pack, iconOverride = null, onClickOverride = null, extraClass = null}) => html`
 	<a href="#pack-${pack.id}" id="nav-${pack.id}" data-pack-id=${pack.id} title=${pack.title} class="${extraClass}"
-	   onClick=${onClickOverride ? (evt => onClickOverride(evt, pack.id)) : (isMobileSafari ? (evt => scrollToSection(evt, pack.id)) : undefined)}>
+	   onClick=${onClickOverride ? (evt => onClickOverride(evt, pack.id)) : (evt => scrollToSection(evt, pack.id))}>
 		<div class="sticker">
 			${iconOverride ? html`
 				<span class="icon icon-${iconOverride}"/>
